@@ -1,3 +1,4 @@
+央视直播,#genre#
 CCTV-1蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#
 CCTV-2蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 CCTV-3蓝光,http://101.71.255.229:6610/zjhs/2/10069/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://221.230.141.252/live-cnc-cdn.ysp.cctv.cn/001/2000203803.m3u8
@@ -14,6 +15,7 @@ CCTV-13蓝光,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/200020460
 CCTV-14蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
 CCTV-15蓝光,http://111.13.111.167/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225818/1.m3u8
 CCTV17-蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226990/1.m3u8
+卫视直播,#genre#
 北京卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 湖南卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
 浙江卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
