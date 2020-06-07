@@ -113,27 +113,27 @@ http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b0
 http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&t=1577153817
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江地方台",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
-#EXTINF:-1 group-title="港澳台",华视HD
+#EXTINF:-1 group-title="港澳台",华视
 rtmp://xiaoyu.speedws.com/sat/tv111
-#EXTINF:-1 group-title="港澳台",中视HD
+#EXTINF:-1 group-title="港澳台",中视
 rtmp://xiaoyu.speedws.com/sat/tv091
-#EXTINF:-1 group-title="港澳台",台视HD
+#EXTINF:-1 group-title="港澳台",台视
 rtmp://xiaoyu.speedws.com/sat/tv071
-#EXTINF:-1 group-title="港澳台",民视HD
+#EXTINF:-1 group-title="港澳台",民视
 rtmp://xiaoyu.speedws.com/sat/tv051
-#EXTINF:-1 group-title="港澳台",纬来日本HD
+#EXTINF:-1 group-title="港澳台",纬来日本
 rtmp://xiaoyu.speedws.com/sat/tv771
-#EXTINF:-1 group-title="港澳台",纬来体育HD
+#EXTINF:-1 group-title="港澳台",纬来体育
 rtmp://xiaoyu.speedws.com/sat/tv721
-#EXTINF:-1 group-title="港澳台",纬来娱乐HD
+#EXTINF:-1 group-title="港澳台",纬来娱乐
 rtmp://xiaoyu.speedws.com/sat/tv701
-#EXTINF:-1 group-title="港澳台",TVBS欢乐HD
+#EXTINF:-1 group-title="港澳台",TVBS欢乐
 rtmp://xiaoyu.speedws.com/sat/tv421
-#EXTINF:-1 group-title="港澳台",中天新闻HD
+#EXTINF:-1 group-title="港澳台",中天新闻
 rtmp://xiaoyu.speedws.com/sat/tv521
-#EXTINF:-1 group-title="港澳台",TVBS新闻HD
+#EXTINF:-1 group-title="港澳台",TVBS新闻
 rtmp://xiaoyu.speedws.com/sat/tv551
-#EXTINF:-1 group-title="港澳台",东森财经新闻HD
+#EXTINF:-1 group-title="港澳台",东森财经新闻
 rtmp://xiaoyu.speedws.com/sat/tv571
 #EXTINF:-1 group-title="港澳台",WIN综合台
 rtmp://xiaoyu.speedws.com/sat/tv761
