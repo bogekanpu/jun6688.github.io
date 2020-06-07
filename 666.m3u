@@ -97,22 +97,6 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视高清
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",超高清4K
-http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",CCTV超清高4K
-http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",纯享4K频道
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",百事4K频道
-http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
-http://125.210.152.18:9090/live/CHCGQDY.m3u8
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
-http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
-http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江地方台",浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江地方台",浙江经视生活
@@ -129,6 +113,46 @@ http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b0
 http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&t=1577153817
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江地方台",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
+#EXTINF:-1 group-title="港澳台",华视HD
+rtmp://xiaoyu.speedws.com/sat/tv111
+#EXTINF:-1 group-title="港澳台",中视HD
+rtmp://xiaoyu.speedws.com/sat/tv091
+#EXTINF:-1 group-title="港澳台",台视HD
+rtmp://xiaoyu.speedws.com/sat/tv071
+#EXTINF:-1 group-title="港澳台",民视HD
+rtmp://xiaoyu.speedws.com/sat/tv051
+#EXTINF:-1 group-title="港澳台",纬来日本HD
+rtmp://xiaoyu.speedws.com/sat/tv771
+#EXTINF:-1 group-title="港澳台",纬来体育HD
+rtmp://xiaoyu.speedws.com/sat/tv721
+#EXTINF:-1 group-title="港澳台",纬来娱乐HD
+rtmp://xiaoyu.speedws.com/sat/tv701
+#EXTINF:-1 group-title="港澳台",TVBS欢乐HD
+rtmp://xiaoyu.speedws.com/sat/tv421
+#EXTINF:-1 group-title="港澳台",中天新闻HD
+rtmp://xiaoyu.speedws.com/sat/tv521
+#EXTINF:-1 group-title="港澳台",TVBS新闻HD
+rtmp://xiaoyu.speedws.com/sat/tv551
+#EXTINF:-1 group-title="港澳台",东森财经新闻HD
+rtmp://xiaoyu.speedws.com/sat/tv571
+#EXTINF:-1 group-title="港澳台",WIN综合台
+rtmp://xiaoyu.speedws.com/sat/tv761
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影",CHC高清电影
+http://125.210.152.18:9090/live/CHCGQDY.m3u8
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影",CHC家庭影院
+http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影",CHC动作电影
+http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",超高清4K
+http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",CCTV超清高4K
+http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",纯享4K频道
+http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k",百事4K频道
+http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",周星驰
 http://www.diyp.top/agent/huyazb.php?id=11342412
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",林正英
@@ -565,191 +589,4 @@ http://tx2play1.douyucdn.cn/live/8560417rL75rTB9u.flv?uuid=
 http://tx2play1.douyucdn.cn/live/8587116rHH6DjAzT.flv?uuid=
 #EXTINF:-1 group-title="斗鱼电影",时光荏苒岁月如梭298
 http://tx2play1.douyucdn.cn/live/8553690r0cL4o2Ft.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",嘬恏簡簡單單
-http://tx2play1.douyucdn.cn/live/8806969rqzeEj05F.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",萌新凤
-http://tx2play1.douyucdn.cn/live/8823736rLO8drcgQ.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",是你的小可爱呀1002
-http://tx2play1.douyucdn.cn/live/8734556rxGSTBe3d.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",56电影
-http://tx2play1.douyucdn.cn/live/8653554rw25pRREz.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",桔梗酱AmyQ
-http://tx2play1.douyucdn.cn/live/8603174r3GtFXGfn.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",小V蟹V子
-http://tx2play1.douyucdn.cn/live/8662849r3pD1pnZC.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",爱数学也爱炉石的小伙
-http://tx2play1.douyucdn.cn/live/8652792rBhyYhB7U.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",神奇的angel
-http://tx2play1.douyucdn.cn/live/8533733rSCbmMr7U.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",凡客天诚82377
-http://tx2play1.douyucdn.cn/live/8390676rEgaOA97N.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",酷裤熊
-http://tx2play1.douyucdn.cn/live/8662195rkQvF6t2L.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",七星瓢虫oO
-http://tx2play1.douyucdn.cn/live/8330518rQttruCK4.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",六影先生
-http://tx2play1.douyucdn.cn/live/8693377rUsC91fpr.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",李大姨
-http://tx2play1.douyucdn.cn/live/2481470rlx4iBrzy.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",4K杜比视界
-http://tx2play1.douyucdn.cn/live/8663752rjauyd8n1.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",八九有错吗
-http://tx2play1.douyucdn.cn/live/8550878rUIaN7ja9.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",小小陪你看电影
-http://tx2play1.douyucdn.cn/live/8372173rruhe4juW.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",凹凸曼电影院
-http://tx2play1.douyucdn.cn/live/8786161r1h4Mbpg2.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",呵呵嘿嘿哈哈吼吼
-http://tx2play1.douyucdn.cn/live/8754283rQxNblzPJ.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",高清影视分享
-http://tx2play1.douyucdn.cn/live/8789151rmKblJRYO.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",仲夏青柠檬
-http://tx2play1.douyucdn.cn/live/8840723roCb5s123.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",用户6788216319
-http://tx2play1.douyucdn.cn/live/8461323rLEONlxmh.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",郗氏二维码
-http://tx2play1.douyucdn.cn/live/8798632r9jStZuJP.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",一一浪爱一一
-http://tx2play1.douyucdn.cn/live/8838034rijWLgV9A.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",小布丁爱吃糖
-http://tx2play1.douyucdn.cn/live/8839320rS0VGoIZ1.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",剑魔宿命
-http://tx2play1.douyucdn.cn/live/8822387rohiHNTHH.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",酷炫小剧场
-http://tx2play1.douyucdn.cn/live/36337rkuA7h5FYzX.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",s1134
-http://tx2play1.douyucdn.cn/live/248753rdHGJBGtaq.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",粤语电影丶
-http://tx2play1.douyucdn.cn/live/1226741rz4TDQvG9.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",弥音小老虎
-http://tx2play1.douyucdn.cn/live/1362547rHeNQjkoc.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",小粤兒
-http://tx2play1.douyucdn.cn/live/5033502rJ4Y1fMYj.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",凉洛溪
-http://tx2play1.douyucdn.cn/live/439393rhhx3WUN1k.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",蛋挞人
-http://tx2play1.douyucdn.cn/live/668785rfdN5YGF4O.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",ChenaJ
-http://tx2play1.douyucdn.cn/live/2466104rG3Tbq7yr.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",安全套不套
-http://tx2play1.douyucdn.cn/live/5423rK1BGGt8sMHn.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",横刀李
-http://tx2play1.douyucdn.cn/live/6589557rgKcjXsVN.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",主播丶麻辣烫
-http://tx2play1.douyucdn.cn/live/551906reGrXM6ork.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",科比VS老北京
-http://tx2play1.douyucdn.cn/live/5655535rJRIuq0eJ.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",无泪影视
-http://tx2play1.douyucdn.cn/live/3619464rTtZ61CEc.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",伤了肾的英雄丶
-http://tx2play1.douyucdn.cn/live/711593rgh6Ajey1o.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",贾贵队长真男神
-http://tx2play1.douyucdn.cn/live/299854rohz8c4Ki6.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",苹果Zei妖
-http://tx2play1.douyucdn.cn/live/2793084rx3LrhIVw.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",a中国梦233
-http://tx2play1.douyucdn.cn/live/8092307rzKIiZbfh.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",超甜小野喵
-http://tx2play1.douyucdn.cn/live/6566671rGbvODdNt.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",和联胜丶星爺來了
-http://tx2play1.douyucdn.cn/live/4167368rolpTtux8.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",周周星驰的直播间
-http://tx2play1.douyucdn.cn/live/470075rLErdsZp2f.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",小小亭长
-http://tx2play1.douyucdn.cn/live/5802446ri1D1Eajm.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",鱼的右手
-http://tx2play1.douyucdn.cn/live/6763930r1j067Qw0.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",僵尸鬼片剧场
-http://tx2play1.douyucdn.cn/live/5489341rkkqaSxcj.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",肥猫兄弟
-http://tx2play1.douyucdn.cn/live/6775957rva4whc8t.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",新手村头号玩家
-http://tx2play1.douyucdn.cn/live/562225rDRNAyf14G.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",13685180533
-http://tx2play1.douyucdn.cn/live/504314r2E09pTWdw.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",一念入仑回
-http://tx2play1.douyucdn.cn/live/8245314rZ2VxS71P.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",婉歌baby
-http://tx2play1.douyucdn.cn/live/7100841r3wwjCkgb.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",甜甜甜砂糖
-http://tx2play1.douyucdn.cn/live/6557037r4AeUlUhq.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",吻奶瓶
-http://tx2play1.douyucdn.cn/live/6655271rVgR66BgC.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",小阳聪
-http://tx2play1.douyucdn.cn/live/7673566r3NhUUWUK.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",亲奶瓶
-http://tx2play1.douyucdn.cn/live/6546908rcwetGLvV.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",dookie99
-http://tx2play1.douyucdn.cn/live/4392103rFd8DFw3c.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",喷子Zz五花肉
-http://tx2play1.douyucdn.cn/live/7253343rUH94x19f.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",恐怖影院
-http://tx2play1.douyucdn.cn/live/5872811rf8B1KZQu.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",梧桐雨3312
-http://tx2play1.douyucdn.cn/live/1523780rtrWRhUYd.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",博然qq
-http://tx2play1.douyucdn.cn/live/6906628ruxpJJW42.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",放影师
-http://tx2play1.douyucdn.cn/live/5129261rkpxXRE1r.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",污妖王丶洛琰
-http://tx2play1.douyucdn.cn/live/788127rNnRilglfX.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",一把钢刀镇斗虞
-http://tx2play1.douyucdn.cn/live/7356023rwbM1gfre.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",进击的苏信
-http://tx2play1.douyucdn.cn/live/6627075rYeEaSYg2.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",电影电视剧播放
-http://tx2play1.douyucdn.cn/live/706982rKQKRd2LaQ.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",0Tracy0
-http://tx2play1.douyucdn.cn/live/317533rxKPrsiDop.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",迟迟的鱼
-http://tx2play1.douyucdn.cn/live/7910886r4ugH7fjd.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",乖巧小师弟
-http://tx2play1.douyucdn.cn/live/8185759rdzaCNhs5.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",一只大帅比DSB
-http://tx2play1.douyucdn.cn/live/5868349rWT4hIV1O.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",妞仔Niu
-http://tx2play1.douyucdn.cn/live/8211997r5uanTMhp.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",狐仙夜空
-http://tx2play1.douyucdn.cn/live/7135475rtHevysBY.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",darker1235812
-http://tx2play1.douyucdn.cn/live/2853822rljENn8Hy.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",坠落在天空的星星1
-http://tx2play1.douyucdn.cn/live/7657275rh9L89iRn.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",蜗牛网络
-http://tx2play1.douyucdn.cn/live/5867994rjuKusrv2.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",马里奥斗斗
-http://tx2play1.douyucdn.cn/live/638963ruQlCpJiqF.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",苟或不是狗货
-http://tx2play1.douyucdn.cn/live/3811092ruLMJ3x2O.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",主播仁也
-http://tx2play1.douyucdn.cn/live/5682092rvuxav3IY.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",大大的泡糖bubble
-http://tx2play1.douyucdn.cn/live/7706253rkuXjf7X6.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",铚天命
-http://tx2play1.douyucdn.cn/live/7637667rUZBJEtFK.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",无畏舰长
-http://tx2play1.douyucdn.cn/live/6776615rfENoyjyI.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",JinGenWEI
-http://tx2play1.douyucdn.cn/live/8152556rH6zfyqCX.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",小闪电爱电影
-http://tx2play1.douyucdn.cn/live/859364rRx9Jg7MUL.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",szm1018
-http://tx2play1.douyucdn.cn/live/6924089rl0blXcsY.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",腹鼓
-http://tx2play1.douyucdn.cn/live/8012596rgz0G2Res.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",问天龙
-http://tx2play1.douyucdn.cn/live/1256794rgvDkKr34.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",一起看经典电影
-http://tx2play1.douyucdn.cn/live/6778960r79wkcqsA.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",布古布古
-http://tx2play1.douyucdn.cn/live/1450819rcdquYrOd.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",prisoner852028
-http://tx2play1.douyucdn.cn/live/7898330rWuLHxNzF.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",经典高分电影
-http://tx2play1.douyucdn.cn/live/6606256rWjhf8TwO.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",胖宝娱乐
-http://tx2play1.douyucdn.cn/live/6355248rFMBccQqg.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电影",渝万丶精武门馆主
-http://tx2play1.douyucdn.cn/live/3708807rm5TdPFaw.flv?uuid=
-#EXTINF:-1 group-title="斗鱼电视剧",saiyukijj
-http://tx2play1.douyucdn.cn/live/8625919rNhYaS5aG.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影",嘬
