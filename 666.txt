@@ -49,6 +49,7 @@ CCTV-17农村农业,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888
 内蒙卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 新疆卫视高清],http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 西藏卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+
 超高清4K,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 CCTV4K,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8#http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8#http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 纯享4K频道,http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
@@ -56,6 +57,7 @@ CCTV4K,http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8#http://39.134.176
 CHC高清电影,http://125.210.152.18:9090/live/CHCGQDY.m3u8
 CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
 CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
+
 浙江钱江,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
 浙江经视生活,http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
 浙江影视娱乐,http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637
@@ -64,6 +66,7 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 浙江少儿频道,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 浙江留学频道,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&t=1577153817
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
+
 虎牙电影,#genre#
 周星驰,http://www.diyp.top/agent/huyazb.php?id=11342412
 林正英,http://www.diyp.top/agent/huyazb.php?id=11342421
@@ -87,6 +90,7 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 丧尸,http://www.diyp.top/agent/huyazb.php?id=11352962
 五福星,http://www.diyp.top/agent/huyazb.php?id=11282233
 甄子丹,http://www.diyp.top/agent/huyazb.php?id=11352935
+虎牙八点档,http://www.diyp.top/agent/huyazb.php?id=880261
 杰森斯坦森,http://www.diyp.top/agent/huyazb.php?id=11336572
 卧底警匪,http://www.diyp.top/agent/huyazb.php?id=11352886
 周润发,http://www.diyp.top/agent/huyazb.php?id=11342387
@@ -227,6 +231,7 @@ Running Man,http://www.diyp.top/agent/huyazb.php?id=11352883
 中国达人秀,http://www.diyp.top/agent/huyazb.php?id=11602047
 小虎牙,http://www.diyp.top/agent/huyazb.php?id=17904870
 阿斗归来了,http://www.diyp.top/agent/huyazb.php?id=adgll
+
 斗鱼女团,#genre#
 慢慢慢性子,http://tx2play1.douyucdn.cn/live/2556433rLWvAmUea.flv?uuid=
 小小大瓦斯,http://tx2play1.douyucdn.cn/live/6146690r3ogTdgjF.flv?uuid=
