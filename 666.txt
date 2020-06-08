@@ -25,7 +25,7 @@ CCTV-17农村农业,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888
 山东卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
 广东卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
 天津卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
-河北卫视蓝光,http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+河北卫视蓝光,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000293403.m3u8
 东方卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
 河南卫视蓝光,http://101.71.255.229:6610/zjhs/2/10095/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 湖北卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8#http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
@@ -34,12 +34,12 @@ CCTV-17农村农业,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888
 黑龙江卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 吉林卫视蓝光,http://101.71.255.229:6610/zjhs/2/10096/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 江西卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
-四川卫视蓝光,http://101.71.255.229:6610/zjhs/2/10046/index.m3u8?virtualDomain=zjhs.live_hls.zte.com#http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
+四川卫视蓝光,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000295003.m3u8
 重庆卫视蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
 厦门卫视蓝光,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 海南卫视蓝光,http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
 贵州卫视蓝光,http://101.71.255.229:6610/zjhs/2/10094/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-广西卫视蓝光,http://112.17.40.140/PLTV/88888888/224/3221226211/index.m3u8
+广西卫视蓝光,http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000294203.m3u8#http://112.17.40.140/PLTV/88888888/224/3221226211/index.m3u8
 甘肃卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
 青海卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
 山西卫视高清,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
