@@ -80,6 +80,10 @@ CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
 浙江留学频道,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&t=1577153817
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
 
+综合轮播,#genre#
+名侦探柯南,http://iptv.qwl2020.xyz/qy.php?id=3801584
+精品剧场,http://www.dszbdq.cn/play/gz0520.php?id=jpjc
+
 虎牙电影,#genre#
 周星驰,http://www.diyp.top/agent/huyazb.php?id=11342412
 林正英,http://www.diyp.top/agent/huyazb.php?id=11342421
