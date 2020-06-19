@@ -1,309 +1,301 @@
 #EXTM3U
-#EXTINF:-1 ,====== 地方频道,#genre# ======
-http://0/0.m3u8
-#EXTINF:-1 ,浙江钱江
+#EXTINF:-1 group-title="地方频道,#genre#",浙江钱江
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
-#EXTINF:-1 ,浙江经视生活
+#EXTINF:-1 group-title="地方频道,#genre#",浙江经视生活
 http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
-#EXTINF:-1 ,浙江教育科技
+#EXTINF:-1 group-title="地方频道,#genre#",浙江教育科技
 http://yf-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8?k=081fd5478f77ca96d036894bd58f31f7&t=1577153579
-#EXTINF:-1 ,浙江影视娱乐
+#EXTINF:-1 group-title="地方频道,#genre#",浙江影视娱乐
 http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637
-#EXTINF:-1 ,浙江6套
+#EXTINF:-1 group-title="地方频道,#genre#",浙江6套
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
-#EXTINF:-1 ,浙江公共频道
+#EXTINF:-1 group-title="地方频道,#genre#",浙江公共频道
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
-#EXTINF:-1 ,浙江少儿频道
+#EXTINF:-1 group-title="地方频道,#genre#",浙江少儿频道
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-#EXTINF:-1 ,浙江留学频道
+#EXTINF:-1 group-title="地方频道,#genre#",浙江留学频道
 http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&t=1577153817
-#EXTINF:-1 ,浙江国际
+#EXTINF:-1 group-title="地方频道,#genre#",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
-#EXTINF:-1 ,浙江数码
+#EXTINF:-1 group-title="地方频道,#genre#",浙江数码
 http://yf-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8?k=be3395c0fc4f07f9bc5ca2098d55687f&t=1577153951
-#EXTINF:-1 ,上海新闻综合
+#EXTINF:-1 group-title="地方频道,#genre#",上海新闻综合
 http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 ,上海新闻综合
+#EXTINF:-1 group-title="地方频道,#genre#",上海新闻综合
 http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,上海电视剧
+#EXTINF:-1 group-title="地方频道,#genre#",上海电视剧
 http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 ,上海电视剧
+#EXTINF:-1 group-title="地方频道,#genre#",上海电视剧
 http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijuhd/1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,都市频道
+#EXTINF:-1 group-title="地方频道,#genre#",都市频道
 http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 ,都市频道
+#EXTINF:-1 group-title="地方频道,#genre#",都市频道
 http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/yulehd/1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,上海艺术人文
+#EXTINF:-1 group-title="地方频道,#genre#",上海艺术人文
 http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/jspdhd/2000/index.m3u8?&encrypt=
-#EXTINF:-1 ,上海纪实
+#EXTINF:-1 group-title="地方频道,#genre#",上海纪实
 http://live.hcs.cmvideo.cn:8088/wd_r2/ocn/quanjishihd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 ,上海纪实
+#EXTINF:-1 group-title="地方频道,#genre#",上海纪实
 http://live.hcs.cmvideo.cn:8088/wd_r2/ocn/quanjishihd/1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,====== 央视频道,#genre# ======
-http://1/1.m3u8
-#EXTINF:-1 ,CCTV-1综合
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-1综合
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-1综合
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-1综合
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-2财经
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-2财经
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv2hd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-2财经
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-2财经
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv2hd/1500/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-3综艺
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-3综艺
 http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&&encrypt=
-#EXTINF:-1 ,CCTV-4中文国际
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-4中文国际
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv4hd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-4中文国际
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-4中文国际
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv4hd/1500/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-欧洲
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-欧洲
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-美洲
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-美洲
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-5体育
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-5体育
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-5体育
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-5体育
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-体育赛事
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-体育赛事
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-体育赛事
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-体育赛事
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-6电影
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-6电影
 http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-7国防军事
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-7国防军事
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-7国防军事
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-7国防军事
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv7hd/51/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-8电视剧
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-8电视剧
 http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-9纪录
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-9纪录
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-9纪录
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-9纪录
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv9hd/51/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-10科教
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-10科教
 http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-11戏曲
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-11戏曲
 http://live.hcs.cmvideo.cn:8088/migu/kailu/cctv11hd/57/20200103/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-11戏曲
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-11戏曲
 http://live.hcs.cmvideo.cn:8088/migu/kailu/cctv11hd/51/20200103/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-12社会与法
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-12社会与法
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv12hd/57/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-12社会与法
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-12社会与法
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv12hd/51/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-13新闻
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-13新闻
 http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-14少儿
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-14少儿
 http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-15音乐
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-15音乐
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv15hd/57/index.m3u8?&&encrypt=
-#EXTINF:-1 ,CCTV-15音乐
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-15音乐
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv15hd/51/index.m3u8?&&encrypt=
-#EXTINF:-1 ,CCTV-17农村农业
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-17农村农业
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv17hd/57/index.m3u8?&encrypt=
-#EXTINF:-1 ,CCTV-17农村农业
+#EXTINF:-1 group-title="央视频道,#genre#",CCTV-17农村农业
 http://live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv17hd/51/index.m3u8?&encrypt=
-#EXTINF:-1 ,====== 卫视频道,#genre# ======
-http://2/2.m3u8
-#EXTINF:-1 ,北京卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",北京卫视
 http://live.hcs.cmvideo.cn:8088/ws_w/2018/bjws/bjws2000/2000/index.m3u8?&encrypt=
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",东方卫视
 http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 ,东方卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",东方卫视
 http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,天津卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",天津卫视
 http://live.hcs.cmvideo.cn:8088/wd-tianjinhd-1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,重庆卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",重庆卫视
 http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/chongqing/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,黑龙江卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",黑龙江卫视
 http://live.hcs.cmvideo.cn:8088/wd-heilongjianghd-1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,吉林卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",吉林卫视
 http://live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/jilin/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,辽宁卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",辽宁卫视
 http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=
-#EXTINF:-1 ,内蒙古卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",内蒙古卫视
 http://live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/neimeng/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,宁夏卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",宁夏卫视
 http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/ningxia/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,甘肃卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",甘肃卫视
 http://live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/gansu/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,青海卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",青海卫视
 http://live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/qinghai/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,陕西卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",陕西卫视
 http://live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/shan3xi/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,河北卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",河北卫视
 http://live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/hebei/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,山西卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",山西卫视
 http://live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/shanxi/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,山东卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",山东卫视
 http://live.hcs.cmvideo.cn:8088/wd-shandonghd-1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,安徽卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",安徽卫视
 http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/anhuiwshd/2000/index.m3u8?&encrypt=
-#EXTINF:-1 ,河南卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",河南卫视
 http://live.hcs.cmvideo.cn:8088/wd-henanwssd-600/index.m3u8?&encrypt=
-#EXTINF:-1 ,湖北卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",湖北卫视
 http://live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?&encrypt=
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",湖南卫视
 http://live.hcs.cmvideo.cn:8088/wd-hunanhd-2500/index.m3u8?&encrypt=
-#EXTINF:-1 ,湖南卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",湖南卫视
 http://live.hcs.cmvideo.cn:8088/wd-hunanhd-1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,江西卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",江西卫视
 http://live.hcs.cmvideo.cn:8088/migu/kailu/jxwshd/57/20190820/index.m3u8?&encrypt=
-#EXTINF:-1 ,江西卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",江西卫视
 http://live.hcs.cmvideo.cn:8088/migu/kailu/jxwshd/51/20190820/index.m3u8?&encrypt=
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",江苏卫视
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/2500/index.m3u8?&encrypt=
-#EXTINF:-1 ,江苏卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",江苏卫视
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",浙江卫视
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/zhejianghd/2500/index.m3u8?&encrypt=
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",浙江卫视
 http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/zhejianghd/1200/index.m3u8?&encrypt=
-#EXTINF:-1 ,东南卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",东南卫视
 http://live.hcs.cmvideo.cn:8088/wd_r1/2018/bestv/dnws/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,广东卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",广东卫视
 http://live.hcs.cmvideo.cn:8088/ws_w/2018/gdws/gdws2000/2000/index.m3u8?&encrypt=
-#EXTINF:-1 ,深圳卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",深圳卫视
 http://live.hcs.cmvideo.cn:8088/ws_w/2018/szws/szws711/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,南方卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",南方卫视
 http://live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,广西卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",广西卫视
 http://live.hcs.cmvideo.cn:8088/wd-guangxiwssd-600/index.m3u8?&encrypt=
-#EXTINF:-1 ,云南卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",云南卫视
 http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/yunnan/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,贵州卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",贵州卫视
 http://live.hcs.cmvideo.cn:8088/wd-guizhouwssd-600/index.m3u8?&encrypt=
-#EXTINF:-1 ,四川卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",四川卫视
 http://live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/sichuanTV/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,新疆卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",新疆卫视
 http://live.hcs.cmvideo.cn:8088/wd-xinjiangwssd-600/index.m3u8?&encrypt=
-#EXTINF:-1 ,兵团卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",兵团卫视
 http://live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/bttv/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,西藏卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",西藏卫视
 http://live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/xizang/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,海南卫视
+#EXTINF:-1 group-title="卫视频道,#genre#",海南卫视
 http://live.hcs.cmvideo.cn:8088/envivo_x/SD/lvyou/450/index.m3u8?&encrypt=
-#EXTINF:-1 ,====== 轮播频道,#genre# ======
-http://3/3.m3u8
-#EXTINF:-1 ,黄金剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",黄金剧场
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172024/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,军旅剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",军旅剧场
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180303/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,抗战老片
+#EXTINF:-1 group-title="轮播频道,#genre#",抗战老片
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179384/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,少林剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",少林剧场
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179213/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,喜剧联盟
+#EXTINF:-1 group-title="轮播频道,#genre#",喜剧联盟
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5101097468/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,情感剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",情感剧场
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179837/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,精英剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",精英剧场
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354627/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,热剧联播
+#EXTINF:-1 group-title="轮播频道,#genre#",热剧联播
 http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/rejulianbo/600/index.m3u8?&encrypt=
-#EXTINF:-1 ,高清大片
+#EXTINF:-1 group-title="轮播频道,#genre#",高清大片
 http://live.hcs.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/600/index.m3u8?&encrypt=
-#EXTINF:-1 ,僵尸剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",僵尸剧场
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100192783/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,深夜失眠剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",深夜失眠剧场
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181674/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,红色谍战剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",红色谍战剧场
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101079524/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,华视浪漫影院
+#EXTINF:-1 group-title="轮播频道,#genre#",华视浪漫影院
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172368/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,每日科幻电影
+#EXTINF:-1 group-title="轮播频道,#genre#",每日科幻电影
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,追剧少女
+#EXTINF:-1 group-title="轮播频道,#genre#",追剧少女
 http://live.hcs.cmvideo.cn:8088/wd-virtuallive5100002089-150/index.m3u8?&encrypt=
-#EXTINF:-1 ,怀旧老片
+#EXTINF:-1 group-title="轮播频道,#genre#",怀旧老片
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074916/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,武侠剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",武侠剧场
 http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,精品网剧
+#EXTINF:-1 group-title="轮播频道,#genre#",精品网剧
 http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000751/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,假期剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",假期剧场
 http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,国际剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",国际剧场
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179386/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,经典频道
+#EXTINF:-1 group-title="轮播频道,#genre#",经典频道
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179383/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,精品剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",精品剧场
 http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/jpjc/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,高分影院
+#EXTINF:-1 group-title="轮播频道,#genre#",高分影院
 http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,新片放映厅
+#EXTINF:-1 group-title="轮播频道,#genre#",新片放映厅
 http://live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-150/index.m3u8?&encrypt=
-#EXTINF:-1 ,华视火爆劲片
+#EXTINF:-1 group-title="轮播频道,#genre#",华视火爆劲片
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100168805/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,成龙作品集
+#EXTINF:-1 group-title="轮播频道,#genre#",成龙作品集
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,周星驰影院
+#EXTINF:-1 group-title="轮播频道,#genre#",周星驰影院
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100144102/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,吴京作品集
+#EXTINF:-1 group-title="轮播频道,#genre#",吴京作品集
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180867/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,刘德华影院
+#EXTINF:-1 group-title="轮播频道,#genre#",刘德华影院
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354855/150/index.m3u8?&&encrypt=
-#EXTINF:-1 ,经典贺岁片
+#EXTINF:-1 group-title="轮播频道,#genre#",经典贺岁片
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181836/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,古天乐影院
+#EXTINF:-1 group-title="轮播频道,#genre#",古天乐影院
 http://live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,郭富城影院
+#EXTINF:-1 group-title="轮播频道,#genre#",郭富城影院
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010220/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,刘亦菲影视展播
+#EXTINF:-1 group-title="轮播频道,#genre#",刘亦菲影视展播
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010221/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,高圆圆影视展播
+#EXTINF:-1 group-title="轮播频道,#genre#",高圆圆影视展播
 http://live.hcs.cmvideo.cn:8088/wd-virtuallive5100002172-150/index.m3u8?&encrypt=
-#EXTINF:-1 ,古力娜扎影视展播
+#EXTINF:-1 group-title="轮播频道,#genre#",古力娜扎影视展播
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100170828/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,葛优作品集
+#EXTINF:-1 group-title="轮播频道,#genre#",葛优作品集
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354660/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,金庸频道
+#EXTINF:-1 group-title="轮播频道,#genre#",金庸频道
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,刘涛作品集
+#EXTINF:-1 group-title="轮播频道,#genre#",刘涛作品集
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100178547/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,张国荣影院
+#EXTINF:-1 group-title="轮播频道,#genre#",张国荣影院
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354727/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,神探狄仁杰
+#EXTINF:-1 group-title="轮播频道,#genre#",神探狄仁杰
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179816/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,红楼剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",红楼剧场
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100178536/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,爱情公寓
+#EXTINF:-1 group-title="轮播频道,#genre#",爱情公寓
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180868/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,包青天
+#EXTINF:-1 group-title="轮播频道,#genre#",包青天
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179054/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,天龙八部集
+#EXTINF:-1 group-title="轮播频道,#genre#",天龙八部集
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180869/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,盗墓方法论
+#EXTINF:-1 group-title="轮播频道,#genre#",盗墓方法论
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179159/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,综艺现场
+#EXTINF:-1 group-title="轮播频道,#genre#",综艺现场
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074920/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,SNH48剧场公演
+#EXTINF:-1 group-title="轮播频道,#genre#",SNH48剧场公演
 http://live.hcs.cmvideo.cn:8088/wd-virtuallive5100002043-150/index.m3u8?&encrypt=
-#EXTINF:-1 ,风尚音乐
+#EXTINF:-1 group-title="轮播频道,#genre#",风尚音乐
 http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/fsyy/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,高清娱乐
+#EXTINF:-1 group-title="轮播频道,#genre#",高清娱乐
 http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/zhpd/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,BBC独家
+#EXTINF:-1 group-title="轮播频道,#genre#",BBC独家
 http://live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101074616/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,探索纪录
+#EXTINF:-1 group-title="轮播频道,#genre#",探索纪录
 http://live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/tsjl/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,Discovery王牌节目展播
+#EXTINF:-1 group-title="轮播频道,#genre#",Discovery王牌节目展播
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5101098146/150/index.m3u8?&encrypt=
-#EXTINF:-1 ,CIBN电影综合
+#EXTINF:-1 group-title="轮播频道,#genre#",CIBN电影综合
 http://live.hcs.cmvideo.cn:8088/ws_v/2018/cnbn/cnbn711/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,CIBN院线大片
+#EXTINF:-1 group-title="轮播频道,#genre#",CIBN院线大片
 http://live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/yuanxiandapian/600/index.m3u8?&encrypt=
-#EXTINF:-1 ,CIBN综合
+#EXTINF:-1 group-title="轮播频道,#genre#",CIBN综合
 http://live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/xinqidian/600/index.m3u8?&encrypt=
-#EXTINF:-1 ,CIBN真人秀
+#EXTINF:-1 group-title="轮播频道,#genre#",CIBN真人秀
 http://live.hcs.cmvideo.cn:8088/wd_r3/peoplecn/cibnzhenrenxiu/600/index.m3u8?&encrypt=
-#EXTINF:-1 ,CIBN艺术院线
+#EXTINF:-1 group-title="轮播频道,#genre#",CIBN艺术院线
 http://live.hcs.cmvideo.cn:8088/wd_r3/2018/peoplecn/cibnteadjpd/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,CIBN纪录片
+#EXTINF:-1 group-title="轮播频道,#genre#",CIBN纪录片
 http://live.hcs.cmvideo.cn:8088/wd_r3/2018/peoplecn/cibnjlpd/1000/index.m3u8?&encrypt=
-#EXTINF:-1 ,CIBN流金岁月
+#EXTINF:-1 group-title="轮播频道,#genre#",CIBN流金岁月
 http://live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/cibnshoucang/600/index.m3u8?&encrypt=
-#EXTINF:-1 ,CIBN经典剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",CIBN经典剧场
 http://live.hcs.cmvideo.cn:8088/wd_r3/peoplecn/cibnjingdianjuchang/600/index.m3u8?&encrypt=
-#EXTINF:-1 ,CIBN微电影
+#EXTINF:-1 group-title="轮播频道,#genre#",CIBN微电影
 http://live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/cibnweimovie/600/index.m3u8?&encrypt=
-#EXTINF:-1 ,CIBN骄阳剧场
+#EXTINF:-1 group-title="轮播频道,#genre#",CIBN骄阳剧场
 http://live.hcs.cmvideo.cn:8088/ws_v/2018/cibnjdjc/cibnjdjc711/1000/index.m3u8?&encrypt=
