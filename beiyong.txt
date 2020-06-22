@@ -114,7 +114,7 @@ B,http://58.216.6.173:80/sk.live.otvcloud.com/otv/skcc/live/channel72/1300.m3u8
 山西少儿,http://58.216.6.173:80/sk.live.otvcloud.com/otv/skcc/live/channel89/1300.m3u8
 
 明星综艺,#genre#
-沈腾贾玲黄渤综艺,http://aldirect.hls.huya.com/src/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8?&wsTime=5ef07147&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
+沈腾贾玲黄渤综艺,http://aldirect.hls.huya.com/src/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1_2000.m3u8?&wsTime=5ef1cd71&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
 王牌对王牌,http://diyp.top/agent/youku.php?id= 8079071
 王牌对王牌,http://junlovefang.top/youku.php?id= 8079071
 奔跑吧兄弟,http://al.hls.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.m3u8?wsSecret=c344ba922ea180e0cd0ba1f578b48d4a&wsTime=5ef18835&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=huya_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&exsphd=264_500,264_1200,264_2000,&t=103
