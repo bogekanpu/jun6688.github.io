@@ -1214,8 +1214,6 @@ BesTV4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 高清HD家庭剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226740/index.m3u8
 高清HD家庭影院,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226723/index.m3u8
 高清HD卡通剧场,http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226717/index.m3u8
-$c_start蓝光专区$c_end 密码：
-打赏
 新华中文[emoji:cn],http://livecdn1.news.cn:80/cnccn/manifest.m3u8
 CCTV-1蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
 CCTV-2蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
@@ -1738,10 +1736,6 @@ CGTN-国际频道,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN-记录频道,http://live.cgtn.com/1000d/prog_index.m3u8
 CGTN-法语频道,http://live.cgtn.com/1000f/prog_index.m3u8
 中国气象,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-$c_start卫视频道$c_end 密码：
-打赏我们,https://cloud.video.taobao.com//play/u/709608496/p/1/e/6/t/1/266116359395.mp4
-官方QQ群,https://huya-w21.huya.com/2021/338567134/1300/dc51c612ba7fb9f0e18de01db89ad6d8.mp4
-山东卫视蓝光,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
 山东齐鲁蓝光,http://120.221.5.108:8089/PLTV/88888888/224/3221226045/index.m3u8
 山东齐鲁蓝光,http://120.221.5.50:8089/PLTV/88888888/224/3221226045/index.m3u8
 山东公共蓝光,http://120.221.5.108:8089/PLTV/88888888/224/3221226077/index.m3u8
@@ -2177,8 +2171,6 @@ $c_start卫视频道$c_end 密码：
 兵团卫视,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240280_1/encoder/0/playlist.m3u8
 兵团卫视,http://v.btzx.com.cn:1935/live/news.stream/playlist.m3u8
 澳亚卫视,http://stream.mastvnet.com/MASTV/sd/live.m3u8
-
-
 
 DOX映画,http://116.171.246.14:5005/nn_live/nn_x64/aWQ9MjMyLTEwLTItMzAmbm5fZmlsZV9pbmRleD0zMTc5Njg3MDUmbm5fZmlsZV9uYW1lPTIwMjAwNTE4VDIzMTIwNV8wMDBaJm5uX2ZpbGVfdGltZT0yMDIwMDUxOFQyMzEyMDVaJm5uX20zdTg9MSZudHN0PTUwMDAmcGxheXR5cGU9bGl2ZSZuZHQ9c3RiJm5hbD0wMTQ2MTZjMzVlMDYwNzQ3NmVkODk2NzY4ODJiYmExOTJjNDdhYmJhN2E2YTk2JnVpZD0wMTAxMDExNjA5MTIwMTAwMDEzNiZuZ3M9NWVjMzE2NDYwMDBlZmNjYzc0ZGI3NmY3YzEwMzMxMTkmbmNtc2lkPTExMDEyNiZuY2E9JTI2bm5fY3AlM2RHWkdE/232-10-2-30.ts
 DOX院线,http://116.171.246.15:5005/nn_live/nn_x64/aWQ9MjMyLTEwLTItMjkmbm5fZmlsZV9pbmRleD0zMTc5Njg3MjImbm5fZmlsZV9uYW1lPTIwMjAwNTE4VDIzMTMzMF8wMDBaJm5uX2ZpbGVfdGltZT0yMDIwMDUxOFQyMzEzMzBaJm5uX20zdTg9MSZudHN0PTUwMDAmcGxheXR5cGU9bGl2ZSZuZHQ9c3RiJm5hbD0wMWEwMTZjMzVlMDYwNzdlYmNmMmZlYjVkZDViMzA3MmJkZjczNDk4Mjc1NzVhJnVpZD0wMTAxMDExNjA5MTIwMTAwMDEzNiZuZ3M9NWVjMzE2YTAwMDAxZDI5YmVmMzgxNmVhZDBlZDY1NGMmbmNtc2lkPTExMDEyNSZuY2E9JTI2bm5fY3AlM2RHWkdE/232-10-2-29.ts
