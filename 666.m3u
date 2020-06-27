@@ -221,6 +221,8 @@ rtmp://xiaoyu.speedws.com/sat/tv551
 rtmp://xiaoyu.speedws.com/sat/tv571
 #EXTINF:-1 group-title="港澳台",WIN综合台
 rtmp://xiaoyu.speedws.com/sat/tv761
+#EXTINF:-1 group-title="港澳台",星卫HD电影台
+http://191.101.44.238/tV.php?aitangyuanTV&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0Q4NA__
 #EXTINF:-1 group-title="综艺频道",沈腾贾玲黄渤综艺
 http://bd.flv.huya.com/src/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="综艺频道",沈腾贾玲黄渤综艺
@@ -531,6 +533,100 @@ http://junlovefang.top/huya1.php?id=11352897
 http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/150/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="明星轮播",金庸频道
 http://junlovefang.top/migu.php?id=625774640
+
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影频道",CHC高清电影
+http://junlovefang.top/123.php?id=43063
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影频道",CHC家庭影院
+http://junlovefang.top/123.php?id=51010
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影频道",CHC动作电影
+http://junlovefang.top/123.php?id=51011
+#EXTINF:-1 group-title="电影频道",峨眉电影蓝光
+http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
+#EXTINF:-1 group-title="电影频道",环球影院
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/1.m3u8
+#EXTINF:-1 group-title="电影频道",爱院线
+http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="电影频道",爱院线
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="电影频道",爱喜剧
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="电影频道",爱喜剧
+http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="电影频道",爱科幻
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="电影频道",爱科幻
+http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="电影频道",爱奇谈
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/01.m3u8
+#EXTINF:-1 group-title="电影频道",爱奇谈
+http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="电影频道",爱怀旧
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/01.m3u8
+#EXTINF:-1 group-title="电影频道",爱浪漫
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/01.m3u8?fmt=ts2hls
+#EXTINF:-1 group-title="电影频道",爱浪漫
+http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="电影频道",爱经典
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/01.m3u8
+#EXTINF:-1 group-title="电影频道",爱经典
+http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="电影频道",爱江湖
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/01.m3u8
+#EXTINF:-1 group-title="电影频道",爱江湖
+http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="电影频道",爱谍战
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/01.m3u8
+#EXTINF:-1 group-title="电影频道",爱悬疑
+http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="电影频道",爱悬疑
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/01.m3u8
+#EXTINF:-1 group-title="电影频道",爱都市
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/01.m3u8
+#EXTINF:-1 group-title="电影频道",爱都市
+http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 group-title="电影频道",爱家庭
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/01.m3u8
+#EXTINF:-1 group-title="电影频道",爱青春
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/01.m3u8
+#EXTINF:-1 group-title="电影频道",海看大片蓝光
+http://120.221.5.113:8089/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="电影频道",海看大片蓝光
+http://120.221.5.165:8089/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 group-title="电影频道",海看剧场蓝光
+http://120.221.5.113:8089/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 group-title="电影频道",海看剧场蓝光
+http://120.221.5.101:8089/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 group-title="电影频道",海看剧场蓝光
+http://120.221.5.108:8089/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 group-title="电影频道",海看热播蓝光
+http://120.221.5.108:8089/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 group-title="电影频道",海看热播蓝光
+http://120.221.5.101:8089/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 group-title="电影频道",蓝光影视1
+http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1 group-title="电影频道",蓝光影视2
+http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 group-title="电影频道",蓝光影视3
+http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 group-title="电影频道",蓝光影视4
+http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 group-title="电影频道",蓝光影视5
+http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 group-title="电影频道",蓝光影视6
+http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
+#EXTINF:-1 group-title="电影频道",蓝光影视7
+http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
+#EXTINF:-1 group-title="电影频道",蓝光影视8台
+http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 group-title="电影频道",蓝光影视9台
+http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1 group-title="电影频道",蓝光影视10台
+http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
+#EXTINF:-1 group-title="电影频道",蓝光影视12台
+http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
+#EXTINF:-1 group-title="电影频道",欢笑剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
+#EXTINF:-1 group-title="电影频道",欢笑剧场
 #EXTINF:-1 group-title="女团专区",随便玩会
 http://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/875835/live_96008584_6782160.m3u8
 #EXTINF:-1 group-title="女团专区",随便玩会
@@ -2956,99 +3052,6 @@ http://cn-hbxy-cmcc-live-01.live-play.acgvideo.com/live-bvc/262232/live_41344953
 #EXTINF:-1 group-title="哔哩哔哩",藤原的直播间
 http://diyp.top/agent/bilibili.php?id=22212903
 
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="电影频道",CHC高清电影
-http://junlovefang.top/123.php?id=43063
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="电影频道",CHC家庭影院
-http://junlovefang.top/123.php?id=51010
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="电影频道",CHC动作电影
-http://junlovefang.top/123.php?id=51011
-#EXTINF:-1 group-title="电影频道",峨眉电影蓝光
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 group-title="电影频道",环球影院
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/1.m3u8
-#EXTINF:-1 group-title="电影频道",爱院线
-http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="电影频道",爱院线
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230019/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="电影频道",爱喜剧
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="电影频道",爱喜剧
-http://101.71.255.229:6610/zjhs/2/10105/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="电影频道",爱科幻
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230025/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="电影频道",爱科幻
-http://101.71.255.229:6610/zjhs/2/10113/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="电影频道",爱奇谈
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230023/01.m3u8
-#EXTINF:-1 group-title="电影频道",爱奇谈
-http://101.71.255.229:6610/zjhs/2/10103/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="电影频道",爱怀旧
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230049/01.m3u8
-#EXTINF:-1 group-title="电影频道",爱浪漫
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230005/01.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="电影频道",爱浪漫
-http://101.71.255.229:6610/zjhs/2/10115/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="电影频道",爱经典
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230101/01.m3u8
-#EXTINF:-1 group-title="电影频道",爱经典
-http://101.71.255.229:6610/zjhs/2/10106/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="电影频道",爱江湖
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230074/01.m3u8
-#EXTINF:-1 group-title="电影频道",爱江湖
-http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="电影频道",爱谍战
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230092/01.m3u8
-#EXTINF:-1 group-title="电影频道",爱悬疑
-http://101.71.255.229:6610/zjhs/2/10104/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="电影频道",爱悬疑
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230098/01.m3u8
-#EXTINF:-1 group-title="电影频道",爱都市
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230104/01.m3u8
-#EXTINF:-1 group-title="电影频道",爱都市
-http://101.71.255.229:6610/zjhs/2/10111/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 group-title="电影频道",爱家庭
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230118/01.m3u8
-#EXTINF:-1 group-title="电影频道",爱青春
-http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/01.m3u8
-#EXTINF:-1 group-title="电影频道",海看大片蓝光
-http://120.221.5.113:8089/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="电影频道",海看大片蓝光
-http://120.221.5.165:8089/PLTV/88888888/224/3221225632/index.m3u8
-#EXTINF:-1 group-title="电影频道",海看剧场蓝光
-http://120.221.5.113:8089/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 group-title="电影频道",海看剧场蓝光
-http://120.221.5.101:8089/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 group-title="电影频道",海看剧场蓝光
-http://120.221.5.108:8089/PLTV/88888888/224/3221226053/index.m3u8
-#EXTINF:-1 group-title="电影频道",海看热播蓝光
-http://120.221.5.108:8089/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1 group-title="电影频道",海看热播蓝光
-http://120.221.5.101:8089/PLTV/88888888/224/3221225878/index.m3u8
-#EXTINF:-1 group-title="电影频道",蓝光影视1
-http://112.50.243.8/PLTV/88888888/224/3221226736/1.m3u8
-#EXTINF:-1 group-title="电影频道",蓝光影视2
-http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
-#EXTINF:-1 group-title="电影频道",蓝光影视3
-http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
-#EXTINF:-1 group-title="电影频道",蓝光影视4
-http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-#EXTINF:-1 group-title="电影频道",蓝光影视5
-http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 group-title="电影频道",蓝光影视6
-http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8
-#EXTINF:-1 group-title="电影频道",蓝光影视7
-http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8
-#EXTINF:-1 group-title="电影频道",蓝光影视8台
-http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1 group-title="电影频道",蓝光影视9台
-http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
-#EXTINF:-1 group-title="电影频道",蓝光影视10台
-http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1 group-title="电影频道",蓝光影视12台
-http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
-#EXTINF:-1 group-title="电影频道",欢笑剧场
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
-#EXTINF:-1 group-title="电影频道",欢笑剧场
 http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4k专区",超高清4K
 http://120.241.133.167/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
