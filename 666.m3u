@@ -112,7 +112,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3c
 #EXTINF:-1 group-title="地方台",浙江公共新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
 #EXTINF:-1 group-title="地方台",浙江教育科技
-http://hw-m-l.cztv.com/channels/lantian/channel04/1080p/0/00008250ab91d9c2_5db9688_23900c.ts
+http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?k=5d1f4c20abab350af28fa13b97b0cd57&t=1593298225
 #EXTINF:-1 group-title="地方台",浙江少儿频道
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 #EXTINF:-1 group-title="地方台",浙江留学频道
@@ -132,7 +132,37 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 group-title="地方台",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 group-title="地方台",广东综艺
-http://nclive.grtn.cn/4K/sd/live.m3u8?_upt=2f44852d1592486865
+http://junlovefang.top/gdtv.php?id=16
+#EXTINF:-1 group-title="地方台",广东珠江
+http://junlovefang.top/gdtv.php?id=44
+#EXTINF:-1 group-title="地方台",南方卫视
+http://junlovefang.top/gdtv.php?id=51
+#EXTINF:-1 group-title="地方台",经济科教
+http://junlovefang.top/gdtv.php?id=49
+#EXTINF:-1 group-title="地方台",广东影视
+http://junlovefang.top/gdtv.php?id=53
+#EXTINF:-1 group-title="地方台",广东国际
+http://junlovefang.top/gdtv.php?id=46
+#EXTINF:-1 group-title="地方台",岭南戏曲
+http://junlovefang.top/gdtv.php?id=15
+#EXTINF:-1 group-title="地方台",广东移动
+http://junlovefang.top/gdtv.php?id=74
+#EXTINF:-1 group-title="地方台",惠州综合
+http://junlovefang.top/gdtv.php?id=70
+#EXTINF:-1 group-title="地方台",珠海综合
+http://junlovefang.top/gdtv.php?id=71
+#EXTINF:-1 group-title="地方台",江门综合
+http://junlovefang.top/gdtv.php?id=77
+#EXTINF:-1 group-title="地方台",肇庆综合
+http://junlovefang.top/gdtv.php?id=78
+#EXTINF:-1 group-title="地方台",揭阳综合
+http://junlovefang.top/gdtv.php?id=79
+#EXTINF:-1 group-title="地方台",湛江综合
+http://junlovefang.top/gdtv.php?id=80
+#EXTINF:-1 group-title="地方台",潮州综合
+http://junlovefang.top/gdtv.php?id=83
+#EXTINF:-1 group-title="地方台",汕尾综合
+http://junlovefang.top/gdtv.php?id=84
 #EXTINF:-1 group-title="地方台",湖南电影
 http://junlovefang.top/123.php?id=
 #EXTINF:-1 group-title="地方台",湖南电视剧
