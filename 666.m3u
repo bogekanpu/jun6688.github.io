@@ -96,9 +96,11 @@ http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视频道",内蒙卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视频道",新疆卫视
-http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+http://junlovefang.top/xjtv.php?id=1
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视频道",西藏卫视
 http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 tvg-id="72" tvg-name="海峡卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视频道",海峡卫视
+http://junlovefang.top/fjtv.php?id=3
 #EXTINF:-1 group-title="地方台",七彩戏剧
 http://39.134.168.91/PLTV/1/224/3221225604/index.m3u8
 #EXTINF:-1 group-title="地方台",浙江钱江都市
@@ -163,6 +165,56 @@ http://junlovefang.top/gdtv.php?id=80
 http://junlovefang.top/gdtv.php?id=83
 #EXTINF:-1 group-title="地方台",汕尾综合
 http://junlovefang.top/gdtv.php?id=84
+#EXTINF:-1 group-title="地方台",都市频道
+http://junlovefang.top/sztv.php?id=2
+#EXTINF:-1 group-title="地方台",电视剧频道
+http://junlovefang.top/sztv.php?id=3
+#EXTINF:-1 group-title="地方台",公共频道
+http://junlovefang.top/sztv.php?id=4
+#EXTINF:-1 group-title="地方台",财经生活
+http://junlovefang.top/sztv.php?id=5
+#EXTINF:-1 group-title="地方台",娱乐频道
+http://junlovefang.top/sztv.php?id=6
+#EXTINF:-1 group-title="地方台",少儿频道
+http://junlovefang.top/sztv.php?id=7
+#EXTINF:-1 group-title="地方台",移动电视
+http://junlovefang.top/sztv.php?id=8
+#EXTINF:-1 group-title="地方台",宜和购物
+http://junlovefang.top/sztv.php?id=9
+#EXTINF:-1 group-title="地方台",DV生活
+http://junlovefang.top/sztv.php?id=10
+#EXTINF:-1 group-title="地方台",福建少儿
+http://junlovefang.top/fjtv.php?id=2
+#EXTINF:-1 group-title="地方台",福建综合
+http://junlovefang.top/fjtv.php?id=4
+#EXTINF:-1 group-title="地方台",福建电视剧
+http://junlovefang.top/fjtv.php?id=7
+#EXTINF:-1 group-title="地方台",XJTV-2
+http://junlovefang.top/xjtv.php?id=2
+#EXTINF:-1 group-title="地方台",XJTV-3
+http://junlovefang.top/xjtv.php?id=3
+#EXTINF:-1 group-title="地方台",XJTV-4
+http://junlovefang.top/xjtv.php?id=4
+#EXTINF:-1 group-title="地方台",XJTV-5
+http://junlovefang.top/xjtv.php?id=5
+#EXTINF:-1 group-title="地方台",XJTV-7
+http://junlovefang.top/xjtv.php?id=7
+#EXTINF:-1 group-title="地方台",XJTV-8
+http://junlovefang.top/xjtv.php?id=8
+#EXTINF:-1 group-title="地方台",XJTV-9
+http://junlovefang.top/xjtv.php?id=9
+#EXTINF:-1 group-title="地方台",XJTV-10
+http://junlovefang.top/xjtv.php?id=10
+#EXTINF:-1 group-title="地方台",XJTV-11
+http://junlovefang.top/xjtv.php?id=11
+#EXTINF:-1 group-title="地方台",XJTV-12
+http://junlovefang.top/xjtv.php?id=12
+#EXTINF:-1 group-title="地方台",汕头综合
+http://junlovefang.top/cttv.php?id=st1
+#EXTINF:-1 group-title="地方台",汕头经济生活
+http://junlovefang.top/cttv.php?id=st2
+#EXTINF:-1 group-title="地方台",汕头公共
+http://junlovefang.top/cttv.php?id=st3
 #EXTINF:-1 group-title="地方台",湖南电影
 http://junlovefang.top/123.php?id=43029
 #EXTINF:-1 group-title="地方台",湖南电视剧
