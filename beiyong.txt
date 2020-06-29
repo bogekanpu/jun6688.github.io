@@ -409,7 +409,7 @@ CCTV-15,http://140.207.241.2:8080/live/program/live/cctvyy/1300000/mnf.m3u8
 沈腾贾玲黄渤综艺,http://bd.flv.huya.com/src/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8
 王牌对王牌,http://diyp.top/youku.php?id= 8079071
 奔跑吧兄弟,http://bd.flv.huya.com/src/1524418094-1524418094-6547325859160653824-3048959644-10057-A-0-1-imgplus.m3u8
-沈腾,http://bd.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8
+沈腾,http://bd.flv.huya.com/src/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1-imgplus.m3u8
 徐峥,http://bd.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
 咪咕频道,#genre#
 CCTV1 1080,http://live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=
