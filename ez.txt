@@ -115,7 +115,6 @@ CHC华城影视,http://live1.nty.tv189.com/tm-cridyty-800k.m3u8?sign=447e08a3c96
 蓝光影视10台,http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
 蓝光影视12台,http://39.134.52.206/wh7f454c46tw2522585283_-1736190513/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226752/index.m3u8?icpid=88888890&RTS=1575014274&from=1&ocs=2_39.134.52.206_80&hms_devid=835&vqe=3
 欢笑剧场,http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
-$c_start港澳台直播$c_end
 
 $c_start影视专区$c_end
 CCTV-6电影,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA2B7CAU3090C010K77540044IFB84556FPBM3220A5DV1044EZ33519WE22942B42A1&playtoken=ABCDEFGHI&programid=4200000136.m3u8
