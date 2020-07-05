@@ -82,8 +82,8 @@ $c_start卫视直播$c_end
 安多卫视,http://39.135.19.139:18890/PLTV/88888888/224/3221225694/1/index.m3u8?fmt=ts2hls
 延边卫视,http://39.135.19.139:18890/PLTV/88888888/224/3221225721/1/index.m3u8?fmt=ts2hls
 $c_start港澳台直播$c_end
-凤凰卫视中文,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-凤凰卫视资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰卫视中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+凤凰卫视资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 $c_start影视专区$c_end
 CCTV-6电影,http://httpdvb.slave.ttcatv.tv:13164/playurl?playtype=live&protocol=hls&accesstoken=R5CA2B7CAU3090C010K77540044IFB84556FPBM3220A5DV1044EZ33519WE22942B42A1&playtoken=ABCDEFGHI&programid=4200000136.m3u8
 CHC高清电影,http://junlovefang.top/123.php?id=43063
