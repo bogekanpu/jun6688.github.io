@@ -85,7 +85,7 @@ $c_start港澳台直播$c_end
 凤凰卫视中文,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 凤凰卫视资讯,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 $c_start影视专区$c_end
-CCTV-6电影,http://121.18.168.149/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6705015643145867202/1.m3u8?stbId=005301FF00158910000000212621A501&channel-id=shvoolive&Contentid=6705015643145867202&mos=jbjhhzstsl&livemode=1&proto=7&version=1.0&owaccmark=6705015643145867202&owchid=shvoolive&owsid=7641431579531463387&AuthInfo=2TOfGIahP4HrGWrHbpJXVGtyhHJPIcRRegoBYBxkr5gU2nvM3aYRu9pk6g1cfGsxitbm7ri6Y%2BkjLjny72IEdjBnss%2Faslq1wPHTyGHeHFYaAuxUDnXfdynLgAo%2FAhgd
+CCTV-6电影,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 CHC高清电影,http://junlovefang.top/123.php?id=43063
 CHC动作电影,http://junlovefang.top/123.php?id=51011
 CHC家庭电影,http://junlovefang.top/123.php?id=51010
