@@ -5770,7 +5770,7 @@ http://c2.cdn.hunancatv.com/live/CCTV11.m3u8
 #EXTINF:-1 group-title="湖南蜗牛TV",CCTV-12社会与法
 http://c2.cdn.hunancatv.com/live/CCTV12HD.m3u8
 #EXTINF:-1 group-title="湖南蜗牛TV",CCTV-13新闻
-http://c2.cdn.hunancatv.com/live/CCTV13.m3u8
+http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 group-title="湖南蜗牛TV",CCTV-14少儿
 http://c2.cdn.hunancatv.com/live/CCTV14HD.m3u8
 #EXTINF:-1 group-title="湖南蜗牛TV",CCTV-15音乐
@@ -6026,7 +6026,7 @@ http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel11/2300.m3u8
 #EXTINF:-1 group-title="亦非云代理",CCTV-12社会与法
 http://junlovefang.top:80/hunanyfy.php?id=11
 #EXTINF:-1 group-title="亦非云代理",CCTV-13新闻
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel39/2300.m3u8
+http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
 #EXTINF:-1 group-title="亦非云代理",CCTV-13新闻
 http://junlovefang.top:80/hunanyfy.php?id=39
 #EXTINF:-1 group-title="亦非云代理",CCTV-14少儿
