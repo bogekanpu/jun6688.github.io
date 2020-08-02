@@ -201,21 +201,21 @@ http://live.scbtv.cn/hls/qfc/index.m3u8
 http://stream.zhxwzx.com/2/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",宁波综合
 http://stream.zhxwzx.com/1/sd/live.m3u8
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方频道",上海都市
 http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/yulehd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="地方频道",上海都市
 http://39.134.168.91/PLTV/1/224/3221225610/index.m3u8
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",上海东方影视
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="地方频道",上海东方影视
 http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",上海电视剧
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="地方频道",上海电视剧
 http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南教育台
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43021/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南教育台
 http://junlovefang.top:80/hunanyfy.php?id=43021
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视国际频道
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方频道",湖南卫视国际频道
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43022/1300.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视国际频道
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方频道",湖南卫视国际频道
 http://junlovefang.top:80/hunanyfy.php?id=43022
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南导视频道
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43023/1300.m3u8
@@ -225,11 +225,11 @@ http://junlovefang.top:80/hunanyfy.php?id=43023
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43024/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南经视
 http://junlovefang.top:80/hunanyfy.php?id=43024
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实频道
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方频道",金鹰纪实频道
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43025/2300.m3u8
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实频道
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方频道",金鹰纪实频道
 http://junlovefang.top:80/hunanyfy.php?id=43025
-#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实频道
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方频道",金鹰纪实频道
 http://junlovefang.top:80/123.php?id=43087
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南娱乐频道
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43027/2300.m3u8
@@ -427,9 +427,9 @@ http://junlovefang.top:80/123.php?id=34
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43035/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",高尔夫频道
 http://junlovefang.top:80/hunanyfy.php?id=43035
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方频道",南方卫视
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel58/1300.m3u8
-#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="卫视",南方卫视
+#EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方频道",南方卫视
 http://junlovefang.top:80/123.php?id=58
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳宜和购物
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel42/1300.m3u8
@@ -491,9 +491,9 @@ http://junlovefang.top:80/123.php?id=71
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel72/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",阳泉科教频道
 http://junlovefang.top:80/123.php?id=72
-#EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="卫视",黄河卫视
+#EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="地方频道",黄河卫视
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel88/1300.m3u8
-#EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="卫视",黄河卫视
+#EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="地方频道",黄河卫视
 http://junlovefang.top:80/123.php?id=88
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山西少儿频道
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel89/1300.m3u8
@@ -5023,419 +5023,423 @@ http://diyp.top/douyu.php?id=8012596
 http://tx2play1.douyucdn.cn/live/6697528rHC4okVwN.m3u8
 #EXTINF:-1 group-title="斗鱼电视剧",来休息吧闭眼睛听声
 http://diyp.top/douyu.php?id=6697528
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",小丸子试播
+#EXTINF:-1 group-title="战旗企鹅",懒猫美食★吃 吃 吃 吃 吃 吃 自助点播
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8
+#EXTINF:-1 group-title="战旗企鹅",小丸子试播
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/289178_v9Awm.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【柯南全集】超清画质
+#EXTINF:-1 group-title="战旗企鹅",【柯南全集】超清画质
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/219628_O3y9l.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",（邪恶力量）最全美剧直播室
+#EXTINF:-1 group-title="战旗企鹅",（邪恶力量）最全美剧直播室
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/278626_RrAeT.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",（超级赛亚人）时间：下午5：00---早上7:00
+#EXTINF:-1 group-title="战旗企鹅",（超级赛亚人）时间：下午5：00---早上7:00
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/197952_NHycj.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【名侦探柯南】666抽奖+求1石锤
+#EXTINF:-1 group-title="战旗企鹅",【名侦探柯南】666抽奖+求1石锤
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/93626_h1w6h.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【脑袋大】武侠剧
+#EXTINF:-1 group-title="战旗企鹅",【脑袋大】武侠剧
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/93774_g0UdM.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",铁齿铜牙纪晓岚 神医喜来乐
+#EXTINF:-1 group-title="战旗企鹅",铁齿铜牙纪晓岚 神医喜来乐
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/246527_Mhbol.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",命转qian坤 秀才遇到兵 秀才爱上兵
+#EXTINF:-1 group-title="战旗企鹅",命转qian坤 秀才遇到兵 秀才爱上兵
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",经典动漫童年回忆
+#EXTINF:-1 group-title="战旗企鹅",经典动漫童年回忆
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/300122_MuEgO.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【经典喜剧】666抽奖+求1石锤
+#EXTINF:-1 group-title="战旗企鹅",【经典喜剧】666抽奖+求1石锤
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/289859_lA6FB.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【武林外传】666抽奖+求1石锤
+#EXTINF:-1 group-title="战旗企鹅",【武林外传】666抽奖+求1石锤
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/182325_z3jRr.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",TVB经典电视剧
+#EXTINF:-1 group-title="战旗企鹅",TVB经典电视剧
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/154733_xcVyM.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",祁阳影视频道
+#EXTINF:-1 group-title="战旗企鹅",祁阳影视频道
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/296728_aCH5P.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",经典音乐
+#EXTINF:-1 group-title="战旗企鹅",经典音乐
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/285305_4Cz3X.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",快来围观(←←)
+#EXTINF:-1 group-title="战旗企鹅",快来围观(←←)
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/299548_RKDKO.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",终南山影视
+#EXTINF:-1 group-title="战旗企鹅",终南山影视
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/288547_qSJ5f.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",星光影视
+#EXTINF:-1 group-title="战旗企鹅",星光影视
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/299458_Av0vD.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",功夫台
+#EXTINF:-1 group-title="战旗企鹅",功夫台
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",影视戏剧院
+#EXTINF:-1 group-title="战旗企鹅",影视戏剧院
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/300808_5AkkR.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【周口影视】电影频道
+#EXTINF:-1 group-title="战旗企鹅",【周口影视】电影频道
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/80918_cr4oy.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【淮阳影视】百看不厌 怀旧经典
+#EXTINF:-1 group-title="战旗企鹅",【淮阳影视】百看不厌 怀旧经典
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/199301_y2bWG.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",《炊事班的故事》三部曲
+#EXTINF:-1 group-title="战旗企鹅",《炊事班的故事》三部曲
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/275052_NGqzG.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",《武林外传》8点到24点
+#EXTINF:-1 group-title="战旗企鹅",《武林外传》8点到24点
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/286120_2SFM6.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",周口电视剧频道
+#EXTINF:-1 group-title="战旗企鹅",周口电视剧频道
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/194839_XtiBg.flv
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",欢喜密探 武林外传 龙门镖局 约会专家
+#EXTINF:-1 group-title="战旗企鹅",欢喜密探 武林外传 龙门镖局 约会专家
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",绝对优势电影
+#EXTINF:-1 group-title="战旗企鹅",绝对优势电影
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/245160_eBaHN.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",搞笑一家人
+#EXTINF:-1 group-title="战旗企鹅",搞笑一家人
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/198925_Hj7ax.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",中外经典影视
+#EXTINF:-1 group-title="战旗企鹅",中外经典影视
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/290003_QVDZJ.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",经典影视，随便放
+#EXTINF:-1 group-title="战旗企鹅",经典影视，随便放
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",港剧，经典武侠剧
+#EXTINF:-1 group-title="战旗企鹅",港剧，经典武侠剧
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",白天放 午夜随缘
+#EXTINF:-1 group-title="战旗企鹅",白天放 午夜随缘
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/300202_bQnmB.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",港片武侠
+#EXTINF:-1 group-title="战旗企鹅",港片武侠
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/296155_gui3i.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",齐影视电影频道
+#EXTINF:-1 group-title="战旗企鹅",齐影视电影频道
 https://yfhdl-p2p-cdn.zhanqi.tv/zqlive/295878_r100J.flv?k=99e1b8ce214f40ee8ef9af2bb222efb7&t=5efc669d&playNum=99643533527&gId=1647841635&ipFrom=&clientIp=&fhost=h5&platform=128
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",✿24小时✿10个溜→点播新片
+#EXTINF:-1 group-title="战旗企鹅",✿24小时✿10个溜→点播新片
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/53346_ESoth.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",欢迎来到惊悚乐园
+#EXTINF:-1 group-title="战旗企鹅",欢迎来到惊悚乐园
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/275792_qIz6B.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",影视戏剧院
+#EXTINF:-1 group-title="战旗企鹅",影视戏剧院
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/300808_5AkkR.m3u8
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",传统相声专场24郭德纲于谦
+#EXTINF:-1 group-title="战旗企鹅",传统相声专场24郭德纲于谦
 http://junlovefang.top:80/egame.php?id=616289265
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",户外猎奇翻滚的小白条
+#EXTINF:-1 group-title="战旗企鹅",户外猎奇翻滚的小白条
 http://junlovefang.top:80/egame.php?id=430460861
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",阿尹一起看电影啊
+#EXTINF:-1 group-title="战旗企鹅",阿尹一起看电影啊
 http://junlovefang.top:80/egame.php?id=272517172
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",大家一起看电视
+#EXTINF:-1 group-title="战旗企鹅",大家一起看电视
 http://junlovefang.top:80/egame.php?id=16295202
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",走西藏走新疆第15天
+#EXTINF:-1 group-title="战旗企鹅",走西藏走新疆第15天
 http://junlovefang.top:80/egame.php?id=617894531
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",上午好哦哦哦哦哦哦
+#EXTINF:-1 group-title="战旗企鹅",上午好哦哦哦哦哦哦
 http://junlovefang.top:80/egame.php?id=130902951
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【爱情公寓】全程爆笑
+#EXTINF:-1 group-title="战旗企鹅",【爱情公寓】全程爆笑
 http://junlovefang.top:80/egame.php?id=322842111
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",我在越南养殖的生活（第一季）
+#EXTINF:-1 group-title="战旗企鹅",我在越南养殖的生活（第一季）
 http://junlovefang.top:80/egame.php?id=272482520
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【爱情公寓】青春爱情爆笑公寓
+#EXTINF:-1 group-title="战旗企鹅",【爱情公寓】青春爱情爆笑公寓
 http://junlovefang.top:80/egame.php?id=483923557
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",晴天雨天都不如你和我聊天
+#EXTINF:-1 group-title="战旗企鹅",晴天雨天都不如你和我聊天
 http://junlovefang.top:80/egame.php?id=332108853
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【勤戴口罩】名侦探柯南 24H
+#EXTINF:-1 group-title="战旗企鹅",【勤戴口罩】名侦探柯南 24H
 http://junlovefang.top:80/egame.php?id=616512747
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【小京陪看】德云社郭德纲相声
+#EXTINF:-1 group-title="战旗企鹅",【小京陪看】德云社郭德纲相声
 http://junlovefang.top:80/egame.php?id=202452345
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",德云社郭德纲相声专场陪你看
+#EXTINF:-1 group-title="战旗企鹅",德云社郭德纲相声专场陪你看
 http://junlovefang.top:80/egame.php?id=468780224
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",僵尸鬼片动作搞笑武侠
+#EXTINF:-1 group-title="战旗企鹅",僵尸鬼片动作搞笑武侠
 http://junlovefang.top:80/egame.php?id=157023183
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【疯狂自行车🚲】冲刺229km西双版纳
+#EXTINF:-1 group-title="战旗企鹅",【疯狂自行车🚲】冲刺229km西双版纳
 http://junlovefang.top:80/egame.php?id=597484370
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【名侦探柯南】死神小学生，一集挂一个
+#EXTINF:-1 group-title="战旗企鹅",【名侦探柯南】死神小学生，一集挂一个
 http://junlovefang.top:80/egame.php?id=158617293
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【小y】《小品、相声》
+#EXTINF:-1 group-title="战旗企鹅",【小y】《小品、相声》
 http://junlovefang.top:80/egame.php?id=164540838
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",欧美经典科幻恐怖电影
+#EXTINF:-1 group-title="战旗企鹅",欧美经典科幻恐怖电影
 http://junlovefang.top:80/egame.php?id=382971876
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",这天越来越热！！！
+#EXTINF:-1 group-title="战旗企鹅",这天越来越热！！！
 http://junlovefang.top:80/egame.php?id=618900152
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",周星驰24小时喜剧经典电影
+#EXTINF:-1 group-title="战旗企鹅",周星驰24小时喜剧经典电影
 http://junlovefang.top:80/egame.php?id=199681168
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【综艺大咖】极限挑战、奔跑吧
+#EXTINF:-1 group-title="战旗企鹅",【综艺大咖】极限挑战、奔跑吧
 http://junlovefang.top:80/egame.php?id=389194280
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【小品相声】媚儿陪你看
+#EXTINF:-1 group-title="战旗企鹅",【小品相声】媚儿陪你看
 http://junlovefang.top:80/egame.php?id=225458404
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【英叔护体】全天僵尸鬼片恐怖电影
+#EXTINF:-1 group-title="战旗企鹅",【英叔护体】全天僵尸鬼片恐怖电影
 http://junlovefang.top:80/egame.php?id=363783415
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",电视剧老戏骨剧场
+#EXTINF:-1 group-title="战旗企鹅",电视剧老戏骨剧场
 http://junlovefang.top:80/egame.php?id=31504666
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【三国】滚.滚长江东逝水
+#EXTINF:-1 group-title="战旗企鹅",【三国】滚.滚长江东逝水
 http://junlovefang.top:80/egame.php?id=384343974
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【自助点播】恐怖喜剧经典动作科幻
+#EXTINF:-1 group-title="战旗企鹅",【自助点播】恐怖喜剧经典动作科幻
 http://junlovefang.top:80/egame.php?id=490905763
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",《德云社》郭德纲于谦传统相声专场
+#EXTINF:-1 group-title="战旗企鹅",《德云社》郭德纲于谦传统相声专场
 http://junlovefang.top:80/egame.php?id=421447299
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",鸭鸭的滴滴生活
+#EXTINF:-1 group-title="战旗企鹅",鸭鸭的滴滴生活
 http://junlovefang.top:80/egame.php?id=620011394
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",超燃热血动漫任你点
+#EXTINF:-1 group-title="战旗企鹅",超燃热血动漫任你点
 http://junlovefang.top:80/egame.php?id=379529617
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",周星驰24小时经典喜剧
+#EXTINF:-1 group-title="战旗企鹅",周星驰24小时经典喜剧
 http://junlovefang.top:80/egame.php?id=336052518
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",国外鬼片惊悚恐怖片丧尸片︎恐怖电影
+#EXTINF:-1 group-title="战旗企鹅",国外鬼片惊悚恐怖片丧尸片︎恐怖电影
 http://junlovefang.top:80/egame.php?id=306723212
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",纪晓岚四部超清
+#EXTINF:-1 group-title="战旗企鹅",纪晓岚四部超清
 http://junlovefang.top:80/egame.php?id=735433796
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",穿越火线抢先看
+#EXTINF:-1 group-title="战旗企鹅",穿越火线抢先看
 http://junlovefang.top:80/egame.php?id=34553076
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",新赛季开始了，上分的速度啦
+#EXTINF:-1 group-title="战旗企鹅",新赛季开始了，上分的速度啦
 http://junlovefang.top:80/egame.php?id=225367159
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",荒野求生
+#EXTINF:-1 group-title="战旗企鹅",荒野求生
 http://junlovefang.top:80/egame.php?id=一个马上倒闭的直播间！,http://junlovefang.top:80/egame.php?id=577368917
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",新主播支持一下
+#EXTINF:-1 group-title="战旗企鹅",新主播支持一下
 http://junlovefang.top:80/egame.php?id=606408487
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",漫威DC★动作喜剧★经典电影
+#EXTINF:-1 group-title="战旗企鹅",漫威DC★动作喜剧★经典电影
 http://junlovefang.top:80/egame.php?id=616645877
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",阿斗的自白
+#EXTINF:-1 group-title="战旗企鹅",阿斗的自白
 http://junlovefang.top:80/egame.php?id=43125907
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",铁三角开启寻宝之旅
+#EXTINF:-1 group-title="战旗企鹅",铁三角开启寻宝之旅
 http://junlovefang.top:80/egame.php?id=342640
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",老友老友老友!
+#EXTINF:-1 group-title="战旗企鹅",老友老友老友!
 http://junlovefang.top:80/egame.php?id=581708630
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",寻找老戏骨
+#EXTINF:-1 group-title="战旗企鹅",寻找老戏骨
 http://junlovefang.top:80/egame.php?id=337131164
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",综艺《王牌对王牌》24小时轮播
+#EXTINF:-1 group-title="战旗企鹅",综艺《王牌对王牌》24小时轮播
 http://junlovefang.top:80/egame.php?id=462055043
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",爱情公寓一至四
+#EXTINF:-1 group-title="战旗企鹅",爱情公寓一至四
 http://junlovefang.top:80/egame.php?id=622402646
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",秦明秦明法医秦明
+#EXTINF:-1 group-title="战旗企鹅",秦明秦明法医秦明
 http://junlovefang.top:80/egame.php?id=257293378
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",日常在线下饭
+#EXTINF:-1 group-title="战旗企鹅",日常在线下饭
 http://junlovefang.top:80/egame.php?id=434528496
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",海绵宝宝开播拉
+#EXTINF:-1 group-title="战旗企鹅",海绵宝宝开播拉
 http://junlovefang.top:80/egame.php?id=678706943
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【蓝翔】新三国蓝光
+#EXTINF:-1 group-title="战旗企鹅",【蓝翔】新三国蓝光
 http://junlovefang.top:80/egame.php?id=540969071
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",新三国_超清[7*24小时]直播
+#EXTINF:-1 group-title="战旗企鹅",新三国_超清[7*24小时]直播
 http://junlovefang.top:80/egame.php?id=153607630
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",经典武侠神话喜剧惊辣恐怖
+#EXTINF:-1 group-title="战旗企鹅",经典武侠神话喜剧惊辣恐怖
 http://junlovefang.top:80/egame.php?id=115616259
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【经典电影】喜剧鬼片动作武侠
+#EXTINF:-1 group-title="战旗企鹅",【经典电影】喜剧鬼片动作武侠
 http://junlovefang.top:80/egame.php?id=344201418
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",准备激情了
+#EXTINF:-1 group-title="战旗企鹅",准备激情了
 http://junlovefang.top:80/egame.php?id=279841081
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",王者主播虽菜可还凑合
+#EXTINF:-1 group-title="战旗企鹅",王者主播虽菜可还凑合
 http://junlovefang.top:80/egame.php?id=23987366
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",电视剧古装武侠经典怀旧
+#EXTINF:-1 group-title="战旗企鹅",电视剧古装武侠经典怀旧
 http://junlovefang.top:80/egame.php?id=511553134
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",【动漫专场】经典超燃
+#EXTINF:-1 group-title="战旗企鹅",【动漫专场】经典超燃
 http://junlovefang.top:80/egame.php?id=385464944
-#EXTINF:-1 group-title="懒猫美食★吃 吃 吃 吃 吃 吃 自助点播;https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8",动物自然纪录片集锦
+#EXTINF:-1 group-title="战旗企鹅",动物自然纪录片集锦
 http://junlovefang.top:80/egame.php?id=417299409
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",超清24小时精彩不断播
+#EXTINF:-1 group-title="战旗企鹅",猫和老鼠搞笑动画轮播！随机播游戏！
+http://junlovefang.top:80/egame.php?id=274126513
+#EXTINF:-1 group-title="战旗企鹅",超清24小时精彩不断播
 http://junlovefang.top:80/egame.php?id=100660627
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",【星爷&英叔】经典全集
+#EXTINF:-1 group-title="战旗企鹅",【星爷&英叔】经典全集
 http://junlovefang.top:80/egame.php?id=142576940
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",不送礼物等啥呢
+#EXTINF:-1 group-title="战旗企鹅",不送礼物等啥呢
 http://junlovefang.top:80/egame.php?id=504209819
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",【名侦探柯南】国语全集
+#EXTINF:-1 group-title="战旗企鹅",【名侦探柯南】国语全集
 http://junlovefang.top:80/egame.php?id=203609181
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",恐怖惊悚动作科幻喜剧
+#EXTINF:-1 group-title="战旗企鹅",恐怖惊悚动作科幻喜剧
 http://junlovefang.top:80/egame.php?id=504525571
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",【粤语电影】【周星驰】【林正英】
+#EXTINF:-1 group-title="战旗企鹅",【粤语电影】【周星驰】【林正英】
 http://junlovefang.top:80/egame.php?id=389804816
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",家有儿女全程爆笑
+#EXTINF:-1 group-title="战旗企鹅",家有儿女全程爆笑
 http://junlovefang.top:80/egame.php?id=6949434
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",甄嬛传
+#EXTINF:-1 group-title="战旗企鹅",甄嬛传
 http://junlovefang.top:80/egame.php?id=40949755
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",豆子陪你看三国
+#EXTINF:-1 group-title="战旗企鹅",豆子陪你看三国
 http://junlovefang.top:80/egame.php?id=159765564
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",DOA6国际格斗游戏 穗香四妹霞爱不释手
+#EXTINF:-1 group-title="战旗企鹅",DOA6国际格斗游戏 穗香四妹霞爱不释手
 http://junlovefang.top:80/egame.php?id=131986685
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",柯南直播间
+#EXTINF:-1 group-title="战旗企鹅",柯南直播间
 http://junlovefang.top:80/egame.php?id=410903700
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",啦啦啦啦啦赛季末苟个王牌
+#EXTINF:-1 group-title="战旗企鹅",啦啦啦啦啦赛季末苟个王牌
 http://junlovefang.top:80/egame.php?id=269408679
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",看会电视！！！
+#EXTINF:-1 group-title="战旗企鹅",看会电视！！！
 http://junlovefang.top:80/egame.php?id=764837969
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",奔跑吧！兄弟
+#EXTINF:-1 group-title="战旗企鹅",奔跑吧！兄弟
 http://junlovefang.top:80/egame.php?id=199221585
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",炎炎夏日一丝清凉
+#EXTINF:-1 group-title="战旗企鹅",炎炎夏日一丝清凉
 http://junlovefang.top:80/egame.php?id=4874955
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",前方高能 请关灯后食用！
+#EXTINF:-1 group-title="战旗企鹅",前方高能 请关灯后食用！
 http://junlovefang.top:80/egame.php?id=449390391
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",小焕陪你左右
+#EXTINF:-1 group-title="战旗企鹅",小焕陪你左右
 http://junlovefang.top:80/egame.php?id=52287799
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",一起看传闻中的陈千千
+#EXTINF:-1 group-title="战旗企鹅",一起看传闻中的陈千千
 http://junlovefang.top:80/egame.php?id=176953830
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",沙海欢迎朋友们
+#EXTINF:-1 group-title="战旗企鹅",沙海欢迎朋友们
 http://junlovefang.top:80/egame.php?id=78979274
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",闪电利剑看懂的进来
+#EXTINF:-1 group-title="战旗企鹅",闪电利剑看懂的进来
 http://junlovefang.top:80/egame.php?id=107644715
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",好先生全集
+#EXTINF:-1 group-title="战旗企鹅",好先生全集
 http://junlovefang.top:80/egame.php?id=45265092
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",哥斯拉2-怪兽之王
+#EXTINF:-1 group-title="战旗企鹅",哥斯拉2-怪兽之王
 http://junlovefang.top:80/egame.php?id=420645569
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",冲冲冲冲冲冲
+#EXTINF:-1 group-title="战旗企鹅",冲冲冲冲冲冲
 http://junlovefang.top:80/egame.php?id=13178565
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",赳赳老秦共赴国难
+#EXTINF:-1 group-title="战旗企鹅",赳赳老秦共赴国难
 http://junlovefang.top:80/egame.php?id=37459539
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",中华小当家专场
+#EXTINF:-1 group-title="战旗企鹅",中华小当家专场
 http://junlovefang.top:80/egame.php?id=301594188
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",有事没事来看看
+#EXTINF:-1 group-title="战旗企鹅",有事没事来看看
 http://junlovefang.top:80/egame.php?id=34893392
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",上午好吗~
+#EXTINF:-1 group-title="战旗企鹅",上午好吗~
 http://junlovefang.top:80/egame.php?id=62545713
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",*新三国*V*大电影*
+#EXTINF:-1 group-title="战旗企鹅",*新三国*V*大电影*
 http://junlovefang.top:80/egame.php?id=422349131
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",局中人 张一山
+#EXTINF:-1 group-title="战旗企鹅",局中人 张一山
 http://junlovefang.top:80/egame.php?id=430017744
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",老表当职业选手不远了。加油
+#EXTINF:-1 group-title="战旗企鹅",老表当职业选手不远了。加油
 http://junlovefang.top:80/egame.php?id=178691227
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",木木陪你看（）
+#EXTINF:-1 group-title="战旗企鹅",木木陪你看（）
 http://junlovefang.top:80/egame.php?id=142146801
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",一起看电影
+#EXTINF:-1 group-title="战旗企鹅",一起看电影
 http://junlovefang.top:80/egame.php?id=157340896
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",点波关注，谢谢大家
+#EXTINF:-1 group-title="战旗企鹅",点波关注，谢谢大家
 http://junlovefang.top:80/egame.php?id=190704237
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",露天电影院
+#EXTINF:-1 group-title="战旗企鹅",露天电影院
 http://junlovefang.top:80/egame.php?id=726933692
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",【怀旧影视】死神小学生，全集+剧场+主线
+#EXTINF:-1 group-title="战旗企鹅",【怀旧影视】死神小学生，全集+剧场+主线
 http://junlovefang.top:80/egame.php?id=482388602
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",《陈情令》忆少年
+#EXTINF:-1 group-title="战旗企鹅",《陈情令》忆少年
 http://junlovefang.top:80/egame.php?id=175379441
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",动画狂欢曲-芭比
+#EXTINF:-1 group-title="战旗企鹅",动画狂欢曲-芭比
 http://junlovefang.top:80/egame.php?id=208872931
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",又是脑洞大开的一天
+#EXTINF:-1 group-title="战旗企鹅",又是脑洞大开的一天
 http://junlovefang.top:80/egame.php?id=38081166
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",（经典）看剧总动员
+#EXTINF:-1 group-title="战旗企鹅",（经典）看剧总动员
 http://junlovefang.top:80/egame.php?id=17733227
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",神奇宝贝xy
+#EXTINF:-1 group-title="战旗企鹅",神奇宝贝xy
 http://junlovefang.top:80/egame.php?id=29506640
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",综艺电视剧
+#EXTINF:-1 group-title="战旗企鹅",综艺电视剧
 http://junlovefang.top:80/egame.php?id=263636890
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",釜山行2半岛
+#EXTINF:-1 group-title="战旗企鹅",釜山行2半岛
 http://junlovefang.top:80/egame.php?id=2296262
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",关注一下。谢谢
+#EXTINF:-1 group-title="战旗企鹅",关注一下。谢谢
 http://junlovefang.top:80/egame.php?id=69537353
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",可以一起安静看电视鸭
+#EXTINF:-1 group-title="战旗企鹅",可以一起安静看电视鸭
 http://junlovefang.top:80/egame.php?id=175734810
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",看会电视剧啊!
+#EXTINF:-1 group-title="战旗企鹅",看会电视剧啊!
 http://junlovefang.top:80/egame.php?id=359414291
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",随便看看可以一看
+#EXTINF:-1 group-title="战旗企鹅",随便看看可以一看
 http://junlovefang.top:80/egame.php?id=57627854
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",我的主播梦~~
+#EXTINF:-1 group-title="战旗企鹅",我的主播梦~~
 http://junlovefang.top:80/egame.php?id=42788501
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",华夏五公子
+#EXTINF:-1 group-title="战旗企鹅",华夏五公子
 http://junlovefang.top:80/egame.php?id=20875025
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",【自带声卡的男银】搞笑，我是认真的
+#EXTINF:-1 group-title="战旗企鹅",【自带声卡的男银】搞笑，我是认真的
 http://junlovefang.top:80/egame.php?id=398553899
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",回忆总想哭!经典大片……
+#EXTINF:-1 group-title="战旗企鹅",回忆总想哭!经典大片……
 http://junlovefang.top:80/egame.php?id=224014940
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",搞笑开心的动画哦哈哈
+#EXTINF:-1 group-title="战旗企鹅",搞笑开心的动画哦哈哈
 http://junlovefang.top:80/egame.php?id=403789825
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",电影《狮子王》 普通话
+#EXTINF:-1 group-title="战旗企鹅",电影《狮子王》 普通话
 http://junlovefang.top:80/egame.php?id=81287332
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",阿巴阿巴阿巴
+#EXTINF:-1 group-title="战旗企鹅",阿巴阿巴阿巴
 http://junlovefang.top:80/egame.php?id=128456576
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",楚乔传2抢先版
+#EXTINF:-1 group-title="战旗企鹅",楚乔传2抢先版
 http://junlovefang.top:80/egame.php?id=205083096
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",柯南剧场版，接着看
+#EXTINF:-1 group-title="战旗企鹅",柯南剧场版，接着看
 http://junlovefang.top:80/egame.php?id=207948248
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",荣耀战场永不言败
+#EXTINF:-1 group-title="战旗企鹅",荣耀战场永不言败
 http://junlovefang.top:80/egame.php?id=362143669
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",哥斯拉二.
+#EXTINF:-1 group-title="战旗企鹅",哥斯拉二.
 http://junlovefang.top:80/egame.php?id=104783240
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",四月是你的谎言
+#EXTINF:-1 group-title="战旗企鹅",四月是你的谎言
 http://junlovefang.top:80/egame.php?id=287730904
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",看电影了喂～
+#EXTINF:-1 group-title="战旗企鹅",看电影了喂～
 http://junlovefang.top:80/egame.php?id=7918250
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",首席执行官
+#EXTINF:-1 group-title="战旗企鹅",首席执行官
 http://junlovefang.top:80/egame.php?id=47737086
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",史泰龙动作片
+#EXTINF:-1 group-title="战旗企鹅",史泰龙动作片
 http://junlovefang.top:80/egame.php?id=406619469
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",名侦探柯南.
+#EXTINF:-1 group-title="战旗企鹅",名侦探柯南.
 http://junlovefang.top:80/egame.php?id=114023166
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",童年影院，走哪哪出事的柯南
+#EXTINF:-1 group-title="战旗企鹅",童年影院，走哪哪出事的柯南
 http://junlovefang.top:80/egame.php?id=667518506
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",我带大家一起看看电影。
+#EXTINF:-1 group-title="战旗企鹅",我带大家一起看看电影。
 http://junlovefang.top:80/egame.php?id=155606365
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",免费上车加游戏好友
+#EXTINF:-1 group-title="战旗企鹅",免费上车加游戏好友
 http://junlovefang.top:80/egame.php?id=312955609
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",好看精彩绝伦
+#EXTINF:-1 group-title="战旗企鹅",好看精彩绝伦
 http://junlovefang.top:80/egame.php?id=25640325
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",娱乐娱乐活动
+#EXTINF:-1 group-title="战旗企鹅",娱乐娱乐活动
 http://junlovefang.top:80/egame.php?id=149667898
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",仙人指路屏风马
+#EXTINF:-1 group-title="战旗企鹅",仙人指路屏风马
 http://junlovefang.top:80/egame.php?id=531464521
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",山东国艺急进中兵弃马局直播间
+#EXTINF:-1 group-title="战旗企鹅",山东国艺急进中兵弃马局直播间
 http://junlovefang.top:80/egame.php?id=392653305
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",万能布局体系一对一讲解及实战演练
+#EXTINF:-1 group-title="战旗企鹅",万能布局体系一对一讲解及实战演练
 http://junlovefang.top:80/egame.php?id=329563394
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",自出洞来无敌手
+#EXTINF:-1 group-title="战旗企鹅",自出洞来无敌手
 http://junlovefang.top:80/egame.php?id=274524484
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",争600万巨奖！冠军杯汇聚天下高手
+#EXTINF:-1 group-title="战旗企鹅",争600万巨奖！冠军杯汇聚天下高手
 http://junlovefang.top:80/egame.php?id=758030259
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",追梦成品代赢豆
+#EXTINF:-1 group-title="战旗企鹅",追梦成品代赢豆
 http://junlovefang.top:80/egame.php?id=194066072
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",特大实战棋谱评测精讲
+#EXTINF:-1 group-title="战旗企鹅",特大实战棋谱评测精讲
 http://junlovefang.top:80/egame.php?id=44005871
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",老马这游戏太难了
+#EXTINF:-1 group-title="战旗企鹅",老马这游戏太难了
 http://junlovefang.top:80/egame.php?id=743436014
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",云南业余棋手孔令武直播下棋
+#EXTINF:-1 group-title="战旗企鹅",云南业余棋手孔令武直播下棋
 http://junlovefang.top:80/egame.php?id=317770980
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",炸🐍大师讲棋
+#EXTINF:-1 group-title="战旗企鹅",炸🐍大师讲棋
 http://junlovefang.top:80/egame.php?id=36245670
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",一起学象棋
+#EXTINF:-1 group-title="战旗企鹅",一起学象棋
 http://junlovefang.top:80/egame.php?id=632038141
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",地摊野路子
+#EXTINF:-1 group-title="战旗企鹅",地摊野路子
 http://junlovefang.top:80/egame.php?id=311868587
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",三步虎武功秘籍
+#EXTINF:-1 group-title="战旗企鹅",三步虎武功秘籍
 http://junlovefang.top:80/egame.php?id=724056271
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",菜鸟象棋交流
+#EXTINF:-1 group-title="战旗企鹅",菜鸟象棋交流
 http://junlovefang.top:80/egame.php?id=468614004
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",来自你附近100米
+#EXTINF:-1 group-title="战旗企鹅",来自你附近100米
 http://junlovefang.top:80/egame.php?id=616076908
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",你是未知的惊喜！
+#EXTINF:-1 group-title="战旗企鹅",你是未知的惊喜！
 http://junlovefang.top:80/egame.php?id=60680065
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",你的小可爱请签收！
+#EXTINF:-1 group-title="战旗企鹅",你的小可爱请签收！
 http://junlovefang.top:80/egame.php?id=72799013
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",这可真是人间宝藏啊！
+#EXTINF:-1 group-title="战旗企鹅",这可真是人间宝藏啊！
 http://junlovefang.top:80/egame.php?id=115896746
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",想保个A~
+#EXTINF:-1 group-title="战旗企鹅",想保个A~
 http://junlovefang.top:80/egame.php?id=742572941
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",可可爱爱 没有脑袋
+#EXTINF:-1 group-title="战旗企鹅",可可爱爱 没有脑袋
 http://junlovefang.top:80/egame.php?id=456188859
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",我需要你。。。。
+#EXTINF:-1 group-title="战旗企鹅",我需要你。。。。
 http://junlovefang.top:80/egame.php?id=128434838
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",是你吗 我的骑士❤
+#EXTINF:-1 group-title="战旗企鹅",是你吗 我的骑士❤
 http://junlovefang.top:80/egame.php?id=749114085
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",哈尔滨妹子
+#EXTINF:-1 group-title="战旗企鹅",哈尔滨妹子
 http://junlovefang.top:80/egame.php?id=771041020
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",有人宠才会变得可爱
+#EXTINF:-1 group-title="战旗企鹅",有人宠才会变得可爱
 http://junlovefang.top:80/egame.php?id=59075777
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",进个人好不好啊
+#EXTINF:-1 group-title="战旗企鹅",进个人好不好啊
 http://junlovefang.top:80/egame.php?id=462928409
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",来个说话的人吧
+#EXTINF:-1 group-title="战旗企鹅",来个说话的人吧
 http://junlovefang.top:80/egame.php?id=235353878
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",新人主播第一个月末求过业绩~~~
+#EXTINF:-1 group-title="战旗企鹅",新人主播第一个月末求过业绩~~~
 http://junlovefang.top:80/egame.php?id=418994987
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",距离你0.01km……
+#EXTINF:-1 group-title="战旗企鹅",距离你0.01km……
 http://junlovefang.top:80/egame.php?id=17673392
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",企鹅把我藏起来了吗，怎么不进人呢
+#EXTINF:-1 group-title="战旗企鹅",企鹅把我藏起来了吗，怎么不进人呢
 http://junlovefang.top:80/egame.php?id=608220735
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",公子呀，可见石阶已布满苔霜
+#EXTINF:-1 group-title="战旗企鹅",公子呀，可见石阶已布满苔霜
 http://junlovefang.top:80/egame.php?id=302364434
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",开播啦··············
+#EXTINF:-1 group-title="战旗企鹅",开播啦··············
 http://junlovefang.top:80/egame.php?id=60233873
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",新主播第1个月就拉了~
+#EXTINF:-1 group-title="战旗企鹅",新主播第1个月就拉了~
 http://junlovefang.top:80/egame.php?id=713547522
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",晚上八点工会战求神秘力量啊啊啊~
+#EXTINF:-1 group-title="战旗企鹅",晚上八点工会战求神秘力量啊啊啊~
 http://junlovefang.top:80/egame.php?id=111958902
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",房子太多了，需要一个新房管
+#EXTINF:-1 group-title="战旗企鹅",房子太多了，需要一个新房管
 http://junlovefang.top:80/egame.php?id=741025218
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",想窝在哥哥怀里当宝贝
+#EXTINF:-1 group-title="战旗企鹅",想窝在哥哥怀里当宝贝
 http://junlovefang.top:80/egame.php?id=61237718
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",回收二手大哥、不要的大哥
+#EXTINF:-1 group-title="战旗企鹅",回收二手大哥、不要的大哥
 http://junlovefang.top:80/egame.php?id=309885361
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",美妆博主-吃播-尬聊
+#EXTINF:-1 group-title="战旗企鹅",美妆博主-吃播-尬聊
 http://junlovefang.top:80/egame.php?id=472435699
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",新主播直播……
+#EXTINF:-1 group-title="战旗企鹅",新主播直播……
 http://junlovefang.top:80/egame.php?id=250800924
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",今晚八点公会赛哟~
+#EXTINF:-1 group-title="战旗企鹅",今晚八点公会赛哟~
 http://junlovefang.top:80/egame.php?id=404625913
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",一起来玩游戏
+#EXTINF:-1 group-title="战旗企鹅",一起来玩游戏
 http://junlovefang.top:80/egame.php?id=86068679
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",每天都是新的开始奥利给
+#EXTINF:-1 group-title="战旗企鹅",每天都是新的开始奥利给
 http://junlovefang.top:80/egame.php?id=194716638
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",播了个寂寞
+#EXTINF:-1 group-title="战旗企鹅",播了个寂寞
 http://junlovefang.top:80/egame.php?id=84959943
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",新主播 钢铁直女
+#EXTINF:-1 group-title="战旗企鹅",新主播 钢铁直女
 http://junlovefang.top:80/egame.php?id=667626211
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",我很欢喜遇见你
+#EXTINF:-1 group-title="战旗企鹅",我很欢喜遇见你
 http://junlovefang.top:80/egame.php?id=590680985
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",清颜主播是个文盲！！
+#EXTINF:-1 group-title="战旗企鹅",清颜主播是个文盲！！
 http://junlovefang.top:80/egame.php?id=22861428
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",我想走进你的心~~~
+#EXTINF:-1 group-title="战旗企鹅",我想走进你的心~~~
 http://junlovefang.top:80/egame.php?id=129478369
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",你不孤单 有我
+#EXTINF:-1 group-title="战旗企鹅",你不孤单 有我
 http://junlovefang.top:80/egame.php?id=752449454
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",新人报道~芋泥超甜
+#EXTINF:-1 group-title="战旗企鹅",新人报道~芋泥超甜
 http://junlovefang.top:80/egame.php?id=359472563
-#EXTINF:-1 group-title="猫和老鼠搞笑动画轮播！随机播游戏！274126513",斯人若彩虹 遇上方知有
+#EXTINF:-1 group-title="战旗企鹅",斯人若彩虹 遇上方知有
 http://junlovefang.top:80/egame.php?id=243263123
 #EXTINF:-1 group-title="CIBN轮播",CIBN经典剧场
 http://diyp.top/cibn.php?id=12
@@ -5770,7 +5774,7 @@ http://c2.cdn.hunancatv.com/live/CCTV11.m3u8
 #EXTINF:-1 group-title="湖南蜗牛TV",CCTV-12社会与法
 http://c2.cdn.hunancatv.com/live/CCTV12HD.m3u8
 #EXTINF:-1 group-title="湖南蜗牛TV",CCTV-13新闻
-http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+http://c2.cdn.hunancatv.com/live/CCTV13.m3u8
 #EXTINF:-1 group-title="湖南蜗牛TV",CCTV-14少儿
 http://c2.cdn.hunancatv.com/live/CCTV14HD.m3u8
 #EXTINF:-1 group-title="湖南蜗牛TV",CCTV-15音乐
@@ -6026,7 +6030,7 @@ http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel11/2300.m3u8
 #EXTINF:-1 group-title="亦非云代理",CCTV-12社会与法
 http://junlovefang.top:80/hunanyfy.php?id=11
 #EXTINF:-1 group-title="亦非云代理",CCTV-13新闻
-http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel39/2300.m3u8
 #EXTINF:-1 group-title="亦非云代理",CCTV-13新闻
 http://junlovefang.top:80/hunanyfy.php?id=39
 #EXTINF:-1 group-title="亦非云代理",CCTV-14少儿
