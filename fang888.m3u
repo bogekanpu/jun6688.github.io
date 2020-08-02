@@ -399,9 +399,9 @@ http://junlovefang.top:80/hunanyfy.php?id=43045
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43046/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",法治天地
 http://junlovefang.top:80/hunanyfy.php?id=43046
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方频道",快乐垂钓
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43047/1300.m3u8
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方频道",快乐垂钓
 http://junlovefang.top:80/hunanyfy.php?id=43047
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",东方财经·浦东
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43050/1300.m3u8
@@ -415,9 +415,9 @@ http://junlovefang.top:80/123.php?id=45
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel63/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",广东少儿
 http://junlovefang.top:80/123.php?id=63
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",珠江频道
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方频道",珠江频道
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel65/1300.m3u8
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方",珠江频道
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方频道",珠江频道
 http://junlovefang.top:80/123.php?id=65
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",广东体育频道
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
@@ -959,7 +959,7 @@ http://junlovefang.top:80/sztv.php?id=7
 http://junlovefang.top:80/sztv.php?id=8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",宜和购物
 http://junlovefang.top:80/sztv.php?id=9
-#EXTINF:-1 tvg-id="1162" tvg-name="DV生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dv_shenghuo.png" group-title="地方",DV生活
+#EXTINF:-1 tvg-id="1162" tvg-name="DV生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dv_shenghuo.png" group-title="地方频道",DV生活
 http://junlovefang.top:80/sztv.php?id=10
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",福建少儿
 http://junlovefang.top:80/fjtv.php?id=2
@@ -1177,7 +1177,7 @@ http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51011/2300.m3u8
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51024/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",CHC华城影视
 http://live1.nty.tv189.com/tm-cridyty-800k.m3u8?sign=447e08a3c96ee3dc63749e073ac1db18&qualityCode=&qualityid=2048&version=1&guid=5ab91344-691d-398c-f7d4-fa3a2a57ecdc&app=115020310221&cookie=b78f0aedd5c2895b44d5db43b4c8a512&session=b78f0aedd5c2895b44d5db43b4c8a512&uid=104410783305917200221&uname=158839825%40imsi&time=20210221175853&videotype=1&cid=C8000000000000000001515994842250&cname=&cateid=&dev=000001&ep=1&os=30&ps=0099&clienttype=M5+Note&appver=5.5.3.15&res=1080%2A1920&channelid=01181620&pid=1000000432&orderid=&nid=&cp=00000335&sp=00000014&ip=210.0.159.154&ipSign=7311c659a6a5fa0bdae24c7a53
-#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" group-title="地方",DOXTV
+#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" group-title="影视专区",DOXTV
 http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22023/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",爱院线
 http://101.71.255.229:6610/zjhs/2/10116/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -3061,4 +3061,3579 @@ http://junlovefang.top:80/yy.php?id=74025640
 http://junlovefang.top:80/yy.php?id=1352469735
 #EXTINF:-1 group-title="YY轮播",火蓝刀锋
 http://junlovefang.top:80/yy.php?id=39204655
-#EXTINF:-1 group-title="YY轮播",无
+#EXTINF:-1 group-title="YY轮播",无敌燕双鹰系列
+http://junlovefang.top:80/yy.php?id=1353396018
+#EXTINF:-1 group-title="YY轮播",【天下第一】超清
+http://junlovefang.top:80/yy.php?id=30918390
+#EXTINF:-1 group-title="YY轮播",【官方24】精彩影视看不停
+http://junlovefang.top:80/yy.php?id=1351186084
+#EXTINF:-1 group-title="YY轮播",一一战狼一一【战狼三】
+http://junlovefang.top:80/yy.php?id=22185067
+#EXTINF:-1 group-title="YY轮播",少帅-江湖不是打打杀杀
+http://junlovefang.top:80/yy.php?id=1349216768
+#EXTINF:-1 group-title="YY轮播",《我爱我家》字幕版
+http://junlovefang.top:80/yy.php?id=95017956
+#EXTINF:-1 group-title="YY轮播",【雪豹】文章本色出演
+http://junlovefang.top:80/yy.php?id=1351706522
+#EXTINF:-1 group-title="YY轮播",赌片 赌神 赌侠 赌圣
+http://junlovefang.top:80/yy.php?id=1352487950
+#EXTINF:-1 group-title="YY轮播",【盗墓笔记】鬼吹灯全集
+http://junlovefang.top:80/yy.php?id=38338029
+#EXTINF:-1 group-title="YY轮播",新水浒 超清蓝光
+http://junlovefang.top:80/yy.php?id=23206872
+#EXTINF:-1 group-title="YY轮播",天龙八部
+http://junlovefang.top:80/yy.php?id=1351814644
+#EXTINF:-1 group-title="YY轮播",全网独播港版倚天屠龙记
+http://junlovefang.top:80/yy.php?id=1354225236
+#EXTINF:-1 group-title="YY轮播",【神话剧】封神榜
+http://junlovefang.top:80/yy.php?id=1382658112
+#EXTINF:-1 group-title="YY轮播",【正阳门下】经典神剧
+http://junlovefang.top:80/yy.php?id=31128566
+#EXTINF:-1 group-title="YY轮播",林正英僵尸女鬼美
+http://junlovefang.top:80/yy.php?id=27267092
+#EXTINF:-1 group-title="YY轮播",战狼4—高清
+http://junlovefang.top:80/yy.php?id=1354480106
+#EXTINF:-1 group-title="YY轮播",点进来看电影啦
+http://junlovefang.top:80/yy.php?id=72576700
+#EXTINF:-1 group-title="YY轮播",【马大帅】经典喜剧
+http://junlovefang.top:80/yy.php?id=1382660958
+#EXTINF:-1 group-title="YY轮播",林正英-僵尸女鬼惊险刺激
+http://junlovefang.top:80/yy.php?id=28996058
+#EXTINF:-1 group-title="YY轮播",神雕侠侣 倚天屠龙
+http://junlovefang.top:80/yy.php?id=1351762426
+#EXTINF:-1 group-title="YY轮播",《欧美电影》狙击 战争
+http://junlovefang.top:80/yy.php?id=1331053117
+#EXTINF:-1 group-title="YY轮播",恐怖电影鬼片港片最全
+http://junlovefang.top:80/yy.php?id=67242782
+#EXTINF:-1 group-title="YY轮播",豪哥就想搞钱
+http://junlovefang.top:80/yy.php?id=23402146
+#EXTINF:-1 group-title="YY轮播",封神榜
+http://junlovefang.top:80/yy.php?id=1353018094
+#EXTINF:-1 group-title="YY轮播",经典剧一【我是特种兵】一
+http://junlovefang.top:80/yy.php?id=37228835
+#EXTINF:-1 group-title="YY轮播",【盗墓】精绝女王复活
+http://junlovefang.top:80/yy.php?id=36221298
+#EXTINF:-1 group-title="YY轮播",二战 现代战 狙击 动作
+http://junlovefang.top:80/yy.php?id=33989552
+#EXTINF:-1 group-title="YY轮播",电影电影电影电影电影
+http://junlovefang.top:80/yy.php?id=29945997
+#EXTINF:-1 group-title="YY轮播",【一代枭雄】孙红雷
+http://junlovefang.top:80/yy.php?id=23870569
+#EXTINF:-1 group-title="YY轮播",铁齿铜牙纪晓岚1
+http://junlovefang.top:80/yy.php?id=21685049
+#EXTINF:-1 group-title="YY轮播",《欧美影视》500部1
+http://junlovefang.top:80/yy.php?id=1353281165
+#EXTINF:-1 group-title="YY轮播",【港片】赌片 动作2
+http://junlovefang.top:80/yy.php?id=25061163
+#EXTINF:-1 group-title="YY轮播",余罪
+http://junlovefang.top:80/yy.php?id=31809939
+#EXTINF:-1 group-title="YY轮播",【甄子丹系列】超清电影
+http://junlovefang.top:80/yy.php?id=1353314294
+#EXTINF:-1 group-title="YY轮播",发哥赌神电影系列
+http://junlovefang.top:80/yy.php?id=39589923
+#EXTINF:-1 group-title="YY轮播",梁山108好汉
+http://junlovefang.top:80/yy.php?id=33379068
+#EXTINF:-1 group-title="YY轮播",永恒的经典
+http://junlovefang.top:80/yy.php?id=1352356194
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾5
+http://junlovefang.top:80/yy.php?id=21362090
+#EXTINF:-1 group-title="YY轮播",僵尸女鬼搞笑赌片动作
+http://junlovefang.top:80/yy.php?id=21803064
+#EXTINF:-1 group-title="YY轮播",芈月传【全屏蓝光】
+http://junlovefang.top:80/yy.php?id=1382650380
+#EXTINF:-1 group-title="YY轮播",【隋唐英雄传】琪琪陪你看
+http://junlovefang.top:80/yy.php?id=28099939
+#EXTINF:-1 group-title="YY轮播",最新 枪战 动作 经典
+http://junlovefang.top:80/yy.php?id=36377960
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾6
+http://junlovefang.top:80/yy.php?id=1352687906
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾7
+http://junlovefang.top:80/yy.php?id=1352795886
+#EXTINF:-1 group-title="YY轮播",新主播，请照顾菲菲
+http://junlovefang.top:80/yy.php?id=1382648109
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾小不点
+http://junlovefang.top:80/yy.php?id=35133142
+#EXTINF:-1 group-title="YY轮播",欧美 科幻 动作 战争
+http://junlovefang.top:80/yy.php?id=32140089
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾阿易
+http://junlovefang.top:80/yy.php?id=33965268
+#EXTINF:-1 group-title="YY轮播",相亲交友 看鬼片
+http://junlovefang.top:80/yy.php?id=30262199
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾千城
+http://junlovefang.top:80/yy.php?id=34394170
+#EXTINF:-1 group-title="YY轮播",超级刺激电影陌言
+http://junlovefang.top:80/yy.php?id=1452523111
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾玄幻甜宠剧
+http://junlovefang.top:80/yy.php?id=39898854
+#EXTINF:-1 group-title="YY轮播",电影电影1
+http://junlovefang.top:80/yy.php?id=1452550002
+#EXTINF:-1 group-title="YY轮播",陪你看 经典川哥
+http://junlovefang.top:80/yy.php?id=33388696
+#EXTINF:-1 group-title="YY轮播",【香港电影】动作经典赌片慧慧-动作赌片
+http://junlovefang.top:80/yy.php?id=1354330541
+#EXTINF:-1 group-title="YY轮播",《林正英》僵尸鬼片毒蛇-林正英全集
+http://junlovefang.top:80/yy.php?id=1451383233
+#EXTINF:-1 group-title="YY轮播",杰森斯坦森 系列
+http://junlovefang.top:80/yy.php?id=1351774987
+#EXTINF:-1 group-title="YY轮播",[影视]精彩的视觉体验
+http://junlovefang.top:80/yy.php?id=37117068
+#EXTINF:-1 group-title="YY轮播",456李哈哈
+http://junlovefang.top:80/yy.php?id=31002731
+#EXTINF:-1 group-title="YY轮播",恐怖鬼片重口胆小勿进
+http://junlovefang.top:80/yy.php?id=33032985
+#EXTINF:-1 group-title="YY轮播",成龙，高清经典牛牛电影
+http://junlovefang.top:80/yy.php?id=1353617788
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾声息
+http://junlovefang.top:80/yy.php?id=1353924948
+#EXTINF:-1 group-title="YY轮播",【神话剧】封神榜雨婷妹妹
+http://junlovefang.top:80/yy.php?id=1354244552
+#EXTINF:-1 group-title="YY轮播",佛陀传
+http://junlovefang.top:80/yy.php?id=28299780
+#EXTINF:-1 group-title="YY轮播",【经典港片】动作喜剧小可爱
+http://junlovefang.top:80/yy.php?id=38670875
+#EXTINF:-1 group-title="YY轮播",摆渡灵魂序幕开始
+http://junlovefang.top:80/yy.php?id=1352743715
+#EXTINF:-1 group-title="YY轮播",少年包青天燕曦曦
+http://junlovefang.top:80/yy.php?id=1351793183
+#EXTINF:-1 group-title="YY轮播",热门经典周星驰系列电影
+http://junlovefang.top:80/yy.php?id=35321525
+#EXTINF:-1 group-title="YY轮播",【武侠片】倚天屠龙记夏美晗
+http://junlovefang.top:80/yy.php?id=1354244528
+#EXTINF:-1 group-title="YY轮播",延禧攻略1.2季蓝光全屏
+http://junlovefang.top:80/yy.php?id=1353894685
+#EXTINF:-1 group-title="YY轮播",江湖不是打打杀杀
+http://junlovefang.top:80/yy.php?id=1353290476
+#EXTINF:-1 group-title="YY轮播",丫头抗战经典剧
+http://junlovefang.top:80/yy.php?id=18971688
+#EXTINF:-1 group-title="YY轮播",☠鬼吹灯☯盗墓笔记☠
+http://junlovefang.top:80/yy.php?id=33386733
+#EXTINF:-1 group-title="YY轮播",战狼三电影版
+http://junlovefang.top:80/yy.php?id=30510265
+#EXTINF:-1 group-title="YY轮播",【三多顺溜】小圈出人陪看
+http://junlovefang.top:80/yy.php?id=1353594050
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾西游记
+http://junlovefang.top:80/yy.php?id=1352906405
+#EXTINF:-1 group-title="YY轮播",西游记lsbaby
+http://junlovefang.top:80/yy.php?id=27739077
+#EXTINF:-1 group-title="YY轮播",盗墓系列 彭禺厶系列电影
+http://junlovefang.top:80/yy.php?id=1353200190
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾无味
+http://junlovefang.top:80/yy.php?id=78939373
+#EXTINF:-1 group-title="YY轮播",电影电影电影电影小虾米
+http://junlovefang.top:80/yy.php?id=1354076248
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾逗逗电影
+http://junlovefang.top:80/yy.php?id=94171271
+#EXTINF:-1 group-title="YY轮播",林正英-绝版僵尸鬼片
+http://junlovefang.top:80/yy.php?id=27635899
+#EXTINF:-1 group-title="YY轮播",【僵尸玄幻】惊险刺激电影
+http://junlovefang.top:80/yy.php?id=24921161
+#EXTINF:-1 group-title="YY轮播",一卷风云琅琊榜
+http://junlovefang.top:80/yy.php?id=26958525
+#EXTINF:-1 group-title="YY轮播",隋唐英雄传小小萌
+http://junlovefang.top:80/yy.php?id=1352916427
+#EXTINF:-1 group-title="YY轮播",【海外电影】超燃巨作
+http://junlovefang.top:80/yy.php?id=26623173
+#EXTINF:-1 group-title="YY轮播",【爱情公寓5】5抢先看
+http://junlovefang.top:80/yy.php?id=1353618287
+#EXTINF:-1 group-title="YY轮播",吖宝【欧美科幻丧尸】
+http://junlovefang.top:80/yy.php?id=29460894
+#EXTINF:-1 group-title="YY轮播",盗墓玄幻系列酷小蓝
+http://junlovefang.top:80/yy.php?id=1382651025
+#EXTINF:-1 group-title="YY轮播",电影大全
+http://junlovefang.top:80/yy.php?id=38381068
+#EXTINF:-1 group-title="YY轮播",僵尸女鬼 24小时播放排行喵小暖
+http://junlovefang.top:80/yy.php?id=79049030
+#EXTINF:-1 group-title="YY轮播",薛仁贵薛元帅九妹
+http://junlovefang.top:80/yy.php?id=31313785
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾陪你看-球球
+http://junlovefang.top:80/yy.php?id=1349198735
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾果果
+http://junlovefang.top:80/yy.php?id=31542198
+#EXTINF:-1 group-title="YY轮播",恐怖 血腥 超清 轮播悟空
+http://junlovefang.top:80/yy.php?id=35285823
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾葫芦娃
+http://junlovefang.top:80/yy.php?id=36493344
+#EXTINF:-1 group-title="YY轮播",【林正英】僵尸女鬼贝贝
+http://junlovefang.top:80/yy.php?id=22039779
+#EXTINF:-1 group-title="YY轮播",晴儿-陪你看 新三国
+http://junlovefang.top:80/yy.php?id=1354110996
+#EXTINF:-1 group-title="YY轮播",《神盾局》1-4全集
+http://junlovefang.top:80/yy.php?id=99109596
+#EXTINF:-1 group-title="YY轮播",港版西游记
+http://junlovefang.top:80/yy.php?id=1352875014
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾回忆
+http://junlovefang.top:80/yy.php?id=1353394048
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾3594回忆
+http://junlovefang.top:80/yy.php?id=1351758200
+#EXTINF:-1 group-title="YY轮播",【坏蛋怎样炼成的】谢文东
+http://junlovefang.top:80/yy.php?id=33323673
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾媚儿交通站
+http://junlovefang.top:80/yy.php?id=23681346
+#EXTINF:-1 group-title="YY轮播",高清隋唐英雄传
+http://junlovefang.top:80/yy.php?id=1352475619
+#EXTINF:-1 group-title="YY轮播",恐怖片印度神油
+http://junlovefang.top:80/yy.php?id=25602101
+#EXTINF:-1 group-title="YY轮播",【金庸经典】天龙 神雕
+http://junlovefang.top:80/yy.php?id=1351737021
+#EXTINF:-1 group-title="YY轮播",【私人放映厅】
+http://junlovefang.top:80/yy.php?id=37033309
+#EXTINF:-1 group-title="YY轮播",超清鬼片两千部
+http://junlovefang.top:80/yy.php?id=1450388008
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾重口味小兰
+http://junlovefang.top:80/yy.php?id=1353399319
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾叮当 科幻电影
+http://junlovefang.top:80/yy.php?id=1353446734
+#EXTINF:-1 group-title="YY轮播",经典电影琳达
+http://junlovefang.top:80/yy.php?id=33453966
+#EXTINF:-1 group-title="YY轮播",你的149906直播间
+http://junlovefang.top:80/yy.php?id=1351844200
+#EXTINF:-1 group-title="YY轮播",经典欧美科幻大片点点影视
+http://junlovefang.top:80/yy.php?id=26472224
+#EXTINF:-1 group-title="YY轮播",女鬼l来了 刺激
+http://junlovefang.top:80/yy.php?id=57084183
+#EXTINF:-1 group-title="YY轮播",北京青年
+http://junlovefang.top:80/yy.php?id=1353839872
+#EXTINF:-1 group-title="YY轮播",探案神剧，少年包青天
+http://junlovefang.top:80/yy.php?id=1382651363
+#EXTINF:-1 group-title="YY轮播",【重案六组1-4
+http://junlovefang.top:80/yy.php?id=35258317
+#EXTINF:-1 group-title="YY轮播",【刘海柱】东北往事20年
+http://junlovefang.top:80/yy.php?id=34585884
+#EXTINF:-1 group-title="YY轮播",☠龙岭迷窟盗墓笔记☠
+http://junlovefang.top:80/yy.php?id=33006393
+#EXTINF:-1 group-title="YY轮播",乐乐-求守护-太难了
+http://junlovefang.top:80/yy.php?id=1352946111
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾小凡
+http://junlovefang.top:80/yy.php?id=1393958857
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾苹果电影-蓝光4K
+http://junlovefang.top:80/yy.php?id=23512910
+#EXTINF:-1 group-title="YY轮播",【超清大电影】
+http://junlovefang.top:80/yy.php?id=1351053003
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾小小
+http://junlovefang.top:80/yy.php?id=96731358
+#EXTINF:-1 group-title="YY轮播",疯狂手撕女鬼
+http://junlovefang.top:80/yy.php?id=27772604
+#EXTINF:-1 group-title="YY轮播",电影小仙女
+http://junlovefang.top:80/yy.php?id=36304185
+#EXTINF:-1 group-title="YY轮播",新白娘子传奇林妹妹
+http://junlovefang.top:80/yy.php?id=1382650232
+#EXTINF:-1 group-title="YY轮播",精彩鬼片 胆小勿进佟瑶
+http://junlovefang.top:80/yy.php?id=23531261
+#EXTINF:-1 group-title="YY轮播",少年包青天少年包青天
+http://junlovefang.top:80/yy.php?id=25656907
+#EXTINF:-1 group-title="YY轮播",经典刺激搞笑电影
+http://junlovefang.top:80/yy.php?id=1353288921
+#EXTINF:-1 group-title="YY轮播",我和僵尸有个约会小甜甜
+http://junlovefang.top:80/yy.php?id=1353392400
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾【义+】朵儿
+http://junlovefang.top:80/yy.php?id=1353753252
+#EXTINF:-1 group-title="YY轮播",【新水浒】梁山好汉兄弟
+http://junlovefang.top:80/yy.php?id=1382658114
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾小恶魔
+http://junlovefang.top:80/yy.php?id=26409888
+#EXTINF:-1 group-title="YY轮播",欧美科幻灾难丧尸
+http://junlovefang.top:80/yy.php?id=1382651411
+#EXTINF:-1 group-title="YY轮播",【燕双鹰专场】蓝光全屏
+http://junlovefang.top:80/yy.php?id=23026835
+#EXTINF:-1 group-title="YY轮播",精彩不断24挂机圣地
+http://junlovefang.top:80/yy.php?id=93299109
+#EXTINF:-1 group-title="YY轮播",【经典】奥特曼大合集
+http://junlovefang.top:80/yy.php?id=1353323999
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾大漂亮
+http://junlovefang.top:80/yy.php?id=1353493353
+#EXTINF:-1 group-title="YY轮播",全网最激情恐怖电影
+http://junlovefang.top:80/yy.php?id=32326398
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾大耳朵
+http://junlovefang.top:80/yy.php?id=1353860021
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾小言
+http://junlovefang.top:80/yy.php?id=1353312849
+#EXTINF:-1 group-title="YY轮播",强哥霸气
+http://junlovefang.top:80/yy.php?id=1354223360
+#EXTINF:-1 group-title="YY轮播",电影-鬼片 女鬼来了小薇
+http://junlovefang.top:80/yy.php?id=37587300
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾24陪你看-哇塞电影
+http://junlovefang.top:80/yy.php?id=40959929
+#EXTINF:-1 group-title="YY轮播",欧美科幻电影妞妞
+http://junlovefang.top:80/yy.php?id=42932063
+#EXTINF:-1 group-title="YY轮播",24小时带你回顾经典剧场
+http://junlovefang.top:80/yy.php?id=1350562684
+#EXTINF:-1 group-title="YY轮播",僵尸女鬼来找你了小道士又回来了
+http://junlovefang.top:80/yy.php?id=1353891609
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾雨溪 求家长守护
+http://junlovefang.top:80/yy.php?id=58861585
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾毛毛影视
+http://junlovefang.top:80/yy.php?id=29836909
+#EXTINF:-1 group-title="YY轮播",【蓝光】海外精品影院
+http://junlovefang.top:80/yy.php?id=88009971
+#EXTINF:-1 group-title="YY轮播",搞笑一家人-爆笑情景剧
+http://junlovefang.top:80/yy.php?id=1353085648
+#EXTINF:-1 group-title="YY轮播",海外影视
+http://junlovefang.top:80/yy.php?id=1353245560
+#EXTINF:-1 group-title="YY轮播",《欧美电影》二战 狙击
+http://junlovefang.top:80/yy.php?id=33128209
+#EXTINF:-1 group-title="YY轮播",相声德云社郭德纲于谦高清
+http://junlovefang.top:80/yy.php?id=1336500053
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾九儿
+http://junlovefang.top:80/yy.php?id=1353269995
+#EXTINF:-1 group-title="YY轮播",楚汉传奇
+http://junlovefang.top:80/yy.php?id=39366067
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾小酒窝《求大哥保护》
+http://junlovefang.top:80/yy.php?id=27580319
+#EXTINF:-1 group-title="YY轮播",最新-影视--抢先看
+http://junlovefang.top:80/yy.php?id=1354007765
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾莹颖莺
+http://junlovefang.top:80/yy.php?id=1354273840
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾冷研电影院
+http://junlovefang.top:80/yy.php?id=43373779
+#EXTINF:-1 group-title="YY轮播",【老包青天】经典回顾
+http://junlovefang.top:80/yy.php?id=37033388
+#EXTINF:-1 group-title="YY轮播",回家看看
+http://junlovefang.top:80/yy.php?id=1352183861
+#EXTINF:-1 group-title="YY轮播",胖朵
+http://junlovefang.top:80/yy.php?id=26584882
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾五福影视
+http://junlovefang.top:80/yy.php?id=59388298
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾重口妹A兰兰
+http://junlovefang.top:80/yy.php?id=1353732453
+#EXTINF:-1 group-title="YY轮播",恐怖片鬼片港片高飞恐怖电影
+http://junlovefang.top:80/yy.php?id=83881539
+#EXTINF:-1 group-title="YY轮播",速度与激情
+http://junlovefang.top:80/yy.php?id=22937730
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾诗心影视
+http://junlovefang.top:80/yy.php?id=31368110
+#EXTINF:-1 group-title="YY轮播",电影之王塘下
+http://junlovefang.top:80/yy.php?id=1353438029
+#EXTINF:-1 group-title="YY轮播",僵尸女鬼-恐怖搞笑奇幻
+http://junlovefang.top:80/yy.php?id=1353831640
+#EXTINF:-1 group-title="YY轮播",亮剑超清全屏
+http://junlovefang.top:80/yy.php?id=32110908
+#EXTINF:-1 group-title="YY轮播",新主播，求照顾雪
+http://junlovefang.top:80/yy.php?id=22325556
+#EXTINF:-1 group-title="虎牙电影",国产青春爱情
+http://bd.hls.huya.com/src/1524439836-1524439836-6547419240339603456-3049003128-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",国产青春爱情
+http://junlovefang.top:80/huya.php?id=11602075&k=3
+#EXTINF:-1 group-title="虎牙电影",各国赌片
+http://bd.hls.huya.com/src/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",各国赌片
+http://junlovefang.top:80/huya.php?id=11342399&k=3
+#EXTINF:-1 group-title="虎牙电影",黑帮大片
+http://bd.hls.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",黑帮大片
+http://junlovefang.top:80/huya.php?id=11336719&k=3
+#EXTINF:-1 group-title="虎牙电影",港片女神
+http://bd.hls.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",港片女神
+http://junlovefang.top:80/huya.php?id=11342429&k=3
+#EXTINF:-1 group-title="虎牙电影",女神系列二
+http://bd.hls.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",女神系列二
+http://junlovefang.top:80/huya.php?id=11336571&k=3
+#EXTINF:-1 group-title="虎牙电影",历年贺岁档
+http://bd.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",历年贺岁档
+http://junlovefang.top:80/huya.php?id=11601986&k=3
+#EXTINF:-1 group-title="虎牙电影",飞车电影系列
+http://bd.hls.huya.com/src/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",飞车电影系列
+http://junlovefang.top:80/huya.php?id=11279247&k=3
+#EXTINF:-1 group-title="虎牙电影",动作悬疑片
+http://bd.hls.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",动作悬疑片
+http://junlovefang.top:80/huya.php?id=11602077&k=3
+#EXTINF:-1 group-title="虎牙电影",搞笑喜剧电影
+http://bd.hls.huya.com/src/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",搞笑喜剧电影
+http://junlovefang.top:80/huya.php?id=11602044&k=3
+#EXTINF:-1 group-title="虎牙电影",虎牙八点档
+http://bd.hls.huya.com/src/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",虎牙八点档
+http://junlovefang.top:80/huya.php?id=880261&k=3
+#EXTINF:-1 group-title="虎牙电影",经典高智商犯罪片
+http://bd.hls.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",经典高智商犯罪片
+http://junlovefang.top:80/huya.php?id=11352962&k=3
+#EXTINF:-1 group-title="虎牙电影",五福星系列
+http://bd.hls.huya.com/src/58461003-58461003-251088095976357888-2713685416-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",五福星系列
+http://junlovefang.top:80/huya.php?id=11282233&k=3
+#EXTINF:-1 group-title="虎牙电影",卧底警匪
+http://bd.hls.huya.com/src/29169025-2686220598-11537229618251563008-2847687556-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",卧底警匪
+http://junlovefang.top:80/huya.php?id=11352886&k=3
+#EXTINF:-1 group-title="虎牙电影",一起看电影不香嘛
+http://bd.hls.huya.com/src/1394575536-1394575536-5989656318921670656-2789274528-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",一起看电影不香嘛
+http://junlovefang.top:80/huya.php?id=11342414&k=3
+#EXTINF:-1 group-title="虎牙电影",港产搞笑
+http://bd.hls.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",港产搞笑
+http://junlovefang.top:80/huya.php?id=11601960&k=3
+#EXTINF:-1 group-title="虎牙电影",0079-女特工
+http://bd.hls.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",0079-女特工
+http://junlovefang.top:80/huya.php?id=11342423&k=3
+#EXTINF:-1 group-title="虎牙电影",国产战争大片
+http://bd.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",国产战争大片
+http://junlovefang.top:80/huya.php?id=11342435&k=3
+#EXTINF:-1 group-title="虎牙电影",陆小凤推理破案系列
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",陆小凤推理破案系列
+http://junlovefang.top:80/huya.php?id=11336725&k=3
+#EXTINF:-1 group-title="虎牙电影",杨门女将系列
+http://bd.hls.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",杨门女将系列
+http://junlovefang.top:80/huya.php?id=11336590&k=3
+#EXTINF:-1 group-title="虎牙电影",粤语专场
+http://bd.hls.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",粤语专场
+http://junlovefang.top:80/huya.php?id=11352894&k=3
+#EXTINF:-1 group-title="虎牙电影",国产动作大片
+http://bd.hls.huya.com/src/1423782021-1423782021-6115097216827785216-2847687498-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",国产动作大片
+http://junlovefang.top:80/huya.php?id=11352869&k=3
+#EXTINF:-1 group-title="虎牙电影",最佳拍档
+http://bd.hls.huya.com/src/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",最佳拍档
+http://junlovefang.top:80/huya.php?id=11342397&k=3
+#EXTINF:-1 group-title="虎牙电影",释小龙臭屁文
+http://bd.hls.huya.com/src/1448686620-1448686620-6222061655052779520-2789253878-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",释小龙臭屁文
+http://junlovefang.top:80/huya.php?id=11342402&k=3
+#EXTINF:-1 group-title="虎牙电影",灾难片
+http://bd.hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",灾难片
+http://junlovefang.top:80/huya.php?id=11352871&k=3
+#EXTINF:-1 group-title="虎牙电影",许氏三杰
+http://bd.hls.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",许氏三杰
+http://junlovefang.top:80/huya.php?id=11602033&k=3
+#EXTINF:-1 group-title="虎牙电影",富贵系列
+http://bd.hls.huya.com/src/1423787819-1423787819-6115122119048167424-2847699094-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",富贵系列
+http://junlovefang.top:80/huya.php?id=11352934&k=3
+#EXTINF:-1 group-title="虎牙电影",猛男追女仔
+http://bd.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",猛男追女仔
+http://junlovefang.top:80/huya.php?id=11352941&k=3
+#EXTINF:-1 group-title="虎牙电影",镖行天下
+http://bd.hls.huya.com/src/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",镖行天下
+http://junlovefang.top:80/huya.php?id=11352969&k=3
+#EXTINF:-1 group-title="虎牙电影",开心鬼
+http://bd.hls.huya.com/src/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",开心鬼
+http://junlovefang.top:80/huya.php?id=11342388&k=3
+#EXTINF:-1 group-title="虎牙电影",霸王花皇家师姐
+http://bd.hls.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",霸王花皇家师姐
+http://junlovefang.top:80/huya.php?id=11352909&k=3
+#EXTINF:-1 group-title="虎牙电影",红色经典电影
+http://bd.hls.huya.com/src/1420752082-1420752082-6102083727913910272-3049003134-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",红色经典电影
+http://junlovefang.top:80/huya.php?id=11602076&k=3
+#EXTINF:-1 group-title="虎牙电影",六扇门古装探案
+http://bd.hls.huya.com/src/43460312-43460312-186660618713956352-2847687638-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",六扇门古装探案
+http://junlovefang.top:80/huya.php?id=11352917&k=3
+#EXTINF:-1 group-title="虎牙电影",盗墓系列
+http://bd.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",盗墓系列
+http://junlovefang.top:80/huya.php?id=11352913&k=3
+#EXTINF:-1 group-title="虎牙电影",火线追凶系列
+http://bd.hls.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电影",火线追凶系列
+http://junlovefang.top:80/huya.php?id=11602069&k=3
+#EXTINF:-1 group-title="虎牙电视剧",神医喜来乐
+http://bd.hls.huya.com/src/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",神医喜来乐
+http://junlovefang.top:80/huya.php?id=11601978&k=3
+#EXTINF:-1 group-title="虎牙电视剧",陈翔六点半
+http://bd.hls.huya.com/src/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",陈翔六点半
+http://junlovefang.top:80/huya.php?id=cxldb&k=3
+#EXTINF:-1 group-title="虎牙电视剧",爱情公寓
+http://bd.hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",爱情公寓
+http://junlovefang.top:80/huya.php?id=11336726&k=3
+#EXTINF:-1 group-title="虎牙电视剧",屌丝男士
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789274540-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",屌丝男士
+http://junlovefang.top:80/huya.php?id=11342420&k=3
+#EXTINF:-1 group-title="虎牙电视剧",家有儿女
+http://bd.hls.huya.com/src/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",家有儿女
+http://junlovefang.top:80/huya.php?id=11352872&k=3
+#EXTINF:-1 group-title="虎牙电视剧",少年包青天
+http://bd.hls.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",少年包青天
+http://junlovefang.top:80/huya.php?id=11342393&k=3
+#EXTINF:-1 group-title="虎牙电视剧",关中盗墓贼
+http://bd.hls.huya.com/src/1340763124-1340763124-5758533769262792704-2777026902-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",关中盗墓贼
+http://junlovefang.top:80/huya.php?id=11336572&k=3
+#EXTINF:-1 group-title="虎牙电视剧",西游记
+http://bd.hls.huya.com/src/1420294575-1420294575-6100118750311219200-3048991588-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",西游记
+http://junlovefang.top:80/huya.php?id=11602031&k=3
+#EXTINF:-1 group-title="虎牙电视剧",民兵葛二蛋
+http://bd.hls.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",民兵葛二蛋
+http://junlovefang.top:80/huya.php?id=11602072&k=3
+#EXTINF:-1 group-title="虎牙电视剧",魔幻手机
+http://bd.hls.huya.com/src/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",魔幻手机
+http://junlovefang.top:80/huya.php?id=11602065&k=3
+#EXTINF:-1 group-title="虎牙电视剧",僵尸道长
+http://bd.hls.huya.com/src/1449580415-1449580415-6225900475347107840-2847699190-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",僵尸道长
+http://junlovefang.top:80/huya.php?id=11352963&k=3
+#EXTINF:-1 group-title="虎牙电视剧",湾偶像剧
+http://bd.hls.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",湾偶像剧
+http://junlovefang.top:80/huya.php?id=11352960&k=3
+#EXTINF:-1 group-title="虎牙电视剧",我爱男闺蜜
+http://bd.hls.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",我爱男闺蜜
+http://junlovefang.top:80/huya.php?id=11601971&k=3
+#EXTINF:-1 group-title="虎牙电视剧",我们结婚吧
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",我们结婚吧
+http://junlovefang.top:80/huya.php?id=11342394&k=3
+#EXTINF:-1 group-title="虎牙电视剧",大男当婚
+http://bd.hls.huya.com/src/1524434105-1524434105-6547394625882030080-3048991666-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",大男当婚
+http://junlovefang.top:80/huya.php?id=11602054&k=3
+#EXTINF:-1 group-title="虎牙电视剧",谎言的诱惑
+http://bd.hls.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",谎言的诱惑
+http://junlovefang.top:80/huya.php?id=11352903&k=3
+#EXTINF:-1 group-title="虎牙电视剧",天下第一
+http://bd.hls.huya.com/src/1524434084-1524434084-6547394535687716864-3048991624-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",天下第一
+http://junlovefang.top:80/huya.php?id=11602042&k=3
+#EXTINF:-1 group-title="虎牙电视剧",宝莲灯
+http://bd.hls.huya.com/src/1423787848-1423787848-6115122243602219008-2847699152-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",宝莲灯
+http://junlovefang.top:80/huya.php?id=11352953&k=3
+#EXTINF:-1 group-title="虎牙电视剧",医馆笑传
+http://bd.hls.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",医馆笑传
+http://junlovefang.top:80/huya.php?id=11352891&k=3
+#EXTINF:-1 group-title="虎牙电视剧",生存之民工黄渤
+http://bd.hls.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",生存之民工黄渤
+http://junlovefang.top:80/huya.php?id=11602088&k=3
+#EXTINF:-1 group-title="虎牙电视剧",情深深雨濛濛
+http://bd.hls.huya.com/src/1449580358-1449580358-6225900230533971968-2847687552-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",情深深雨濛濛
+http://junlovefang.top:80/huya.php?id=11352885&k=3
+#EXTINF:-1 group-title="虎牙电视剧",令狐冲&东方不败
+http://bd.hls.huya.com/src/1524418076-1524418076-6547325781851242496-3048959608-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",令狐冲&东方不败
+http://junlovefang.top:80/huya.php?id=11601962&k=3
+#EXTINF:-1 group-title="虎牙电视剧",国产悬疑精品后脑勺发凉
+http://bd.hls.huya.com/src/1423787852-1423787852-6115122260782088192-2847699160-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",国产悬疑精品后脑勺发凉
+http://junlovefang.top:80/huya.php?id=11352956&k=3
+#EXTINF:-1 group-title="虎牙电视剧",步步惊心
+http://bd.hls.huya.com/src/28302995-28302995-121560437903851520-3048959616-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",步步惊心
+http://junlovefang.top:80/huya.php?id=11601965&k=3
+#EXTINF:-1 group-title="虎牙电视剧",【七仙女】惊天地泣鬼神的传奇爱情故事
+http://bd.hls.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",【七仙女】惊天地泣鬼神的传奇爱情故事
+http://junlovefang.top:80/huya.php?id=11352975&k=3
+#EXTINF:-1 group-title="虎牙电视剧",男人帮
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",男人帮
+http://junlovefang.top:80/huya.php?id=11336587&k=3
+#EXTINF:-1 group-title="虎牙电视剧",中国刑侦一号案
+http://bd.hls.huya.com/src/1423787874-1423787874-6115122355271368704-2847699204-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",中国刑侦一号案
+http://junlovefang.top:80/huya.php?id=11352967&k=3
+#EXTINF:-1 group-title="虎牙电视剧",仙侠剧开创者
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2777027388-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",仙侠剧开创者
+http://junlovefang.top:80/huya.php?id=11336579&k=3
+#EXTINF:-1 group-title="虎牙电视剧",港产恐怖
+http://bd.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",港产恐怖
+http://junlovefang.top:80/huya.php?id=11352954&k=3
+#EXTINF:-1 group-title="虎牙电视剧",美女特工电影
+http://bd.hls.huya.com/src/1449380984-1449380984-6225043925724299264-2847699200-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",美女特工电影
+http://junlovefang.top:80/huya.php?id=11352966&k=3
+#EXTINF:-1 group-title="虎牙电视剧",搜神传中国神话故事传说
+http://bd.hls.huya.com/src/1394575567-1394575567-5989656452065656832-2789274590-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",搜神传中国神话故事传说
+http://junlovefang.top:80/huya.php?id=11342437&k=3
+#EXTINF:-1 group-title="虎牙电视剧",这剧很火
+http://bd.hls.huya.com/src/1199522501236-1199522501236-5268317059774676992-2399045125928-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",这剧很火
+http://junlovefang.top:80/huya.php?id=19811530&k=3
+#EXTINF:-1 group-title="虎牙电视剧",大瓜大瓜没想到你是这样的猪
+http://bd.hls.huya.com/src/1449575331-1449575331-6225878639733374976-2789274584-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",大瓜大瓜没想到你是这样的猪
+http://junlovefang.top:80/huya.php?id=11342436&k=3
+#EXTINF:-1 group-title="虎牙电视剧",傅艺伟版封神演义
+http://bd.hls.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",傅艺伟版封神演义
+http://junlovefang.top:80/huya.php?id=19524135&k=3
+#EXTINF:-1 group-title="虎牙电视剧",插翅难逃
+http://bd.hls.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",插翅难逃
+http://junlovefang.top:80/huya.php?id=11352940&k=3
+#EXTINF:-1 group-title="虎牙电视剧",一仆二主
+http://bd.hls.huya.com/src/1524418059-1524418059-6547325708836798464-3048959574-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",一仆二主
+http://junlovefang.top:80/huya.php?id=11601955&k=3
+#EXTINF:-1 group-title="虎牙电视剧",我是特种兵
+http://bd.hls.huya.com/src/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",我是特种兵
+http://junlovefang.top:80/huya.php?id=11342385&k=3
+#EXTINF:-1 group-title="虎牙电视剧",杨门虎将
+http://bd.hls.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",杨门虎将
+http://junlovefang.top:80/huya.php?id=11342422&k=3
+#EXTINF:-1 group-title="虎牙电视剧",花千骨
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",花千骨
+http://junlovefang.top:80/huya.php?id=11342433&k=3
+#EXTINF:-1 group-title="虎牙电视剧",风云
+http://bd.hls.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",风云
+http://junlovefang.top:80/huya.php?id=11352881&k=3
+#EXTINF:-1 group-title="虎牙电视剧",神探狄仁杰
+http://bd.hls.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",神探狄仁杰
+http://junlovefang.top:80/huya.php?id=11352958&k=3
+#EXTINF:-1 group-title="虎牙电视剧",通讯班快集合
+http://bd.hls.huya.com/src/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",通讯班快集合
+http://junlovefang.top:80/huya.php?id=11342434&k=3
+#EXTINF:-1 group-title="虎牙电视剧",征服
+http://bd.hls.huya.com/src/1388457186-1388457186-5963378205766189056-2777037828-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",征服
+http://junlovefang.top:80/huya.php?id=11336591&k=3
+#EXTINF:-1 group-title="虎牙电视剧",孙红雷作品集
+http://bd.hls.huya.com/src/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",孙红雷作品集
+http://junlovefang.top:80/huya.php?id=11352973&k=3
+#EXTINF:-1 group-title="虎牙电视剧",火蓝刀锋
+http://bd.hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",火蓝刀锋
+http://junlovefang.top:80/huya.php?id=11336592&k=3
+#EXTINF:-1 group-title="虎牙电视剧",知否知否应是绿肥红瘦
+http://bd.hls.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",知否知否应是绿肥红瘦
+http://junlovefang.top:80/huya.php?id=11602068&k=3
+#EXTINF:-1 group-title="虎牙电视剧",人民的名义
+http://bd.hls.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",人民的名义
+http://junlovefang.top:80/huya.php?id=11342425&k=3
+#EXTINF:-1 group-title="虎牙电视剧",篮球火街头篮球
+https://txdirect.flv.huya.com/huyalive/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1.flv?
+#EXTINF:-1 group-title="虎牙电视剧",篮球火街头篮球
+http://junlovefang.top:80/huya.php?id=11352959&k=3
+#EXTINF:-1 group-title="虎牙电视剧",卫国无敌
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2777027178-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",卫国无敌
+http://junlovefang.top:80/huya.php?id=11336578&k=3
+#EXTINF:-1 group-title="虎牙电视剧",春天后母心
+http://bd.hls.huya.com/src/1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",春天后母心
+http://junlovefang.top:80/huya.php?id=11601982&k=3
+#EXTINF:-1 group-title="虎牙电视剧",鹿鼎记
+http://bd.hls.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",鹿鼎记
+http://junlovefang.top:80/huya.php?id=11352910&k=3
+#EXTINF:-1 group-title="虎牙电视剧",逗乐情景喜剧
+http://bd.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",逗乐情景喜剧
+http://junlovefang.top:80/huya.php?id=11352895&k=3
+#EXTINF:-1 group-title="虎牙电视剧",齐天大圣孙悟空
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",齐天大圣孙悟空
+http://junlovefang.top:80/huya.php?id=11342395&k=3
+#EXTINF:-1 group-title="虎牙电视剧",天堂向左深圳向右
+http://bd.hls.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",天堂向左深圳向右
+http://junlovefang.top:80/huya.php?id=11352965&k=3
+#EXTINF:-1 group-title="虎牙电视剧",命案十三宗
+http://bd.hls.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",命案十三宗
+http://junlovefang.top:80/huya.php?id=11601981&k=3
+#EXTINF:-1 group-title="虎牙电视剧",漂洋过海的来看你
+http://bd.hls.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",漂洋过海的来看你
+http://junlovefang.top:80/huya.php?id=11352875&k=3
+#EXTINF:-1 group-title="虎牙电视剧",倚天屠龙记
+http://bd.hls.huya.com/src/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",倚天屠龙记
+http://junlovefang.top:80/huya.php?id=11342403&k=3
+#EXTINF:-1 group-title="虎牙电视剧",童年神剧
+http://bd.hls.huya.com/src/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",童年神剧
+http://junlovefang.top:80/huya.php?id=11352948&k=3
+#EXTINF:-1 group-title="虎牙电视剧",大江 王凯杨烁董子健 经典好剧
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",大江 王凯杨烁董子健 经典好剧
+http://junlovefang.top:80/huya.php?id=11602085&k=3
+#EXTINF:-1 group-title="虎牙电视剧",龙门镖局
+http://bd.hls.huya.com/src/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",龙门镖局
+http://junlovefang.top:80/huya.php?id=11352874&k=3
+#EXTINF:-1 group-title="虎牙电视剧",布衣天子
+http://bd.hls.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",布衣天子
+http://junlovefang.top:80/huya.php?id=11352887&k=3
+#EXTINF:-1 group-title="虎牙电视剧",二炮手孙红雷与日军的故事
+http://bd.hls.huya.com/src/1524418067-1524418067-6547325743196536832-3048959590-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",二炮手孙红雷与日军的故事
+http://junlovefang.top:80/huya.php?id=11601958&k=3
+#EXTINF:-1 group-title="虎牙电视剧",大染坊
+http://bd.hls.huya.com/src/1423782076-1423782076-6115097453050986496-2847687608-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",大染坊
+http://junlovefang.top:80/huya.php?id=11352905&k=3
+#EXTINF:-1 group-title="虎牙电视剧",最好看的历史剧
+http://bd.hls.huya.com/src/1423782093-1423782093-6115097526065430528-2847687642-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",最好看的历史剧
+http://junlovefang.top:80/huya.php?id=11352918&k=3
+#EXTINF:-1 group-title="虎牙电视剧",巩汉林经典巴哥
+http://bd.hls.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",巩汉林经典巴哥
+http://junlovefang.top:80/huya.php?id=11602086&k=3
+#EXTINF:-1 group-title="虎牙电视剧",王宝强-平凡的一生
+http://bd.hls.huya.com/src/1524418065-1524418065-6547325734606602240-3048959586-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",王宝强-平凡的一生
+http://junlovefang.top:80/huya.php?id=11601957&k=3
+#EXTINF:-1 group-title="虎牙电视剧",新还珠格格
+http://bd.hls.huya.com/src/1394575537-1394575537-5989656323216637952-2789274530-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",新还珠格格
+http://junlovefang.top:80/huya.php?id=11342415&k=3
+#EXTINF:-1 group-title="虎牙电视剧",周董上线 这波演技什么水平
+http://bd.hls.huya.com/src/1524434076-1524434076-6547394501327978496-3048991608-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",周董上线 这波演技什么水平
+http://junlovefang.top:80/huya.php?id=11602036&k=3
+#EXTINF:-1 group-title="虎牙电视剧",李小龙 阿达武术宗师
+http://bd.hls.huya.com/src/1524439827-1524439827-6547419201684897792-3049003110-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",李小龙 阿达武术宗师
+http://junlovefang.top:80/huya.php?id=11602067&k=3
+#EXTINF:-1 group-title="虎牙电视剧",陆贞传奇
+http://bd.hls.huya.com/src/1423782075-1423782075-6115097448756019200-2847687606-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",陆贞传奇
+http://junlovefang.top:80/huya.php?id=11352904&k=3
+#EXTINF:-1 group-title="虎牙电视剧",神话
+http://bd.hls.huya.com/src/1524439835-1524439835-6547419236044636160-3049003126-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",神话
+http://junlovefang.top:80/huya.php?id=11602074&k=3
+#EXTINF:-1 group-title="虎牙电视剧",邻里一家亲
+http://bd.hls.huya.com/src/1449584516-1449584516-6225918089007988736-2789274554-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",邻里一家亲
+http://junlovefang.top:80/huya.php?id=11342426&k=3
+#EXTINF:-1 group-title="虎牙电视剧",回家的诱惑
+http://bd.hls.huya.com/src/1449698863-1449698863-6226409205633384448-2847687652-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",回家的诱惑
+http://junlovefang.top:80/huya.php?id=11352920&k=3
+#EXTINF:-1 group-title="虎牙电视剧",法医秦明
+http://bd.hls.huya.com/src/1423787845-1423787845-6115122230717317120-2847699146-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",法医秦明
+http://junlovefang.top:80/huya.php?id=11352950&k=3
+#EXTINF:-1 group-title="虎牙电视剧",毛骗
+http://bd.hls.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",毛骗
+http://junlovefang.top:80/huya.php?id=11352912&k=3
+#EXTINF:-1 group-title="虎牙电视剧",你好我好都好
+http://bd.hls.huya.com/src/1449698705-1449698705-6226408527028551680-3049003156-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",你好我好都好
+http://junlovefang.top:80/huya.php?id=11602084&k=3
+#EXTINF:-1 group-title="虎牙电视剧",我的团长我的团
+http://bd.hls.huya.com/src/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",我的团长我的团
+http://junlovefang.top:80/huya.php?id=11342416&k=3
+#EXTINF:-1 group-title="虎牙电视剧",大宋提刑官
+http://bd.hls.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",大宋提刑官
+http://junlovefang.top:80/huya.php?id=11279251&k=3
+#EXTINF:-1 group-title="虎牙电视剧",武媚娘传奇
+http://bd.hls.huya.com/src/48131630-48131630-206723776753172480-3048959614-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",武媚娘传奇
+http://junlovefang.top:80/huya.php?id=11601964&k=3
+#EXTINF:-1 group-title="虎牙电视剧",古天乐版·穿越剧鼻祖
+http://bd.hls.huya.com/src/1394575539-1394575539-5989656331806572544-2789274534-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",古天乐版·穿越剧鼻祖
+http://junlovefang.top:80/huya.php?id=11342417&k=3
+#EXTINF:-1 group-title="虎牙电视剧",悬疑犯罪探案系列
+http://bd.hls.huya.com/src/1524418106-1524418106-6547325910700261376-3048959668-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",悬疑犯罪探案系列
+http://junlovefang.top:80/huya.php?id=11601980&k=3
+#EXTINF:-1 group-title="虎牙电视剧",楚汉传奇
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789253854-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",楚汉传奇
+http://junlovefang.top:80/huya.php?id=11342392&k=3
+#EXTINF:-1 group-title="虎牙电视剧",封神榜
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789253886-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",封神榜
+http://junlovefang.top:80/huya.php?id=11342404&k=3
+#EXTINF:-1 group-title="虎牙电视剧",旋风十一人
+http://bd.hls.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",旋风十一人
+http://junlovefang.top:80/huya.php?id=11342400&k=3
+#EXTINF:-1 group-title="虎牙电视剧",孝庄秘史
+http://bd.hls.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",孝庄秘史
+http://junlovefang.top:80/huya.php?id=11352877&k=3
+#EXTINF:-1 group-title="虎牙电视剧",侠侣探案系列
+http://bd.hls.huya.com/src/1448737884-1448737884-6222281832256241664-2847687572-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",侠侣探案系列
+http://junlovefang.top:80/huya.php?id=11352893&k=3
+#EXTINF:-1 group-title="虎牙电视剧",【彭德huai】一生的重要时刻均得以还原
+http://bd.hls.huya.com/src/1449574089-1449574089-6225873305383993344-2847687582-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",【彭德huai】一生的重要时刻均得以还原
+http://junlovefang.top:80/huya.php?id=11352896&k=3
+#EXTINF:-1 group-title="虎牙电视剧",火线三兄弟
+http://bd.hls.huya.com/src/1423782047-1423782047-6115097328496934912-2847687550-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",火线三兄弟
+http://junlovefang.top:80/huya.php?id=11352884&k=3
+#EXTINF:-1 group-title="虎牙电视剧",血色浪漫
+http://bd.hls.huya.com/src/1524434107-1524434107-6547394634471964672-3048991670-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",血色浪漫
+http://junlovefang.top:80/huya.php?id=11602055&k=3
+#EXTINF:-1 group-title="虎牙电视剧",精忠岳飞
+http://bd.hls.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",精忠岳飞
+http://junlovefang.top:80/huya.php?id=11602058&k=3
+#EXTINF:-1 group-title="虎牙电视剧",大秦帝国
+http://bd.hls.huya.com/src/1394575568-1394575568-5989656456360624128-2789274592-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",大秦帝国
+http://junlovefang.top:80/huya.php?id=11342438&k=3
+#EXTINF:-1 group-title="虎牙电视剧",大漠苍狼
+http://bd.hls.huya.com/src/1449567319-1449567319-6225844228455399424-3048959582-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",大漠苍狼
+http://junlovefang.top:80/huya.php?id=11601956&k=3
+#EXTINF:-1 group-title="虎牙电视剧",勇敢的心
+http://bd.hls.huya.com/src/92327913-92327913-396545366842933248-3048991612-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",勇敢的心
+http://junlovefang.top:80/huya.php?id=11602037&k=3
+#EXTINF:-1 group-title="虎牙电视剧",童年回忆
+http://bd.hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",童年回忆
+http://junlovefang.top:80/huya.php?id=11601970&k=3
+#EXTINF:-1 group-title="虎牙电视剧",人间正道是沧桑
+http://bd.hls.huya.com/src/1445653465-1445653465-6209034353524080640-2847699238-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",人间正道是沧桑
+http://junlovefang.top:80/huya.php?id=11352979&k=3
+#EXTINF:-1 group-title="虎牙电视剧",引蛇行动
+http://bd.hls.huya.com/src/1449567112-1449567112-6225843339397169152-2847687536-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",引蛇行动
+http://junlovefang.top:80/huya.php?id=11352880&k=3
+#EXTINF:-1 group-title="虎牙电视剧",铁齿铜牙纪晓岚
+http://bd.hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",铁齿铜牙纪晓岚
+http://junlovefang.top:80/huya.php?id=11342396&k=3
+#EXTINF:-1 group-title="虎牙电视剧",新三国
+http://bd.hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",新三国
+http://junlovefang.top:80/huya.php?id=11352944&k=3
+#EXTINF:-1 group-title="虎牙电视剧",新水浒传
+http://bd.hls.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",新水浒传
+http://junlovefang.top:80/huya.php?id=11342384&k=3
+#EXTINF:-1 group-title="虎牙电视剧",隋唐英雄传
+http://bd.hls.huya.com/src/59087345-59087345-253778214382469120-2847687592-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",隋唐英雄传
+http://junlovefang.top:80/huya.php?id=11352899&k=3
+#EXTINF:-1 group-title="虎牙电视剧",猫和老鼠
+http://bd.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",猫和老鼠
+http://junlovefang.top:80/huya.php?id=11352879&k=3
+#EXTINF:-1 group-title="虎牙电视剧",许三多
+http://bd.hls.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",许三多
+http://junlovefang.top:80/huya.php?id=11342430&k=3
+#EXTINF:-1 group-title="虎牙电视剧",康熙微服私访记
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",康熙微服私访记
+http://junlovefang.top:80/huya.php?id=11342418&k=3
+#EXTINF:-1 group-title="虎牙电视剧",雍正王朝
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2847699098-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",雍正王朝
+http://junlovefang.top:80/huya.php?id=11352936&k=3
+#EXTINF:-1 group-title="虎牙电视剧",三国演义
+http://bd.hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",三国演义
+http://junlovefang.top:80/huya.php?id=11602081&k=3
+#EXTINF:-1 group-title="虎牙电视剧",康 熙王朝
+http://bd.hls.huya.com/src/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",康 熙王朝
+http://junlovefang.top:80/huya.php?id=11602071&k=3
+#EXTINF:-1 group-title="虎牙电视剧",水浒传
+http://bd.hls.huya.com/src/1423782056-1423782056-6115097367151640576-2847687568-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",水浒传
+http://junlovefang.top:80/huya.php?id=11352892&k=3
+#EXTINF:-1 group-title="虎牙电视剧",开国元帅
+http://bd.hls.huya.com/src/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",开国元帅
+http://junlovefang.top:80/huya.php?id=11352964&k=3
+#EXTINF:-1 group-title="虎牙电视剧",葵花点穴手
+http://bd.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",葵花点穴手
+http://junlovefang.top:80/huya.php?id=11352915&k=3
+#EXTINF:-1 group-title="虎牙电视剧",父母爱情
+http://bd.hls.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",父母爱情
+http://junlovefang.top:80/huya.php?id=11342439&k=3
+#EXTINF:-1 group-title="虎牙电视剧",隋唐英雄
+http://bd.hls.huya.com/src/1423782054-1423782054-6115097358561705984-2847687564-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 group-title="虎牙电视剧",隋唐英雄
+http://junlovefang.top:80/huya.php?id=11352890&k=3
+#EXTINF:-1 group-title="斗鱼电影",邵氏影院
+http://tx2play1.douyucdn.cn/live/4246519r63tieRdJ.m3u8
+#EXTINF:-1 group-title="斗鱼电影",邵氏影院
+http://diyp.top/douyu.php?id=4246519
+#EXTINF:-1 group-title="斗鱼电影",厦门最傻der新主播
+http://tx2play1.douyucdn.cn/live/8313496rJjd2BAiq.m3u8
+#EXTINF:-1 group-title="斗鱼电影",厦门最傻der新主播
+http://diyp.top/douyu.php?id=8313496
+#EXTINF:-1 group-title="斗鱼电影",漫微科幻经典动作
+http://tx2play1.douyucdn.cn/live/6893131r8JVbDNCc.m3u8
+#EXTINF:-1 group-title="斗鱼电影",漫微科幻经典动作
+http://diyp.top/douyu.php?id=6893131
+#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼
+http://tx2play1.douyucdn.cn/live/218859r0iaTx2s1g.m3u8
+#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼
+http://diyp.top/douyu.php?id=218859
+#EXTINF:-1 group-title="斗鱼电影",啥时候我也能有个红牌子
+http://tx2play1.douyucdn.cn/live/7221304rPLZn0hVn.m3u8
+#EXTINF:-1 group-title="斗鱼电影",啥时候我也能有个红牌子
+http://diyp.top/douyu.php?id=7221304
+#EXTINF:-1 group-title="斗鱼电影",神乐华语经典电影刘德华周星驰
+http://tx2play1.douyucdn.cn/live/85894rmovieChow.m3u8
+#EXTINF:-1 group-title="斗鱼电影",神乐华语经典电影刘德华周星驰
+http://diyp.top/douyu.php?id=85894
+#EXTINF:-1 group-title="斗鱼电影",你的陪看陪聊小姐姐
+http://tx2play1.douyucdn.cn/live/7712894rLU8VMSrM.m3u8
+#EXTINF:-1 group-title="斗鱼电影",你的陪看陪聊小姐姐
+http://diyp.top/douyu.php?id=7712894
+#EXTINF:-1 group-title="斗鱼电影",贝爷影厅2号厅欧美日韩国产电影
+http://tx2play1.douyucdn.cn/live/36337rkuA7h5FYzX.m3u8
+#EXTINF:-1 group-title="斗鱼电影",贝爷影厅2号厅欧美日韩国产电影
+http://diyp.top/douyu.php?id=36337
+#EXTINF:-1 group-title="斗鱼电影",贝爷影厅经典科幻动作灾难巨兽
+http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.m3u8
+#EXTINF:-1 group-title="斗鱼电影",贝爷影厅经典科幻动作灾难巨兽
+http://diyp.top/douyu.php?id=252802
+#EXTINF:-1 group-title="斗鱼电影",僵尸鬼片丧尸恐怖灾难
+http://tx2play1.douyucdn.cn/live/310926rfoie7fsMH.m3u8
+#EXTINF:-1 group-title="斗鱼电影",僵尸鬼片丧尸恐怖灾难
+http://diyp.top/douyu.php?id=310926
+#EXTINF:-1 group-title="斗鱼电影",香港赌片喜剧黑帮动作武侠经典
+http://tx2play1.douyucdn.cn/live/315457rA77qhvIOR.m3u8
+#EXTINF:-1 group-title="斗鱼电影",香港赌片喜剧黑帮动作武侠经典
+http://diyp.top/douyu.php?id=315457
+#EXTINF:-1 group-title="斗鱼电影",周星驰星爷华语经典电影神乐
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.m3u8
+#EXTINF:-1 group-title="斗鱼电影",周星驰星爷华语经典电影神乐
+http://diyp.top/douyu.php?id=122402
+#EXTINF:-1 group-title="斗鱼电影",译制国语影片荟萃
+http://tx2play1.douyucdn.cn/live/2436390rwRW4zcbD.m3u8
+#EXTINF:-1 group-title="斗鱼电影",译制国语影片荟萃
+http://diyp.top/douyu.php?id=2436390
+#EXTINF:-1 group-title="斗鱼电影",国外大片动作科幻惊悚
+http://tx2play1.douyucdn.cn/live/8454337rHj7rhl5J.m3u8
+#EXTINF:-1 group-title="斗鱼电影",国外大片动作科幻惊悚
+http://diyp.top/douyu.php?id=8454337
+#EXTINF:-1 group-title="斗鱼电影",贝勒港片恐怖丧尸鬼片喜剧
+http://tx2play1.douyucdn.cn/live/8734932rCPhpid72.m3u8
+#EXTINF:-1 group-title="斗鱼电影",贝勒港片恐怖丧尸鬼片喜剧
+http://diyp.top/douyu.php?id=8734932
+#EXTINF:-1 group-title="斗鱼电影",限时惊喜电影直播火力全开中
+http://tx2play1.douyucdn.cn/live/8823736reYXOEbVR.m3u8
+#EXTINF:-1 group-title="斗鱼电影",限时惊喜电影直播火力全开中
+http://diyp.top/douyu.php?id=8823736
+#EXTINF:-1 group-title="斗鱼电影",喜剧动作探险烧脑电影
+http://tx2play1.douyucdn.cn/live/8553690r0cL4o2Ft.m3u8
+#EXTINF:-1 group-title="斗鱼电影",喜剧动作探险烧脑电影
+http://diyp.top/douyu.php?id=8553690
+#EXTINF:-1 group-title="斗鱼电影",谜团科幻动作动画轮播
+http://tx2play1.douyucdn.cn/live/8609289rAPwFWFM6.m3u8
+#EXTINF:-1 group-title="斗鱼电影",谜团科幻动作动画轮播
+http://diyp.top/douyu.php?id=8609289
+#EXTINF:-1 group-title="斗鱼电影",8090年代电影
+http://tx2play1.douyucdn.cn/live/8587116r5ie5z3JJ.m3u8
+#EXTINF:-1 group-title="斗鱼电影",8090年代电影
+http://diyp.top/douyu.php?id=8587116
+#EXTINF:-1 group-title="斗鱼电影",看看电影下下军棋
+http://tx2play1.douyucdn.cn/live/8806969roZ7qctjh.m3u8
+#EXTINF:-1 group-title="斗鱼电影",看看电影下下军棋
+http://diyp.top/douyu.php?id=8806969
+#EXTINF:-1 group-title="斗鱼电影",主播距离你
+http://tx2play1.douyucdn.cn/live/8560417rMY4Q1958.m3u8
+#EXTINF:-1 group-title="斗鱼电影",主播距离你
+http://diyp.top/douyu.php?id=8560417
+#EXTINF:-1 group-title="斗鱼电影",Firend黎伽嘛每日三部
+http://tx2play1.douyucdn.cn/live/8603174rlYIkz3aQ.m3u8
+#EXTINF:-1 group-title="斗鱼电影",Firend黎伽嘛每日三部
+http://diyp.top/douyu.php?id=8603174
+#EXTINF:-1 group-title="斗鱼电影",小蟹子的直播间
+http://tx2play1.douyucdn.cn/live/8662849rl64WjTYU.m3u8
+#EXTINF:-1 group-title="斗鱼电影",小蟹子的直播间
+http://diyp.top/douyu.php?id=8662849
+#EXTINF:-1 group-title="斗鱼电影",第五号电影电视剧的直播间
+http://tx2play1.douyucdn.cn/live/8653554rw25pRREz.m3u8
+#EXTINF:-1 group-title="斗鱼电影",第五号电影电视剧的直播间
+http://diyp.top/douyu.php?id=8653554
+#EXTINF:-1 group-title="斗鱼电影",4K HDR杜比视界
+http://tx2play1.douyucdn.cn/live/8663752rDhCKzvmr.m3u8
+#EXTINF:-1 group-title="斗鱼电影",4K HDR杜比视界
+http://diyp.top/douyu.php?id=8663752
+#EXTINF:-1 group-title="斗鱼电影",秋叶圓的直播间
+http://tx2play1.douyucdn.cn/live/8756805ryoaGDkI7.m3u8
+#EXTINF:-1 group-title="斗鱼电影",秋叶圓的直播间
+http://diyp.top/douyu.php?id=8756805
+#EXTINF:-1 group-title="斗鱼电影",战争科幻动作电影
+http://tx2play1.douyucdn.cn/live/8390676rxpyLeZ8c.m3u8
+#EXTINF:-1 group-title="斗鱼电影",战争科幻动作电影
+http://diyp.top/douyu.php?id=8390676
+#EXTINF:-1 group-title="斗鱼电影",各类经典高评分
+http://tx2play1.douyucdn.cn/live/8724685r0alS9PJ7.m3u8
+#EXTINF:-1 group-title="斗鱼电影",各类经典高评分
+http://diyp.top/douyu.php?id=8724685
+#EXTINF:-1 group-title="斗鱼电影",精选科幻电影
+http://tx2play1.douyucdn.cn/live/2481470rRerFbohp.m3u8
+#EXTINF:-1 group-title="斗鱼电影",精选科幻电影
+http://diyp.top/douyu.php?id=2481470
+#EXTINF:-1 group-title="斗鱼电影",漫威连连看狼叔系列高清科幻
+http://tx2play1.douyucdn.cn/live/8758530rgamC3SFH.m3u8
+#EXTINF:-1 group-title="斗鱼电影",漫威连连看狼叔系列高清科幻
+http://diyp.top/douyu.php?id=8758530
+#EXTINF:-1 group-title="斗鱼电影",欢迎光临有史以来最惨直播间
+http://tx2play1.douyucdn.cn/live/8735523rxRnqW58P.m3u8
+#EXTINF:-1 group-title="斗鱼电影",欢迎光临有史以来最惨直播间
+http://diyp.top/douyu.php?id=8735523
+#EXTINF:-1 group-title="斗鱼电影",周星星李连杰周润发成龙电影轮播
+http://tx2play1.douyucdn.cn/live/8838034rvnXnQeoB.m3u8
+#EXTINF:-1 group-title="斗鱼电影",周星星李连杰周润发成龙电影轮播
+http://diyp.top/douyu.php?id=8838034
+#EXTINF:-1 group-title="斗鱼电影",满窗星星的直播间
+http://tx2play1.douyucdn.cn/live/8811066rwLDkNs3A.m3u8
+#EXTINF:-1 group-title="斗鱼电影",满窗星星的直播间
+http://diyp.top/douyu.php?id=8811066
+#EXTINF:-1 group-title="斗鱼电影",天气好出来摆摊啦史诗科幻
+http://tx2play1.douyucdn.cn/live/8842171rFQLahaLx.m3u8
+#EXTINF:-1 group-title="斗鱼电影",天气好出来摆摊啦史诗科幻
+http://diyp.top/douyu.php?id=8842171
+#EXTINF:-1 group-title="斗鱼电影",直播全面开启分享直播间有惊喜
+http://tx2play1.douyucdn.cn/live/8835896rKAYpeWkI.m3u8
+#EXTINF:-1 group-title="斗鱼电影",直播全面开启分享直播间有惊喜
+http://diyp.top/douyu.php?id=8835896
+#EXTINF:-1 group-title="斗鱼电影",群星云集经典永恒
+http://tx2play1.douyucdn.cn/live/8855677riYGxssPK.m3u8
+#EXTINF:-1 group-title="斗鱼电影",群星云集经典永恒
+http://diyp.top/douyu.php?id=8855677
+#EXTINF:-1 group-title="斗鱼电影",动作片专场
+http://tx2play1.douyucdn.cn/live/8823129rClgDtOSp.m3u8
+#EXTINF:-1 group-title="斗鱼电影",动作片专场
+http://diyp.top/douyu.php?id=8823129
+#EXTINF:-1 group-title="斗鱼电影",海海陪你看经典
+http://tx2play1.douyucdn.cn/live/8858619rofZewA0K.m3u8
+#EXTINF:-1 group-title="斗鱼电影",海海陪你看经典
+http://diyp.top/douyu.php?id=8858619
+#EXTINF:-1 group-title="斗鱼电影",诺云杰每天一个电影系列你想看的这都有
+http://tx2play1.douyucdn.cn/live/8831004r0yjZK0le.m3u8
+#EXTINF:-1 group-title="斗鱼电影",诺云杰每天一个电影系列你想看的这都有
+http://diyp.top/douyu.php?id=8831004
+#EXTINF:-1 group-title="斗鱼电影",经典高分电影
+http://tx2play1.douyucdn.cn/live/8784240rvkggjncv.m3u8
+#EXTINF:-1 group-title="斗鱼电影",经典高分电影
+http://diyp.top/douyu.php?id=8784240
+#EXTINF:-1 group-title="斗鱼电影",感悟百味电影
+http://tx2play1.douyucdn.cn/live/8817345rtOJKeP87.m3u8
+#EXTINF:-1 group-title="斗鱼电影",感悟百味电影
+http://diyp.top/douyu.php?id=8817345
+#EXTINF:-1 group-title="斗鱼电影",国外科幻冒险
+http://tx2play1.douyucdn.cn/live/8867147rWPe3pyjB.m3u8
+#EXTINF:-1 group-title="斗鱼电影",国外科幻冒险
+http://diyp.top/douyu.php?id=8867147
+#EXTINF:-1 group-title="斗鱼电影",乐乐二的直播间
+http://tx2play1.douyucdn.cn/live/8875937rzyj0oAWi.m3u8
+#EXTINF:-1 group-title="斗鱼电影",乐乐二的直播间
+http://diyp.top/douyu.php?id=8875937
+#EXTINF:-1 group-title="斗鱼电影",康80040的直播间
+http://tx2play1.douyucdn.cn/live/8871662rLEoRPPQ7.m3u8
+#EXTINF:-1 group-title="斗鱼电影",康80040的直播间
+http://diyp.top/douyu.php?id=8871662
+#EXTINF:-1 group-title="斗鱼电影",麓山迷踪邪虐异染绝
+http://tx2play1.douyucdn.cn/live/4505431rec1dnlgt.m3u8
+#EXTINF:-1 group-title="斗鱼电影",麓山迷踪邪虐异染绝
+http://diyp.top/douyu.php?id=4505431
+#EXTINF:-1 group-title="斗鱼电影",s1134经典科幻动作灾难
+http://tx2play1.douyucdn.cn/live/248753rdHGJBGtaq.m3u8
+#EXTINF:-1 group-title="斗鱼电影",s1134经典科幻动作灾难
+http://diyp.top/douyu.php?id=248753
+#EXTINF:-1 group-title="斗鱼电影",粤语电影周星驰林正英喜剧经典
+http://tx2play1.douyucdn.cn/live/1226741rASN2xoU6.m3u8
+#EXTINF:-1 group-title="斗鱼电影",粤语电影周星驰林正英喜剧经典
+http://diyp.top/douyu.php?id=1226741
+#EXTINF:-1 group-title="斗鱼电影",话事人粤语周星驰林正英
+http://tx2play1.douyucdn.cn/live/5033502rJ4Y1fMYj.m3u8
+#EXTINF:-1 group-title="斗鱼电影",话事人粤语周星驰林正英
+http://diyp.top/douyu.php?id=5033502
+#EXTINF:-1 group-title="斗鱼电影",贝爷影厅2号厅欧美日韩国产电影
+http://tx2play1.douyucdn.cn/live/36337rkuA7h5FYzX.m3u8
+#EXTINF:-1 group-title="斗鱼电影",贝爷影厅2号厅欧美日韩国产电影
+http://diyp.top/douyu.php?id=36337
+#EXTINF:-1 group-title="斗鱼电影",高分好电影记得定时续牌子
+http://tx2play1.douyucdn.cn/live/668785rvmP9Q0uaC.m3u8
+#EXTINF:-1 group-title="斗鱼电影",高分好电影记得定时续牌子
+http://diyp.top/douyu.php?id=668785
+#EXTINF:-1 group-title="斗鱼电影",来一起看一起回忆
+http://tx2play1.douyucdn.cn/live/8092307regSFKZ7A.m3u8
+#EXTINF:-1 group-title="斗鱼电影",来一起看一起回忆
+http://diyp.top/douyu.php?id=8092307
+#EXTINF:-1 group-title="斗鱼电影",表妹国产青春动作喜剧轮播
+http://tx2play1.douyucdn.cn/live/5423rAXZeszMRocy.m3u8
+#EXTINF:-1 group-title="斗鱼电影",表妹国产青春动作喜剧轮播
+http://diyp.top/douyu.php?id=5423
+#EXTINF:-1 group-title="斗鱼电影",托陪你看电影
+http://tx2play1.douyucdn.cn/live/299110rSoPxYof5I.m3u8
+#EXTINF:-1 group-title="斗鱼电影",托陪你看电影
+http://diyp.top/douyu.php?id=299110
+#EXTINF:-1 group-title="斗鱼电影",粤语频道电影点播
+http://tx2play1.douyucdn.cn/live/2466104rG3Tbq7yr.m3u8
+#EXTINF:-1 group-title="斗鱼电影",粤语频道电影点播
+http://diyp.top/douyu.php?id=2466104
+#EXTINF:-1 group-title="斗鱼电影",李哥科幻影院科幻魔幻动作
+http://tx2play1.douyucdn.cn/live/6589557rcmH06ONW.m3u8
+#EXTINF:-1 group-title="斗鱼电影",李哥科幻影院科幻魔幻动作
+http://diyp.top/douyu.php?id=6589557
+#EXTINF:-1 group-title="斗鱼电影",搞笑鬼片恐怖灾难
+http://tx2play1.douyucdn.cn/live/711593rgh6Ajey1o.m3u8
+#EXTINF:-1 group-title="斗鱼电影",搞笑鬼片恐怖灾难
+http://diyp.top/douyu.php?id=711593
+#EXTINF:-1 group-title="斗鱼电影",新主播求关注可盐可甜小姐姐
+http://tx2play1.douyucdn.cn/live/7100841rjYxZoFKH.m3u8
+#EXTINF:-1 group-title="斗鱼电影",新主播求关注可盐可甜小姐姐
+http://diyp.top/douyu.php?id=7100841
+#EXTINF:-1 group-title="斗鱼电影",周星驰搞笑经典点播
+http://tx2play1.douyucdn.cn/live/470075rC0wTN1pMk.m3u8
+#EXTINF:-1 group-title="斗鱼电影",周星驰搞笑经典点播
+http://diyp.top/douyu.php?id=470075
+#EXTINF:-1 group-title="斗鱼电影",无泪华语经典电影
+http://tx2play1.douyucdn.cn/live/3619464rpd7Ng4bt.m3u8
+#EXTINF:-1 group-title="斗鱼电影",无泪华语经典电影
+http://diyp.top/douyu.php?id=3619464
+#EXTINF:-1 group-title="斗鱼电影",小酒国外超高分电影
+http://tx2play1.douyucdn.cn/live/589018rEbocrhvE8.m3u8
+#EXTINF:-1 group-title="斗鱼电影",小酒国外超高分电影
+http://diyp.top/douyu.php?id=589018
+#EXTINF:-1 group-title="斗鱼电影",周星驰林正英经典电影
+http://tx2play1.douyucdn.cn/live/7314458rOviNdtU0.m3u8
+#EXTINF:-1 group-title="斗鱼电影",周星驰林正英经典电影
+http://diyp.top/douyu.php?id=7314458
+#EXTINF:-1 group-title="斗鱼电影",粤语电影周星驰林正英经典喜剧动作
+http://tx2play1.douyucdn.cn/live/6566671rGbvODdNt.m3u8
+#EXTINF:-1 group-title="斗鱼电影",粤语电影周星驰林正英经典喜剧动作
+http://diyp.top/douyu.php?id=6566671
+#EXTINF:-1 group-title="斗鱼电影",经典大片放送
+http://tx2play1.douyucdn.cn/live/2793084rx3LrhIVw.m3u8
+#EXTINF:-1 group-title="斗鱼电影",经典大片放送
+http://diyp.top/douyu.php?id=2793084
+#EXTINF:-1 group-title="斗鱼电影",宇哥总有你没看过的经典
+http://tx2play1.douyucdn.cn/live/413573r8wqeV7P1x.m3u8
+#EXTINF:-1 group-title="斗鱼电影",宇哥总有你没看过的经典
+http://diyp.top/douyu.php?id=413573
+#EXTINF:-1 group-title="斗鱼电影",奶瓶欧美科幻灾难电影
+http://tx2play1.douyucdn.cn/live/6655271rVgR66BgC.m3u8
+#EXTINF:-1 group-title="斗鱼电影",奶瓶欧美科幻灾难电影
+http://diyp.top/douyu.php?id=6655271
+#EXTINF:-1 group-title="斗鱼电影",军事战争枪战火爆大片
+http://tx2play1.douyucdn.cn/live/4392103rFd8DFw3c.m3u8
+#EXTINF:-1 group-title="斗鱼电影",军事战争枪战火爆大片
+http://diyp.top/douyu.php?id=4392103
+#EXTINF:-1 group-title="斗鱼电影",瑶瑶漫威国外恐怖丧尸
+http://tx2play1.douyucdn.cn/live/2083382r6IZQXGk0.m3u8
+#EXTINF:-1 group-title="斗鱼电影",瑶瑶漫威国外恐怖丧尸
+http://diyp.top/douyu.php?id=2083382
+#EXTINF:-1 group-title="斗鱼电影",那些年我们一起追的经典电影
+http://tx2play1.douyucdn.cn/live/6775957rva4whc8t.m3u8
+#EXTINF:-1 group-title="斗鱼电影",那些年我们一起追的经典电影
+http://diyp.top/douyu.php?id=6775957
+#EXTINF:-1 group-title="斗鱼电影",大片科幻动作魔幻喜剧
+http://tx2play1.douyucdn.cn/live/562225rDRNAyf14G.m3u8
+#EXTINF:-1 group-title="斗鱼电影",大片科幻动作魔幻喜剧
+http://diyp.top/douyu.php?id=562225
+#EXTINF:-1 group-title="斗鱼电影",MJ永远的迈克
+http://tx2play1.douyucdn.cn/live/7411331rI7yi8bvE.m3u8
+#EXTINF:-1 group-title="斗鱼电影",MJ永远的迈克
+http://diyp.top/douyu.php?id=7411331
+#EXTINF:-1 group-title="斗鱼电影",看电影
+http://tx2play1.douyucdn.cn/live/6557037r4AeUlUhq.m3u8
+#EXTINF:-1 group-title="斗鱼电影",看电影
+http://diyp.top/douyu.php?id=6557037
+#EXTINF:-1 group-title="斗鱼电影",功夫剧场成龙李连杰周星驰
+http://tx2play1.douyucdn.cn/live/6763930rcHxCVMyb.m3u8
+#EXTINF:-1 group-title="斗鱼电影",功夫剧场成龙李连杰周星驰
+http://diyp.top/douyu.php?id=6763930
+#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼绝版降头经典港片
+http://tx2play1.douyucdn.cn/live/5489341rF2M6hkPy.m3u8
+#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼绝版降头经典港片
+http://diyp.top/douyu.php?id=5489341
+#EXTINF:-1 group-title="斗鱼电影",经典动作科幻
+http://tx2play1.douyucdn.cn/live/8245314rZ2VxS71P.m3u8
+#EXTINF:-1 group-title="斗鱼电影",经典动作科幻
+http://diyp.top/douyu.php?id=8245314
+#EXTINF:-1 group-title="斗鱼电影",不会没人看吧
+http://tx2play1.douyucdn.cn/live/5377297r5LFrHdVM.m3u8
+#EXTINF:-1 group-title="斗鱼电影",不会没人看吧
+http://diyp.top/douyu.php?id=5377297
+#EXTINF:-1 group-title="斗鱼电影",奶瓶港片刘德华周润发
+http://tx2play1.douyucdn.cn/live/6546908rcwetGLvV.m3u8
+#EXTINF:-1 group-title="斗鱼电影",奶瓶港片刘德华周润发
+http://diyp.top/douyu.php?id=6546908
+#EXTINF:-1 group-title="斗鱼电影",小阳聪经典科幻魔幻动作励志
+http://tx2play1.douyucdn.cn/live/7673566r3NhUUWUK.m3u8
+#EXTINF:-1 group-title="斗鱼电影",小阳聪经典科幻魔幻动作励志
+http://diyp.top/douyu.php?id=7673566
+#EXTINF:-1 group-title="斗鱼电影",安妮Ami影院道长林正英僵尸
+http://tx2play1.douyucdn.cn/live/7356023rwbM1gfre.m3u8
+#EXTINF:-1 group-title="斗鱼电影",安妮Ami影院道长林正英僵尸
+http://diyp.top/douyu.php?id=7356023
+#EXTINF:-1 group-title="斗鱼电影",小雨点播华语经典
+http://tx2play1.douyucdn.cn/live/1523780rtrWRhUYd.m3u8
+#EXTINF:-1 group-title="斗鱼电影",小雨点播华语经典
+http://diyp.top/douyu.php?id=1523780
+#EXTINF:-1 group-title="斗鱼电影",专业烧脑一个安静的直播间
+http://tx2play1.douyucdn.cn/live/5802446r7FTDkdan.m3u8
+#EXTINF:-1 group-title="斗鱼电影",专业烧脑一个安静的直播间
+http://diyp.top/douyu.php?id=5802446
+#EXTINF:-1 group-title="斗鱼电影",点播宅在家看电影
+http://tx2play1.douyucdn.cn/live/859364rrz82hcCGa.m3u8
+#EXTINF:-1 group-title="斗鱼电影",点播宅在家看电影
+http://diyp.top/douyu.php?id=859364
+#EXTINF:-1 group-title="斗鱼电影",西安热门电影
+http://tx2play1.douyucdn.cn/live/5804577r8mdttMIj.m3u8
+#EXTINF:-1 group-title="斗鱼电影",西安热门电影
+http://diyp.top/douyu.php?id=5804577
+#EXTINF:-1 group-title="斗鱼电影",禁忌恐怖丧尸惊悚
+http://tx2play1.douyucdn.cn/live/5129261rkpxXRE1r.m3u8
+#EXTINF:-1 group-title="斗鱼电影",禁忌恐怖丧尸惊悚
+http://diyp.top/douyu.php?id=5129261
+#EXTINF:-1 group-title="斗鱼电影",4K超清漫改剧场不灭的英雄梦
+http://tx2play1.douyucdn.cn/live/788127r3gu6jUBRL.m3u8
+#EXTINF:-1 group-title="斗鱼电影",4K超清漫改剧场不灭的英雄梦
+http://diyp.top/douyu.php?id=788127
+#EXTINF:-1 group-title="斗鱼电影",萌刀刀科幻动作喜剧武侠
+http://tx2play1.douyucdn.cn/live/6732990rmuzWrmlV.m3u8
+#EXTINF:-1 group-title="斗鱼电影",萌刀刀科幻动作喜剧武侠
+http://diyp.top/douyu.php?id=6732990
+#EXTINF:-1 group-title="斗鱼电影",超清24小时电影直播
+http://diyp.top/douyu.php?id=317533
+#EXTINF:-1 group-title="斗鱼电影",恐怖丧尸鬼片灾难
+http://tx2play1.douyucdn.cn/live/7153458rVR8pAKhh.m3u8
+#EXTINF:-1 group-title="斗鱼电影",恐怖丧尸鬼片灾难
+http://diyp.top/douyu.php?id=7153458
+#EXTINF:-1 group-title="斗鱼电影",周星星生化科幻电影
+http://tx2play1.douyucdn.cn/live/8330518rD4FN6BLJ.m3u8
+#EXTINF:-1 group-title="斗鱼电影",周星星生化科幻电影
+http://diyp.top/douyu.php?id=8330518
+#EXTINF:-1 group-title="斗鱼电影",灵性正能量的生活
+http://tx2play1.douyucdn.cn/live/785252riUZ2sJIDS.m3u8
+#EXTINF:-1 group-title="斗鱼电影",灵性正能量的生活
+http://diyp.top/douyu.php?id=785252
+#EXTINF:-1 group-title="斗鱼电影",试播跑跑卡丁车排行榜
+http://tx2play1.douyucdn.cn/live/6854590rkW9YUvAr.m3u8
+#EXTINF:-1 group-title="斗鱼电影",试播跑跑卡丁车排行榜
+http://diyp.top/douyu.php?id=6854590
+#EXTINF:-1 group-title="斗鱼电影",妞仔影片持续更新中
+http://tx2play1.douyucdn.cn/live/8211997r8tJhhUoz.m3u8
+#EXTINF:-1 group-title="斗鱼电影",妞仔影片持续更新中
+http://diyp.top/douyu.php?id=8211997
+#EXTINF:-1 group-title="斗鱼电影",豆瓣IMDB奥斯卡
+http://tx2play1.douyucdn.cn/live/3811092r25lLX0hY.m3u8
+#EXTINF:-1 group-title="斗鱼电影",豆瓣IMDB奥斯卡
+http://diyp.top/douyu.php?id=3811092
+#EXTINF:-1 group-title="斗鱼电影",星星影院漫威科幻动作喜剧灾难
+http://tx2play1.douyucdn.cn/live/315131rraAA1flJ5.m3u8
+#EXTINF:-1 group-title="斗鱼电影",星星影院漫威科幻动作喜剧灾难
+http://diyp.top/douyu.php?id=315131
+#EXTINF:-1 group-title="斗鱼电影",蜗牛影视娱乐
+http://tx2play1.douyucdn.cn/live/5867994raRLQiDvr.m3u8
+#EXTINF:-1 group-title="斗鱼电影",蜗牛影视娱乐
+http://diyp.top/douyu.php?id=5867994
+#EXTINF:-1 group-title="斗鱼电影",科幻感动尽在于此
+http://tx2play1.douyucdn.cn/live/7637667rgVVkzppR.m3u8
+#EXTINF:-1 group-title="斗鱼电影",科幻感动尽在于此
+http://diyp.top/douyu.php?id=7637667
+#EXTINF:-1 group-title="斗鱼电影",经典电影祝你没有烦恼
+http://tx2play1.douyucdn.cn/live/1671061rI1j6oKmx.m3u8
+#EXTINF:-1 group-title="斗鱼电影",经典电影祝你没有烦恼
+http://diyp.top/douyu.php?id=1671061
+#EXTINF:-1 group-title="斗鱼电影",宇宙今天漫威专场
+http://tx2play1.douyucdn.cn/live/162017rC4lgBGa3B.m3u8
+#EXTINF:-1 group-title="斗鱼电影",宇宙今天漫威专场
+http://diyp.top/douyu.php?id=162017
+#EXTINF:-1 group-title="斗鱼电影",第一剧场WJG
+http://tx2play1.douyucdn.cn/live/8152556rwJblUaKd.m3u8
+#EXTINF:-1 group-title="斗鱼电影",第一剧场WJG
+http://diyp.top/douyu.php?id=8152556
+#EXTINF:-1 group-title="斗鱼电影",秋风欧美动作励志
+http://tx2play1.douyucdn.cn/live/993673rn9zWsgJ5j.m3u8
+#EXTINF:-1 group-title="斗鱼电影",秋风欧美动作励志
+http://diyp.top/douyu.php?id=993673
+#EXTINF:-1 group-title="斗鱼电影",24h电影集
+http://tx2play1.douyucdn.cn/live/1450819rDLhGm289.m3u8
+#EXTINF:-1 group-title="斗鱼电影",24h电影集
+http://diyp.top/douyu.php?id=1450819
+#EXTINF:-1 group-title="斗鱼电影",我笑了好看吗
+http://tx2play1.douyucdn.cn/live/1256794rGxj53XWy.m3u8
+#EXTINF:-1 group-title="斗鱼电影",我笑了好看吗
+http://diyp.top/douyu.php?id=1256794
+#EXTINF:-1 group-title="斗鱼电影",枪手爱看看
+http://tx2play1.douyucdn.cn/live/4691528rUZY4RIya.m3u8
+#EXTINF:-1 group-title="斗鱼电影",枪手爱看看
+http://diyp.top/douyu.php?id=4691528
+#EXTINF:-1 group-title="斗鱼电影",经典电影祝你没有烦恼
+http://tx2play1.douyucdn.cn/live/1671061rI1j6oKmx.m3u8
+#EXTINF:-1 group-title="斗鱼电影",经典电影祝你没有烦恼
+http://diyp.top/douyu.php?id=1671061
+#EXTINF:-1 group-title="斗鱼电影",上分真的好难看会电影
+http://tx2play1.douyucdn.cn/live/1469253rry2YJcJm.m3u8
+#EXTINF:-1 group-title="斗鱼电影",上分真的好难看会电影
+http://diyp.top/douyu.php?id=1469253
+#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼致经典
+http://tx2play1.douyucdn.cn/live/8854554r3YirCoLL.m3u8
+#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼致经典
+http://diyp.top/douyu.php?id=8854554
+#EXTINF:-1 group-title="斗鱼电影",港台电影剧怀旧经典
+http://tx2play1.douyucdn.cn/live/7641600r6BGPexzQ.m3u8
+#EXTINF:-1 group-title="斗鱼电影",港台电影剧怀旧经典
+http://diyp.top/douyu.php?id=7641600
+#EXTINF:-1 group-title="斗鱼电视剧",开心情景剧
+http://tx2play1.douyucdn.cn/live/6648727rCKwKzPrO.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",开心情景剧
+http://diyp.top/douyu.php?id=6648727
+#EXTINF:-1 group-title="斗鱼电视剧",妻管严神剧独播24H
+http://tx2play1.douyucdn.cn/live/7502558rPG3LfUyq.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",妻管严神剧独播24H
+http://diyp.top/douyu.php?id=7502558
+#EXTINF:-1 group-title="斗鱼电视剧",全网最清青春偶像剧
+http://tx2play1.douyucdn.cn/live/498772rpPibXecfz.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",全网最清青春偶像剧
+http://diyp.top/douyu.php?id=498772
+#EXTINF:-1 group-title="斗鱼电视剧",经典青春TV剧场24H直播
+http://tx2play1.douyucdn.cn/live/4433816r24N5PVzR.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典青春TV剧场24H直播
+http://diyp.top/douyu.php?id=4433816
+#EXTINF:-1 group-title="斗鱼电视剧",土土土土土豆
+http://tx2play1.douyucdn.cn/live/2608926rEUNYVZ9E.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",土土土土土豆
+http://diyp.top/douyu.php?id=2608926
+#EXTINF:-1 group-title="斗鱼电视剧",下雪下雨下流星
+http://tx2play1.douyucdn.cn/live/8554379rcvZLffpz.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",下雪下雨下流星
+http://diyp.top/douyu.php?id=8554379
+#EXTINF:-1 group-title="斗鱼电视剧",舰长室仙侠情缘
+http://tx2play1.douyucdn.cn/live/6776615rh7AtB6I8.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",舰长室仙侠情缘
+http://diyp.top/douyu.php?id=6776615
+#EXTINF:-1 group-title="斗鱼电视剧",家48021的直播间
+http://tx2play1.douyucdn.cn/live/7984182rfbAh4BsW.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",家48021的直播间
+http://diyp.top/douyu.php?id=7984182
+#EXTINF:-1 group-title="斗鱼电视剧",90后经典影视
+http://tx2play1.douyucdn.cn/live/1628188rdNfspSgh.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",90后经典影视
+http://diyp.top/douyu.php?id=1628118
+#EXTINF:-1 group-title="斗鱼电视剧",良军影厅经典电影连续剧
+http://tx2play1.douyucdn.cn/live/8205671r1BxPvMw8.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",良军影厅经典电影连续剧
+http://diyp.top/douyu.php?id=8205671
+#EXTINF:-1 group-title="斗鱼电视剧",三国开启让弹幕飞一会
+http://tx2play1.douyucdn.cn/live/4523233rcnzgjFh2.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",三国开启让弹幕飞一会
+http://diyp.top/douyu.php?id=4523233
+#EXTINF:-1 group-title="斗鱼电视剧",凌儿一直伴你左右
+http://tx2play1.douyucdn.cn/live/1377142rAO8xwHIT.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",凌儿一直伴你左右
+http://diyp.top/douyu.php?id=1377142
+#EXTINF:-1 group-title="斗鱼电视剧",经典古装元芳你怎么看
+http://tx2play1.douyucdn.cn/live/6166636r8MOW7lgD.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典古装元芳你怎么看
+http://diyp.top/douyu.php?id=6166636
+#EXTINF:-1 group-title="斗鱼电视剧",情景喜剧影评专区
+http://tx2play1.douyucdn.cn/live/3980787ruP8yquiO.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",情景喜剧影评专区
+http://diyp.top/douyu.php?id=3980787
+#EXTINF:-1 group-title="斗鱼电视剧",跨六打团深渊
+http://tx2play1.douyucdn.cn/live/315236rLBKtLOoHe.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",跨六打团深渊
+http://diyp.top/douyu.php?id=315236
+#EXTINF:-1 group-title="斗鱼电视剧",直播间进入倒闭状态
+http://tx2play1.douyucdn.cn/live/7517784rokqrjcBV.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",直播间进入倒闭状态
+http://diyp.top/douyu.php?id=7517784
+#EXTINF:-1 group-title="斗鱼电视剧",煮酒论英雄
+http://tx2play1.douyucdn.cn/live/5870134rQAo7Z1oj.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",煮酒论英雄
+http://diyp.top/douyu.php?id=5870134
+#EXTINF:-1 group-title="斗鱼电视剧",蓝翔三国弹幕天团
+http://tx2play1.douyucdn.cn/live/276200rcM1i86RwW.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",蓝翔三国弹幕天团
+http://diyp.top/douyu.php?id=276200
+#EXTINF:-1 group-title="斗鱼电视剧",节奏大师港剧直播间
+http://tx2play1.douyucdn.cn/live/223521rmS6qvSjEJ.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",节奏大师港剧直播间
+http://diyp.top/douyu.php?id=223521
+#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧怀旧军事
+http://tx2play1.douyucdn.cn/live/1370315rgCPp1sJr.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧怀旧军事
+http://diyp.top/douyu.php?id=1370315
+#EXTINF:-1 group-title="斗鱼电视剧",小七颜王弹幕天团
+http://tx2play1.douyucdn.cn/live/8432667rPgnkNL9k.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",小七颜王弹幕天团
+http://diyp.top/douyu.php?id=8432667
+#EXTINF:-1 group-title="斗鱼电视剧",8090怀旧情景剧
+http://tx2play1.douyucdn.cn/live/8507162r3Qgvn8wO.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",8090怀旧情景剧
+http://diyp.top/douyu.php?id=8507162
+#EXTINF:-1 group-title="斗鱼电视剧",高清二连
+http://tx2play1.douyucdn.cn/live/8528140rCy0sN2pC.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",高清二连
+http://diyp.top/douyu.php?id=8528140
+#EXTINF:-1 group-title="斗鱼电视剧",下饭剧场真香系列
+http://tx2play1.douyucdn.cn/live/8531333rNDjKKUOC.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",下饭剧场真香系列
+http://diyp.top/douyu.php?id=8531333
+#EXTINF:-1 group-title="斗鱼电视剧",看看电影听听故事
+http://tx2play1.douyucdn.cn/live/8650807rq7BryrR3.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",看看电影听听故事
+http://diyp.top/douyu.php?id=8650807
+#EXTINF:-1 group-title="斗鱼电视剧",恐怖动作
+http://tx2play1.douyucdn.cn/live/8558419rgRjlWgx6.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",恐怖动作
+http://diyp.top/douyu.php?id=8558419
+#EXTINF:-1 group-title="斗鱼电视剧",颜王的人间正道
+http://tx2play1.douyucdn.cn/live/8633986rsmMcOD5I.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",颜王的人间正道
+http://diyp.top/douyu.php?id=8633986
+#EXTINF:-1 group-title="斗鱼电视剧",老李你开炮呀
+http://tx2play1.douyucdn.cn/live/8508416rwZ2MlIN8.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",老李你开炮呀
+http://diyp.top/douyu.php?id=8508416
+#EXTINF:-1 group-title="斗鱼电视剧",帅哥美女一起看看
+http://tx2play1.douyucdn.cn/live/8627265rDZ2fn0tj.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",帅哥美女一起看看
+http://diyp.top/douyu.php?id=8627265
+#EXTINF:-1 group-title="斗鱼电视剧",成成游戏放映室
+http://tx2play1.douyucdn.cn/live/2470036rCyJmGjYJ.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",成成游戏放映室
+http://diyp.top/douyu.php?id=2470036
+#EXTINF:-1 group-title="斗鱼电视剧",星光影视经典剧场
+http://tx2play1.douyucdn.cn/live/5326177rn2G3R5PC.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",星光影视经典剧场
+http://diyp.top/douyu.php?id=5326177
+#EXTINF:-1 group-title="斗鱼电视剧",经典影视直播间3113309
+http://tx2play1.douyucdn.cn/live/3113309rBt37zUCC.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典影视直播间3113309
+http://diyp.top/douyu.php?id=3113309
+#EXTINF:-1 group-title="斗鱼电视剧",负债〆百万滴崽℡
+http://tx2play1.douyucdn.cn/live/4892776r7QuMWTvx.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",负债〆百万滴崽℡
+http://diyp.top/douyu.php?id=4892776
+#EXTINF:-1 group-title="斗鱼电视剧",仙侠穿越剧专场关注不迷路
+http://tx2play1.douyucdn.cn/live/5873420rXYpWzRx1.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",仙侠穿越剧专场关注不迷路
+http://diyp.top/douyu.php?id=5873420
+#EXTINF:-1 group-title="斗鱼电视剧",落樱经典老剧轮播剧场
+http://tx2play1.douyucdn.cn/live/8782044rP2sXHKAV.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",落樱经典老剧轮播剧场
+http://diyp.top/douyu.php?id=8782044
+#EXTINF:-1 group-title="斗鱼电视剧",24小时帮场子
+http://tx2play1.douyucdn.cn/live/8607414rAuzew8iu.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",24小时帮场子
+http://diyp.top/douyu.php?id=8607414
+#EXTINF:-1 group-title="斗鱼电视剧",张卫健电视剧
+http://tx2play1.douyucdn.cn/live/8786161r5ualrtrF.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",张卫健电视剧
+http://diyp.top/douyu.php?id=8786161
+#EXTINF:-1 group-title="斗鱼电视剧",瞧瞧六哥耍帅
+http://tx2play1.douyucdn.cn/live/8562339rKbwg2rK4.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",瞧瞧六哥耍帅
+http://diyp.top/douyu.php?id=8562339
+#EXTINF:-1 group-title="斗鱼电视剧",儿时剧场档
+http://tx2play1.douyucdn.cn/live/8580340rbiR29XSg.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",儿时剧场档
+http://diyp.top/douyu.php?id=8580340
+#EXTINF:-1 group-title="斗鱼电视剧",来回忆童年的乐趣吧
+http://tx2play1.douyucdn.cn/live/8423950rt5S2x8QE.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",来回忆童年的乐趣吧
+http://diyp.top/douyu.php?id=8423950
+#EXTINF:-1 group-title="斗鱼电视剧",悟空的快乐时光
+http://tx2play1.douyucdn.cn/live/8742073r8OLmVQxA.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",悟空的快乐时光
+http://diyp.top/douyu.php?id=8742073
+#EXTINF:-1 group-title="斗鱼电视剧",余则成孙红雷
+http://tx2play1.douyucdn.cn/live/8833496rt2e79ZTE.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",余则成孙红雷
+http://diyp.top/douyu.php?id=8833496
+#EXTINF:-1 group-title="斗鱼电视剧",新人直播来的朋友
+http://tx2play1.douyucdn.cn/live/8479501rF6052sVj.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",新人直播来的朋友
+http://diyp.top/douyu.php?id=8479501
+#EXTINF:-1 group-title="斗鱼电视剧",李云龙你开炮呀
+http://tx2play1.douyucdn.cn/live/8844552rRsTCRFVE.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",李云龙你开炮呀
+http://diyp.top/douyu.php?id=8844552
+#EXTINF:-1 group-title="斗鱼电视剧",维c晨的直播逗乐铁三角
+http://tx2play1.douyucdn.cn/live/8832376rLvoVrWKz.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",维c晨的直播逗乐铁三角
+http://diyp.top/douyu.php?id=8832376
+#EXTINF:-1 group-title="斗鱼电视剧",在下郭靖是也
+http://tx2play1.douyucdn.cn/live/8834820rARuNExhp.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",在下郭靖是也
+http://diyp.top/douyu.php?id=8834820
+#EXTINF:-1 group-title="斗鱼电视剧",新主播请大家多多关注
+http://tx2play1.douyucdn.cn/live/8758486r7ykiCeTh.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",新主播请大家多多关注
+http://diyp.top/douyu.php?id=8758486
+#EXTINF:-1 group-title="斗鱼电视剧",陪看经典剧
+http://tx2play1.douyucdn.cn/live/8729304rMG9lA6kg.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",陪看经典剧
+http://diyp.top/douyu.php?id=8729304
+#EXTINF:-1 group-title="斗鱼电视剧",UU陪你看经典影视剧
+http://tx2play1.douyucdn.cn/live/8836971rFsGr0OMg.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",UU陪你看经典影视剧
+http://diyp.top/douyu.php?id=8836971
+#EXTINF:-1 group-title="斗鱼电视剧",一起看8690505
+http://tx2play1.douyucdn.cn/live/8690505rrA4YtlG8.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",一起看8690505
+http://diyp.top/douyu.php?id=8690505
+#EXTINF:-1 group-title="斗鱼电视剧",没有弹幕的直播间
+http://tx2play1.douyucdn.cn/live/8800897r56R53q1U.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",没有弹幕的直播间
+http://diyp.top/douyu.php?id=8800897
+#EXTINF:-1 group-title="斗鱼电视剧",騷年白小蘇的直播间
+http://tx2play1.douyucdn.cn/live/8827095rogFgp7i2.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",騷年白小蘇的直播间
+http://diyp.top/douyu.php?id=8827095
+#EXTINF:-1 group-title="斗鱼电视剧",元芳你怎么看破案剧神剧经典电视
+http://tx2play1.douyucdn.cn/live/8836930r42P5ICXT.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",元芳你怎么看破案剧神剧经典电视
+http://diyp.top/douyu.php?id=8836930
+#EXTINF:-1 group-title="斗鱼电视剧",主播在线点播
+http://tx2play1.douyucdn.cn/live/8510576rh6russyX.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",主播在线点播
+http://diyp.top/douyu.php?id=8510576
+#EXTINF:-1 group-title="斗鱼电视剧",滚滚长江东逝水
+http://tx2play1.douyucdn.cn/live/8855947rHXflDxOr.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",滚滚长江东逝水
+http://diyp.top/douyu.php?id=8855947
+#EXTINF:-1 group-title="斗鱼电视剧",听雪战队收人啦
+http://tx2play1.douyucdn.cn/live/6863367rG0ydETHH.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",听雪战队收人啦
+http://diyp.top/douyu.php?id=6863367
+#EXTINF:-1 group-title="斗鱼电视剧",搞笑下饭神剧童年回忆
+http://tx2play1.douyucdn.cn/live/5422706rRAPPL5Rc.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",搞笑下饭神剧童年回忆
+http://diyp.top/douyu.php?id=5422706
+#EXTINF:-1 group-title="斗鱼电视剧",超清1经典港剧天地
+http://tx2play1.douyucdn.cn/live/4290711rn0ig0G7v.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",超清1经典港剧天地
+http://diyp.top/douyu.php?id=4290711
+#EXTINF:-1 group-title="斗鱼电视剧",许三多来了
+http://tx2play1.douyucdn.cn/live/7077241rAD6didhA.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",许三多来了
+http://diyp.top/douyu.php?id=7077241
+#EXTINF:-1 group-title="斗鱼电视剧",杀死狄狄仁杰活捉燕双鹰
+http://tx2play1.douyucdn.cn/live/3439096rfNjwRRcj.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",杀死狄狄仁杰活捉燕双鹰
+http://diyp.top/douyu.php?id=3439096
+#EXTINF:-1 group-title="斗鱼电视剧",浅浅经典国语不打烊
+http://tx2play1.douyucdn.cn/live/1543154r2asLS3ES.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",浅浅经典国语不打烊
+http://diyp.top/douyu.php?id=1543154
+#EXTINF:-1 group-title="斗鱼电视剧",師落蒹葭苍苍白露为霜
+http://tx2play1.douyucdn.cn/live/6582435rAjqY9EUf.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",師落蒹葭苍苍白露为霜
+http://diyp.top/douyu.php?id=6582435
+#EXTINF:-1 group-title="斗鱼电视剧",狄仁杰想听听我的故事吗
+http://tx2play1.douyucdn.cn/live/674441rkLnIZh91R.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",狄仁杰想听听我的故事吗
+http://diyp.top/douyu.php?id=674441
+#EXTINF:-1 group-title="斗鱼电视剧",果条楚汉三国剧场
+http://tx2play1.douyucdn.cn/live/6785471rPkPHg9se.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",果条楚汉三国剧场
+http://diyp.top/douyu.php?id=6785471
+#EXTINF:-1 group-title="斗鱼电视剧",原版独播贾贵传
+http://tx2play1.douyucdn.cn/live/6778282reiQVmLDR.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",原版独播贾贵传
+http://diyp.top/douyu.php?id=6778282
+#EXTINF:-1 group-title="斗鱼电视剧",真实案件剧
+http://tx2play1.douyucdn.cn/live/922564rssN8ElpFf.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",真实案件剧
+http://diyp.top/douyu.php?id=922564
+#EXTINF:-1 group-title="斗鱼电视剧",元芳 你怎么看
+http://tx2play1.douyucdn.cn/live/6027991rvL2oO0rE.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",元芳 你怎么看
+http://diyp.top/douyu.php?id=6027991
+#EXTINF:-1 group-title="斗鱼电视剧",大包回来了
+http://tx2play1.douyucdn.cn/live/8193487rktWHVbau.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",大包回来了
+http://diyp.top/douyu.php?id=8193487
+#EXTINF:-1 group-title="斗鱼电视剧",凤凰堂德善你们抢宝拉是我的
+http://tx2play1.douyucdn.cn/live/7292330rzah9LV5R.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",凤凰堂德善你们抢宝拉是我的
+http://diyp.top/douyu.php?id=7292330
+#EXTINF:-1 group-title="斗鱼电视剧",曲线救国贾贵
+http://tx2play1.douyucdn.cn/live/8183852rUHHM3XhS.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",曲线救国贾贵
+http://diyp.top/douyu.php?id=8183852
+#EXTINF:-1 group-title="斗鱼电视剧",团长国难当头岂能坐视
+http://tx2play1.douyucdn.cn/live/8198649rwN0pY5se.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",团长国难当头岂能坐视
+http://diyp.top/douyu.php?id=8198649
+#EXTINF:-1 group-title="斗鱼电视剧",金庸武侠古装神剧
+http://tx2play1.douyucdn.cn/live/338759rkQoXtroBH.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",金庸武侠古装神剧
+http://diyp.top/douyu.php?id=338759
+#EXTINF:-1 group-title="斗鱼电视剧",最早港剧点播
+http://tx2play1.douyucdn.cn/live/59612rruxb7xLi7J.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",最早港剧点播
+http://diyp.top/douyu.php?id=59612
+#EXTINF:-1 group-title="斗鱼电视剧",蓝翔经典电视剧
+http://tx2play1.douyucdn.cn/live/7459925rhDEJlz9i.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",蓝翔经典电视剧
+http://diyp.top/douyu.php?id=7459925
+#EXTINF:-1 group-title="斗鱼电视剧",哞哞悬疑剧
+http://tx2play1.douyucdn.cn/live/5869182rkQYzHE93.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",哞哞悬疑剧
+http://diyp.top/douyu.php?id=5869182
+#EXTINF:-1 group-title="斗鱼电视剧",贝壳军旅抗战悬疑历史剧专场
+http://tx2play1.douyucdn.cn/live/329876rWv8cbabET.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",贝壳军旅抗战悬疑历史剧专场
+http://diyp.top/douyu.php?id=329876
+#EXTINF:-1 group-title="斗鱼电视剧",片源齐全
+http://tx2play1.douyucdn.cn/live/7476264rH2jWE2Sg.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",片源齐全
+http://diyp.top/douyu.php?id=7476264
+#EXTINF:-1 group-title="斗鱼电视剧",天堂经典影院
+http://tx2play1.douyucdn.cn/live/7359565rLi7G7Fk2.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",天堂经典影院
+http://diyp.top/douyu.php?id=7359565
+#EXTINF:-1 group-title="斗鱼电视剧",胡椒粉的胡歌胡歌主场经典辅场
+http://tx2play1.douyucdn.cn/live/5448413rXkq8yRhB.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",胡椒粉的胡歌胡歌主场经典辅场
+http://diyp.top/douyu.php?id=5448413
+#EXTINF:-1 group-title="斗鱼电视剧",豆子☆这瓜包熟吗
+http://tx2play1.douyucdn.cn/live/7226091rFkCtXjCO.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",豆子☆这瓜包熟吗
+http://diyp.top/douyu.php?id=7226091
+#EXTINF:-1 group-title="斗鱼电视剧",电影电视剧
+http://tx2play1.douyucdn.cn/live/7882691rvLa2feFk.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",电影电视剧
+http://diyp.top/douyu.php?id=7882691
+#EXTINF:-1 group-title="斗鱼电视剧",跳伦巴的王
+http://tx2play1.douyucdn.cn/live/6899895rYc1MY5Wu.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",跳伦巴的王
+http://diyp.top/douyu.php?id=6899895
+#EXTINF:-1 group-title="斗鱼电视剧",天使点播电视剧直播间
+http://tx2play1.douyucdn.cn/live/7623292rUNSoCBqf.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",天使点播电视剧直播间
+http://diyp.top/douyu.php?id=7623292
+#EXTINF:-1 group-title="斗鱼电视剧",老剧专场
+http://tx2play1.douyucdn.cn/live/5294377rEWijRFdv.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",老剧专场
+http://diyp.top/douyu.php?id=5294377
+#EXTINF:-1 group-title="斗鱼电视剧",超清2热门港剧天地
+http://tx2play1.douyucdn.cn/live/5522351rWNxvI7RB.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",超清2热门港剧天地
+http://diyp.top/douyu.php?id=5522351
+#EXTINF:-1 group-title="斗鱼电视剧",再见来不及握手
+http://tx2play1.douyucdn.cn/live/532187rLYgN4eTfC.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",再见来不及握手
+http://diyp.top/douyu.php?id=532187
+#EXTINF:-1 group-title="斗鱼电视剧",国强四阿哥
+http://tx2play1.douyucdn.cn/live/4944033rFBuBlriV.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",国强四阿哥
+http://diyp.top/douyu.php?id=4944033
+#EXTINF:-1 group-title="斗鱼电视剧",宇哥来了小老弟儿
+http://tx2play1.douyucdn.cn/live/1171463r9IBe7Tdl.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",宇哥来了小老弟儿
+http://diyp.top/douyu.php?id=1171463
+#EXTINF:-1 group-title="斗鱼电视剧",孙红雷成名作❤
+http://tx2play1.douyucdn.cn/live/4836961rPpimT4o4.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",孙红雷成名作❤
+http://diyp.top/douyu.php?id=4836961
+#EXTINF:-1 group-title="斗鱼电视剧",经典台下饭神剧韩剧中韩
+http://tx2play1.douyucdn.cn/live/252308rwWJM9r05O.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典台下饭神剧韩剧中韩
+http://diyp.top/douyu.php?id=252308
+#EXTINF:-1 group-title="斗鱼电视剧",倚天不出谁与争锋
+http://tx2play1.douyucdn.cn/live/6720632rmiJ3MniF.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",倚天不出谁与争锋
+http://diyp.top/douyu.php?id=6720632
+#EXTINF:-1 group-title="斗鱼电视剧",正常开播欢迎欢迎
+http://tx2play1.douyucdn.cn/live/319576rbblVIx53y.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",正常开播欢迎欢迎
+http://diyp.top/douyu.php?id=319576
+#EXTINF:-1 group-title="斗鱼电视剧",国际剧场从零开始
+http://tx2play1.douyucdn.cn/live/6896398r0LjfqcGT.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",国际剧场从零开始
+http://diyp.top/douyu.php?id=6896398
+#EXTINF:-1 group-title="斗鱼电视剧",全民点播山东泉城
+http://tx2play1.douyucdn.cn/live/6949033rItVLPov7.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",全民点播山东泉城
+http://diyp.top/douyu.php?id=6949033
+#EXTINF:-1 group-title="斗鱼电视剧",奶瓶古往今来人文趣事
+http://tx2play1.douyucdn.cn/live/6241733r19Y6anKj.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",奶瓶古往今来人文趣事
+http://diyp.top/douyu.php?id=6241733
+#EXTINF:-1 group-title="斗鱼电视剧",香港亚视经典剧集怀旧
+http://tx2play1.douyucdn.cn/live/6786937rkzvp8kJy.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",香港亚视经典剧集怀旧
+http://diyp.top/douyu.php?id=6786937
+#EXTINF:-1 group-title="斗鱼电视剧",回忆杀经典怀旧神剧
+http://tx2play1.douyucdn.cn/live/6632254rjI4YKhgK.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",回忆杀经典怀旧神剧
+http://diyp.top/douyu.php?id=6632254
+#EXTINF:-1 group-title="斗鱼电视剧",贾队长来了
+http://tx2play1.douyucdn.cn/live/2277550rQ6tANEY3.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",贾队长来了
+http://diyp.top/douyu.php?id=2277550
+#EXTINF:-1 group-title="斗鱼电视剧",港剧天地24小时放
+http://tx2play1.douyucdn.cn/live/6596220rRhvx9Nvw.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",港剧天地24小时放
+http://diyp.top/douyu.php?id=6596220
+#EXTINF:-1 group-title="斗鱼电视剧",重温经典~
+http://tx2play1.douyucdn.cn/live/6497464rNMWcPIeD.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",重温经典~
+http://diyp.top/douyu.php?id=6497464
+#EXTINF:-1 group-title="斗鱼电视剧",奶瓶❤️金庸武侠剧
+http://tx2play1.douyucdn.cn/live/7644931rJKpf0smD.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",奶瓶❤️金庸武侠剧
+http://diyp.top/douyu.php?id=7644931
+#EXTINF:-1 group-title="斗鱼电视剧",我有我自由理閪你感受
+http://tx2play1.douyucdn.cn/live/6379310rNlUc5YGQ.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",我有我自由理閪你感受
+http://diyp.top/douyu.php?id=6379310
+#EXTINF:-1 group-title="斗鱼电视剧",四大名著（原版）
+http://tx2play1.douyucdn.cn/live/1046540rs3loxbT2.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",四大名著（原版）
+http://diyp.top/douyu.php?id=1046540
+#EXTINF:-1 group-title="斗鱼电视剧",懒懒壁虎的直播间
+http://tx2play1.douyucdn.cn/live/5127679rR1amcZE0.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",懒懒壁虎的直播间
+http://diyp.top/douyu.php?id=5127679
+#EXTINF:-1 group-title="斗鱼电视剧",经典搞笑电视剧轮播
+http://tx2play1.douyucdn.cn/live/5429211rs52LfOsB.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典搞笑电视剧轮播
+http://diyp.top/douyu.php?id=5429211
+#EXTINF:-1 group-title="斗鱼电视剧",经典 青春 影视剧
+http://tx2play1.douyucdn.cn/live/7559665rSjOl2J1g.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典 青春 影视剧
+http://diyp.top/douyu.php?id=7559665
+#EXTINF:-1 group-title="斗鱼电视剧",皇上 皇上 臣无罪啊
+http://tx2play1.douyucdn.cn/live/7444169rWoSyrPdx.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",皇上 皇上 臣无罪啊
+http://diyp.top/douyu.php?id=7444169
+#EXTINF:-1 group-title="斗鱼电视剧",怀旧经典剧克塞
+http://tx2play1.douyucdn.cn/live/6001806rpblAYKpX.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",怀旧经典剧克塞
+http://diyp.top/douyu.php?id=6001806
+#EXTINF:-1 group-title="斗鱼电视剧",柯南看历史康熙遇上劉羅鍋
+http://tx2play1.douyucdn.cn/live/7784862rNk3ctpmY.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",柯南看历史康熙遇上劉羅鍋
+http://diyp.top/douyu.php?id=7784862
+#EXTINF:-1 group-title="斗鱼电视剧",cgsfml 彪哥这一块
+http://tx2play1.douyucdn.cn/live/771006rJXR8Qx1N0.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",cgsfml 彪哥这一块
+http://diyp.top/douyu.php?id=771006
+#EXTINF:-1 group-title="斗鱼电视剧",曹贼
+http://tx2play1.douyucdn.cn/live/243292rVEDfGhBdZ.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",曹贼
+http://diyp.top/douyu.php?id=243292
+#EXTINF:-1 group-title="斗鱼电视剧",全网最佳体验修复画质港剧24H
+http://tx2play1.douyucdn.cn/live/326852rABEcT4sYT.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",全网最佳体验修复画质港剧24H
+http://diyp.top/douyu.php?id=326852
+#EXTINF:-1 group-title="斗鱼电视剧",经典就是百看不厌
+http://tx2play1.douyucdn.cn/live/480097rgA78lwKyz.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典就是百看不厌
+http://diyp.top/douyu.php?id=480097
+#EXTINF:-1 group-title="斗鱼电视剧",佛系爆笑剧集轮播
+http://tx2play1.douyucdn.cn/live/5689514rRF0M0TVW.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",佛系爆笑剧集轮播
+http://diyp.top/douyu.php?id=5689514
+#EXTINF:-1 group-title="斗鱼电视剧",时光随便播播
+http://tx2play1.douyucdn.cn/live/194049rvBVd3e1SZ.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",时光随便播播
+http://diyp.top/douyu.php?id=194049
+#EXTINF:-1 group-title="斗鱼电视剧",经典港剧.古装剧
+http://tx2play1.douyucdn.cn/live/4147520raEKrr6Cl.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典港剧.古装剧
+http://diyp.top/douyu.php?id=4147520
+#EXTINF:-1 group-title="斗鱼电视剧",破案谈情最经典刑侦剧大勇忠义穿越
+http://tx2play1.douyucdn.cn/live/105265rLSLrnbrXg.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",破案谈情最经典刑侦剧大勇忠义穿越
+http://diyp.top/douyu.php?id=105265
+#EXTINF:-1 group-title="斗鱼电视剧",Jc姜小七_过足瘾剧场
+http://tx2play1.douyucdn.cn/live/722858rWvZO7BQGf.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",Jc姜小七_过足瘾剧场
+http://diyp.top/douyu.php?id=722858
+#EXTINF:-1 group-title="斗鱼电视剧",经典军旅抗战影视剧
+http://tx2play1.douyucdn.cn/live/8174626rfqJSg24I.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典军旅抗战影视剧
+http://diyp.top/douyu.php?id=8174626
+#EXTINF:-1 group-title="斗鱼电视剧",武侠经典历史
+http://tx2play1.douyucdn.cn/live/5875025rBeOelkVr.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",武侠经典历史
+http://diyp.top/douyu.php?id=5875025
+#EXTINF:-1 group-title="斗鱼电视剧",三国争霸弹幕来袭
+http://tx2play1.douyucdn.cn/live/45259rQ2WRAWsUn9.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",三国争霸弹幕来袭
+http://diyp.top/douyu.php?id=45259
+#EXTINF:-1 group-title="斗鱼电视剧",木子陪你看连续剧
+http://tx2play1.douyucdn.cn/live/8116528rnnPDV6nO.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",木子陪你看连续剧
+http://diyp.top/douyu.php?id=8116528
+#EXTINF:-1 group-title="斗鱼电视剧",我欲成仙快乐齐天的直播间
+http://tx2play1.douyucdn.cn/live/4763864rsEdm7xBg.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",我欲成仙快乐齐天的直播间
+http://diyp.top/douyu.php?id=4763864
+#EXTINF:-1 group-title="斗鱼电视剧",顺风为主其他情景剧与集锦为辅
+http://tx2play1.douyucdn.cn/live/6369954rkECnpOQO.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",顺风为主其他情景剧与集锦为辅
+http://diyp.top/douyu.php?id=6369954
+#EXTINF:-1 group-title="斗鱼电视剧",经典影像直播间
+http://tx2play1.douyucdn.cn/live/7582564rRR87y4Va.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典影像直播间
+http://diyp.top/douyu.php?id=7582564
+#EXTINF:-1 group-title="斗鱼电视剧",超清】24小时轮播
+http://tx2play1.douyucdn.cn/live/6119059rv4hDi6pd.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",超清】24小时轮播
+http://diyp.top/douyu.php?id=6119059
+#EXTINF:-1 group-title="斗鱼电视剧",交通站中分男神贾贵
+http://tx2play1.douyucdn.cn/live/726768rZKKCYC5oW.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",交通站中分男神贾贵
+http://diyp.top/douyu.php?id=726768
+#EXTINF:-1 group-title="斗鱼电视剧",砖石豆55
+http://tx2play1.douyucdn.cn/live/7678255rtcXN3TnA.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",砖石豆55
+http://diyp.top/douyu.php?id=7678255
+#EXTINF:-1 group-title="斗鱼电视剧",乞丐的电视剧
+http://tx2play1.douyucdn.cn/live/3202258r4Q0SN0O1.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",乞丐的电视剧
+http://diyp.top/douyu.php?id=3202258
+#EXTINF:-1 group-title="斗鱼电视剧",家片有约唤醒您的记忆
+http://tx2play1.douyucdn.cn/live/601582rYhE8slZno.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",家片有约唤醒您的记忆
+http://diyp.top/douyu.php?id=601582
+#EXTINF:-1 group-title="斗鱼电视剧",电视游戏wiiU
+http://tx2play1.douyucdn.cn/live/1023277rvsOW1K3Y.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",电视游戏wiiU
+http://diyp.top/douyu.php?id=1023277
+#EXTINF:-1 group-title="斗鱼电视剧",来了老弟办卡送房管
+http://tx2play1.douyucdn.cn/live/1535280ryqnuFUNZ.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",来了老弟办卡送房管
+http://diyp.top/douyu.php?id=1535280
+#EXTINF:-1 group-title="斗鱼电视剧",胶卷观新三神剧
+http://tx2play1.douyucdn.cn/live/4729653rTklo6cMQ.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",胶卷观新三神剧
+http://diyp.top/douyu.php?id=4729653
+#EXTINF:-1 group-title="斗鱼电视剧",葛大叔剧场电视剧
+http://tx2play1.douyucdn.cn/live/6691014roxk01RaS.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",葛大叔剧场电视剧
+http://diyp.top/douyu.php?id=6691014
+#EXTINF:-1 group-title="斗鱼电视剧",不收钱Tv
+http://tx2play1.douyucdn.cn/live/7904919r0e4ROWkN.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",不收钱Tv
+http://diyp.top/douyu.php?id=7904919
+#EXTINF:-1 group-title="斗鱼电视剧",叁721经典好剧陪你一起看
+http://tx2play1.douyucdn.cn/live/751614r529y0ZeLC.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",叁721经典好剧陪你一起看
+http://diyp.top/douyu.php?id=751614
+#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧轮播240196
+http://tx2play1.douyucdn.cn/live/240196r5v3qSSpnD.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧轮播240196
+http://diyp.top/douyu.php?id=240196
+#EXTINF:-1 group-title="斗鱼电视剧",怀旧电视剧了解一下
+http://tx2play1.douyucdn.cn/live/7898330rk0ekTW8j.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",怀旧电视剧了解一下
+http://diyp.top/douyu.php?id=7898330
+#EXTINF:-1 group-title="斗鱼电视剧",斗鱼二男神还是渣男你说呢
+http://tx2play1.douyucdn.cn/live/699881rPiZ23kH7e.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",斗鱼二男神还是渣男你说呢
+http://diyp.top/douyu.php?id=699881
+#EXTINF:-1 group-title="斗鱼电视剧",希望你们喜欢喜欢就关注一下
+http://tx2play1.douyucdn.cn/live/7869099rOjcBJ5zN.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",希望你们喜欢喜欢就关注一下
+http://diyp.top/douyu.php?id=7869099
+#EXTINF:-1 group-title="斗鱼电视剧",经典美剧化学家的精美品质
+http://tx2play1.douyucdn.cn/live/1701065r1bFwGtCB.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典美剧化学家的精美品质
+http://diyp.top/douyu.php?id=1701065
+#EXTINF:-1 group-title="斗鱼电视剧",老剧新看24小时直播间
+http://tx2play1.douyucdn.cn/live/8783103rwvhwsfiP.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",老剧新看24小时直播间
+http://diyp.top/douyu.php?id=8783103
+#EXTINF:-1 group-title="斗鱼电视剧",经典热播古天乐
+http://tx2play1.douyucdn.cn/live/8829520rzhb7iNoJ.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典热播古天乐
+http://diyp.top/douyu.php?id=8829520
+#EXTINF:-1 group-title="斗鱼电视剧",旭旭宝宝影院经典科幻动作爱情
+http://tx2play1.douyucdn.cn/live/5655535rFGNhfhQc.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",旭旭宝宝影院经典科幻动作爱情
+http://diyp.top/douyu.php?id=5655535
+#EXTINF:-1 group-title="斗鱼电视剧",高清电视剧国产经典怀旧
+http://tx2play1.douyucdn.cn/live/551906rcbMpXFv7Y.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",高清电视剧国产经典怀旧
+http://diyp.top/douyu.php?id=551906
+#EXTINF:-1 group-title="斗鱼电视剧",鼎香楼的故事
+http://tx2play1.douyucdn.cn/live/299854rohz8c4Ki6.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",鼎香楼的故事
+http://diyp.top/douyu.php?id=299854
+#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧影片组合
+http://tx2play1.douyucdn.cn/live/504314r2E09pTWdw.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧影片组合
+http://diyp.top/douyu.php?id=504314
+#EXTINF:-1 group-title="斗鱼电视剧",最爱贾萌萌
+http://tx2play1.douyucdn.cn/live/7253343rBEd9AxxB.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",最爱贾萌萌
+http://diyp.top/douyu.php?id=7253343
+#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧港剧
+http://tx2play1.douyucdn.cn/live/706982r0DY6tm2oL.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧港剧
+http://diyp.top/douyu.php?id=706982
+#EXTINF:-1 group-title="斗鱼电视剧",怀旧姜子牙孙悟空打妖怪的故事
+http://tx2play1.douyucdn.cn/live/6861249rNa1rEgKt.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",怀旧姜子牙孙悟空打妖怪的故事
+http://diyp.top/douyu.php?id=6861249
+#EXTINF:-1 group-title="斗鱼电视剧",你们的下饭主播回来了
+http://tx2play1.douyucdn.cn/live/5359264r2yoXwzqg.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",你们的下饭主播回来了
+http://diyp.top/douyu.php?id=5359264
+#EXTINF:-1 group-title="斗鱼电视剧",大肚子刷剧经典放映厅
+http://tx2play1.douyucdn.cn/live/8012596rcv12I7WQ.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",大肚子刷剧经典放映厅
+http://diyp.top/douyu.php?id=8012596
+#EXTINF:-1 group-title="斗鱼电视剧",来休息吧闭眼睛听声
+http://tx2play1.douyucdn.cn/live/6697528rHC4okVwN.m3u8
+#EXTINF:-1 group-title="斗鱼电视剧",来休息吧闭眼睛听声
+http://diyp.top/douyu.php?id=6697528
+#EXTINF:-1 group-title="战旗企鹅",懒猫美食★吃 吃 吃 吃 吃 吃 自助点播
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8
+#EXTINF:-1 group-title="战旗企鹅",小丸子试播
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/289178_v9Awm.m3u8
+#EXTINF:-1 group-title="战旗企鹅",【柯南全集】超清画质
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/219628_O3y9l.m3u8
+#EXTINF:-1 group-title="战旗企鹅",（邪恶力量）最全美剧直播室
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/278626_RrAeT.m3u8
+#EXTINF:-1 group-title="战旗企鹅",（超级赛亚人）时间：下午5：00---早上7:00
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/197952_NHycj.m3u8
+#EXTINF:-1 group-title="战旗企鹅",【名侦探柯南】666抽奖+求1石锤
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/93626_h1w6h.m3u8
+#EXTINF:-1 group-title="战旗企鹅",【脑袋大】武侠剧
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/93774_g0UdM.m3u8
+#EXTINF:-1 group-title="战旗企鹅",铁齿铜牙纪晓岚 神医喜来乐
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/246527_Mhbol.m3u8
+#EXTINF:-1 group-title="战旗企鹅",命转qian坤 秀才遇到兵 秀才爱上兵
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1 group-title="战旗企鹅",经典动漫童年回忆
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/300122_MuEgO.m3u8
+#EXTINF:-1 group-title="战旗企鹅",【经典喜剧】666抽奖+求1石锤
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/289859_lA6FB.m3u8
+#EXTINF:-1 group-title="战旗企鹅",【武林外传】666抽奖+求1石锤
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/182325_z3jRr.m3u8
+#EXTINF:-1 group-title="战旗企鹅",TVB经典电视剧
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/154733_xcVyM.m3u8
+#EXTINF:-1 group-title="战旗企鹅",祁阳影视频道
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/296728_aCH5P.m3u8
+#EXTINF:-1 group-title="战旗企鹅",经典音乐
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/285305_4Cz3X.m3u8
+#EXTINF:-1 group-title="战旗企鹅",快来围观(←←)
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/299548_RKDKO.m3u8
+#EXTINF:-1 group-title="战旗企鹅",终南山影视
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/288547_qSJ5f.m3u8
+#EXTINF:-1 group-title="战旗企鹅",星光影视
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/299458_Av0vD.m3u8
+#EXTINF:-1 group-title="战旗企鹅",功夫台
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
+#EXTINF:-1 group-title="战旗企鹅",影视戏剧院
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/300808_5AkkR.m3u8
+#EXTINF:-1 group-title="战旗企鹅",【周口影视】电影频道
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+#EXTINF:-1 group-title="战旗企鹅",【淮阳影视】百看不厌 怀旧经典
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/199301_y2bWG.m3u8
+#EXTINF:-1 group-title="战旗企鹅",《炊事班的故事》三部曲
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/275052_NGqzG.m3u8
+#EXTINF:-1 group-title="战旗企鹅",《武林外传》8点到24点
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/286120_2SFM6.m3u8
+#EXTINF:-1 group-title="战旗企鹅",周口电视剧频道
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/194839_XtiBg.flv
+#EXTINF:-1 group-title="战旗企鹅",欢喜密探 武林外传 龙门镖局 约会专家
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1 group-title="战旗企鹅",绝对优势电影
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/245160_eBaHN.m3u8
+#EXTINF:-1 group-title="战旗企鹅",搞笑一家人
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/198925_Hj7ax.m3u8
+#EXTINF:-1 group-title="战旗企鹅",中外经典影视
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/290003_QVDZJ.m3u8
+#EXTINF:-1 group-title="战旗企鹅",经典影视，随便放
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
+#EXTINF:-1 group-title="战旗企鹅",港剧，经典武侠剧
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/291236_97IGR.m3u8
+#EXTINF:-1 group-title="战旗企鹅",白天放 午夜随缘
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/300202_bQnmB.m3u8
+#EXTINF:-1 group-title="战旗企鹅",港片武侠
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/296155_gui3i.m3u8
+#EXTINF:-1 group-title="战旗企鹅",齐影视电影频道
+https://yfhdl-p2p-cdn.zhanqi.tv/zqlive/295878_r100J.flv?k=99e1b8ce214f40ee8ef9af2bb222efb7&t=5efc669d&playNum=99643533527&gId=1647841635&ipFrom=&clientIp=&fhost=h5&platform=128
+#EXTINF:-1 group-title="战旗企鹅",✿24小时✿10个溜→点播新片
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/53346_ESoth.m3u8
+#EXTINF:-1 group-title="战旗企鹅",欢迎来到惊悚乐园
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/275792_qIz6B.m3u8
+#EXTINF:-1 group-title="战旗企鹅",影视戏剧院
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/300808_5AkkR.m3u8
+#EXTINF:-1 group-title="战旗企鹅",传统相声专场24郭德纲于谦
+http://junlovefang.top:80/egame.php?id=616289265
+#EXTINF:-1 group-title="战旗企鹅",户外猎奇翻滚的小白条
+http://junlovefang.top:80/egame.php?id=430460861
+#EXTINF:-1 group-title="战旗企鹅",阿尹一起看电影啊
+http://junlovefang.top:80/egame.php?id=272517172
+#EXTINF:-1 group-title="战旗企鹅",大家一起看电视
+http://junlovefang.top:80/egame.php?id=16295202
+#EXTINF:-1 group-title="战旗企鹅",走西藏走新疆第15天
+http://junlovefang.top:80/egame.php?id=617894531
+#EXTINF:-1 group-title="战旗企鹅",上午好哦哦哦哦哦哦
+http://junlovefang.top:80/egame.php?id=130902951
+#EXTINF:-1 group-title="战旗企鹅",【爱情公寓】全程爆笑
+http://junlovefang.top:80/egame.php?id=322842111
+#EXTINF:-1 group-title="战旗企鹅",我在越南养殖的生活（第一季）
+http://junlovefang.top:80/egame.php?id=272482520
+#EXTINF:-1 group-title="战旗企鹅",【爱情公寓】青春爱情爆笑公寓
+http://junlovefang.top:80/egame.php?id=483923557
+#EXTINF:-1 group-title="战旗企鹅",晴天雨天都不如你和我聊天
+http://junlovefang.top:80/egame.php?id=332108853
+#EXTINF:-1 group-title="战旗企鹅",【勤戴口罩】名侦探柯南 24H
+http://junlovefang.top:80/egame.php?id=616512747
+#EXTINF:-1 group-title="战旗企鹅",【小京陪看】德云社郭德纲相声
+http://junlovefang.top:80/egame.php?id=202452345
+#EXTINF:-1 group-title="战旗企鹅",德云社郭德纲相声专场陪你看
+http://junlovefang.top:80/egame.php?id=468780224
+#EXTINF:-1 group-title="战旗企鹅",僵尸鬼片动作搞笑武侠
+http://junlovefang.top:80/egame.php?id=157023183
+#EXTINF:-1 group-title="战旗企鹅",【疯狂自行车🚲】冲刺229km西双版纳
+http://junlovefang.top:80/egame.php?id=597484370
+#EXTINF:-1 group-title="战旗企鹅",【名侦探柯南】死神小学生，一集挂一个
+http://junlovefang.top:80/egame.php?id=158617293
+#EXTINF:-1 group-title="战旗企鹅",【小y】《小品、相声》
+http://junlovefang.top:80/egame.php?id=164540838
+#EXTINF:-1 group-title="战旗企鹅",欧美经典科幻恐怖电影
+http://junlovefang.top:80/egame.php?id=382971876
+#EXTINF:-1 group-title="战旗企鹅",这天越来越热！！！
+http://junlovefang.top:80/egame.php?id=618900152
+#EXTINF:-1 group-title="战旗企鹅",周星驰24小时喜剧经典电影
+http://junlovefang.top:80/egame.php?id=199681168
+#EXTINF:-1 group-title="战旗企鹅",【综艺大咖】极限挑战、奔跑吧
+http://junlovefang.top:80/egame.php?id=389194280
+#EXTINF:-1 group-title="战旗企鹅",【小品相声】媚儿陪你看
+http://junlovefang.top:80/egame.php?id=225458404
+#EXTINF:-1 group-title="战旗企鹅",【英叔护体】全天僵尸鬼片恐怖电影
+http://junlovefang.top:80/egame.php?id=363783415
+#EXTINF:-1 group-title="战旗企鹅",电视剧老戏骨剧场
+http://junlovefang.top:80/egame.php?id=31504666
+#EXTINF:-1 group-title="战旗企鹅",【三国】滚.滚长江东逝水
+http://junlovefang.top:80/egame.php?id=384343974
+#EXTINF:-1 group-title="战旗企鹅",【自助点播】恐怖喜剧经典动作科幻
+http://junlovefang.top:80/egame.php?id=490905763
+#EXTINF:-1 group-title="战旗企鹅",《德云社》郭德纲于谦传统相声专场
+http://junlovefang.top:80/egame.php?id=421447299
+#EXTINF:-1 group-title="战旗企鹅",鸭鸭的滴滴生活
+http://junlovefang.top:80/egame.php?id=620011394
+#EXTINF:-1 group-title="战旗企鹅",超燃热血动漫任你点
+http://junlovefang.top:80/egame.php?id=379529617
+#EXTINF:-1 group-title="战旗企鹅",周星驰24小时经典喜剧
+http://junlovefang.top:80/egame.php?id=336052518
+#EXTINF:-1 group-title="战旗企鹅",国外鬼片惊悚恐怖片丧尸片︎恐怖电影
+http://junlovefang.top:80/egame.php?id=306723212
+#EXTINF:-1 group-title="战旗企鹅",纪晓岚四部超清
+http://junlovefang.top:80/egame.php?id=735433796
+#EXTINF:-1 group-title="战旗企鹅",穿越火线抢先看
+http://junlovefang.top:80/egame.php?id=34553076
+#EXTINF:-1 group-title="战旗企鹅",新赛季开始了，上分的速度啦
+http://junlovefang.top:80/egame.php?id=225367159
+#EXTINF:-1 group-title="战旗企鹅",荒野求生
+http://junlovefang.top:80/egame.php?id=一个马上倒闭的直播间！,http://junlovefang.top:80/egame.php?id=577368917
+#EXTINF:-1 group-title="战旗企鹅",新主播支持一下
+http://junlovefang.top:80/egame.php?id=606408487
+#EXTINF:-1 group-title="战旗企鹅",漫威DC★动作喜剧★经典电影
+http://junlovefang.top:80/egame.php?id=616645877
+#EXTINF:-1 group-title="战旗企鹅",阿斗的自白
+http://junlovefang.top:80/egame.php?id=43125907
+#EXTINF:-1 group-title="战旗企鹅",铁三角开启寻宝之旅
+http://junlovefang.top:80/egame.php?id=342640
+#EXTINF:-1 group-title="战旗企鹅",老友老友老友!
+http://junlovefang.top:80/egame.php?id=581708630
+#EXTINF:-1 group-title="战旗企鹅",寻找老戏骨
+http://junlovefang.top:80/egame.php?id=337131164
+#EXTINF:-1 group-title="战旗企鹅",综艺《王牌对王牌》24小时轮播
+http://junlovefang.top:80/egame.php?id=462055043
+#EXTINF:-1 group-title="战旗企鹅",爱情公寓一至四
+http://junlovefang.top:80/egame.php?id=622402646
+#EXTINF:-1 group-title="战旗企鹅",秦明秦明法医秦明
+http://junlovefang.top:80/egame.php?id=257293378
+#EXTINF:-1 group-title="战旗企鹅",日常在线下饭
+http://junlovefang.top:80/egame.php?id=434528496
+#EXTINF:-1 group-title="战旗企鹅",海绵宝宝开播拉
+http://junlovefang.top:80/egame.php?id=678706943
+#EXTINF:-1 group-title="战旗企鹅",【蓝翔】新三国蓝光
+http://junlovefang.top:80/egame.php?id=540969071
+#EXTINF:-1 group-title="战旗企鹅",新三国_超清[7*24小时]直播
+http://junlovefang.top:80/egame.php?id=153607630
+#EXTINF:-1 group-title="战旗企鹅",经典武侠神话喜剧惊辣恐怖
+http://junlovefang.top:80/egame.php?id=115616259
+#EXTINF:-1 group-title="战旗企鹅",【经典电影】喜剧鬼片动作武侠
+http://junlovefang.top:80/egame.php?id=344201418
+#EXTINF:-1 group-title="战旗企鹅",准备激情了
+http://junlovefang.top:80/egame.php?id=279841081
+#EXTINF:-1 group-title="战旗企鹅",王者主播虽菜可还凑合
+http://junlovefang.top:80/egame.php?id=23987366
+#EXTINF:-1 group-title="战旗企鹅",电视剧古装武侠经典怀旧
+http://junlovefang.top:80/egame.php?id=511553134
+#EXTINF:-1 group-title="战旗企鹅",【动漫专场】经典超燃
+http://junlovefang.top:80/egame.php?id=385464944
+#EXTINF:-1 group-title="战旗企鹅",动物自然纪录片集锦
+http://junlovefang.top:80/egame.php?id=417299409
+#EXTINF:-1 group-title="战旗企鹅",猫和老鼠搞笑动画轮播！随机播游戏！
+http://junlovefang.top:80/egame.php?id=274126513
+#EXTINF:-1 group-title="战旗企鹅",超清24小时精彩不断播
+http://junlovefang.top:80/egame.php?id=100660627
+#EXTINF:-1 group-title="战旗企鹅",【星爷&英叔】经典全集
+http://junlovefang.top:80/egame.php?id=142576940
+#EXTINF:-1 group-title="战旗企鹅",不送礼物等啥呢
+http://junlovefang.top:80/egame.php?id=504209819
+#EXTINF:-1 group-title="战旗企鹅",【名侦探柯南】国语全集
+http://junlovefang.top:80/egame.php?id=203609181
+#EXTINF:-1 group-title="战旗企鹅",恐怖惊悚动作科幻喜剧
+http://junlovefang.top:80/egame.php?id=504525571
+#EXTINF:-1 group-title="战旗企鹅",【粤语电影】【周星驰】【林正英】
+http://junlovefang.top:80/egame.php?id=389804816
+#EXTINF:-1 group-title="战旗企鹅",家有儿女全程爆笑
+http://junlovefang.top:80/egame.php?id=6949434
+#EXTINF:-1 group-title="战旗企鹅",甄嬛传
+http://junlovefang.top:80/egame.php?id=40949755
+#EXTINF:-1 group-title="战旗企鹅",豆子陪你看三国
+http://junlovefang.top:80/egame.php?id=159765564
+#EXTINF:-1 group-title="战旗企鹅",DOA6国际格斗游戏 穗香四妹霞爱不释手
+http://junlovefang.top:80/egame.php?id=131986685
+#EXTINF:-1 group-title="战旗企鹅",柯南直播间
+http://junlovefang.top:80/egame.php?id=410903700
+#EXTINF:-1 group-title="战旗企鹅",啦啦啦啦啦赛季末苟个王牌
+http://junlovefang.top:80/egame.php?id=269408679
+#EXTINF:-1 group-title="战旗企鹅",看会电视！！！
+http://junlovefang.top:80/egame.php?id=764837969
+#EXTINF:-1 group-title="战旗企鹅",奔跑吧！兄弟
+http://junlovefang.top:80/egame.php?id=199221585
+#EXTINF:-1 group-title="战旗企鹅",炎炎夏日一丝清凉
+http://junlovefang.top:80/egame.php?id=4874955
+#EXTINF:-1 group-title="战旗企鹅",前方高能 请关灯后食用！
+http://junlovefang.top:80/egame.php?id=449390391
+#EXTINF:-1 group-title="战旗企鹅",小焕陪你左右
+http://junlovefang.top:80/egame.php?id=52287799
+#EXTINF:-1 group-title="战旗企鹅",一起看传闻中的陈千千
+http://junlovefang.top:80/egame.php?id=176953830
+#EXTINF:-1 group-title="战旗企鹅",沙海欢迎朋友们
+http://junlovefang.top:80/egame.php?id=78979274
+#EXTINF:-1 group-title="战旗企鹅",闪电利剑看懂的进来
+http://junlovefang.top:80/egame.php?id=107644715
+#EXTINF:-1 group-title="战旗企鹅",好先生全集
+http://junlovefang.top:80/egame.php?id=45265092
+#EXTINF:-1 group-title="战旗企鹅",哥斯拉2-怪兽之王
+http://junlovefang.top:80/egame.php?id=420645569
+#EXTINF:-1 group-title="战旗企鹅",冲冲冲冲冲冲
+http://junlovefang.top:80/egame.php?id=13178565
+#EXTINF:-1 group-title="战旗企鹅",赳赳老秦共赴国难
+http://junlovefang.top:80/egame.php?id=37459539
+#EXTINF:-1 group-title="战旗企鹅",中华小当家专场
+http://junlovefang.top:80/egame.php?id=301594188
+#EXTINF:-1 group-title="战旗企鹅",有事没事来看看
+http://junlovefang.top:80/egame.php?id=34893392
+#EXTINF:-1 group-title="战旗企鹅",上午好吗~
+http://junlovefang.top:80/egame.php?id=62545713
+#EXTINF:-1 group-title="战旗企鹅",*新三国*V*大电影*
+http://junlovefang.top:80/egame.php?id=422349131
+#EXTINF:-1 group-title="战旗企鹅",局中人 张一山
+http://junlovefang.top:80/egame.php?id=430017744
+#EXTINF:-1 group-title="战旗企鹅",老表当职业选手不远了。加油
+http://junlovefang.top:80/egame.php?id=178691227
+#EXTINF:-1 group-title="战旗企鹅",木木陪你看（）
+http://junlovefang.top:80/egame.php?id=142146801
+#EXTINF:-1 group-title="战旗企鹅",一起看电影
+http://junlovefang.top:80/egame.php?id=157340896
+#EXTINF:-1 group-title="战旗企鹅",点波关注，谢谢大家
+http://junlovefang.top:80/egame.php?id=190704237
+#EXTINF:-1 group-title="战旗企鹅",露天电影院
+http://junlovefang.top:80/egame.php?id=726933692
+#EXTINF:-1 group-title="战旗企鹅",【怀旧影视】死神小学生，全集+剧场+主线
+http://junlovefang.top:80/egame.php?id=482388602
+#EXTINF:-1 group-title="战旗企鹅",《陈情令》忆少年
+http://junlovefang.top:80/egame.php?id=175379441
+#EXTINF:-1 group-title="战旗企鹅",动画狂欢曲-芭比
+http://junlovefang.top:80/egame.php?id=208872931
+#EXTINF:-1 group-title="战旗企鹅",又是脑洞大开的一天
+http://junlovefang.top:80/egame.php?id=38081166
+#EXTINF:-1 group-title="战旗企鹅",（经典）看剧总动员
+http://junlovefang.top:80/egame.php?id=17733227
+#EXTINF:-1 group-title="战旗企鹅",神奇宝贝xy
+http://junlovefang.top:80/egame.php?id=29506640
+#EXTINF:-1 group-title="战旗企鹅",综艺电视剧
+http://junlovefang.top:80/egame.php?id=263636890
+#EXTINF:-1 group-title="战旗企鹅",釜山行2半岛
+http://junlovefang.top:80/egame.php?id=2296262
+#EXTINF:-1 group-title="战旗企鹅",关注一下。谢谢
+http://junlovefang.top:80/egame.php?id=69537353
+#EXTINF:-1 group-title="战旗企鹅",可以一起安静看电视鸭
+http://junlovefang.top:80/egame.php?id=175734810
+#EXTINF:-1 group-title="战旗企鹅",看会电视剧啊!
+http://junlovefang.top:80/egame.php?id=359414291
+#EXTINF:-1 group-title="战旗企鹅",随便看看可以一看
+http://junlovefang.top:80/egame.php?id=57627854
+#EXTINF:-1 group-title="战旗企鹅",我的主播梦~~
+http://junlovefang.top:80/egame.php?id=42788501
+#EXTINF:-1 group-title="战旗企鹅",华夏五公子
+http://junlovefang.top:80/egame.php?id=20875025
+#EXTINF:-1 group-title="战旗企鹅",【自带声卡的男银】搞笑，我是认真的
+http://junlovefang.top:80/egame.php?id=398553899
+#EXTINF:-1 group-title="战旗企鹅",回忆总想哭!经典大片……
+http://junlovefang.top:80/egame.php?id=224014940
+#EXTINF:-1 group-title="战旗企鹅",搞笑开心的动画哦哈哈
+http://junlovefang.top:80/egame.php?id=403789825
+#EXTINF:-1 group-title="战旗企鹅",电影《狮子王》 普通话
+http://junlovefang.top:80/egame.php?id=81287332
+#EXTINF:-1 group-title="战旗企鹅",阿巴阿巴阿巴
+http://junlovefang.top:80/egame.php?id=128456576
+#EXTINF:-1 group-title="战旗企鹅",楚乔传2抢先版
+http://junlovefang.top:80/egame.php?id=205083096
+#EXTINF:-1 group-title="战旗企鹅",柯南剧场版，接着看
+http://junlovefang.top:80/egame.php?id=207948248
+#EXTINF:-1 group-title="战旗企鹅",荣耀战场永不言败
+http://junlovefang.top:80/egame.php?id=362143669
+#EXTINF:-1 group-title="战旗企鹅",哥斯拉二.
+http://junlovefang.top:80/egame.php?id=104783240
+#EXTINF:-1 group-title="战旗企鹅",四月是你的谎言
+http://junlovefang.top:80/egame.php?id=287730904
+#EXTINF:-1 group-title="战旗企鹅",看电影了喂～
+http://junlovefang.top:80/egame.php?id=7918250
+#EXTINF:-1 group-title="战旗企鹅",首席执行官
+http://junlovefang.top:80/egame.php?id=47737086
+#EXTINF:-1 group-title="战旗企鹅",史泰龙动作片
+http://junlovefang.top:80/egame.php?id=406619469
+#EXTINF:-1 group-title="战旗企鹅",名侦探柯南.
+http://junlovefang.top:80/egame.php?id=114023166
+#EXTINF:-1 group-title="战旗企鹅",童年影院，走哪哪出事的柯南
+http://junlovefang.top:80/egame.php?id=667518506
+#EXTINF:-1 group-title="战旗企鹅",我带大家一起看看电影。
+http://junlovefang.top:80/egame.php?id=155606365
+#EXTINF:-1 group-title="战旗企鹅",免费上车加游戏好友
+http://junlovefang.top:80/egame.php?id=312955609
+#EXTINF:-1 group-title="战旗企鹅",好看精彩绝伦
+http://junlovefang.top:80/egame.php?id=25640325
+#EXTINF:-1 group-title="战旗企鹅",娱乐娱乐活动
+http://junlovefang.top:80/egame.php?id=149667898
+#EXTINF:-1 group-title="战旗企鹅",仙人指路屏风马
+http://junlovefang.top:80/egame.php?id=531464521
+#EXTINF:-1 group-title="战旗企鹅",山东国艺急进中兵弃马局直播间
+http://junlovefang.top:80/egame.php?id=392653305
+#EXTINF:-1 group-title="战旗企鹅",万能布局体系一对一讲解及实战演练
+http://junlovefang.top:80/egame.php?id=329563394
+#EXTINF:-1 group-title="战旗企鹅",自出洞来无敌手
+http://junlovefang.top:80/egame.php?id=274524484
+#EXTINF:-1 group-title="战旗企鹅",争600万巨奖！冠军杯汇聚天下高手
+http://junlovefang.top:80/egame.php?id=758030259
+#EXTINF:-1 group-title="战旗企鹅",追梦成品代赢豆
+http://junlovefang.top:80/egame.php?id=194066072
+#EXTINF:-1 group-title="战旗企鹅",特大实战棋谱评测精讲
+http://junlovefang.top:80/egame.php?id=44005871
+#EXTINF:-1 group-title="战旗企鹅",老马这游戏太难了
+http://junlovefang.top:80/egame.php?id=743436014
+#EXTINF:-1 group-title="战旗企鹅",云南业余棋手孔令武直播下棋
+http://junlovefang.top:80/egame.php?id=317770980
+#EXTINF:-1 group-title="战旗企鹅",炸🐍大师讲棋
+http://junlovefang.top:80/egame.php?id=36245670
+#EXTINF:-1 group-title="战旗企鹅",一起学象棋
+http://junlovefang.top:80/egame.php?id=632038141
+#EXTINF:-1 group-title="战旗企鹅",地摊野路子
+http://junlovefang.top:80/egame.php?id=311868587
+#EXTINF:-1 group-title="战旗企鹅",三步虎武功秘籍
+http://junlovefang.top:80/egame.php?id=724056271
+#EXTINF:-1 group-title="战旗企鹅",菜鸟象棋交流
+http://junlovefang.top:80/egame.php?id=468614004
+#EXTINF:-1 group-title="战旗企鹅",来自你附近100米
+http://junlovefang.top:80/egame.php?id=616076908
+#EXTINF:-1 group-title="战旗企鹅",你是未知的惊喜！
+http://junlovefang.top:80/egame.php?id=60680065
+#EXTINF:-1 group-title="战旗企鹅",你的小可爱请签收！
+http://junlovefang.top:80/egame.php?id=72799013
+#EXTINF:-1 group-title="战旗企鹅",这可真是人间宝藏啊！
+http://junlovefang.top:80/egame.php?id=115896746
+#EXTINF:-1 group-title="战旗企鹅",想保个A~
+http://junlovefang.top:80/egame.php?id=742572941
+#EXTINF:-1 group-title="战旗企鹅",可可爱爱 没有脑袋
+http://junlovefang.top:80/egame.php?id=456188859
+#EXTINF:-1 group-title="战旗企鹅",我需要你。。。。
+http://junlovefang.top:80/egame.php?id=128434838
+#EXTINF:-1 group-title="战旗企鹅",是你吗 我的骑士❤
+http://junlovefang.top:80/egame.php?id=749114085
+#EXTINF:-1 group-title="战旗企鹅",哈尔滨妹子
+http://junlovefang.top:80/egame.php?id=771041020
+#EXTINF:-1 group-title="战旗企鹅",有人宠才会变得可爱
+http://junlovefang.top:80/egame.php?id=59075777
+#EXTINF:-1 group-title="战旗企鹅",进个人好不好啊
+http://junlovefang.top:80/egame.php?id=462928409
+#EXTINF:-1 group-title="战旗企鹅",来个说话的人吧
+http://junlovefang.top:80/egame.php?id=235353878
+#EXTINF:-1 group-title="战旗企鹅",新人主播第一个月末求过业绩~~~
+http://junlovefang.top:80/egame.php?id=418994987
+#EXTINF:-1 group-title="战旗企鹅",距离你0.01km……
+http://junlovefang.top:80/egame.php?id=17673392
+#EXTINF:-1 group-title="战旗企鹅",企鹅把我藏起来了吗，怎么不进人呢
+http://junlovefang.top:80/egame.php?id=608220735
+#EXTINF:-1 group-title="战旗企鹅",公子呀，可见石阶已布满苔霜
+http://junlovefang.top:80/egame.php?id=302364434
+#EXTINF:-1 group-title="战旗企鹅",开播啦··············
+http://junlovefang.top:80/egame.php?id=60233873
+#EXTINF:-1 group-title="战旗企鹅",新主播第1个月就拉了~
+http://junlovefang.top:80/egame.php?id=713547522
+#EXTINF:-1 group-title="战旗企鹅",晚上八点工会战求神秘力量啊啊啊~
+http://junlovefang.top:80/egame.php?id=111958902
+#EXTINF:-1 group-title="战旗企鹅",房子太多了，需要一个新房管
+http://junlovefang.top:80/egame.php?id=741025218
+#EXTINF:-1 group-title="战旗企鹅",想窝在哥哥怀里当宝贝
+http://junlovefang.top:80/egame.php?id=61237718
+#EXTINF:-1 group-title="战旗企鹅",回收二手大哥、不要的大哥
+http://junlovefang.top:80/egame.php?id=309885361
+#EXTINF:-1 group-title="战旗企鹅",美妆博主-吃播-尬聊
+http://junlovefang.top:80/egame.php?id=472435699
+#EXTINF:-1 group-title="战旗企鹅",新主播直播……
+http://junlovefang.top:80/egame.php?id=250800924
+#EXTINF:-1 group-title="战旗企鹅",今晚八点公会赛哟~
+http://junlovefang.top:80/egame.php?id=404625913
+#EXTINF:-1 group-title="战旗企鹅",一起来玩游戏
+http://junlovefang.top:80/egame.php?id=86068679
+#EXTINF:-1 group-title="战旗企鹅",每天都是新的开始奥利给
+http://junlovefang.top:80/egame.php?id=194716638
+#EXTINF:-1 group-title="战旗企鹅",播了个寂寞
+http://junlovefang.top:80/egame.php?id=84959943
+#EXTINF:-1 group-title="战旗企鹅",新主播 钢铁直女
+http://junlovefang.top:80/egame.php?id=667626211
+#EXTINF:-1 group-title="战旗企鹅",我很欢喜遇见你
+http://junlovefang.top:80/egame.php?id=590680985
+#EXTINF:-1 group-title="战旗企鹅",清颜主播是个文盲！！
+http://junlovefang.top:80/egame.php?id=22861428
+#EXTINF:-1 group-title="战旗企鹅",我想走进你的心~~~
+http://junlovefang.top:80/egame.php?id=129478369
+#EXTINF:-1 group-title="战旗企鹅",你不孤单 有我
+http://junlovefang.top:80/egame.php?id=752449454
+#EXTINF:-1 group-title="战旗企鹅",新人报道~芋泥超甜
+http://junlovefang.top:80/egame.php?id=359472563
+#EXTINF:-1 group-title="战旗企鹅",斯人若彩虹 遇上方知有
+http://junlovefang.top:80/egame.php?id=243263123
+#EXTINF:-1 group-title="CIBN轮播",CIBN经典剧场
+http://diyp.top/cibn.php?id=12
+#EXTINF:-1 group-title="CIBN轮播",CIBN经典剧场
+http://v.iam7.cn/iptv/cibn.php?code=DOTA2
+#EXTINF:-1 group-title="CIBN轮播",CIBN映画
+http://diyp.top/cibn.php?id=16
+#EXTINF:-1 group-title="CIBN轮播",CIBN映画
+http://v.iam7.cn/iptv/cibn.php?code=TiYu
+#EXTINF:-1 group-title="CIBN轮播",CIBN情感影院
+http://diyp.top/cibn.php?id=18
+#EXTINF:-1 group-title="CIBN轮播",CIBN情感影院
+http://v.iam7.cn/iptv/cibn.php?code=QingGan
+#EXTINF:-1 group-title="CIBN轮播",CIBN骄阳剧场
+http://diyp.top/cibn.php?id=21
+#EXTINF:-1 group-title="CIBN轮播",CIBN骄阳剧场
+http://v.iam7.cn/iptv/cibn.php?code=JingDian
+#EXTINF:-1 group-title="CIBN轮播",CIBN喜剧影院
+http://diyp.top/cibn.php?id=29
+#EXTINF:-1 group-title="CIBN轮播",CIBN喜剧影院
+http://v.iam7.cn/iptv/cibn.php?code=TongBu
+#EXTINF:-1 group-title="CIBN轮播",CIBN微电影
+http://diyp.top/cibn.php?id=31
+#EXTINF:-1 group-title="CIBN轮播",CIBN微电影
+http://v.iam7.cn/iptv/cibn.php?code=WeiDianYing
+#EXTINF:-1 group-title="CIBN轮播",电视剧
+http://diyp.top/cibn.php?id=26
+#EXTINF:-1 group-title="CIBN轮播",电视剧2
+http://diyp.top/cibn.php?id=34
+#EXTINF:-1 group-title="CIBN轮播",电视剧3
+http://diyp.top/cibn.php?id=35
+#EXTINF:-1 group-title="CIBN轮播",电视剧4
+http://diyp.top/cibn.php?id=55
+#EXTINF:-1 group-title="CIBN轮播",戏说大电影
+http://diyp.top/cibn.php?id=67
+#EXTINF:-1 group-title="CIBN轮播",CIBN综合
+http://diyp.top/cibn.php?id=69
+#EXTINF:-1 group-title="CIBN轮播",CIBN
+http://diyp.top/cibn.php?id=17
+#EXTINF:-1 group-title="CIBN轮播",CIBN院线大片
+http://diyp.top/cibn.php?id=39
+#EXTINF:-1 group-title="CIBN轮播",CIBN院线大片
+http://v.iam7.cn/iptv/cibn.php?code=DanJi
+#EXTINF:-1 group-title="CIBN轮播",CIBN品质生活
+http://diyp.top/cibn.php?id=40
+#EXTINF:-1 group-title="CIBN轮播",CIBN古装剧场
+http://diyp.top/cibn.php?id=41
+#EXTINF:-1 group-title="CIBN轮播",CIBN古装剧场
+http://v.iam7.cn/iptv/cibn.php?code=ZongYi
+#EXTINF:-1 group-title="CIBN轮播",CIBN好莱坞
+http://diyp.top/cibn.php?id=45
+#EXTINF:-1 group-title="CIBN轮播",CIBN好莱坞
+http://v.iam7.cn/iptv/cibn.php?code=ZongHe
+#EXTINF:-1 group-title="CIBN轮播",CIBN朵丫乐园
+http://diyp.top/cibn.php?id=48
+#EXTINF:-1 group-title="CIBN轮播",CIBN流金岁月
+http://diyp.top/cibn.php?id=54
+#EXTINF:-1 group-title="CIBN轮播",CIBN艺术院线
+http://diyp.top/cibn.php?id=58
+#EXTINF:-1 group-title="CIBN轮播",CIBN新知
+http://diyp.top/cibn.php?id=62
+#EXTINF:-1 group-title="CIBN轮播",CIBN电影
+http://diyp.top/cibn.php?id=63
+#EXTINF:-1 group-title="CIBN轮播",CIBN精品影院
+http://diyp.top/cibn.php?id=1
+#EXTINF:-1 group-title="CIBN轮播",CIBN精品影院
+http://v.iam7.cn/iptv/cibn.php?code=JingPin
+#EXTINF:-1 group-title="CIBN轮播",CIBN怡家
+http://diyp.top/cibn.php?id=5
+#EXTINF:-1 group-title="CIBN轮播",CIBN纪录片
+http://diyp.top/cibn.php?id=65
+#EXTINF:-1 group-title="CIBN轮播",CIBN文旅中国
+http://diyp.top/cibn.php?id=6
+#EXTINF:-1 group-title="CIBN轮播",CIBN文旅中国
+http://v.iam7.cn/iptv/cibn.php?code=MeiZhuang
+#EXTINF:-1 group-title="CIBN轮播",CIBN嗨播
+http://diyp.top/cibn.php?id=8
+#EXTINF:-1 group-title="CIBN轮播",CIBN嗨播
+http://v.iam7.cn/iptv/cibn.php?code=LvYou
+#EXTINF:-1 group-title="CIBN轮播",CIBN嗨播2
+http://diyp.top/cibn.php?id=19
+#EXTINF:-1 group-title="CIBN轮播",CIBN嗨播3
+http://diyp.top/cibn.php?id=24
+#EXTINF:-1 group-title="CIBN轮播",CIBN嗨播4
+http://diyp.top/cibn.php?id=32
+#EXTINF:-1 group-title="CIBN轮播",CIBN嗨播5
+http://diyp.top/cibn.php?id=43
+#EXTINF:-1 group-title="CIBN轮播",CIBN嗨播6
+http://diyp.top/cibn.php?id=51
+#EXTINF:-1 group-title="CIBN轮播",CIBN嗨播7
+http://diyp.top/cibn.php?id=56
+#EXTINF:-1 group-title="CIBN轮播",CIBN嗨播8
+http://diyp.top/cibn.php?id=59
+#EXTINF:-1 group-title="CIBN轮播",CIBN生活
+http://diyp.top/cibn.php?id=2
+#EXTINF:-1 group-title="CIBN轮播",CIBN生活
+http://v.iam7.cn/iptv/cibn.php?code=YouXi
+#EXTINF:-1 group-title="CIBN轮播",CIBN军事
+http://v.iam7.cn/iptv/cibn.php?code=YinYue
+#EXTINF:-1 group-title="CIBN轮播",CIBN军事
+http://diyp.top/cibn.php?id=3
+#EXTINF:-1 group-title="CIBN轮播",CIBN真人秀
+http://v.iam7.cn/iptv/cibn.php?code=LuShi
+#EXTINF:-1 group-title="CIBN轮播",CIBN真人秀
+http://diyp.top/cibn.php?id=4
+#EXTINF:-1 group-title="CIBN轮播",CIBN今日推荐
+http://diyp.top/cibn.php?id=7
+#EXTINF:-1 group-title="CIBN轮播",CIBN时尚生活
+http://diyp.top/cibn.php?id=9
+#EXTINF:-1 group-title="CIBN轮播",CIBN时尚生活
+http://v.iam7.cn/iptv/cibn.php?code=DongLinFaYin
+#EXTINF:-1 group-title="CIBN轮播",CIBN留学世界
+http://diyp.top/cibn.php?id=10
+#EXTINF:-1 group-title="CIBN轮播",CIBN童学世界
+http://diyp.top/cibn.php?id=11
+#EXTINF:-1 group-title="CIBN轮播",CIBN童学世界
+http://v.iam7.cn/iptv/cibn.php?code=ReBo
+#EXTINF:-1 group-title="CIBN轮播",CIBN风尚运动
+http://diyp.top/cibn.php?id=13
+#EXTINF:-1 group-title="CIBN轮播",CIBN风尚运动
+http://v.iam7.cn/iptv/cibn.php?code=DuShi
+#EXTINF:-1 group-title="CIBN轮播",CIBN汽车
+http://diyp.top/cibn.php?id=14
+#EXTINF:-1 group-title="CIBN轮播",CIBN汽车
+http://v.iam7.cn/iptv/cibn.php?code=QiChe
+#EXTINF:-1 group-title="CIBN轮播",CIBN快乐购物
+http://diyp.top/cibn.php?id=15
+#EXTINF:-1 group-title="CIBN轮播",CIBN购物
+http://diyp.top/cibn.php?id=27
+#EXTINF:-1 group-title="CIBN轮播",CIBN热卖推荐
+http://diyp.top/cibn.php?id=38
+#EXTINF:-1 group-title="CIBN轮播",CIBN购物2
+http://diyp.top/cibn.php?id=36
+#EXTINF:-1 group-title="CIBN轮播",CIBN健康
+http://diyp.top/cibn.php?id=22
+#EXTINF:-1 group-title="CIBN轮播",CIBN健康
+http://v.iam7.cn/iptv/cibn.php?code=JianKang
+#EXTINF:-1 group-title="CIBN轮播",动漫
+http://diyp.top/cibn.php?id=42
+#EXTINF:-1 group-title="CIBN轮播",动漫2
+http://diyp.top/cibn.php?id=47
+#EXTINF:-1 group-title="CIBN轮播",动漫3
+http://diyp.top/cibn.php?id=49
+#EXTINF:-1 group-title="CIBN轮播",CIBN动漫剧场
+http://diyp.top/cibn.php?id=44
+#EXTINF:-1 group-title="CIBN轮播",CIBN动漫剧场
+http://v.iam7.cn/iptv/cibn.php?code=QinZi
+#EXTINF:-1 group-title="CIBN轮播",CIBN炫佳动漫
+http://diyp.top/cibn.php?id=30
+#EXTINF:-1 group-title="CIBN轮播",CIBN炫佳动漫
+http://v.iam7.cn/iptv/cibn.php?code=DongMan
+#EXTINF:-1 group-title="NewTV",NewTV超级体育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225803/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级体育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225801/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级综艺
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225924/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225926/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225928/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV超级电视剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225806/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV爱情喜剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV动作电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV动作电影
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV古装剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV家庭剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV怡伴健康
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225883/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV金牌综艺
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225884/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军旅剧场
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225887/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品大剧
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225889/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV军事评论
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV惊悚悬疑
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225885/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品纪录
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225888/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV武博世界
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV功夫
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV精品体育
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
+#EXTINF:-1 group-title="NewTV",NewTV潮妈辣婆
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226107/1.m3u8
+#EXTINF:-1 group-title="NewTV",黑霉电影
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+#EXTINF:-1 group-title="NewTV",黑霉动画
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
+#EXTINF:-1 group-title="综合频道",【MZ】周星驰喜剧经典
+https://flv-qqplay.inter.71edge.com/liveugc/rqq_3k4etk1n.flv
+#EXTINF:-1 group-title="综合频道",【MZ】林正英鬼片
+https://flv-aliplay.inter.71edge.com/liveugc/rqy_cwh2bzdw.flv
+#EXTINF:-1 group-title="综合频道",经典剧场直播
+https://flv-aliplay.inter.71edge.com/liveugc/rqy_czzs1xfc.flv
+#EXTINF:-1 group-title="综合频道",【MZ】有人送礼物吗
+https://flv-qqplay.inter.71edge.com/liveugc/rbd_frokskgg.flv
+#EXTINF:-1 group-title="综合频道",恐怖鬼片剧场
+https://flv-qqplay.inter.71edge.com/liveugc/rqy_ivrlpo11.flv
+#EXTINF:-1 group-title="综合频道",黑司祭剧场
+https://flv-bdplay.inter.71edge.com/liveugc/rqy_ixixwndx.flv
+#EXTINF:-1 group-title="综合频道",【MZ】经典影视
+https://flv-aliplay.inter.71edge.com/liveugc/rqy_m1p2tjje.flv
+#EXTINF:-1 group-title="综合频道",【MZ 】怕什么，一切都要来的，坦然面对
+https://flv-qqplay.inter.71edge.com/liveugc/rqy_vucvrruh.flv
+#EXTINF:-1 group-title="综合频道",重温一遍高能小哥哥
+https://flv-aliplay.inter.71edge.com/liveugc/rqy_xm2timnq.flv
+#EXTINF:-1 group-title="综合频道",看剧总动员
+https://flv-qqplay.inter.71edge.com/liveugc/rqy_vv1xtasz.flv
+#EXTINF:-1 group-title="综合频道",给直播写个标题吧！
+https://flv-bdplay.inter.71edge.com/liveugc/rqy_n45xcaan.flv
+#EXTINF:-1 group-title="综合频道",星空影院
+https://flv-aliplay.inter.71edge.com/liveugc/rqy_at4tdg5g.flv
+#EXTINF:-1 group-title="综合频道",经典武侠剧《飞刀又见飞刀》
+https://flv-qqplay.inter.71edge.com/liveugc/rqy_tklv5a1d.flv
+#EXTINF:-1 group-title="综合频道",【MZ】嗨~冰和你一起
+https://flv-bdplay.inter.71edge.com/liveugc/rqq_ofx5nfcf.flv
+#EXTINF:-1 group-title="综合频道",【相声小品】就想逗你笑
+https://flv-bdplay.inter.71edge.com/liveugc/rqy_saejfk1n.flv
+#EXTINF:-1 group-title="综合频道",【MZ】鬼屋别怕这狸有我
+https://flv-bdplay.inter.71edge.com/liveugc/rqy_4o4cxawx.flv
+#EXTINF:-1 group-title="综合频道",【MZ】名侦探柯南-真相永远只有一个！
+https://flv-aliplay.inter.71edge.com/liveugc/rqy_xlkjw5et.flv
+#EXTINF:-1 group-title="综合频道",海绵宝宝
+https://flv-bdplay.inter.71edge.com/liveugc/rqy_dxjj21lu.flv
+#EXTINF:-1 group-title="综合频道",F是益生菌
+https://flv-qqplay.inter.71edge.com/liveugc/rqy_bhjkbem2.flv
+#EXTINF:-1 group-title="综合频道",【MZ】治愈不开心.菲菲
+https://flv-bdplay.inter.71edge.com/liveugc/rqy_jdeappnr.flv
+#EXTINF:-1 group-title="综合频道",【MZ】野原新之助 春日部防卫队FIRE
+https://flv-aliplay.inter.71edge.com/liveugc/rqy_mi3noem3.flv
+#EXTINF:-1 group-title="综合频道",柯南
+https://flv-bdplay.inter.71edge.com/liveugc/rqy_smtufs32.flv
+#EXTINF:-1 group-title="综合频道",最美程序员
+https://flv-bdplay.inter.71edge.com/liveugc/rqy_1h24153f.flv
+#EXTINF:-1 group-title="综合频道",澳门风云大片放送
+https://6721.liveplay.now.qq.com/live/6721_c824619678846033b7df617c61002ab1.m3u8
+#EXTINF:-1 group-title="综合频道",怀旧经典-猫和老鼠
+https://6721.liveplay.now.qq.com/live/6721_c21f14dc5c3ce1b2513f5810f359ea15.m3u8
+#EXTINF:-1 group-title="综合频道",72h热播剧场-持续更新中
+https://6721.liveplay.now.qq.com/live/6721_5002a815998ccf7f794b76a6d4f8d5a1.m3u8
+#EXTINF:-1 group-title="综合频道",《爱情公寓3》都市爱情爆笑喜剧
+https://6721.liveplay.now.qq.com/live/6721_c33388579b8775e48c65af7b1d584d6b.m3u8
+#EXTINF:-1 group-title="综合频道",生化危机：诅咒
+https://6721.liveplay.now.qq.com/live/6721_64dc81f70a804ca6f93c87a555a4df42.m3u8
+#EXTINF:-1 group-title="综合频道",周星驰经典“百变星君”
+https://6721.liveplay.now.qq.com/live/6721_6679655ee22d4a9066c4290fb49a6c41.m3u8
+#EXTINF:-1 group-title="综合频道",\"欢乐喜剧\"一路爆笑出击
+https://6721.liveplay.now.qq.com/live/6721_d6444ffbe53109998cf994997ba53539.m3u8
+#EXTINF:-1 group-title="综合频道",【拜托了冰箱 中国版第一季】
+https://6721.liveplay.now.qq.com/live/6721_d71956d9cc93e4a467b11e06fdaf039a.m3u8
+#EXTINF:-1 group-title="综合频道",【拜托了冰箱 中国版第二季】
+https://6721.liveplay.now.qq.com/live/6721_419f48842de9ce768301e2a21ba25bbb.m3u8
+#EXTINF:-1 group-title="综合频道",【拜托了冰箱 中国版第三季】
+https://6721.liveplay.now.qq.com/live/6721_bc2a3ab578923bab1108d14fddda384e.m3u8
+#EXTINF:-1 group-title="综合频道",周星驰\"美人鱼\"
+https://6721.liveplay.now.qq.com/live/6721_114820b39cbfaa3d4360a8e949a49e8b.m3u8
+#EXTINF:-1 group-title="综合频道",#【徐克】导演电影全集#
+https://6721.liveplay.now.qq.com/live/6721_76c8ba6de24321642bad8c27873ade3a.m3u8
+#EXTINF:-1 group-title="综合频道",\"吐槽大会我们来真的\"
+https://6721.liveplay.now.qq.com/live/6721_efc8f1e00ee9fb723cf9966f67fb46a0.m3u8
+#EXTINF:-1 group-title="综合频道",唐伯虎点秋香
+https://6721.liveplay.now.qq.com/live/6721_338ed8ff85c9f15e54294e4aa4c98b1e.m3u8
+#EXTINF:-1 group-title="综合频道",遇见你之前
+https://6721.liveplay.now.qq.com/live/6721_fd0aeca9193e205fde70a140628bad80.m3u8
+#EXTINF:-1 group-title="综合频道",下饭必备经典电影
+https://6721.liveplay.now.qq.com/live/6721_7a04f559f3cb9bb7e0228184f04a6676.m3u8
+#EXTINF:-1 group-title="综合频道",国产高分荒诞喜剧
+https://6721.liveplay.now.qq.com/live/6721_690f0210843b5603e940b689a6b0f54c.m3u8
+#EXTINF:-1 group-title="综合频道",倪妮彭于晏带你回忆青春
+https://6721.liveplay.now.qq.com/live/6721_0a1d45a93349e7ef23f658804959b1b3.m3u8
+#EXTINF:-1 group-title="综合频道",\"比悲伤更悲伤的故事\"
+https://6721.liveplay.now.qq.com/live/6721_5c1e97c0169eda38b518955fc8e2128e.m3u8
+#EXTINF:-1 group-title="综合频道",闪耀NOW时刻
+https://6721.liveplay.now.qq.com/live/6721_71a258b530a8359f2901df0496fb69ed.m3u8
+#EXTINF:-1 group-title="综合频道",请重新修改昵称
+https://6721.liveplay.now.qq.com/live/6721_0c65047a57a4f4ff71e154a624390377.m3u8
+#EXTINF:-1 group-title="综合频道",大牌明星齐聚大鹏剧组
+https://6721.liveplay.now.qq.com/live/6721_bc43b62db2a480eb244d9a7303dba368.m3u8
+#EXTINF:-1 group-title="综合频道",唐人街探案2
+https://6721.liveplay.now.qq.com/live/6721_2d461a1582c75519077ebde1830eb98c.m3u8
+#EXTINF:-1 group-title="综合频道",【创造101】
+https://6721.liveplay.now.qq.com/live/6721_e2977b995bca72f4edd32933581dcb0b.m3u8
+#EXTINF:-1 group-title="综合频道",一场NOW剧
+https://6721.liveplay.now.qq.com/live/6721_87c0dde5f66328a1893b226906960482.m3u8
+#EXTINF:-1 group-title="综合频道",“私人订制”帮你梦想成真
+https://6721.liveplay.now.qq.com/live/6721_c04dd8034789b72139d9507d485d12e8.m3u8
+#EXTINF:-1 group-title="综合频道",一又二分之一的夏天
+https://6721.liveplay.now.qq.com/live/6721_3206db88566f5a2e1fa19454a9ea99ee.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-1综合
+http://c2.cdn.hunancatv.com/live/CCTV1HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-2财经
+http://c2.cdn.hunancatv.com/live/CCTV2HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-3综艺
+http://c2.cdn.hunancatv.com/live/CCTV3HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-4中文国际
+http://c2.cdn.hunancatv.com/live/CCTV4HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-4欧洲
+http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-4美洲
+http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-5体育
+http://c2.cdn.hunancatv.com/live/CCTV5HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-体育赛事
+http://junlovefang.top:80/woniu.php?id=10000005
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-6电影
+http://c2.cdn.hunancatv.com/live/CCTV6HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-7国防军事
+http://c2.cdn.hunancatv.com/live/CCTV7HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-8电视剧
+http://c2.cdn.hunancatv.com/live/CCTV8HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-9纪录
+http://c2.cdn.hunancatv.com/live/CCTV9HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-10科教
+http://c2.cdn.hunancatv.com/live/CCTV10HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-11戏曲
+http://c2.cdn.hunancatv.com/live/CCTV11.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-12社会与法
+http://c2.cdn.hunancatv.com/live/CCTV12HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-13新闻
+http://c2.cdn.hunancatv.com/live/CCTV13.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-14少儿
+http://c2.cdn.hunancatv.com/live/CCTV14HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-15音乐
+http://c2.cdn.hunancatv.com/live/CCTV15.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CCTV-17农业农村
+http://c2.cdn.hunancatv.com/live/CCTV17HD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",第一剧场
+http://c2.cdn.hunancatv.com/live/dyjc.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",世界地理
+http://c2.cdn.hunancatv.com/live/sjdl.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",兵器科技
+http://c2.cdn.hunancatv.com/live/bqkj.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",风云足球
+http://c2.cdn.hunancatv.com/live/fyzq.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",教育1台
+http://c2.cdn.hunancatv.com/live/CETV1.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",七彩戏剧
+http://c2.cdn.hunancatv.com/live/qcxj.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",北京卫视
+http://c2.cdn.hunancatv.com/live/bjwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖南卫视
+http://c2.cdn.hunancatv.com/live/hnwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",浙江卫视
+http://c2.cdn.hunancatv.com/live/zjwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",江苏卫视
+http://c2.cdn.hunancatv.com/live/jswsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",安徽卫视
+http://c2.cdn.hunancatv.com/live/ahwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",广东卫视
+http://c2.cdn.hunancatv.com/live/gdwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",山东卫视
+http://c2.cdn.hunancatv.com/live/sdwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",东方卫视
+http://c2.cdn.hunancatv.com/live/dfwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",深圳卫视
+http://c2.cdn.hunancatv.com/live/szwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",天津卫视
+http://c2.cdn.hunancatv.com/live/tjwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",辽宁卫视
+http://c2.cdn.hunancatv.com/live/lnwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖北卫视
+http://c2.cdn.hunancatv.com/live/hubwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",重庆卫视
+http://c2.cdn.hunancatv.com/live/cqwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",四川卫视
+http://c2.cdn.hunancatv.com/live/scwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",东南卫视
+http://c2.cdn.hunancatv.com/live/dnwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",江西卫视
+http://c2.cdn.hunancatv.com/live/jxwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",广西卫视
+http://c2.cdn.hunancatv.com/live/gxws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",贵州卫视
+http://c2.cdn.hunancatv.com/live/gzws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",河北卫视
+http://c2.cdn.hunancatv.com/live/hebwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",黑龙江卫视
+http://c2.cdn.hunancatv.com/live/hljwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",河南卫视
+http://c2.cdn.hunancatv.com/live/henws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",吉林卫视
+http://c2.cdn.hunancatv.com/live/jlwsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",云南卫视
+http://c2.cdn.hunancatv.com/live/ynws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",海南卫视
+http://c2.cdn.hunancatv.com/live/lyws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",西藏卫视
+http://c2.cdn.hunancatv.com/live/xzws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",新疆卫视
+http://c2.cdn.hunancatv.com/live/xjws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",新疆卫视
+http://junlovefang.top:80/xjtv.php?id=1
+#EXTINF:-1 group-title="湖南蜗牛TV",山西卫视
+http://c2.cdn.hunancatv.com/live/sxws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",宁夏卫视
+http://c2.cdn.hunancatv.com/live/nxws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",陕西卫视
+http://c2.cdn.hunancatv.com/live/shxws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",甘肃卫视
+http://c2.cdn.hunancatv.com/live/gsws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",青海卫视
+http://c2.cdn.hunancatv.com/live/qhws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",内蒙古卫视
+http://c2.cdn.hunancatv.com/live/nmgws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",兵团卫视
+http://c2.cdn.hunancatv.com/live/btws.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",山东教育卫视
+http://c2.cdn.hunancatv.com/live/sdjy.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",CHC高清电影
+http://c2.cdn.hunancatv.com/live/CHCgqdy.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",都市剧场
+http://c2.cdn.hunancatv.com/live/dsjc.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖南电影频道
+http://c2.cdn.hunancatv.com/live/hndyHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖南电视剧频道
+http://c2.cdn.hunancatv.com/live/hndsjHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖南教育电视台
+http://c2.cdn.hunancatv.com/live/hnjy.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖南金鹰卡通频道
+http://c2.cdn.hunancatv.com/live/jyktHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖南卫视国际频道
+http://c2.cdn.hunancatv.com/live/hngj.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖南经视
+http://c2.cdn.hunancatv.com/live/hnjsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",金鹰纪实频道
+http://c2.cdn.hunancatv.com/live/jyjsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖南娱乐频道
+http://c2.cdn.hunancatv.com/live/hnylHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖南都市
+http://c2.cdn.hunancatv.com/live/hndsHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖南公共频道
+http://c2.cdn.hunancatv.com/live/hnggHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湖南导视频道
+http://c2.cdn.hunancatv.com/live/dspd.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",长沙新闻频道
+http://c2.cdn.hunancatv.com/live/csxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",株洲新闻综合
+http://c2.cdn.hunancatv.com/live/zzxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",衡阳新闻综合
+http://c2.cdn.hunancatv.com/live/hyxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",郴州新闻综合
+http://c2.cdn.hunancatv.com/live/czxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",永州新闻综合
+http://c2.cdn.hunancatv.com/live/yzxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",娄底综合
+http://c2.cdn.hunancatv.com/live/ldxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",邵阳新闻综合
+http://c2.cdn.hunancatv.com/live/syxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",常德新闻综合
+http://c2.cdn.hunancatv.com/live/cdxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",张家界一套新闻综合
+http://c2.cdn.hunancatv.com/live/zjjxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湘西新闻综合
+http://c2.cdn.hunancatv.com/live/xxxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",怀化新闻综合
+http://c2.cdn.hunancatv.com/live/hhxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",岳阳新闻综合
+http://c2.cdn.hunancatv.com/live/yyxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",益阳乡村新闻综合
+http://c2.cdn.hunancatv.com/live/yiyxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",湘潭新闻综合
+http://c2.cdn.hunancatv.com/live/xtxw.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",快乐购
+http://c2.cdn.hunancatv.com/live/klgHD.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",天元围棋
+http://c2.cdn.hunancatv.com/live/tywq.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",摄影频道
+http://c2.cdn.hunancatv.com/live/sypd.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",高尔夫频道
+http://c2.cdn.hunancatv.com/live/gefpd.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",四海钓鱼
+http://c2.cdn.hunancatv.com/live/shdy.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",财富天下
+http://c2.cdn.hunancatv.com/live/cftx.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",劲爆体育
+http://c2.cdn.hunancatv.com/live/jbty.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",欢笑剧场
+http://junlovefang.top:80/woniu.php?id=10000054
+#EXTINF:-1 group-title="湖南蜗牛TV",全纪实
+http://junlovefang.top:80/woniu.php?id=10000055
+#EXTINF:-1 group-title="湖南蜗牛TV",动漫秀场
+http://c2.cdn.hunancatv.com/live/dmxc.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",法治天地
+http://c2.cdn.hunancatv.com/live/fztx.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",快乐垂钓
+http://c2.cdn.hunancatv.com/live/klcd.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",生活时尚
+http://c2.cdn.hunancatv.com/live/shsc.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",幸福彩
+http://c2.cdn.hunancatv.com/live/xfc.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",中华美食
+http://c2.cdn.hunancatv.com/live/zhms.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",先锋乒羽
+http://junlovefang.top:80/woniu.php?id=10000080
+#EXTINF:-1 group-title="湖南蜗牛TV",游戏风云
+http://c2.cdn.hunancatv.com/live/yxfy.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",极速汽车
+http://c2.cdn.hunancatv.com/live/jsqc.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",国学频道
+http://junlovefang.top:80/woniu.php?id=10000076
+#EXTINF:-1 group-title="湖南蜗牛TV",书画频道
+http://c2.cdn.hunancatv.com/live/shpd.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",茶频道
+http://c2.cdn.hunancatv.com/live/cpd.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",陶瓷频道
+http://c2.cdn.hunancatv.com/live/tcpd.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",东方财经
+http://c2.cdn.hunancatv.com/live/dfcj.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",求索记录
+http://junlovefang.top:80/woniu.php?id=10000088
+#EXTINF:-1 group-title="湖南蜗牛TV",求索生活
+http://c2.cdn.hunancatv.com/live/qssh.m3u8
+#EXTINF:-1 group-title="湖南蜗牛TV",求索动物
+http://junlovefang.top:80/woniu.php?id=10000090
+#EXTINF:-1 group-title="湖南蜗牛TV",求索科学
+http://junlovefang.top:80/woniu.php?id=10000091
+#EXTINF:-1 group-title="湖南蜗牛TV",幸福剧场
+http://junlovefang.top:80/woniu.php?id=10000092
+#EXTINF:-1 group-title="亦非云代理",CCTV-1综合
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel1/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-1综合
+http://junlovefang.top:80/hunanyfy.php?id=1
+#EXTINF:-1 group-title="亦非云代理",CCTV-2财经
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel2/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-2财经
+http://junlovefang.top:80/hunanyfy.php?id=2
+#EXTINF:-1 group-title="亦非云代理",CCTV-3综艺
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel3/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-3综艺
+http://junlovefang.top:80/hunanyfy.php?id=3
+#EXTINF:-1 group-title="亦非云代理",CCTV-4中文国际
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel4/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-4中文国际
+http://junlovefang.top:80/hunanyfy.php?id=4
+#EXTINF:-1 group-title="亦非云代理",CCTV-4欧洲
+http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="亦非云代理",CCTV-4美洲
+http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="亦非云代理",CCTV-5体育
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel5/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-5体育
+http://junlovefang.top:80/hunanyfy.php?id=5
+#EXTINF:-1 group-title="亦非云代理",CCTV-体育赛事
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-体育赛事
+http://junlovefang.top:80/hunanyfy.php?id=13
+#EXTINF:-1 group-title="亦非云代理",CCTV-6电影
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel6/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-6电影
+http://junlovefang.top:80/hunanyfy.php?id=6
+#EXTINF:-1 group-title="亦非云代理",CCTV-7国防军事
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel7/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-7国防军事
+http://junlovefang.top:80/hunanyfy.php?id=7
+#EXTINF:-1 group-title="亦非云代理",CCTV-8电视剧
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel8/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-8电视剧
+http://junlovefang.top:80/hunanyfy.php?id=8
+#EXTINF:-1 group-title="亦非云代理",CCTV-9纪录
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel9/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-9纪录
+http://junlovefang.top:80/hunanyfy.php?id=9
+#EXTINF:-1 group-title="亦非云代理",CCTV-10科教
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel10/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-10科教
+http://junlovefang.top:80/hunanyfy.php?id=10
+#EXTINF:-1 group-title="亦非云代理",CCTV-11戏曲
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel41/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-11戏曲
+http://junlovefang.top:80/hunanyfy.php?id=41
+#EXTINF:-1 group-title="亦非云代理",CCTV-12社会与法
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel11/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-12社会与法
+http://junlovefang.top:80/hunanyfy.php?id=11
+#EXTINF:-1 group-title="亦非云代理",CCTV-13新闻
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel39/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-13新闻
+http://junlovefang.top:80/hunanyfy.php?id=39
+#EXTINF:-1 group-title="亦非云代理",CCTV-14少儿
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel12/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-14少儿
+http://junlovefang.top:80/hunanyfy.php?id=12
+#EXTINF:-1 group-title="亦非云代理",CCTV-15音乐
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel40/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-15音乐
+http://junlovefang.top:80/hunanyfy.php?id=40
+#EXTINF:-1 group-title="亦非云代理",CCTV-17农业农村
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel90/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-17农业农村
+http://junlovefang.top:80/hunanyfy.php?id=90
+#EXTINF:-1 group-title="亦非云代理",CGTN
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel15/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CGTN
+http://junlovefang.top:80/hunanyfy.php?id=15
+#EXTINF:-1 group-title="亦非云代理",CGTN 纪录
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel14/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CGTN 纪录
+http://junlovefang.top:80/hunanyfy.php?id=14
+#EXTINF:-1 group-title="亦非云代理",CGTN 法语
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel68/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CGTN 法语
+http://junlovefang.top:80/hunanyfy.php?id=68
+#EXTINF:-1 group-title="亦非云代理",早期教育
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51017/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",早期教育
+http://junlovefang.top:80/yfy.php?id=51017
+#EXTINF:-1 group-title="亦非云代理",教育1台
+http://nas.330421.cn:8000/iptv/cetv/?id=451
+#EXTINF:-1 group-title="亦非云代理",教育1台
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel33/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",教育2台
+http://nas.330421.cn:8000/iptv/cetv/?id=450
+#EXTINF:-1 group-title="亦非云代理",教育3台
+http://nas.330421.cn:8000/iptv/cetv/?id=449
+#EXTINF:-1 group-title="亦非云代理",教育4台
+http://nas.330421.cn:8000/iptv/cetv/?id=447
+#EXTINF:-1 group-title="亦非云代理",教育4台
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel38/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CHC高清电影
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CHC高清电影
+http://junlovefang.top:80/hunanyfy.php?id=43063
+#EXTINF:-1 group-title="亦非云代理",CHC家庭影院
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51010/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CHC家庭影院
+http://junlovefang.top:80/yfy.php?id=51010
+#EXTINF:-1 group-title="亦非云代理",CHC动作电影
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51011/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CHC动作电影
+http://junlovefang.top:80/yfy.php?id=51011
+#EXTINF:-1 group-title="亦非云代理",兵器科技
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43060/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",兵器科技
+http://junlovefang.top:80/hunanyfy.php?id=43060
+#EXTINF:-1 group-title="亦非云代理",第一剧场
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43056/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",第一剧场
+http://junlovefang.top:80/hunanyfy.php?id=43056
+#EXTINF:-1 group-title="亦非云代理",世界地理
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43057/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",世界地理
+http://junlovefang.top:80/hunanyfy.php?id=43057
+#EXTINF:-1 group-title="亦非云代理",风云音乐
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51012/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",风云音乐
+http://junlovefang.top:80/yfy.php?id=51012
+#EXTINF:-1 group-title="亦非云代理",女性时尚
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51014/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",女性时尚
+http://junlovefang.top:80/yfy.php?id=51014
+#EXTINF:-1 group-title="亦非云代理",风云足球
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22019/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",风云足球
+http://junlovefang.top:80/yfy.php?id=22019
+#EXTINF:-1 group-title="亦非云代理",CCTV-4K
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51021/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",CCTV-4K
+http://junlovefang.top:80/yfy.php?id=51021
+#EXTINF:-1 group-title="亦非云代理",4K超高清电影
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51024/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",4K超高清电影
+http://junlovefang.top:80/yfy.php?id=51024
+#EXTINF:-1 group-title="亦非云代理",中华特产频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51025/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",中华特产频道
+http://junlovefang.top:80/yfy.php?id=51025
+#EXTINF:-1 group-title="亦非云代理",峨眉电影频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51008/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",峨眉电影频道
+http://junlovefang.top:80/yfy.php?id=51008
+#EXTINF:-1 group-title="亦非云代理",新视觉
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51009/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",新视觉
+http://junlovefang.top:80/yfy.php?id=51009
+#EXTINF:-1 group-title="亦非云代理",新视觉
+http://junlovefang.top:80/yfy.php?id=43082
+#EXTINF:-1 group-title="亦非云代理",北京卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel24/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",北京卫视
+http://junlovefang.top:80/hunanyfy.php?id=24
+#EXTINF:-1 group-title="亦非云代理",湖南卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel25/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南卫视
+http://junlovefang.top:80/hunanyfy.php?id=25
+#EXTINF:-1 group-title="亦非云代理",江苏卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel18/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",江苏卫视
+http://junlovefang.top:80/hunanyfy.php?id=18
+#EXTINF:-1 group-title="亦非云代理",安徽卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel23/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",安徽卫视
+http://junlovefang.top:80/hunanyfy.php?id=23
+#EXTINF:-1 group-title="亦非云代理",浙江卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel19/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",浙江卫视
+http://junlovefang.top:80/hunanyfy.php?id=19
+#EXTINF:-1 group-title="亦非云代理",东方卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel26/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",东方卫视
+http://junlovefang.top:80/hunanyfy.php?id=26
+#EXTINF:-1 group-title="亦非云代理",山东卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel29/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",山东卫视
+http://junlovefang.top:80/hunanyfy.php?id=29
+#EXTINF:-1 group-title="亦非云代理",贵州卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel30/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",贵州卫视
+http://junlovefang.top:80/hunanyfy.php?id=30
+#EXTINF:-1 group-title="亦非云代理",天津卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel28/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",天津卫视
+http://junlovefang.top:80/hunanyfy.php?id=28
+#EXTINF:-1 group-title="亦非云代理",广东卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel16/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",广东卫视
+http://junlovefang.top:80/hunanyfy.php?id=16
+#EXTINF:-1 group-title="亦非云代理",辽宁卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel32/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",辽宁卫视
+http://junlovefang.top:80/hunanyfy.php?id=32
+#EXTINF:-1 group-title="亦非云代理",深圳卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel17/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",深圳卫视
+http://junlovefang.top:80/hunanyfy.php?id=17
+#EXTINF:-1 group-title="亦非云代理",黑龙江卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel27/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",黑龙江卫视
+http://junlovefang.top:80/hunanyfy.php?id=27
+#EXTINF:-1 group-title="亦非云代理",河北卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel79/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",河北卫视
+http://junlovefang.top:80/hunanyfy.php?id=79
+#EXTINF:-1 group-title="亦非云代理",湖北卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel21/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖北卫视
+http://junlovefang.top:80/hunanyfy.php?id=21
+#EXTINF:-1 group-title="亦非云代理",重庆卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel56/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",重庆卫视
+http://junlovefang.top:80/hunanyfy.php?id=56
+#EXTINF:-1 group-title="亦非云代理",吉林卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel20/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",吉林卫视
+http://junlovefang.top:80/hunanyfy.php?id=20
+#EXTINF:-1 group-title="亦非云代理",四川卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel31/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",四川卫视
+http://junlovefang.top:80/hunanyfy.php?id=31
+#EXTINF:-1 group-title="亦非云代理",江西卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",江西卫视
+http://junlovefang.top:80/hunanyfy.php?id=22
+#EXTINF:-1 group-title="亦非云代理",河南卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel78/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",河南卫视
+http://junlovefang.top:80/hunanyfy.php?id=78
+#EXTINF:-1 group-title="亦非云代理",广西卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel59/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",广西卫视
+http://junlovefang.top:80/hunanyfy.php?id=59
+#EXTINF:-1 group-title="亦非云代理",东南卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel80/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",东南卫视
+http://junlovefang.top:80/hunanyfy.php?id=80
+#EXTINF:-1 group-title="亦非云代理",陕西卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel55/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",陕西卫视
+http://junlovefang.top:80/hunanyfy.php?id=55
+#EXTINF:-1 group-title="亦非云代理",山西卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel54/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",山西卫视
+http://junlovefang.top:80/hunanyfy.php?id=54
+#EXTINF:-1 group-title="亦非云代理",云南卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel61/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",云南卫视
+http://junlovefang.top:80/hunanyfy.php?id=61
+#EXTINF:-1 group-title="亦非云代理",甘肃卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel57/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",甘肃卫视
+http://junlovefang.top:80/hunanyfy.php?id=57
+#EXTINF:-1 group-title="亦非云代理",青海卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel60/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",青海卫视
+http://junlovefang.top:80/hunanyfy.php?id=60
+#EXTINF:-1 group-title="亦非云代理",海南卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel62/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",海南卫视
+http://junlovefang.top:80/hunanyfy.php?id=62
+#EXTINF:-1 group-title="亦非云代理",新疆卫视
+http://junlovefang.top:80/xjtv.php?id=1
+#EXTINF:-1 group-title="亦非云代理",新疆卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel64/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",新疆卫视
+http://junlovefang.top:80/hunanyfy.php?id=64
+#EXTINF:-1 group-title="亦非云代理",西藏卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel66/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",西藏卫视
+http://junlovefang.top:80/hunanyfy.php?id=66
+#EXTINF:-1 group-title="亦非云代理",宁夏卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel69/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",宁夏卫视
+http://junlovefang.top:80/hunanyfy.php?id=69
+#EXTINF:-1 group-title="亦非云代理",内蒙古卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel93/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",内蒙古卫视
+http://junlovefang.top:80/hunanyfy.php?id=93
+#EXTINF:-1 group-title="亦非云代理",兵团卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel67/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",兵团卫视
+http://junlovefang.top:80/yfy.php?id=67
+#EXTINF:-1 group-title="亦非云代理",延边卫视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22001/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",延边卫视
+http://junlovefang.top:80/yfy.php?id=22001
+#EXTINF:-1 group-title="亦非云代理",湖南教育台
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43021/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南教育台
+http://junlovefang.top:80/hunanyfy.php?id=43021
+#EXTINF:-1 group-title="亦非云代理",湖南卫视国际频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43022/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南卫视国际频道
+http://junlovefang.top:80/hunanyfy.php?id=43022
+#EXTINF:-1 group-title="亦非云代理",湖南导视频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43023/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南导视频道
+http://junlovefang.top:80/hunanyfy.php?id=43023
+#EXTINF:-1 group-title="亦非云代理",湖南经视
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43024/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南经视
+http://junlovefang.top:80/hunanyfy.php?id=43024
+#EXTINF:-1 group-title="亦非云代理",金鹰纪实频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43025/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",金鹰纪实频道
+http://junlovefang.top:80/hunanyfy.php?id=43025
+#EXTINF:-1 group-title="亦非云代理",金鹰纪实频道
+http://junlovefang.top:80/yfy.php?id=43087
+#EXTINF:-1 group-title="亦非云代理",湖南娱乐频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43027/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南娱乐频道
+http://junlovefang.top:80/hunanyfy.php?id=43027
+#EXTINF:-1 group-title="亦非云代理",湖南都市频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43028/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南都市频道
+http://junlovefang.top:80/hunanyfy.php?id=43028
+#EXTINF:-1 group-title="亦非云代理",湖南电影频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43029/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南电影频道
+http://junlovefang.top:80/hunanyfy.php?id=43029
+#EXTINF:-1 group-title="亦非云代理",湖南电视剧频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43030/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南电视剧频道
+http://junlovefang.top:80/hunanyfy.php?id=43030
+#EXTINF:-1 group-title="亦非云代理",湖南公共频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43031/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南公共频道
+http://junlovefang.top:80/hunanyfy.php?id=43031
+#EXTINF:-1 group-title="亦非云代理",快乐购
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43032/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",快乐购
+http://junlovefang.top:80/hunanyfy.php?id=43032
+#EXTINF:-1 group-title="亦非云代理",都市剧场
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43085/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",都市剧场
+http://junlovefang.top:80/yfy.php?id=43085
+#EXTINF:-1 group-title="亦非云代理",长沙新闻频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43064/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",长沙新闻频道
+http://junlovefang.top:80/hunanyfy.php?id=43064
+#EXTINF:-1 group-title="亦非云代理",株洲综合频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43065/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",株洲综合频道
+http://junlovefang.top:80/hunanyfy.php?id=43065
+#EXTINF:-1 group-title="亦非云代理",衡阳新闻综合
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43066/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",衡阳新闻综合
+http://junlovefang.top:80/hunanyfy.php?id=43066
+#EXTINF:-1 group-title="亦非云代理",郴州新闻综合
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43067/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",郴州新闻综合
+http://junlovefang.top:80/hunanyfy.php?id=43067
+#EXTINF:-1 group-title="亦非云代理",永州综合频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43068/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",永州综合频道
+http://junlovefang.top:80/hunanyfy.php?id=43068
+#EXTINF:-1 group-title="亦非云代理",娄底综合频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43069/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",娄底综合频道
+http://junlovefang.top:80/hunanyfy.php?id=43069
+#EXTINF:-1 group-title="亦非云代理",邵阳新闻综合
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43070/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",邵阳新闻综合
+http://junlovefang.top:80/hunanyfy.php?id=43070
+#EXTINF:-1 group-title="亦非云代理",常德新闻综合
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43071/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",常德新闻综合
+http://junlovefang.top:80/hunanyfy.php?id=43071
+#EXTINF:-1 group-title="亦非云代理",张家界新闻频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43072/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",张家界新闻频道
+http://junlovefang.top:80/hunanyfy.php?id=43072
+#EXTINF:-1 group-title="亦非云代理",湘西综合
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43073/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湘西综合
+http://junlovefang.top:80/hunanyfy.php?id=43073
+#EXTINF:-1 group-title="亦非云代理",怀化新闻综合
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43074/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",怀化新闻综合
+http://junlovefang.top:80/hunanyfy.php?id=43074
+#EXTINF:-1 group-title="亦非云代理",岳阳新闻综合频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43075/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",岳阳新闻综合频道
+http://junlovefang.top:80/hunanyfy.php?id=43075
+#EXTINF:-1 group-title="亦非云代理",益阳新闻综合频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43076/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",益阳新闻综合频道
+http://junlovefang.top:80/hunanyfy.php?id=43076
+#EXTINF:-1 group-title="亦非云代理",湘潭新闻综合
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43077/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湘潭新闻综合
+http://junlovefang.top:80/hunanyfy.php?id=43077
+#EXTINF:-1 group-title="亦非云代理",益阳教育频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43089/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",益阳教育频道
+http://junlovefang.top:80/yfy.php?id=43089
+#EXTINF:-1 group-title="亦非云代理",益阳公共频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43090/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",益阳公共频道
+http://junlovefang.top:80/yfy.php?id=43090
+#EXTINF:-1 group-title="亦非云代理",湖南茶频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43048/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南茶频道
+http://junlovefang.top:80/hunanyfy.php?id=43048
+#EXTINF:-1 group-title="亦非云代理",湖南金鹰卡通频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel81/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",湖南金鹰卡通频道
+http://junlovefang.top:80/hunanyfy.php?id=81
+#EXTINF:-1 group-title="亦非云代理",欢笑剧场
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43039/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",欢笑剧场
+http://junlovefang.top:80/hunanyfy.php?id=43039
+#EXTINF:-1 group-title="亦非云代理",全纪实
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43040/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",全纪实
+http://junlovefang.top:80/hunanyfy.php?id=43040
+#EXTINF:-1 group-title="亦非云代理",国学
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43058/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",国学
+http://junlovefang.top:80/hunanyfy.php?id=43058
+#EXTINF:-1 group-title="亦非云代理",书画频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43059/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",书画频道
+http://junlovefang.top:80/hunanyfy.php?id=43059
+#EXTINF:-1 group-title="亦非云代理",中华美食
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43061/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",中华美食
+http://junlovefang.top:80/hunanyfy.php?id=43061
+#EXTINF:-1 group-title="亦非云代理",先锋乒羽
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43062/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",先锋乒羽
+http://junlovefang.top:80/hunanyfy.php?id=43062
+#EXTINF:-1 group-title="亦非云代理",天元围棋
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43033/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",天元围棋
+http://junlovefang.top:80/hunanyfy.php?id=43033
+#EXTINF:-1 group-title="亦非云代理",摄影频道
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43034/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",摄影频道
+http://junlovefang.top:80/hunanyfy.php?id=43034
+#EXTINF:-1 group-title="亦非云代理",四海钓鱼
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43036/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",四海钓鱼
+http://junlovefang.top:80/hunanyfy.php?id=43036
+#EXTINF:-1 group-title="亦非云代理",江苏财富天下
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43037/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",江苏财富天下
+http://junlovefang.top:80/hunanyfy.php?id=43037
+#EXTINF:-1 group-title="亦非云代理",劲爆体育
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43038/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",劲爆体育
+http://junlovefang.top:80/hunanyfy.php?id=43038
+#EXTINF:-1 group-title="亦非云代理",游戏风云
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43041/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",游戏风云
+http://junlovefang.top:80/hunanyfy.php?id=43041
+#EXTINF:-1 group-title="亦非云代理",极速汽车
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43042/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",极速汽车
+http://junlovefang.top:80/hunanyfy.php?id=43042
+#EXTINF:-1 group-title="亦非云代理",生活时尚
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43043/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",生活时尚
+http://junlovefang.top:80/hunanyfy.php?id=43043
+#EXTINF:-1 group-title="亦非云代理",幸福彩
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43044/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",幸福彩
+http://junlovefang.top:80/hunanyfy.php?id=43044
+#EXTINF:-1 group-title="亦非云代理",动漫秀场
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43045/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",动漫秀场
+http://junlovefang.top:80/hunanyfy.php?id=43045
+#EXTINF:-1 group-title="亦非云代理",法治天地
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43046/2300.m3u8
+#EXTINF:-1 group-title="亦非云代理",法治天地
+http://junlovefang.top:80/hunanyfy.php?id=43046
+#EXTINF:-1 group-title="亦非云代理",快乐垂钓
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43047/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",快乐垂钓
+http://junlovefang.top:80/hunanyfy.php?id=43047
+#EXTINF:-1 group-title="亦非云代理",东方财经·浦东
+http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43050/1300.m3u8
+#EXTINF:-1 group-title="亦非云代理",东方财经·浦东
+http://junlovefang.top:80/hunanyfy.php?id=43050
+#EXTINF:-1 group-title="湖南有线代理",七彩戏剧
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=QCXJ_2000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-1综合
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV1_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-2财经
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV2_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-3综艺
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV3_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-4中文国际
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV-4_2000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-4欧洲
+http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="湖南有线代理",CCTV-4美洲
+http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="湖南有线代理",CCTV-5体育
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV5_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-体育赛事
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV5+_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-6电影
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV6_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-7国防军事
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV7_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-8电视剧
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV8_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-9纪录
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV9_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-10科教
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV10_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-11戏曲
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV-11_2000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-12社会与法
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV12_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-13新闻
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV-13_2000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-14少儿
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV14_8000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-15音乐
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV-15_2000
+#EXTINF:-1 group-title="湖南有线代理",CCTV-17农业农村
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV17_8000
+#EXTINF:-1 group-title="湖南有线代理",第一剧场
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=DYJC1_2000
+#EXTINF:-1 group-title="湖南有线代理",世界地理
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=SJDL1_2000
+#EXTINF:-1 group-title="",北京卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=BTV_8000
+#EXTINF:-1 group-title="",湖南卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=HNWS_8000
+#EXTINF:-1 group-title="",浙江卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=ZJWS_8000
+#EXTINF:-1 group-title="",江苏卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=JSWS1_8000
+#EXTINF:-1 group-title="",安徽卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=AHWS_8000
+#EXTINF:-1 group-title="",山东卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=SDWS_8000
+#EXTINF:-1 group-title="",东方卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=DFWS_8000
+#EXTINF:-1 group-title="",深圳卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=SZWS_8000
+#EXTINF:-1 group-title="",四川卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=SCWS_8000
+#EXTINF:-1 group-title="",重庆卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CQWS_8000
+#EXTINF:-1 group-title="",黑龙江卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=HLJWS_8000
+#EXTINF:-1 group-title="",广东卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=GDWS_8000
+#EXTINF:-1 group-title="",江西卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=JXWS_8000
+#EXTINF:-1 group-title="",贵州卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=GZWS_2000
+#EXTINF:-1 group-title="",广西卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=GXWS_2000
+#EXTINF:-1 group-title="",吉林卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=JLWS_2000
+#EXTINF:-1 group-title="",天津卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=TJWS_8000
+#EXTINF:-1 group-title="",贵州卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=GZWS_2000
+#EXTINF:-1 group-title="",广西卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=GXWS_2000
+#EXTINF:-1 group-title="",河南卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=HNWS1_2000
+#EXTINF:-1 group-title="",辽宁卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=LNWS_8000
+#EXTINF:-1 group-title="",东南卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=DNWS1_8000
+#EXTINF:-1 group-title="",湖北卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=HBWS_8000
+#EXTINF:-1 group-title="",云南卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=YNWS_2000
+#EXTINF:-1 group-title="",宁夏卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=NXWS_2000
+#EXTINF:-1 group-title="",甘肃卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=GSWS_2000
+#EXTINF:-1 group-title="",陕西卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=SXWS_2000
+#EXTINF:-1 group-title="",山西卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=SXWS1_2000
+#EXTINF:-1 group-title="",青海卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=QHWS_2000
+#EXTINF:-1 group-title="",内蒙古卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=NMGWS_2000
+#EXTINF:-1 group-title="",海南卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=LYWS_2000
+#EXTINF:-1 group-title="",西藏卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=XZWS_2000
+#EXTINF:-1 group-title="",新疆卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=XJWS_2000
+#EXTINF:-1 group-title="",兵团卫视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=BTWS_2000
+#EXTINF:-1 group-title="",湖南教育
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=HNJY_2000
+#EXTINF:-1 group-title="",湖南经视
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=HNJS_8000
+#EXTINF:-1 group-title="",湖南电影
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=XXDY_8000
+#EXTINF:-1 group-title="",湖南娱乐
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=HNYL_8000
+#EXTINF:-1 group-title="",湖南都市
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=HNDS_8000
+#EXTINF:-1 group-title="",湖南公共
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=HNGG_8000
+#EXTINF:-1 group-title="",湖南国际
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=HNGJPD_2000
+#EXTINF:-1 group-title="",金鹰卡通
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=JYKT_8000
+#EXTINF:-1 group-title="",快乐购
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=KLG_8000
+#EXTINF:-1 group-title="",金鹰纪实
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=JYJS_8000
+#EXTINF:-1 group-title="",快乐垂钓
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=KLCD_8000
+#EXTINF:-1 group-title="",全纪实
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=QJS_8000
+#EXTINF:-1 group-title="",魅力音乐
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=MLYY_8000
+#EXTINF:-1 group-title="",法治天地
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=FZTD_8000
+#EXTINF:-1 group-title="",动漫秀场
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=DMXC_8000
+#EXTINF:-1 group-title="",幸福彩
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=XFC_8000
+#EXTINF:-1 group-title="",魅力足球
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=MLYY_8000
+#EXTINF:-1 group-title="",极速汽车
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=JSQC_8000
+#EXTINF:-1 group-title="",山东教育
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=SDJY_2000
+#EXTINF:-1 group-title="",国防军事[1280*720]
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=GFJS_2000
+#EXTINF:-1 group-title="",劲爆体育
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=JBTY_8000
+#EXTINF:-1 group-title="",财富天下
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CFTX_8000
+#EXTINF:-1 group-title="",东方财经
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=DFCJ_8000
+#EXTINF:-1 group-title="",中华美食
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=ZHMS_8000
+#EXTINF:-1 group-title="",卡酷动画
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=KKDH_2000
+#EXTINF:-1 group-title="",先锋乒羽
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=XFPY_2000
+#EXTINF:-1 group-title="",优优宝贝
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=YYBB_2000
+#EXTINF:-1 group-title="",天元围棋
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=TYWQ_2000
+#EXTINF:-1 group-title="",书画频道
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=SHPD_2000
