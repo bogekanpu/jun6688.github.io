@@ -2177,6 +2177,10 @@ http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074920/15
 http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r3/peoplecn/cibnzhenrenxiu/600/index.m3u8?&encrypt=
 #EXTINF:-1 group-title="咪咕轮播",CIBN文旅中国
 http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/cibnlvyou/350/index.m3u8?&encrypt=
+#EXTINF:-1 group-title="B站轮播",邵氏影院经典武侠动作老电影
+https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/396561/live_97065163_17925468.m3u8
+#EXTINF:-1 group-title="B站轮播",邵氏影院经典武侠动作老电影
+http://diyp.top/bilibili.php?id=21759196
 #EXTINF:-1 group-title="B站轮播",海爷TV 1号厅
 https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/live_27444411_4287972.m3u8
 #EXTINF:-1 group-title="B站轮播",海爷TV 1号厅
@@ -2293,10 +2297,6 @@ http://diyp.top/bilibili.php?id=15083950
 https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/290045/live_362963326_14864388.m3u8
 #EXTINF:-1 group-title="B站轮播",动作大片科幻惊悚灾难高分
 http://diyp.top/bilibili.php?id=21680912
-#EXTINF:-1 group-title="B站轮播",邵氏影院经典武侠动作老电影
-https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/396561/live_97065163_17925468.m3u8
-#EXTINF:-1 group-title="B站轮播",邵氏影院经典武侠动作老电影
-http://diyp.top/bilibili.php?id=21759196
 #EXTINF:-1 group-title="B站轮播",林正英僵尸片女鬼高能护体
 https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/197130/live_102569357_4797059.m3u8
 #EXTINF:-1 group-title="B站轮播",林正英僵尸片女鬼高能护体
