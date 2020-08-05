@@ -38,13 +38,13 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视直播",CCTV-17农业农村
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视直播",CGTN
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel15/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel15/2300.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视直播",CGTN 纪录
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel14/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel14/2300.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视直播",CGTN 法语
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel68/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel68/1300.m3u8
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="央视直播",早期教育
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51017/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51017/2300.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视直播",中国教育1台
 http://nas.330421.cn:8000/iptv/cetv/?id=451
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视直播",中国教育2台
@@ -56,33 +56,33 @@ http://nas.330421.cn:8000/iptv/cetv/?id=447
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视直播",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视直播",兵器科技
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43060/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43060/1300.m3u8
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视直播",第一剧场
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43056/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43056/1300.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视直播",世界地理
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43057/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43057/1300.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视直播",风云音乐
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51012/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51012/2300.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视直播",女性时尚
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51014/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51014/2300.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视直播",风云足球
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22019/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22019/1300.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视直播",CCTV-4K
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51021/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51021/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视直播",4K超高清电影
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51024/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51024/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视直播",中华特产频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51025/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51025/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视直播",峨眉电影频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51008/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51008/2300.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="央视直播",新视觉
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51009/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51009/2300.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="央视直播",CHC高清电影
 http://c2.cdn.hunancatv.com/live/CHCgqdy.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视直播",CHC家庭影院
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51010/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51010/2300.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视直播",CHC动作电影
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51011/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51011/2300.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视直播",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视直播",湖南卫视
@@ -122,7 +122,7 @@ http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视直播",四川卫视
 http://112.50.243.8/PLTV/88888888/224/3221227006/1.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视直播",河北卫视
-http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://junlovefang.top:80/gudou.php?id=hebeiHD_7000
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视直播",河南卫视
 http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视直播",海南卫视
@@ -144,19 +144,19 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视直播",山西卫视
 http://c2.cdn.hunancatv.com/live/sxws.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视直播",西藏卫视
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel66/1300.m3u8
+http://c2.cdn.hunancatv.com/live/xzws.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视直播",内蒙古卫视
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel93/1300.m3u8
+http://c2.cdn.hunancatv.com/live/nmgws.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视直播",宁夏卫视
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel69/1300.m3u8
+http://c2.cdn.hunancatv.com/live/nxws.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视直播",兵团卫视
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel67/1300.m3u8
+http://c2.cdn.hunancatv.com/live/btws.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视直播",延边卫视
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22001/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22001/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视直播",农林卫视
 http://223.110.247.161:6610/gitv/live1/G_NONGLIN/G_NONGLIN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视直播",海峡卫视
-http://junlovefang.top:80/fjtv.php?id=3
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视直播",三沙卫视
 http://112.50.243.8/PLTV/88888888/224/3221227002/1.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视直播",康巴卫视
