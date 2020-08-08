@@ -1184,7 +1184,7 @@ http://gzyx.rhiptv.xyz/gz0856.php?id=doxyjhd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",精彩影视
 http://gzyx.rhiptv.xyz/gz0856.php?id=jcyshd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",都市剧场
-http://gzyx.rhiptv.xyz/gz0856.php?id=dsjchd
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="影视专区",欢笑剧场
 http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",CBN每日影院
@@ -3595,1620 +3595,814 @@ http://junlovefang.top:80/yy.php?id=1353831640
 http://junlovefang.top:80/yy.php?id=32110908
 #EXTINF:-1 group-title="YY轮播",新主播，求照顾雪
 http://junlovefang.top:80/yy.php?id=22325556
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",国产青春爱情
-http://bd.hls.huya.com/src/1524439836-1524439836-6547419240339603456-3049003128-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",国产青春爱情
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",国产青春爱情
 http://106.13.168.120/huya/11602075
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",各国赌片
-http://bd.hls.huya.com/src/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",各国赌片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",各国赌片
 http://106.13.168.120/huya/11342399
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",黑帮大片
-http://bd.hls.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",黑帮大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",黑帮大片
 http://106.13.168.120/huya/11336719
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",港片女神
-http://bd.hls.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",港片女神
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",港片女神
 http://106.13.168.120/huya/11342429
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",女神系列二
-http://bd.hls.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",女神系列二
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",女神系列二
 http://106.13.168.120/huya/11336571
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",历年贺岁档
-http://bd.hls.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",历年贺岁档
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",历年贺岁档
 http://106.13.168.120/huya/11601986
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",飞车电影系列
-http://bd.hls.huya.com/src/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",飞车电影系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",飞车电影系列
 http://106.13.168.120/huya/11279247
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",动作悬疑片
-http://bd.hls.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",动作悬疑片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",动作悬疑片
 http://106.13.168.120/huya/11602077
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",搞笑喜剧电影
-http://bd.hls.huya.com/src/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",搞笑喜剧电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",搞笑喜剧电影
 http://106.13.168.120/huya/11602044
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",虎牙八点档
-http://bd.hls.huya.com/src/30765679-2479074344-10647543231832653824-3049003166-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",虎牙八点档
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",虎牙八点档
 http://106.13.168.120/huya/880261
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",经典高智商犯罪片
-http://bd.hls.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",经典高智商犯罪片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",经典高智商犯罪片
 http://106.13.168.120/huya/11352962
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",五福星系列
-http://bd.hls.huya.com/src/58461003-58461003-251088095976357888-2713685416-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",五福星系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",五福星系列
 http://106.13.168.120/huya/11282233
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",卧底警匪
-http://bd.hls.huya.com/src/29169025-2686220598-11537229618251563008-2847687556-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",卧底警匪
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",卧底警匪
 http://106.13.168.120/huya/11352886
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",一起看电影不香嘛
-http://bd.hls.huya.com/src/1394575536-1394575536-5989656318921670656-2789274528-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",一起看电影不香嘛
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",一起看电影不香嘛
 http://106.13.168.120/huya/11342414
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",港产搞笑
-http://bd.hls.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",港产搞笑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",港产搞笑
 http://106.13.168.120/huya/11601960
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",0079-女特工
-http://bd.hls.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",0079-女特工
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",0079-女特工
 http://106.13.168.120/huya/11342423
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",国产战争大片
-http://bd.hls.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",国产战争大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",国产战争大片
 http://106.13.168.120/huya/11342435
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",陆小凤推理破案系列
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",陆小凤推理破案系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",陆小凤推理破案系列
 http://106.13.168.120/huya/11336725
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",杨门女将系列
-http://bd.hls.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",杨门女将系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",杨门女将系列
 http://106.13.168.120/huya/11336590
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",粤语专场
-http://bd.hls.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",粤语专场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",粤语专场
 http://106.13.168.120/huya/11352894
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",国产动作大片
-http://bd.hls.huya.com/src/1423782021-1423782021-6115097216827785216-2847687498-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",国产动作大片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",国产动作大片
 http://106.13.168.120/huya/11352869
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",最佳拍档
-http://bd.hls.huya.com/src/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",最佳拍档
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",最佳拍档
 http://106.13.168.120/huya/11342397
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",释小龙臭屁文
-http://bd.hls.huya.com/src/1448686620-1448686620-6222061655052779520-2789253878-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",释小龙臭屁文
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",释小龙臭屁文
 http://106.13.168.120/huya/11342402
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",灾难片
-http://bd.hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",灾难片
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",灾难片
 http://106.13.168.120/huya/11352871
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",许氏三杰
-http://bd.hls.huya.com/src/1524434070-1524434070-6547394475558174720-3048991596-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",许氏三杰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",许氏三杰
 http://106.13.168.120/huya/11602033
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",富贵系列
-http://bd.hls.huya.com/src/1423787819-1423787819-6115122119048167424-2847699094-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",富贵系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",富贵系列
 http://106.13.168.120/huya/11352934
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",猛男追女仔
-http://bd.hls.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",猛男追女仔
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",猛男追女仔
 http://106.13.168.120/huya/11352941
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",镖行天下
-http://bd.hls.huya.com/src/1449574253-1449574253-6225874009758629888-2847699210-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",镖行天下
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",镖行天下
 http://106.13.168.120/huya/11352969
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",开心鬼
-http://bd.hls.huya.com/src/1448686638-1448686638-6222061732362190848-2789253842-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",开心鬼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",开心鬼
 http://106.13.168.120/huya/11342388
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",霸王花皇家师姐
-http://bd.hls.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",霸王花皇家师姐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",霸王花皇家师姐
 http://106.13.168.120/huya/11352909
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",红色经典电影
-http://bd.hls.huya.com/src/1420752082-1420752082-6102083727913910272-3049003134-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",红色经典电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",红色经典电影
 http://106.13.168.120/huya/11602076
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",六扇门古装探案
-http://bd.hls.huya.com/src/43460312-43460312-186660618713956352-2847687638-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",六扇门古装探案
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",六扇门古装探案
 http://106.13.168.120/huya/11352917
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",盗墓系列
-http://bd.hls.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",盗墓系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",盗墓系列
 http://106.13.168.120/huya/11352913
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",火线追凶系列
-http://bd.hls.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电影",火线追凶系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",火线追凶系列
 http://106.13.168.120/huya/11602069
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",神医喜来乐
-http://bd.hls.huya.com/src/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",神医喜来乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",神医喜来乐
 http://106.13.168.120/huya/11601978
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",陈翔六点半
-http://bd.hls.huya.com/src/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",陈翔六点半
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",陈翔六点半
 http://106.13.168.120/huya/cxldb
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",爱情公寓
-http://bd.hls.huya.com/src/1388474069-1388474069-5963450717699047424-2777071594-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",爱情公寓
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",爱情公寓
 http://106.13.168.120/huya/11336726
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",屌丝男士
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789274540-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",屌丝男士
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",屌丝男士
 http://106.13.168.120/huya/11342420
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",家有儿女
-http://bd.hls.huya.com/src/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",家有儿女
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",家有儿女
 http://106.13.168.120/huya/11352872
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",少年包青天
-http://bd.hls.huya.com/src/1394565200-1394565200-5989611926139699200-2789253856-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",少年包青天
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",少年包青天
 http://106.13.168.120/huya/11342393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",关中盗墓贼
-http://bd.hls.huya.com/src/1340763124-1340763124-5758533769262792704-2777026902-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",关中盗墓贼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",关中盗墓贼
 http://106.13.168.120/huya/11336572
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",西游记
-http://bd.hls.huya.com/src/1420294575-1420294575-6100118750311219200-3048991588-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",西游记
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",西游记
 http://106.13.168.120/huya/11602031
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",民兵葛二蛋
-http://bd.hls.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",民兵葛二蛋
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",民兵葛二蛋
 http://106.13.168.120/huya/11602072
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",魔幻手机
-http://bd.hls.huya.com/src/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",魔幻手机
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",魔幻手机
 http://106.13.168.120/huya/11602065
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",僵尸道长
-http://bd.hls.huya.com/src/1449580415-1449580415-6225900475347107840-2847699190-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",僵尸道长
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",僵尸道长
 http://106.13.168.120/huya/11352963
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",湾偶像剧
-http://bd.hls.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",湾偶像剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",湾偶像剧
 http://106.13.168.120/huya/11352960
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",我爱男闺蜜
-http://bd.hls.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",我爱男闺蜜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",我爱男闺蜜
 http://106.13.168.120/huya/11601971
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",我们结婚吧
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",我们结婚吧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",我们结婚吧
 http://106.13.168.120/huya/11342394
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大男当婚
-http://bd.hls.huya.com/src/1524434105-1524434105-6547394625882030080-3048991666-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大男当婚
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",大男当婚
 http://106.13.168.120/huya/11602054
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",谎言的诱惑
-http://bd.hls.huya.com/src/1423782074-1423782074-6115097444461051904-2847687604-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",谎言的诱惑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",谎言的诱惑
 http://106.13.168.120/huya/11352903
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",天下第一
-http://bd.hls.huya.com/src/1524434084-1524434084-6547394535687716864-3048991624-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",天下第一
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",天下第一
 http://106.13.168.120/huya/11602042
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",宝莲灯
-http://bd.hls.huya.com/src/1423787848-1423787848-6115122243602219008-2847699152-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",宝莲灯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",宝莲灯
 http://106.13.168.120/huya/11352953
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",医馆笑传
-http://bd.hls.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",医馆笑传
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",医馆笑传
 http://106.13.168.120/huya/11352891
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",生存之民工黄渤
-http://bd.hls.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",生存之民工黄渤
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",生存之民工黄渤
 http://106.13.168.120/huya/11602088
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",情深深雨蒙蒙
-http://bd.hls.huya.com/src/1449580358-1449580358-6225900230533971968-2847687552-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",情深深雨蒙蒙
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",情深深雨蒙蒙
 http://106.13.168.120/huya/11352885
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",令狐冲&东方不败
-http://bd.hls.huya.com/src/1524418076-1524418076-6547325781851242496-3048959608-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",令狐冲&东方不败
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",令狐冲&东方不败
 http://106.13.168.120/huya/11601962
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",国产悬疑精品后脑勺发凉
-http://bd.hls.huya.com/src/1423787852-1423787852-6115122260782088192-2847699160-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",国产悬疑精品后脑勺发凉
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",国产悬疑精品后脑勺发凉
 http://106.13.168.120/huya/11352956
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",步步惊心
-http://bd.hls.huya.com/src/28302995-28302995-121560437903851520-3048959616-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",步步惊心
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",步步惊心
 http://106.13.168.120/huya/11601965
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",【七仙女】惊天地泣鬼神的传奇爱情故事
-http://bd.hls.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",【七仙女】惊天地泣鬼神的传奇爱情故事
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",【七仙女】惊天地泣鬼神的传奇爱情故事
 http://106.13.168.120/huya/11352975
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",男人帮
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",男人帮
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",男人帮
 http://106.13.168.120/huya/11336587
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",中国刑侦一号案
-http://bd.hls.huya.com/src/1423787874-1423787874-6115122355271368704-2847699204-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",中国刑侦一号案
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",中国刑侦一号案
 http://106.13.168.120/huya/11352967
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",仙侠剧开创者
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2777027388-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",仙侠剧开创者
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",仙侠剧开创者
 http://106.13.168.120/huya/11336579
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",港产恐怖
-http://bd.hls.huya.com/src/1449581164-1449581164-6225903692277612544-2847699154-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",港产恐怖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",港产恐怖
 http://106.13.168.120/huya/11352954
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",美女特工电影
-http://bd.hls.huya.com/src/1449380984-1449380984-6225043925724299264-2847699200-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",美女特工电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",美女特工电影
 http://106.13.168.120/huya/11352966
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",搜神传中国神话故事传说
-http://bd.hls.huya.com/src/1394575567-1394575567-5989656452065656832-2789274590-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",搜神传中国神话故事传说
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",搜神传中国神话故事传说
 http://106.13.168.120/huya/11342437
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",这剧很火
-http://bd.hls.huya.com/src/1199522501236-1199522501236-5268317059774676992-2399045125928-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",这剧很火
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",这剧很火
 http://106.13.168.120/huya/19811530
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大瓜大瓜没想到你是这样的猪
-http://bd.hls.huya.com/src/1449575331-1449575331-6225878639733374976-2789274584-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大瓜大瓜没想到你是这样的猪
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",大瓜大瓜没想到你是这样的猪
 http://106.13.168.120/huya/11342436
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",傅艺伟版封神演义
-http://bd.hls.huya.com/src/1524418108-1524418108-6547325919290195968-3048959672-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",傅艺伟版封神演义
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",傅艺伟版封神演义
 http://106.13.168.120/huya/19524135
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",插翅难逃
-http://bd.hls.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",插翅难逃
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",插翅难逃
 http://106.13.168.120/huya/11352940
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",一仆二主
-http://bd.hls.huya.com/src/1524418059-1524418059-6547325708836798464-3048959574-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",一仆二主
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",一仆二主
 http://106.13.168.120/huya/11601955
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",我是特种兵
-http://bd.hls.huya.com/src/30765679-2497296332-10725806074360758272-2789253834-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",我是特种兵
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",我是特种兵
 http://106.13.168.120/huya/11342385
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",杨门虎将
-http://bd.hls.huya.com/src/1449572975-1449572975-6225868520790425600-2789274544-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",杨门虎将
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",杨门虎将
 http://106.13.168.120/huya/11342422
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",花千骨
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",花千骨
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",花千骨
 http://106.13.168.120/huya/11342433
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",风云
-http://bd.hls.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",风云
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",风云
 http://106.13.168.120/huya/11352881
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",神探狄仁杰
-http://bd.hls.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",神探狄仁杰
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",神探狄仁杰
 http://106.13.168.120/huya/11352958
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",通讯班快集合
-http://bd.hls.huya.com/src/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",通讯班快集合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",通讯班快集合
 http://106.13.168.120/huya/11342434
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",征服
-http://bd.hls.huya.com/src/1388457186-1388457186-5963378205766189056-2777037828-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",征服
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",征服
 http://106.13.168.120/huya/11336591
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",孙红雷作品集
-http://bd.hls.huya.com/src/28466698-2689659874-11552001196193480704-2847699220-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",孙红雷作品集
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",孙红雷作品集
 http://106.13.168.120/huya/11352973
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",火蓝刀锋
-http://bd.hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",火蓝刀锋
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",火蓝刀锋
 http://106.13.168.120/huya/11336592
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",知否知否应是绿肥红瘦
-http://bd.hls.huya.com/src/1524439828-1524439828-6547419205979865088-3049003112-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",知否知否应是绿肥红瘦
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",知否知否应是绿肥红瘦
 http://106.13.168.120/huya/11602068
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",人民的名义
-http://bd.hls.huya.com/src/1394575548-1394575548-5989656370461278208-2789274552-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",人民的名义
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",人民的名义
 http://106.13.168.120/huya/11342425
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",篮球火街头篮球
-https://txdirect.flv.huya.com/huyalive/1449698649-1449698649-6226408286510383104-2847699168-10057-A-0-1.flv?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",篮球火街头篮球
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",篮球火街头篮球
 http://106.13.168.120/huya/11352959
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",卫国无敌
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2777027178-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",卫国无敌
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",卫国无敌
 http://106.13.168.120/huya/11336578
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",春天后母心
-http://bd.hls.huya.com/src/1524418114-1524418114-6547325945059999744-3048959684-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",春天后母心
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",春天后母心
 http://106.13.168.120/huya/11601982
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",鹿鼎记
-http://bd.hls.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",鹿鼎记
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",鹿鼎记
 http://106.13.168.120/huya/11352910
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",逗乐情景喜剧
-http://bd.hls.huya.com/src/1423782061-1423782061-6115097388626477056-2847687578-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",逗乐情景喜剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",逗乐情景喜剧
 http://106.13.168.120/huya/11352895
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",齐天大圣孙悟空
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",齐天大圣孙悟空
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",齐天大圣孙悟空
 http://106.13.168.120/huya/11342395
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",天堂向左深圳向右
-http://bd.hls.huya.com/src/1423787870-1423787870-6115122338091499520-2847699196-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",天堂向左深圳向右
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",天堂向左深圳向右
 http://106.13.168.120/huya/11352965
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",命案十三宗
-http://bd.hls.huya.com/src/1449588725-1449588725-6225936166525337600-3048959678-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",命案十三宗
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",命案十三宗
 http://106.13.168.120/huya/11601981
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",漂洋过海的来看你
-http://bd.hls.huya.com/src/1423782031-1423782031-6115097259777458176-2847687518-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",漂洋过海的来看你
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",漂洋过海的来看你
 http://106.13.168.120/huya/11352875
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",倚天屠龙记
-http://bd.hls.huya.com/src/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",倚天屠龙记
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",倚天屠龙记
 http://106.13.168.120/huya/11342403
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",童年神剧
-http://bd.hls.huya.com/src/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",童年神剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",童年神剧
 http://106.13.168.120/huya/11352948
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大江 王凯杨烁董子健 经典好剧
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大江 王凯杨烁董子健 经典好剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",大江 王凯杨烁董子健 经典好剧
 http://106.13.168.120/huya/11602085
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",龙门镖局
-http://bd.hls.huya.com/src/29106097-2689454638-11551119714285518848-2847687516-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",龙门镖局
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",龙门镖局
 http://106.13.168.120/huya/11352874
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",布衣天子
-http://bd.hls.huya.com/src/1423782052-1423782052-6115097349971771392-2847687560-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",布衣天子
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",布衣天子
 http://106.13.168.120/huya/11352887
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",二炮手孙红雷与日军的故事
-http://bd.hls.huya.com/src/1524418067-1524418067-6547325743196536832-3048959590-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",二炮手孙红雷与日军的故事
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",二炮手孙红雷与日军的故事
 http://106.13.168.120/huya/11601958
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大染坊
-http://bd.hls.huya.com/src/1423782076-1423782076-6115097453050986496-2847687608-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大染坊
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",大染坊
 http://106.13.168.120/huya/11352905
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="虎牙电视剧",最好看的历史剧
-http://bd.hls.huya.com/src/1423782093-1423782093-6115097526065430528-2847687642-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="虎牙电视剧",最好看的历史剧
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="虎牙轮播",最好看的历史剧
 http://106.13.168.120/huya/11352918
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",巩汉林经典巴哥
-http://bd.hls.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",巩汉林经典巴哥
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",巩汉林经典巴哥
 http://106.13.168.120/huya/11602086
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",王宝强-平凡的一生
-http://bd.hls.huya.com/src/1524418065-1524418065-6547325734606602240-3048959586-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",王宝强-平凡的一生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",王宝强-平凡的一生
 http://106.13.168.120/huya/11601957
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",新还珠格格
-http://bd.hls.huya.com/src/1394575537-1394575537-5989656323216637952-2789274530-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",新还珠格格
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",新还珠格格
 http://106.13.168.120/huya/11342415
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",周董上线 这波演技什么水平
-http://bd.hls.huya.com/src/1524434076-1524434076-6547394501327978496-3048991608-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",周董上线 这波演技什么水平
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",周董上线 这波演技什么水平
 http://106.13.168.120/huya/11602036
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",李小龙 阿达武术宗师
-http://bd.hls.huya.com/src/1524439827-1524439827-6547419201684897792-3049003110-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",李小龙 阿达武术宗师
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",李小龙 阿达武术宗师
 http://106.13.168.120/huya/11602067
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",陆贞传奇
-http://bd.hls.huya.com/src/1423782075-1423782075-6115097448756019200-2847687606-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",陆贞传奇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",陆贞传奇
 http://106.13.168.120/huya/11352904
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",神话
-http://bd.hls.huya.com/src/1524439835-1524439835-6547419236044636160-3049003126-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",神话
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",神话
 http://106.13.168.120/huya/11602074
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",邻里一家亲
-http://bd.hls.huya.com/src/1449584516-1449584516-6225918089007988736-2789274554-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",邻里一家亲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",邻里一家亲
 http://106.13.168.120/huya/11342426
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",回家的诱惑
-http://bd.hls.huya.com/src/1449698863-1449698863-6226409205633384448-2847687652-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",回家的诱惑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",回家的诱惑
 http://106.13.168.120/huya/11352920
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",法医秦明
-http://bd.hls.huya.com/src/1423787845-1423787845-6115122230717317120-2847699146-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",法医秦明
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",法医秦明
 http://106.13.168.120/huya/11352950
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",毛骗
-http://bd.hls.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",毛骗
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",毛骗
 http://106.13.168.120/huya/11352912
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",你好我好都好
-http://bd.hls.huya.com/src/1449698705-1449698705-6226408527028551680-3049003156-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",你好我好都好
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",你好我好都好
 http://106.13.168.120/huya/11602084
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",我的团长我的团
-http://bd.hls.huya.com/src/1394575538-1394575538-5989656327511605248-2789274532-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",我的团长我的团
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",我的团长我的团
 http://106.13.168.120/huya/11342416
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大宋提刑官
-http://bd.hls.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大宋提刑官
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",大宋提刑官
 http://106.13.168.120/huya/11279251
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",武媚娘传奇
-http://bd.hls.huya.com/src/48131630-48131630-206723776753172480-3048959614-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",武媚娘传奇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",武媚娘传奇
 http://106.13.168.120/huya/11601964
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",古天乐版·穿越剧鼻祖
-http://bd.hls.huya.com/src/1394575539-1394575539-5989656331806572544-2789274534-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",古天乐版·穿越剧鼻祖
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",古天乐版·穿越剧鼻祖
 http://106.13.168.120/huya/11342417
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",悬疑犯罪探案系列
-http://bd.hls.huya.com/src/1524418106-1524418106-6547325910700261376-3048959668-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",悬疑犯罪探案系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",悬疑犯罪探案系列
 http://106.13.168.120/huya/11601980
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",楚汉传奇
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789253854-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",楚汉传奇
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",楚汉传奇
 http://106.13.168.120/huya/11342392
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",封神榜
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789253886-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",封神榜
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",封神榜
 http://106.13.168.120/huya/11342404
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",旋风十一人
-http://bd.hls.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",旋风十一人
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",旋风十一人
 http://106.13.168.120/huya/11342400
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",孝庄秘史
-http://bd.hls.huya.com/src/1420969427-1420969427-6103017217580859392-2847687524-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",孝庄秘史
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",孝庄秘史
 http://106.13.168.120/huya/11352877
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",侠侣探案系列
-http://bd.hls.huya.com/src/1448737884-1448737884-6222281832256241664-2847687572-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",侠侣探案系列
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",侠侣探案系列
 http://106.13.168.120/huya/11352893
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",【彭德huai】一生的重要时刻均得以还原
-http://bd.hls.huya.com/src/1449574089-1449574089-6225873305383993344-2847687582-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",【彭德huai】一生的重要时刻均得以还原
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",【彭德huai】一生的重要时刻均得以还原
 http://106.13.168.120/huya/11352896
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",火线三兄弟
-http://bd.hls.huya.com/src/1423782047-1423782047-6115097328496934912-2847687550-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",火线三兄弟
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",火线三兄弟
 http://106.13.168.120/huya/11352884
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",血色浪漫
-http://bd.hls.huya.com/src/1524434107-1524434107-6547394634471964672-3048991670-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",血色浪漫
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",血色浪漫
 http://106.13.168.120/huya/11602055
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",精忠岳飞
-http://bd.hls.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",精忠岳飞
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",精忠岳飞
 http://106.13.168.120/huya/11602058
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大秦帝国
-http://bd.hls.huya.com/src/1394575568-1394575568-5989656456360624128-2789274592-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大秦帝国
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",大秦帝国
 http://106.13.168.120/huya/11342438
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大漠苍狼
-http://bd.hls.huya.com/src/1449567319-1449567319-6225844228455399424-3048959582-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",大漠苍狼
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",大漠苍狼
 http://106.13.168.120/huya/11601956
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",勇敢的心
-http://bd.hls.huya.com/src/92327913-92327913-396545366842933248-3048991612-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",勇敢的心
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",勇敢的心
 http://106.13.168.120/huya/11602037
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",童年回忆
-http://bd.hls.huya.com/src/1449539468-1449539468-6225724609321238528-3048959632-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",童年回忆
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",童年回忆
 http://106.13.168.120/huya/11601970
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",人间正道是沧桑
-http://bd.hls.huya.com/src/1445653465-1445653465-6209034353524080640-2847699238-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",人间正道是沧桑
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",人间正道是沧桑
 http://106.13.168.120/huya/11352979
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",引蛇行动
-http://bd.hls.huya.com/src/1449567112-1449567112-6225843339397169152-2847687536-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",引蛇行动
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",引蛇行动
 http://106.13.168.120/huya/11352880
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",铁齿铜牙纪晓岚
-http://bd.hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",铁齿铜牙纪晓岚
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",铁齿铜牙纪晓岚
 http://106.13.168.120/huya/11342396
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",新三国
-http://bd.hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",新三国
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",新三国
 http://106.13.168.120/huya/11352944
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",新水浒传
-http://bd.hls.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",新水浒传
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",新水浒传
 http://106.13.168.120/huya/11342384
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",隋唐英雄传
-http://bd.hls.huya.com/src/59087345-59087345-253778214382469120-2847687592-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",隋唐英雄传
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",隋唐英雄传
 http://106.13.168.120/huya/11352899
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",猫和老鼠
-http://bd.hls.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",猫和老鼠
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",猫和老鼠
 http://106.13.168.120/huya/11352879
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",许三多
-http://bd.hls.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",许三多
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",许三多
 http://106.13.168.120/huya/11342430
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",康熙微服私访记
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",康熙微服私访记
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",康熙微服私访记
 http://106.13.168.120/huya/11342418
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",雍正王朝
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2847699098-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",雍正王朝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",雍正王朝
 http://106.13.168.120/huya/11352936
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",三国演义
-http://bd.hls.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",三国演义
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",三国演义
 http://106.13.168.120/huya/11602081
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",康 熙王朝
-http://bd.hls.huya.com/src/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",康 熙王朝
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",康 熙王朝
 http://106.13.168.120/huya/11602071
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",水浒传
-http://bd.hls.huya.com/src/1423782056-1423782056-6115097367151640576-2847687568-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",水浒传
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",水浒传
 http://106.13.168.120/huya/11352892
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",开国元帅
-http://bd.hls.huya.com/src/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",开国元帅
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",开国元帅
 http://106.13.168.120/huya/11352964
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",葵花点穴手
-http://bd.hls.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",葵花点穴手
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",葵花点穴手
 http://106.13.168.120/huya/11352915
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",父母爱情
-http://bd.hls.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",父母爱情
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",父母爱情
 http://106.13.168.120/huya/11342439
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",隋唐英雄
-http://bd.hls.huya.com/src/1423782054-1423782054-6115097358561705984-2847687564-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙电视剧",隋唐英雄
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="虎牙轮播",隋唐英雄
 http://106.13.168.120/huya/11352890
-#EXTINF:-1 group-title="斗鱼电影",邵氏影院
-http://tx2play1.douyucdn.cn/live/4246519r63tieRdJ.m3u8
-#EXTINF:-1 group-title="斗鱼电影",邵氏影院
-http://diyp.top/douyu.php?id=4246519
-#EXTINF:-1 group-title="斗鱼电影",厦门最傻der新主播
-http://tx2play1.douyucdn.cn/live/8313496rJjd2BAiq.m3u8
-#EXTINF:-1 group-title="斗鱼电影",厦门最傻der新主播
-http://diyp.top/douyu.php?id=8313496
-#EXTINF:-1 group-title="斗鱼电影",漫微科幻经典动作
-http://tx2play1.douyucdn.cn/live/6893131r8JVbDNCc.m3u8
-#EXTINF:-1 group-title="斗鱼电影",漫微科幻经典动作
-http://diyp.top/douyu.php?id=6893131
-#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼
-http://tx2play1.douyucdn.cn/live/218859r0iaTx2s1g.m3u8
-#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼
-http://diyp.top/douyu.php?id=218859
-#EXTINF:-1 group-title="斗鱼电影",啥时候我也能有个红牌子
-http://tx2play1.douyucdn.cn/live/7221304rPLZn0hVn.m3u8
-#EXTINF:-1 group-title="斗鱼电影",啥时候我也能有个红牌子
-http://diyp.top/douyu.php?id=7221304
-#EXTINF:-1 group-title="斗鱼电影",神乐华语经典电影刘德华周星驰
-http://tx2play1.douyucdn.cn/live/85894rmovieChow.m3u8
-#EXTINF:-1 group-title="斗鱼电影",神乐华语经典电影刘德华周星驰
-http://diyp.top/douyu.php?id=85894
-#EXTINF:-1 group-title="斗鱼电影",你的陪看陪聊小姐姐
-http://tx2play1.douyucdn.cn/live/7712894rLU8VMSrM.m3u8
-#EXTINF:-1 group-title="斗鱼电影",你的陪看陪聊小姐姐
-http://diyp.top/douyu.php?id=7712894
-#EXTINF:-1 group-title="斗鱼电影",贝爷影厅2号厅欧美日韩国产电影
-http://tx2play1.douyucdn.cn/live/36337rkuA7h5FYzX.m3u8
-#EXTINF:-1 group-title="斗鱼电影",贝爷影厅2号厅欧美日韩国产电影
-http://diyp.top/douyu.php?id=36337
-#EXTINF:-1 group-title="斗鱼电影",贝爷影厅经典科幻动作灾难巨兽
-http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.m3u8
-#EXTINF:-1 group-title="斗鱼电影",贝爷影厅经典科幻动作灾难巨兽
-http://diyp.top/douyu.php?id=252802
-#EXTINF:-1 group-title="斗鱼电影",僵尸鬼片丧尸恐怖灾难
-http://tx2play1.douyucdn.cn/live/310926rfoie7fsMH.m3u8
-#EXTINF:-1 group-title="斗鱼电影",僵尸鬼片丧尸恐怖灾难
-http://diyp.top/douyu.php?id=310926
-#EXTINF:-1 group-title="斗鱼电影",香港赌片喜剧黑帮动作武侠经典
-http://tx2play1.douyucdn.cn/live/315457rA77qhvIOR.m3u8
-#EXTINF:-1 group-title="斗鱼电影",香港赌片喜剧黑帮动作武侠经典
-http://diyp.top/douyu.php?id=315457
-#EXTINF:-1 group-title="斗鱼电影",周星驰星爷华语经典电影神乐
-http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.m3u8
-#EXTINF:-1 group-title="斗鱼电影",周星驰星爷华语经典电影神乐
-http://diyp.top/douyu.php?id=122402
-#EXTINF:-1 group-title="斗鱼电影",译制国语影片荟萃
-http://tx2play1.douyucdn.cn/live/2436390rwRW4zcbD.m3u8
-#EXTINF:-1 group-title="斗鱼电影",译制国语影片荟萃
-http://diyp.top/douyu.php?id=2436390
-#EXTINF:-1 group-title="斗鱼电影",国外大片动作科幻惊悚
-http://tx2play1.douyucdn.cn/live/8454337rHj7rhl5J.m3u8
-#EXTINF:-1 group-title="斗鱼电影",国外大片动作科幻惊悚
-http://diyp.top/douyu.php?id=8454337
-#EXTINF:-1 group-title="斗鱼电影",贝勒港片恐怖丧尸鬼片喜剧
-http://tx2play1.douyucdn.cn/live/8734932rCPhpid72.m3u8
-#EXTINF:-1 group-title="斗鱼电影",贝勒港片恐怖丧尸鬼片喜剧
-http://diyp.top/douyu.php?id=8734932
-#EXTINF:-1 group-title="斗鱼电影",限时惊喜电影直播火力全开中
-http://tx2play1.douyucdn.cn/live/8823736reYXOEbVR.m3u8
-#EXTINF:-1 group-title="斗鱼电影",限时惊喜电影直播火力全开中
-http://diyp.top/douyu.php?id=8823736
-#EXTINF:-1 group-title="斗鱼电影",喜剧动作探险烧脑电影
-http://tx2play1.douyucdn.cn/live/8553690r0cL4o2Ft.m3u8
-#EXTINF:-1 group-title="斗鱼电影",喜剧动作探险烧脑电影
-http://diyp.top/douyu.php?id=8553690
-#EXTINF:-1 group-title="斗鱼电影",谜团科幻动作动画轮播
-http://tx2play1.douyucdn.cn/live/8609289rAPwFWFM6.m3u8
-#EXTINF:-1 group-title="斗鱼电影",谜团科幻动作动画轮播
-http://diyp.top/douyu.php?id=8609289
-#EXTINF:-1 group-title="斗鱼电影",8090年代电影
-http://tx2play1.douyucdn.cn/live/8587116r5ie5z3JJ.m3u8
-#EXTINF:-1 group-title="斗鱼电影",8090年代电影
-http://diyp.top/douyu.php?id=8587116
-#EXTINF:-1 group-title="斗鱼电影",看看电影下下军棋
-http://tx2play1.douyucdn.cn/live/8806969roZ7qctjh.m3u8
-#EXTINF:-1 group-title="斗鱼电影",看看电影下下军棋
-http://diyp.top/douyu.php?id=8806969
-#EXTINF:-1 group-title="斗鱼电影",主播距离你
-http://tx2play1.douyucdn.cn/live/8560417rMY4Q1958.m3u8
-#EXTINF:-1 group-title="斗鱼电影",主播距离你
-http://diyp.top/douyu.php?id=8560417
-#EXTINF:-1 group-title="斗鱼电影",Firend黎伽嘛每日三部
-http://tx2play1.douyucdn.cn/live/8603174rlYIkz3aQ.m3u8
-#EXTINF:-1 group-title="斗鱼电影",Firend黎伽嘛每日三部
-http://diyp.top/douyu.php?id=8603174
-#EXTINF:-1 group-title="斗鱼电影",小蟹子的直播间
-http://tx2play1.douyucdn.cn/live/8662849rl64WjTYU.m3u8
-#EXTINF:-1 group-title="斗鱼电影",小蟹子的直播间
-http://diyp.top/douyu.php?id=8662849
-#EXTINF:-1 group-title="斗鱼电影",第五号电影电视剧的直播间
-http://tx2play1.douyucdn.cn/live/8653554rw25pRREz.m3u8
-#EXTINF:-1 group-title="斗鱼电影",第五号电影电视剧的直播间
-http://diyp.top/douyu.php?id=8653554
-#EXTINF:-1 group-title="斗鱼电影",4K HDR杜比视界
-http://tx2play1.douyucdn.cn/live/8663752rDhCKzvmr.m3u8
-#EXTINF:-1 group-title="斗鱼电影",4K HDR杜比视界
-http://diyp.top/douyu.php?id=8663752
-#EXTINF:-1 group-title="斗鱼电影",秋叶圓的直播间
-http://tx2play1.douyucdn.cn/live/8756805ryoaGDkI7.m3u8
-#EXTINF:-1 group-title="斗鱼电影",秋叶圓的直播间
-http://diyp.top/douyu.php?id=8756805
-#EXTINF:-1 group-title="斗鱼电影",战争科幻动作电影
-http://tx2play1.douyucdn.cn/live/8390676rxpyLeZ8c.m3u8
-#EXTINF:-1 group-title="斗鱼电影",战争科幻动作电影
-http://diyp.top/douyu.php?id=8390676
-#EXTINF:-1 group-title="斗鱼电影",各类经典高评分
-http://tx2play1.douyucdn.cn/live/8724685r0alS9PJ7.m3u8
-#EXTINF:-1 group-title="斗鱼电影",各类经典高评分
-http://diyp.top/douyu.php?id=8724685
-#EXTINF:-1 group-title="斗鱼电影",精选科幻电影
-http://tx2play1.douyucdn.cn/live/2481470rRerFbohp.m3u8
-#EXTINF:-1 group-title="斗鱼电影",精选科幻电影
-http://diyp.top/douyu.php?id=2481470
-#EXTINF:-1 group-title="斗鱼电影",漫威连连看狼叔系列高清科幻
-http://tx2play1.douyucdn.cn/live/8758530rgamC3SFH.m3u8
-#EXTINF:-1 group-title="斗鱼电影",漫威连连看狼叔系列高清科幻
-http://diyp.top/douyu.php?id=8758530
-#EXTINF:-1 group-title="斗鱼电影",欢迎光临有史以来最惨直播间
-http://tx2play1.douyucdn.cn/live/8735523rxRnqW58P.m3u8
-#EXTINF:-1 group-title="斗鱼电影",欢迎光临有史以来最惨直播间
-http://diyp.top/douyu.php?id=8735523
-#EXTINF:-1 group-title="斗鱼电影",周星星李连杰周润发成龙电影轮播
-http://tx2play1.douyucdn.cn/live/8838034rvnXnQeoB.m3u8
-#EXTINF:-1 group-title="斗鱼电影",周星星李连杰周润发成龙电影轮播
-http://diyp.top/douyu.php?id=8838034
-#EXTINF:-1 group-title="斗鱼电影",满窗星星的直播间
-http://tx2play1.douyucdn.cn/live/8811066rwLDkNs3A.m3u8
-#EXTINF:-1 group-title="斗鱼电影",满窗星星的直播间
-http://diyp.top/douyu.php?id=8811066
-#EXTINF:-1 group-title="斗鱼电影",天气好出来摆摊啦史诗科幻
-http://tx2play1.douyucdn.cn/live/8842171rFQLahaLx.m3u8
-#EXTINF:-1 group-title="斗鱼电影",天气好出来摆摊啦史诗科幻
-http://diyp.top/douyu.php?id=8842171
-#EXTINF:-1 group-title="斗鱼电影",直播全面开启分享直播间有惊喜
-http://tx2play1.douyucdn.cn/live/8835896rKAYpeWkI.m3u8
-#EXTINF:-1 group-title="斗鱼电影",直播全面开启分享直播间有惊喜
-http://diyp.top/douyu.php?id=8835896
-#EXTINF:-1 group-title="斗鱼电影",群星云集经典永恒
-http://tx2play1.douyucdn.cn/live/8855677riYGxssPK.m3u8
-#EXTINF:-1 group-title="斗鱼电影",群星云集经典永恒
-http://diyp.top/douyu.php?id=8855677
-#EXTINF:-1 group-title="斗鱼电影",动作片专场
-http://tx2play1.douyucdn.cn/live/8823129rClgDtOSp.m3u8
-#EXTINF:-1 group-title="斗鱼电影",动作片专场
-http://diyp.top/douyu.php?id=8823129
-#EXTINF:-1 group-title="斗鱼电影",海海陪你看经典
-http://tx2play1.douyucdn.cn/live/8858619rofZewA0K.m3u8
-#EXTINF:-1 group-title="斗鱼电影",海海陪你看经典
-http://diyp.top/douyu.php?id=8858619
-#EXTINF:-1 group-title="斗鱼电影",诺云杰每天一个电影系列你想看的这都有
-http://tx2play1.douyucdn.cn/live/8831004r0yjZK0le.m3u8
-#EXTINF:-1 group-title="斗鱼电影",诺云杰每天一个电影系列你想看的这都有
-http://diyp.top/douyu.php?id=8831004
-#EXTINF:-1 group-title="斗鱼电影",经典高分电影
-http://tx2play1.douyucdn.cn/live/8784240rvkggjncv.m3u8
-#EXTINF:-1 group-title="斗鱼电影",经典高分电影
-http://diyp.top/douyu.php?id=8784240
-#EXTINF:-1 group-title="斗鱼电影",感悟百味电影
-http://tx2play1.douyucdn.cn/live/8817345rtOJKeP87.m3u8
-#EXTINF:-1 group-title="斗鱼电影",感悟百味电影
-http://diyp.top/douyu.php?id=8817345
-#EXTINF:-1 group-title="斗鱼电影",国外科幻冒险
-http://tx2play1.douyucdn.cn/live/8867147rWPe3pyjB.m3u8
-#EXTINF:-1 group-title="斗鱼电影",国外科幻冒险
-http://diyp.top/douyu.php?id=8867147
-#EXTINF:-1 group-title="斗鱼电影",乐乐二的直播间
-http://tx2play1.douyucdn.cn/live/8875937rzyj0oAWi.m3u8
-#EXTINF:-1 group-title="斗鱼电影",乐乐二的直播间
-http://diyp.top/douyu.php?id=8875937
-#EXTINF:-1 group-title="斗鱼电影",康80040的直播间
-http://tx2play1.douyucdn.cn/live/8871662rLEoRPPQ7.m3u8
-#EXTINF:-1 group-title="斗鱼电影",康80040的直播间
-http://diyp.top/douyu.php?id=8871662
-#EXTINF:-1 group-title="斗鱼电影",麓山迷踪邪虐异染绝
-http://tx2play1.douyucdn.cn/live/4505431rec1dnlgt.m3u8
-#EXTINF:-1 group-title="斗鱼电影",麓山迷踪邪虐异染绝
-http://diyp.top/douyu.php?id=4505431
-#EXTINF:-1 group-title="斗鱼电影",s1134经典科幻动作灾难
-http://tx2play1.douyucdn.cn/live/248753rdHGJBGtaq.m3u8
-#EXTINF:-1 group-title="斗鱼电影",s1134经典科幻动作灾难
-http://diyp.top/douyu.php?id=248753
-#EXTINF:-1 group-title="斗鱼电影",粤语电影周星驰林正英喜剧经典
-http://tx2play1.douyucdn.cn/live/1226741rASN2xoU6.m3u8
-#EXTINF:-1 group-title="斗鱼电影",粤语电影周星驰林正英喜剧经典
-http://diyp.top/douyu.php?id=1226741
-#EXTINF:-1 group-title="斗鱼电影",话事人粤语周星驰林正英
-http://tx2play1.douyucdn.cn/live/5033502rJ4Y1fMYj.m3u8
-#EXTINF:-1 group-title="斗鱼电影",话事人粤语周星驰林正英
-http://diyp.top/douyu.php?id=5033502
-#EXTINF:-1 group-title="斗鱼电影",贝爷影厅2号厅欧美日韩国产电影
-http://tx2play1.douyucdn.cn/live/36337rkuA7h5FYzX.m3u8
-#EXTINF:-1 group-title="斗鱼电影",贝爷影厅2号厅欧美日韩国产电影
-http://diyp.top/douyu.php?id=36337
-#EXTINF:-1 group-title="斗鱼电影",高分好电影记得定时续牌子
-http://tx2play1.douyucdn.cn/live/668785rvmP9Q0uaC.m3u8
-#EXTINF:-1 group-title="斗鱼电影",高分好电影记得定时续牌子
-http://diyp.top/douyu.php?id=668785
-#EXTINF:-1 group-title="斗鱼电影",来一起看一起回忆
-http://tx2play1.douyucdn.cn/live/8092307regSFKZ7A.m3u8
-#EXTINF:-1 group-title="斗鱼电影",来一起看一起回忆
-http://diyp.top/douyu.php?id=8092307
-#EXTINF:-1 group-title="斗鱼电影",表妹国产青春动作喜剧轮播
-http://tx2play1.douyucdn.cn/live/5423rAXZeszMRocy.m3u8
-#EXTINF:-1 group-title="斗鱼电影",表妹国产青春动作喜剧轮播
-http://diyp.top/douyu.php?id=5423
-#EXTINF:-1 group-title="斗鱼电影",托陪你看电影
-http://tx2play1.douyucdn.cn/live/299110rSoPxYof5I.m3u8
-#EXTINF:-1 group-title="斗鱼电影",托陪你看电影
-http://diyp.top/douyu.php?id=299110
-#EXTINF:-1 group-title="斗鱼电影",粤语频道电影点播
-http://tx2play1.douyucdn.cn/live/2466104rG3Tbq7yr.m3u8
-#EXTINF:-1 group-title="斗鱼电影",粤语频道电影点播
-http://diyp.top/douyu.php?id=2466104
-#EXTINF:-1 group-title="斗鱼电影",李哥科幻影院科幻魔幻动作
-http://tx2play1.douyucdn.cn/live/6589557rcmH06ONW.m3u8
-#EXTINF:-1 group-title="斗鱼电影",李哥科幻影院科幻魔幻动作
-http://diyp.top/douyu.php?id=6589557
-#EXTINF:-1 group-title="斗鱼电影",搞笑鬼片恐怖灾难
-http://tx2play1.douyucdn.cn/live/711593rgh6Ajey1o.m3u8
-#EXTINF:-1 group-title="斗鱼电影",搞笑鬼片恐怖灾难
-http://diyp.top/douyu.php?id=711593
-#EXTINF:-1 group-title="斗鱼电影",新主播求关注可盐可甜小姐姐
-http://tx2play1.douyucdn.cn/live/7100841rjYxZoFKH.m3u8
-#EXTINF:-1 group-title="斗鱼电影",新主播求关注可盐可甜小姐姐
-http://diyp.top/douyu.php?id=7100841
-#EXTINF:-1 group-title="斗鱼电影",周星驰搞笑经典点播
-http://tx2play1.douyucdn.cn/live/470075rC0wTN1pMk.m3u8
-#EXTINF:-1 group-title="斗鱼电影",周星驰搞笑经典点播
-http://diyp.top/douyu.php?id=470075
-#EXTINF:-1 group-title="斗鱼电影",无泪华语经典电影
-http://tx2play1.douyucdn.cn/live/3619464rpd7Ng4bt.m3u8
-#EXTINF:-1 group-title="斗鱼电影",无泪华语经典电影
-http://diyp.top/douyu.php?id=3619464
-#EXTINF:-1 group-title="斗鱼电影",小酒国外超高分电影
-http://tx2play1.douyucdn.cn/live/589018rEbocrhvE8.m3u8
-#EXTINF:-1 group-title="斗鱼电影",小酒国外超高分电影
-http://diyp.top/douyu.php?id=589018
-#EXTINF:-1 group-title="斗鱼电影",周星驰林正英经典电影
-http://tx2play1.douyucdn.cn/live/7314458rOviNdtU0.m3u8
-#EXTINF:-1 group-title="斗鱼电影",周星驰林正英经典电影
-http://diyp.top/douyu.php?id=7314458
-#EXTINF:-1 group-title="斗鱼电影",粤语电影周星驰林正英经典喜剧动作
-http://tx2play1.douyucdn.cn/live/6566671rGbvODdNt.m3u8
-#EXTINF:-1 group-title="斗鱼电影",粤语电影周星驰林正英经典喜剧动作
-http://diyp.top/douyu.php?id=6566671
-#EXTINF:-1 group-title="斗鱼电影",经典大片放送
-http://tx2play1.douyucdn.cn/live/2793084rx3LrhIVw.m3u8
-#EXTINF:-1 group-title="斗鱼电影",经典大片放送
-http://diyp.top/douyu.php?id=2793084
-#EXTINF:-1 group-title="斗鱼电影",宇哥总有你没看过的经典
-http://tx2play1.douyucdn.cn/live/413573r8wqeV7P1x.m3u8
-#EXTINF:-1 group-title="斗鱼电影",宇哥总有你没看过的经典
-http://diyp.top/douyu.php?id=413573
-#EXTINF:-1 group-title="斗鱼电影",奶瓶欧美科幻灾难电影
-http://tx2play1.douyucdn.cn/live/6655271rVgR66BgC.m3u8
-#EXTINF:-1 group-title="斗鱼电影",奶瓶欧美科幻灾难电影
-http://diyp.top/douyu.php?id=6655271
-#EXTINF:-1 group-title="斗鱼电影",军事战争枪战火爆大片
-http://tx2play1.douyucdn.cn/live/4392103rFd8DFw3c.m3u8
-#EXTINF:-1 group-title="斗鱼电影",军事战争枪战火爆大片
-http://diyp.top/douyu.php?id=4392103
-#EXTINF:-1 group-title="斗鱼电影",瑶瑶漫威国外恐怖丧尸
-http://tx2play1.douyucdn.cn/live/2083382r6IZQXGk0.m3u8
-#EXTINF:-1 group-title="斗鱼电影",瑶瑶漫威国外恐怖丧尸
-http://diyp.top/douyu.php?id=2083382
-#EXTINF:-1 group-title="斗鱼电影",那些年我们一起追的经典电影
-http://tx2play1.douyucdn.cn/live/6775957rva4whc8t.m3u8
-#EXTINF:-1 group-title="斗鱼电影",那些年我们一起追的经典电影
-http://diyp.top/douyu.php?id=6775957
-#EXTINF:-1 group-title="斗鱼电影",大片科幻动作魔幻喜剧
-http://tx2play1.douyucdn.cn/live/562225rDRNAyf14G.m3u8
-#EXTINF:-1 group-title="斗鱼电影",大片科幻动作魔幻喜剧
-http://diyp.top/douyu.php?id=562225
-#EXTINF:-1 group-title="斗鱼电影",MJ永远的迈克
-http://tx2play1.douyucdn.cn/live/7411331rI7yi8bvE.m3u8
-#EXTINF:-1 group-title="斗鱼电影",MJ永远的迈克
-http://diyp.top/douyu.php?id=7411331
-#EXTINF:-1 group-title="斗鱼电影",看电影
-http://tx2play1.douyucdn.cn/live/6557037r4AeUlUhq.m3u8
-#EXTINF:-1 group-title="斗鱼电影",看电影
-http://diyp.top/douyu.php?id=6557037
-#EXTINF:-1 group-title="斗鱼电影",功夫剧场成龙李连杰周星驰
-http://tx2play1.douyucdn.cn/live/6763930rcHxCVMyb.m3u8
-#EXTINF:-1 group-title="斗鱼电影",功夫剧场成龙李连杰周星驰
-http://diyp.top/douyu.php?id=6763930
-#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼绝版降头经典港片
-http://tx2play1.douyucdn.cn/live/5489341rF2M6hkPy.m3u8
-#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼绝版降头经典港片
-http://diyp.top/douyu.php?id=5489341
-#EXTINF:-1 group-title="斗鱼电影",经典动作科幻
-http://tx2play1.douyucdn.cn/live/8245314rZ2VxS71P.m3u8
-#EXTINF:-1 group-title="斗鱼电影",经典动作科幻
-http://diyp.top/douyu.php?id=8245314
-#EXTINF:-1 group-title="斗鱼电影",不会没人看吧
-http://tx2play1.douyucdn.cn/live/5377297r5LFrHdVM.m3u8
-#EXTINF:-1 group-title="斗鱼电影",不会没人看吧
-http://diyp.top/douyu.php?id=5377297
-#EXTINF:-1 group-title="斗鱼电影",奶瓶港片刘德华周润发
-http://tx2play1.douyucdn.cn/live/6546908rcwetGLvV.m3u8
-#EXTINF:-1 group-title="斗鱼电影",奶瓶港片刘德华周润发
-http://diyp.top/douyu.php?id=6546908
-#EXTINF:-1 group-title="斗鱼电影",小阳聪经典科幻魔幻动作励志
-http://tx2play1.douyucdn.cn/live/7673566r3NhUUWUK.m3u8
-#EXTINF:-1 group-title="斗鱼电影",小阳聪经典科幻魔幻动作励志
-http://diyp.top/douyu.php?id=7673566
-#EXTINF:-1 group-title="斗鱼电影",安妮Ami影院道长林正英僵尸
-http://tx2play1.douyucdn.cn/live/7356023rwbM1gfre.m3u8
-#EXTINF:-1 group-title="斗鱼电影",安妮Ami影院道长林正英僵尸
-http://diyp.top/douyu.php?id=7356023
-#EXTINF:-1 group-title="斗鱼电影",小雨点播华语经典
-http://tx2play1.douyucdn.cn/live/1523780rtrWRhUYd.m3u8
-#EXTINF:-1 group-title="斗鱼电影",小雨点播华语经典
-http://diyp.top/douyu.php?id=1523780
-#EXTINF:-1 group-title="斗鱼电影",专业烧脑一个安静的直播间
-http://tx2play1.douyucdn.cn/live/5802446r7FTDkdan.m3u8
-#EXTINF:-1 group-title="斗鱼电影",专业烧脑一个安静的直播间
-http://diyp.top/douyu.php?id=5802446
-#EXTINF:-1 group-title="斗鱼电影",点播宅在家看电影
-http://tx2play1.douyucdn.cn/live/859364rrz82hcCGa.m3u8
-#EXTINF:-1 group-title="斗鱼电影",点播宅在家看电影
-http://diyp.top/douyu.php?id=859364
-#EXTINF:-1 group-title="斗鱼电影",西安热门电影
-http://tx2play1.douyucdn.cn/live/5804577r8mdttMIj.m3u8
-#EXTINF:-1 group-title="斗鱼电影",西安热门电影
-http://diyp.top/douyu.php?id=5804577
-#EXTINF:-1 group-title="斗鱼电影",禁忌恐怖丧尸惊悚
-http://tx2play1.douyucdn.cn/live/5129261rkpxXRE1r.m3u8
-#EXTINF:-1 group-title="斗鱼电影",禁忌恐怖丧尸惊悚
-http://diyp.top/douyu.php?id=5129261
-#EXTINF:-1 group-title="斗鱼电影",4K超清漫改剧场不灭的英雄梦
-http://tx2play1.douyucdn.cn/live/788127r3gu6jUBRL.m3u8
-#EXTINF:-1 group-title="斗鱼电影",4K超清漫改剧场不灭的英雄梦
-http://diyp.top/douyu.php?id=788127
-#EXTINF:-1 group-title="斗鱼电影",萌刀刀科幻动作喜剧武侠
-http://tx2play1.douyucdn.cn/live/6732990rmuzWrmlV.m3u8
-#EXTINF:-1 group-title="斗鱼电影",萌刀刀科幻动作喜剧武侠
-http://diyp.top/douyu.php?id=6732990
-#EXTINF:-1 group-title="斗鱼电影",超清24小时电影直播
-http://diyp.top/douyu.php?id=317533
-#EXTINF:-1 group-title="斗鱼电影",恐怖丧尸鬼片灾难
-http://tx2play1.douyucdn.cn/live/7153458rVR8pAKhh.m3u8
-#EXTINF:-1 group-title="斗鱼电影",恐怖丧尸鬼片灾难
-http://diyp.top/douyu.php?id=7153458
-#EXTINF:-1 group-title="斗鱼电影",周星星生化科幻电影
-http://tx2play1.douyucdn.cn/live/8330518rD4FN6BLJ.m3u8
-#EXTINF:-1 group-title="斗鱼电影",周星星生化科幻电影
-http://diyp.top/douyu.php?id=8330518
-#EXTINF:-1 group-title="斗鱼电影",灵性正能量的生活
-http://tx2play1.douyucdn.cn/live/785252riUZ2sJIDS.m3u8
-#EXTINF:-1 group-title="斗鱼电影",灵性正能量的生活
-http://diyp.top/douyu.php?id=785252
-#EXTINF:-1 group-title="斗鱼电影",试播跑跑卡丁车排行榜
-http://tx2play1.douyucdn.cn/live/6854590rkW9YUvAr.m3u8
-#EXTINF:-1 group-title="斗鱼电影",试播跑跑卡丁车排行榜
-http://diyp.top/douyu.php?id=6854590
-#EXTINF:-1 group-title="斗鱼电影",妞仔影片持续更新中
-http://tx2play1.douyucdn.cn/live/8211997r8tJhhUoz.m3u8
-#EXTINF:-1 group-title="斗鱼电影",妞仔影片持续更新中
-http://diyp.top/douyu.php?id=8211997
-#EXTINF:-1 group-title="斗鱼电影",豆瓣IMDB奥斯卡
-http://tx2play1.douyucdn.cn/live/3811092r25lLX0hY.m3u8
-#EXTINF:-1 group-title="斗鱼电影",豆瓣IMDB奥斯卡
-http://diyp.top/douyu.php?id=3811092
-#EXTINF:-1 group-title="斗鱼电影",星星影院漫威科幻动作喜剧灾难
-http://tx2play1.douyucdn.cn/live/315131rraAA1flJ5.m3u8
-#EXTINF:-1 group-title="斗鱼电影",星星影院漫威科幻动作喜剧灾难
-http://diyp.top/douyu.php?id=315131
-#EXTINF:-1 group-title="斗鱼电影",蜗牛影视娱乐
-http://tx2play1.douyucdn.cn/live/5867994raRLQiDvr.m3u8
-#EXTINF:-1 group-title="斗鱼电影",蜗牛影视娱乐
-http://diyp.top/douyu.php?id=5867994
-#EXTINF:-1 group-title="斗鱼电影",科幻感动尽在于此
-http://tx2play1.douyucdn.cn/live/7637667rgVVkzppR.m3u8
-#EXTINF:-1 group-title="斗鱼电影",科幻感动尽在于此
-http://diyp.top/douyu.php?id=7637667
-#EXTINF:-1 group-title="斗鱼电影",经典电影祝你没有烦恼
-http://tx2play1.douyucdn.cn/live/1671061rI1j6oKmx.m3u8
-#EXTINF:-1 group-title="斗鱼电影",经典电影祝你没有烦恼
-http://diyp.top/douyu.php?id=1671061
-#EXTINF:-1 group-title="斗鱼电影",宇宙今天漫威专场
-http://tx2play1.douyucdn.cn/live/162017rC4lgBGa3B.m3u8
-#EXTINF:-1 group-title="斗鱼电影",宇宙今天漫威专场
-http://diyp.top/douyu.php?id=162017
-#EXTINF:-1 group-title="斗鱼电影",第一剧场WJG
-http://tx2play1.douyucdn.cn/live/8152556rwJblUaKd.m3u8
-#EXTINF:-1 group-title="斗鱼电影",第一剧场WJG
-http://diyp.top/douyu.php?id=8152556
-#EXTINF:-1 group-title="斗鱼电影",秋风欧美动作励志
-http://tx2play1.douyucdn.cn/live/993673rn9zWsgJ5j.m3u8
-#EXTINF:-1 group-title="斗鱼电影",秋风欧美动作励志
-http://diyp.top/douyu.php?id=993673
-#EXTINF:-1 group-title="斗鱼电影",24h电影集
-http://tx2play1.douyucdn.cn/live/1450819rDLhGm289.m3u8
-#EXTINF:-1 group-title="斗鱼电影",24h电影集
-http://diyp.top/douyu.php?id=1450819
-#EXTINF:-1 group-title="斗鱼电影",我笑了好看吗
-http://tx2play1.douyucdn.cn/live/1256794rGxj53XWy.m3u8
-#EXTINF:-1 group-title="斗鱼电影",我笑了好看吗
-http://diyp.top/douyu.php?id=1256794
-#EXTINF:-1 group-title="斗鱼电影",枪手爱看看
-http://tx2play1.douyucdn.cn/live/4691528rUZY4RIya.m3u8
-#EXTINF:-1 group-title="斗鱼电影",枪手爱看看
-http://diyp.top/douyu.php?id=4691528
-#EXTINF:-1 group-title="斗鱼电影",经典电影祝你没有烦恼
-http://tx2play1.douyucdn.cn/live/1671061rI1j6oKmx.m3u8
-#EXTINF:-1 group-title="斗鱼电影",经典电影祝你没有烦恼
-http://diyp.top/douyu.php?id=1671061
-#EXTINF:-1 group-title="斗鱼电影",上分真的好难看会电影
-http://tx2play1.douyucdn.cn/live/1469253rry2YJcJm.m3u8
-#EXTINF:-1 group-title="斗鱼电影",上分真的好难看会电影
-http://diyp.top/douyu.php?id=1469253
-#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼致经典
-http://tx2play1.douyucdn.cn/live/8854554r3YirCoLL.m3u8
-#EXTINF:-1 group-title="斗鱼电影",林正英僵尸女鬼致经典
-http://diyp.top/douyu.php?id=8854554
-#EXTINF:-1 group-title="斗鱼电影",港台电影剧怀旧经典
-http://tx2play1.douyucdn.cn/live/7641600r6BGPexzQ.m3u8
-#EXTINF:-1 group-title="斗鱼电影",港台电影剧怀旧经典
-http://diyp.top/douyu.php?id=7641600
-#EXTINF:-1 group-title="斗鱼电视剧",开心情景剧
-http://tx2play1.douyucdn.cn/live/6648727rCKwKzPrO.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",开心情景剧
-http://diyp.top/douyu.php?id=6648727
-#EXTINF:-1 group-title="斗鱼电视剧",妻管严神剧独播24H
-http://tx2play1.douyucdn.cn/live/7502558rPG3LfUyq.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",妻管严神剧独播24H
-http://diyp.top/douyu.php?id=7502558
-#EXTINF:-1 group-title="斗鱼电视剧",全网最清青春偶像剧
-http://tx2play1.douyucdn.cn/live/498772rpPibXecfz.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",全网最清青春偶像剧
-http://diyp.top/douyu.php?id=498772
-#EXTINF:-1 group-title="斗鱼电视剧",经典青春TV剧场24H直播
-http://tx2play1.douyucdn.cn/live/4433816r24N5PVzR.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典青春TV剧场24H直播
-http://diyp.top/douyu.php?id=4433816
-#EXTINF:-1 group-title="斗鱼电视剧",土土土土土豆
-http://tx2play1.douyucdn.cn/live/2608926rEUNYVZ9E.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",土土土土土豆
-http://diyp.top/douyu.php?id=2608926
-#EXTINF:-1 group-title="斗鱼电视剧",下雪下雨下流星
-http://tx2play1.douyucdn.cn/live/8554379rcvZLffpz.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",下雪下雨下流星
-http://diyp.top/douyu.php?id=8554379
-#EXTINF:-1 group-title="斗鱼电视剧",舰长室仙侠情缘
-http://tx2play1.douyucdn.cn/live/6776615rh7AtB6I8.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",舰长室仙侠情缘
-http://diyp.top/douyu.php?id=6776615
-#EXTINF:-1 group-title="斗鱼电视剧",家48021的直播间
-http://tx2play1.douyucdn.cn/live/7984182rfbAh4BsW.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",家48021的直播间
-http://diyp.top/douyu.php?id=7984182
-#EXTINF:-1 group-title="斗鱼电视剧",90后经典影视
-http://tx2play1.douyucdn.cn/live/1628188rdNfspSgh.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",90后经典影视
-http://diyp.top/douyu.php?id=1628118
-#EXTINF:-1 group-title="斗鱼电视剧",良军影厅经典电影连续剧
-http://tx2play1.douyucdn.cn/live/8205671r1BxPvMw8.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",良军影厅经典电影连续剧
-http://diyp.top/douyu.php?id=8205671
-#EXTINF:-1 group-title="斗鱼电视剧",三国开启让弹幕飞一会
-http://tx2play1.douyucdn.cn/live/4523233rcnzgjFh2.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",三国开启让弹幕飞一会
-http://diyp.top/douyu.php?id=4523233
-#EXTINF:-1 group-title="斗鱼电视剧",凌儿一直伴你左右
-http://tx2play1.douyucdn.cn/live/1377142rAO8xwHIT.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",凌儿一直伴你左右
-http://diyp.top/douyu.php?id=1377142
-#EXTINF:-1 group-title="斗鱼电视剧",经典古装元芳你怎么看
-http://tx2play1.douyucdn.cn/live/6166636r8MOW7lgD.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典古装元芳你怎么看
-http://diyp.top/douyu.php?id=6166636
-#EXTINF:-1 group-title="斗鱼电视剧",情景喜剧影评专区
-http://tx2play1.douyucdn.cn/live/3980787ruP8yquiO.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",情景喜剧影评专区
-http://diyp.top/douyu.php?id=3980787
-#EXTINF:-1 group-title="斗鱼电视剧",跨六打团深渊
-http://tx2play1.douyucdn.cn/live/315236rLBKtLOoHe.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",跨六打团深渊
-http://diyp.top/douyu.php?id=315236
-#EXTINF:-1 group-title="斗鱼电视剧",直播间进入倒闭状态
-http://tx2play1.douyucdn.cn/live/7517784rokqrjcBV.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",直播间进入倒闭状态
-http://diyp.top/douyu.php?id=7517784
-#EXTINF:-1 group-title="斗鱼电视剧",煮酒论英雄
-http://tx2play1.douyucdn.cn/live/5870134rQAo7Z1oj.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",煮酒论英雄
-http://diyp.top/douyu.php?id=5870134
-#EXTINF:-1 group-title="斗鱼电视剧",蓝翔三国弹幕天团
-http://tx2play1.douyucdn.cn/live/276200rcM1i86RwW.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",蓝翔三国弹幕天团
-http://diyp.top/douyu.php?id=276200
-#EXTINF:-1 group-title="斗鱼电视剧",节奏大师港剧直播间
-http://tx2play1.douyucdn.cn/live/223521rmS6qvSjEJ.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",节奏大师港剧直播间
-http://diyp.top/douyu.php?id=223521
-#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧怀旧军事
-http://tx2play1.douyucdn.cn/live/1370315rgCPp1sJr.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧怀旧军事
-http://diyp.top/douyu.php?id=1370315
-#EXTINF:-1 group-title="斗鱼电视剧",小七颜王弹幕天团
-http://tx2play1.douyucdn.cn/live/8432667rPgnkNL9k.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",小七颜王弹幕天团
-http://diyp.top/douyu.php?id=8432667
-#EXTINF:-1 group-title="斗鱼电视剧",8090怀旧情景剧
-http://tx2play1.douyucdn.cn/live/8507162r3Qgvn8wO.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",8090怀旧情景剧
-http://diyp.top/douyu.php?id=8507162
-#EXTINF:-1 group-title="斗鱼电视剧",高清二连
-http://tx2play1.douyucdn.cn/live/8528140rCy0sN2pC.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",高清二连
-http://diyp.top/douyu.php?id=8528140
-#EXTINF:-1 group-title="斗鱼电视剧",下饭剧场真香系列
-http://tx2play1.douyucdn.cn/live/8531333rNDjKKUOC.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",下饭剧场真香系列
-http://diyp.top/douyu.php?id=8531333
-#EXTINF:-1 group-title="斗鱼电视剧",看看电影听听故事
-http://tx2play1.douyucdn.cn/live/8650807rq7BryrR3.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",看看电影听听故事
-http://diyp.top/douyu.php?id=8650807
-#EXTINF:-1 group-title="斗鱼电视剧",恐怖动作
-http://tx2play1.douyucdn.cn/live/8558419rgRjlWgx6.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",恐怖动作
-http://diyp.top/douyu.php?id=8558419
-#EXTINF:-1 group-title="斗鱼电视剧",颜王的人间正道
-http://tx2play1.douyucdn.cn/live/8633986rsmMcOD5I.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",颜王的人间正道
-http://diyp.top/douyu.php?id=8633986
-#EXTINF:-1 group-title="斗鱼电视剧",老李你开炮呀
-http://tx2play1.douyucdn.cn/live/8508416rwZ2MlIN8.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",老李你开炮呀
-http://diyp.top/douyu.php?id=8508416
-#EXTINF:-1 group-title="斗鱼电视剧",帅哥美女一起看看
-http://tx2play1.douyucdn.cn/live/8627265rDZ2fn0tj.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",帅哥美女一起看看
-http://diyp.top/douyu.php?id=8627265
-#EXTINF:-1 group-title="斗鱼电视剧",成成游戏放映室
-http://tx2play1.douyucdn.cn/live/2470036rCyJmGjYJ.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",成成游戏放映室
-http://diyp.top/douyu.php?id=2470036
-#EXTINF:-1 group-title="斗鱼电视剧",星光影视经典剧场
-http://tx2play1.douyucdn.cn/live/5326177rn2G3R5PC.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",星光影视经典剧场
-http://diyp.top/douyu.php?id=5326177
-#EXTINF:-1 group-title="斗鱼电视剧",经典影视直播间3113309
-http://tx2play1.douyucdn.cn/live/3113309rBt37zUCC.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典影视直播间3113309
-http://diyp.top/douyu.php?id=3113309
-#EXTINF:-1 group-title="斗鱼电视剧",负债〆百万滴崽℡
-http://tx2play1.douyucdn.cn/live/4892776r7QuMWTvx.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",负债〆百万滴崽℡
-http://diyp.top/douyu.php?id=4892776
-#EXTINF:-1 group-title="斗鱼电视剧",仙侠穿越剧专场关注不迷路
-http://tx2play1.douyucdn.cn/live/5873420rXYpWzRx1.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",仙侠穿越剧专场关注不迷路
-http://diyp.top/douyu.php?id=5873420
-#EXTINF:-1 group-title="斗鱼电视剧",落樱经典老剧轮播剧场
-http://tx2play1.douyucdn.cn/live/8782044rP2sXHKAV.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",落樱经典老剧轮播剧场
-http://diyp.top/douyu.php?id=8782044
-#EXTINF:-1 group-title="斗鱼电视剧",24小时帮场子
-http://tx2play1.douyucdn.cn/live/8607414rAuzew8iu.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",24小时帮场子
-http://diyp.top/douyu.php?id=8607414
-#EXTINF:-1 group-title="斗鱼电视剧",张卫健电视剧
-http://tx2play1.douyucdn.cn/live/8786161r5ualrtrF.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",张卫健电视剧
-http://diyp.top/douyu.php?id=8786161
-#EXTINF:-1 group-title="斗鱼电视剧",瞧瞧六哥耍帅
-http://tx2play1.douyucdn.cn/live/8562339rKbwg2rK4.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",瞧瞧六哥耍帅
-http://diyp.top/douyu.php?id=8562339
-#EXTINF:-1 group-title="斗鱼电视剧",儿时剧场档
-http://tx2play1.douyucdn.cn/live/8580340rbiR29XSg.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",儿时剧场档
-http://diyp.top/douyu.php?id=8580340
-#EXTINF:-1 group-title="斗鱼电视剧",来回忆童年的乐趣吧
-http://tx2play1.douyucdn.cn/live/8423950rt5S2x8QE.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",来回忆童年的乐趣吧
-http://diyp.top/douyu.php?id=8423950
-#EXTINF:-1 group-title="斗鱼电视剧",悟空的快乐时光
-http://tx2play1.douyucdn.cn/live/8742073r8OLmVQxA.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",悟空的快乐时光
-http://diyp.top/douyu.php?id=8742073
-#EXTINF:-1 group-title="斗鱼电视剧",余则成孙红雷
-http://tx2play1.douyucdn.cn/live/8833496rt2e79ZTE.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",余则成孙红雷
-http://diyp.top/douyu.php?id=8833496
-#EXTINF:-1 group-title="斗鱼电视剧",新人直播来的朋友
-http://tx2play1.douyucdn.cn/live/8479501rF6052sVj.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",新人直播来的朋友
-http://diyp.top/douyu.php?id=8479501
-#EXTINF:-1 group-title="斗鱼电视剧",李云龙你开炮呀
-http://tx2play1.douyucdn.cn/live/8844552rRsTCRFVE.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",李云龙你开炮呀
-http://diyp.top/douyu.php?id=8844552
-#EXTINF:-1 group-title="斗鱼电视剧",维c晨的直播逗乐铁三角
-http://tx2play1.douyucdn.cn/live/8832376rLvoVrWKz.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",维c晨的直播逗乐铁三角
-http://diyp.top/douyu.php?id=8832376
-#EXTINF:-1 group-title="斗鱼电视剧",在下郭靖是也
-http://tx2play1.douyucdn.cn/live/8834820rARuNExhp.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",在下郭靖是也
-http://diyp.top/douyu.php?id=8834820
-#EXTINF:-1 group-title="斗鱼电视剧",新主播请大家多多关注
-http://tx2play1.douyucdn.cn/live/8758486r7ykiCeTh.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",新主播请大家多多关注
-http://diyp.top/douyu.php?id=8758486
-#EXTINF:-1 group-title="斗鱼电视剧",陪看经典剧
-http://tx2play1.douyucdn.cn/live/8729304rMG9lA6kg.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",陪看经典剧
-http://diyp.top/douyu.php?id=8729304
-#EXTINF:-1 group-title="斗鱼电视剧",UU陪你看经典影视剧
-http://tx2play1.douyucdn.cn/live/8836971rFsGr0OMg.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",UU陪你看经典影视剧
-http://diyp.top/douyu.php?id=8836971
-#EXTINF:-1 group-title="斗鱼电视剧",一起看8690505
-http://tx2play1.douyucdn.cn/live/8690505rrA4YtlG8.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",一起看8690505
-http://diyp.top/douyu.php?id=8690505
-#EXTINF:-1 group-title="斗鱼电视剧",没有弹幕的直播间
-http://tx2play1.douyucdn.cn/live/8800897r56R53q1U.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",没有弹幕的直播间
-http://diyp.top/douyu.php?id=8800897
-#EXTINF:-1 group-title="斗鱼电视剧",騷年白小蘇的直播间
-http://tx2play1.douyucdn.cn/live/8827095rogFgp7i2.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",騷年白小蘇的直播间
-http://diyp.top/douyu.php?id=8827095
-#EXTINF:-1 group-title="斗鱼电视剧",元芳你怎么看破案剧神剧经典电视
-http://tx2play1.douyucdn.cn/live/8836930r42P5ICXT.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",元芳你怎么看破案剧神剧经典电视
-http://diyp.top/douyu.php?id=8836930
-#EXTINF:-1 group-title="斗鱼电视剧",主播在线点播
-http://tx2play1.douyucdn.cn/live/8510576rh6russyX.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",主播在线点播
-http://diyp.top/douyu.php?id=8510576
-#EXTINF:-1 group-title="斗鱼电视剧",滚滚长江东逝水
-http://tx2play1.douyucdn.cn/live/8855947rHXflDxOr.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",滚滚长江东逝水
-http://diyp.top/douyu.php?id=8855947
-#EXTINF:-1 group-title="斗鱼电视剧",听雪战队收人啦
-http://tx2play1.douyucdn.cn/live/6863367rG0ydETHH.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",听雪战队收人啦
-http://diyp.top/douyu.php?id=6863367
-#EXTINF:-1 group-title="斗鱼电视剧",搞笑下饭神剧童年回忆
-http://tx2play1.douyucdn.cn/live/5422706rRAPPL5Rc.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",搞笑下饭神剧童年回忆
-http://diyp.top/douyu.php?id=5422706
-#EXTINF:-1 group-title="斗鱼电视剧",超清1经典港剧天地
-http://tx2play1.douyucdn.cn/live/4290711rn0ig0G7v.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",超清1经典港剧天地
-http://diyp.top/douyu.php?id=4290711
-#EXTINF:-1 group-title="斗鱼电视剧",许三多来了
-http://tx2play1.douyucdn.cn/live/7077241rAD6didhA.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",许三多来了
-http://diyp.top/douyu.php?id=7077241
-#EXTINF:-1 group-title="斗鱼电视剧",杀死狄狄仁杰活捉燕双鹰
-http://tx2play1.douyucdn.cn/live/3439096rfNjwRRcj.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",杀死狄狄仁杰活捉燕双鹰
-http://diyp.top/douyu.php?id=3439096
-#EXTINF:-1 group-title="斗鱼电视剧",浅浅经典国语不打烊
-http://tx2play1.douyucdn.cn/live/1543154r2asLS3ES.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",浅浅经典国语不打烊
-http://diyp.top/douyu.php?id=1543154
-#EXTINF:-1 group-title="斗鱼电视剧",師落蒹葭苍苍白露为霜
-http://tx2play1.douyucdn.cn/live/6582435rAjqY9EUf.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",師落蒹葭苍苍白露为霜
-http://diyp.top/douyu.php?id=6582435
-#EXTINF:-1 group-title="斗鱼电视剧",狄仁杰想听听我的故事吗
-http://tx2play1.douyucdn.cn/live/674441rkLnIZh91R.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",狄仁杰想听听我的故事吗
-http://diyp.top/douyu.php?id=674441
-#EXTINF:-1 group-title="斗鱼电视剧",果条楚汉三国剧场
-http://tx2play1.douyucdn.cn/live/6785471rPkPHg9se.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",果条楚汉三国剧场
-http://diyp.top/douyu.php?id=6785471
-#EXTINF:-1 group-title="斗鱼电视剧",原版独播贾贵传
-http://tx2play1.douyucdn.cn/live/6778282reiQVmLDR.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",原版独播贾贵传
-http://diyp.top/douyu.php?id=6778282
-#EXTINF:-1 group-title="斗鱼电视剧",真实案件剧
-http://tx2play1.douyucdn.cn/live/922564rssN8ElpFf.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",真实案件剧
-http://diyp.top/douyu.php?id=922564
-#EXTINF:-1 group-title="斗鱼电视剧",元芳 你怎么看
-http://tx2play1.douyucdn.cn/live/6027991rvL2oO0rE.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",元芳 你怎么看
-http://diyp.top/douyu.php?id=6027991
-#EXTINF:-1 group-title="斗鱼电视剧",大包回来了
-http://tx2play1.douyucdn.cn/live/8193487rktWHVbau.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",大包回来了
-http://diyp.top/douyu.php?id=8193487
-#EXTINF:-1 group-title="斗鱼电视剧",凤凰堂德善你们抢宝拉是我的
-http://tx2play1.douyucdn.cn/live/7292330rzah9LV5R.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",凤凰堂德善你们抢宝拉是我的
-http://diyp.top/douyu.php?id=7292330
-#EXTINF:-1 group-title="斗鱼电视剧",曲线救国贾贵
-http://tx2play1.douyucdn.cn/live/8183852rUHHM3XhS.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",曲线救国贾贵
-http://diyp.top/douyu.php?id=8183852
-#EXTINF:-1 group-title="斗鱼电视剧",团长国难当头岂能坐视
-http://tx2play1.douyucdn.cn/live/8198649rwN0pY5se.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",团长国难当头岂能坐视
-http://diyp.top/douyu.php?id=8198649
-#EXTINF:-1 group-title="斗鱼电视剧",金庸武侠古装神剧
-http://tx2play1.douyucdn.cn/live/338759rkQoXtroBH.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",金庸武侠古装神剧
-http://diyp.top/douyu.php?id=338759
-#EXTINF:-1 group-title="斗鱼电视剧",最早港剧点播
-http://tx2play1.douyucdn.cn/live/59612rruxb7xLi7J.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",最早港剧点播
-http://diyp.top/douyu.php?id=59612
-#EXTINF:-1 group-title="斗鱼电视剧",蓝翔经典电视剧
-http://tx2play1.douyucdn.cn/live/7459925rhDEJlz9i.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",蓝翔经典电视剧
-http://diyp.top/douyu.php?id=7459925
-#EXTINF:-1 group-title="斗鱼电视剧",哞哞悬疑剧
-http://tx2play1.douyucdn.cn/live/5869182rkQYzHE93.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",哞哞悬疑剧
-http://diyp.top/douyu.php?id=5869182
-#EXTINF:-1 group-title="斗鱼电视剧",贝壳军旅抗战悬疑历史剧专场
-http://tx2play1.douyucdn.cn/live/329876rWv8cbabET.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",贝壳军旅抗战悬疑历史剧专场
-http://diyp.top/douyu.php?id=329876
-#EXTINF:-1 group-title="斗鱼电视剧",片源齐全
-http://tx2play1.douyucdn.cn/live/7476264rH2jWE2Sg.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",片源齐全
-http://diyp.top/douyu.php?id=7476264
-#EXTINF:-1 group-title="斗鱼电视剧",天堂经典影院
-http://tx2play1.douyucdn.cn/live/7359565rLi7G7Fk2.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",天堂经典影院
-http://diyp.top/douyu.php?id=7359565
-#EXTINF:-1 group-title="斗鱼电视剧",胡椒粉的胡歌胡歌主场经典辅场
-http://tx2play1.douyucdn.cn/live/5448413rXkq8yRhB.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",胡椒粉的胡歌胡歌主场经典辅场
-http://diyp.top/douyu.php?id=5448413
-#EXTINF:-1 group-title="斗鱼电视剧",豆子☆这瓜包熟吗
-http://tx2play1.douyucdn.cn/live/7226091rFkCtXjCO.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",豆子☆这瓜包熟吗
-http://diyp.top/douyu.php?id=7226091
-#EXTINF:-1 group-title="斗鱼电视剧",电影电视剧
-http://tx2play1.douyucdn.cn/live/7882691rvLa2feFk.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",电影电视剧
-http://diyp.top/douyu.php?id=7882691
-#EXTINF:-1 group-title="斗鱼电视剧",跳伦巴的王
-http://tx2play1.douyucdn.cn/live/6899895rYc1MY5Wu.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",跳伦巴的王
-http://diyp.top/douyu.php?id=6899895
-#EXTINF:-1 group-title="斗鱼电视剧",天使点播电视剧直播间
-http://tx2play1.douyucdn.cn/live/7623292rUNSoCBqf.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",天使点播电视剧直播间
-http://diyp.top/douyu.php?id=7623292
-#EXTINF:-1 group-title="斗鱼电视剧",老剧专场
-http://tx2play1.douyucdn.cn/live/5294377rEWijRFdv.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",老剧专场
-http://diyp.top/douyu.php?id=5294377
-#EXTINF:-1 group-title="斗鱼电视剧",超清2热门港剧天地
-http://tx2play1.douyucdn.cn/live/5522351rWNxvI7RB.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",超清2热门港剧天地
-http://diyp.top/douyu.php?id=5522351
-#EXTINF:-1 group-title="斗鱼电视剧",再见来不及握手
-http://tx2play1.douyucdn.cn/live/532187rLYgN4eTfC.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",再见来不及握手
-http://diyp.top/douyu.php?id=532187
-#EXTINF:-1 group-title="斗鱼电视剧",国强四阿哥
-http://tx2play1.douyucdn.cn/live/4944033rFBuBlriV.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",国强四阿哥
-http://diyp.top/douyu.php?id=4944033
-#EXTINF:-1 group-title="斗鱼电视剧",宇哥来了小老弟儿
-http://tx2play1.douyucdn.cn/live/1171463r9IBe7Tdl.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",宇哥来了小老弟儿
-http://diyp.top/douyu.php?id=1171463
-#EXTINF:-1 group-title="斗鱼电视剧",孙红雷成名作❤
-http://tx2play1.douyucdn.cn/live/4836961rPpimT4o4.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",孙红雷成名作❤
-http://diyp.top/douyu.php?id=4836961
-#EXTINF:-1 group-title="斗鱼电视剧",经典台下饭神剧韩剧中韩
-http://tx2play1.douyucdn.cn/live/252308rwWJM9r05O.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典台下饭神剧韩剧中韩
-http://diyp.top/douyu.php?id=252308
-#EXTINF:-1 group-title="斗鱼电视剧",倚天不出谁与争锋
-http://tx2play1.douyucdn.cn/live/6720632rmiJ3MniF.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",倚天不出谁与争锋
-http://diyp.top/douyu.php?id=6720632
-#EXTINF:-1 group-title="斗鱼电视剧",正常开播欢迎欢迎
-http://tx2play1.douyucdn.cn/live/319576rbblVIx53y.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",正常开播欢迎欢迎
-http://diyp.top/douyu.php?id=319576
-#EXTINF:-1 group-title="斗鱼电视剧",国际剧场从零开始
-http://tx2play1.douyucdn.cn/live/6896398r0LjfqcGT.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",国际剧场从零开始
-http://diyp.top/douyu.php?id=6896398
-#EXTINF:-1 group-title="斗鱼电视剧",全民点播山东泉城
-http://tx2play1.douyucdn.cn/live/6949033rItVLPov7.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",全民点播山东泉城
-http://diyp.top/douyu.php?id=6949033
-#EXTINF:-1 group-title="斗鱼电视剧",奶瓶古往今来人文趣事
-http://tx2play1.douyucdn.cn/live/6241733r19Y6anKj.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",奶瓶古往今来人文趣事
-http://diyp.top/douyu.php?id=6241733
-#EXTINF:-1 group-title="斗鱼电视剧",香港亚视经典剧集怀旧
-http://tx2play1.douyucdn.cn/live/6786937rkzvp8kJy.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",香港亚视经典剧集怀旧
-http://diyp.top/douyu.php?id=6786937
-#EXTINF:-1 group-title="斗鱼电视剧",回忆杀经典怀旧神剧
-http://tx2play1.douyucdn.cn/live/6632254rjI4YKhgK.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",回忆杀经典怀旧神剧
-http://diyp.top/douyu.php?id=6632254
-#EXTINF:-1 group-title="斗鱼电视剧",贾队长来了
-http://tx2play1.douyucdn.cn/live/2277550rQ6tANEY3.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",贾队长来了
-http://diyp.top/douyu.php?id=2277550
-#EXTINF:-1 group-title="斗鱼电视剧",港剧天地24小时放
-http://tx2play1.douyucdn.cn/live/6596220rRhvx9Nvw.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",港剧天地24小时放
-http://diyp.top/douyu.php?id=6596220
-#EXTINF:-1 group-title="斗鱼电视剧",重温经典~
-http://tx2play1.douyucdn.cn/live/6497464rNMWcPIeD.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",重温经典~
-http://diyp.top/douyu.php?id=6497464
-#EXTINF:-1 group-title="斗鱼电视剧",奶瓶❤️金庸武侠剧
-http://tx2play1.douyucdn.cn/live/7644931rJKpf0smD.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",奶瓶❤️金庸武侠剧
-http://diyp.top/douyu.php?id=7644931
-#EXTINF:-1 group-title="斗鱼电视剧",我有我自由理閪你感受
-http://tx2play1.douyucdn.cn/live/6379310rNlUc5YGQ.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",我有我自由理閪你感受
-http://diyp.top/douyu.php?id=6379310
-#EXTINF:-1 group-title="斗鱼电视剧",四大名著（原版）
-http://tx2play1.douyucdn.cn/live/1046540rs3loxbT2.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",四大名著（原版）
-http://diyp.top/douyu.php?id=1046540
-#EXTINF:-1 group-title="斗鱼电视剧",懒懒壁虎的直播间
-http://tx2play1.douyucdn.cn/live/5127679rR1amcZE0.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",懒懒壁虎的直播间
-http://diyp.top/douyu.php?id=5127679
-#EXTINF:-1 group-title="斗鱼电视剧",经典搞笑电视剧轮播
-http://tx2play1.douyucdn.cn/live/5429211rs52LfOsB.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典搞笑电视剧轮播
-http://diyp.top/douyu.php?id=5429211
-#EXTINF:-1 group-title="斗鱼电视剧",经典 青春 影视剧
-http://tx2play1.douyucdn.cn/live/7559665rSjOl2J1g.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典 青春 影视剧
-http://diyp.top/douyu.php?id=7559665
-#EXTINF:-1 group-title="斗鱼电视剧",皇上 皇上 臣无罪啊
-http://tx2play1.douyucdn.cn/live/7444169rWoSyrPdx.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",皇上 皇上 臣无罪啊
-http://diyp.top/douyu.php?id=7444169
-#EXTINF:-1 group-title="斗鱼电视剧",怀旧经典剧克塞
-http://tx2play1.douyucdn.cn/live/6001806rpblAYKpX.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",怀旧经典剧克塞
-http://diyp.top/douyu.php?id=6001806
-#EXTINF:-1 group-title="斗鱼电视剧",柯南看历史康熙遇上劉羅鍋
-http://tx2play1.douyucdn.cn/live/7784862rNk3ctpmY.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",柯南看历史康熙遇上劉羅鍋
-http://diyp.top/douyu.php?id=7784862
-#EXTINF:-1 group-title="斗鱼电视剧",cgsfml 彪哥这一块
-http://tx2play1.douyucdn.cn/live/771006rJXR8Qx1N0.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",cgsfml 彪哥这一块
-http://diyp.top/douyu.php?id=771006
-#EXTINF:-1 group-title="斗鱼电视剧",曹贼
-http://tx2play1.douyucdn.cn/live/243292rVEDfGhBdZ.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",曹贼
-http://diyp.top/douyu.php?id=243292
-#EXTINF:-1 group-title="斗鱼电视剧",全网最佳体验修复画质港剧24H
-http://tx2play1.douyucdn.cn/live/326852rABEcT4sYT.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",全网最佳体验修复画质港剧24H
-http://diyp.top/douyu.php?id=326852
-#EXTINF:-1 group-title="斗鱼电视剧",经典就是百看不厌
-http://tx2play1.douyucdn.cn/live/480097rgA78lwKyz.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典就是百看不厌
-http://diyp.top/douyu.php?id=480097
-#EXTINF:-1 group-title="斗鱼电视剧",佛系爆笑剧集轮播
-http://tx2play1.douyucdn.cn/live/5689514rRF0M0TVW.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",佛系爆笑剧集轮播
-http://diyp.top/douyu.php?id=5689514
-#EXTINF:-1 group-title="斗鱼电视剧",时光随便播播
-http://tx2play1.douyucdn.cn/live/194049rvBVd3e1SZ.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",时光随便播播
-http://diyp.top/douyu.php?id=194049
-#EXTINF:-1 group-title="斗鱼电视剧",经典港剧.古装剧
-http://tx2play1.douyucdn.cn/live/4147520raEKrr6Cl.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典港剧.古装剧
-http://diyp.top/douyu.php?id=4147520
-#EXTINF:-1 group-title="斗鱼电视剧",破案谈情最经典刑侦剧大勇忠义穿越
-http://tx2play1.douyucdn.cn/live/105265rLSLrnbrXg.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",破案谈情最经典刑侦剧大勇忠义穿越
-http://diyp.top/douyu.php?id=105265
-#EXTINF:-1 group-title="斗鱼电视剧",Jc姜小七_过足瘾剧场
-http://tx2play1.douyucdn.cn/live/722858rWvZO7BQGf.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",Jc姜小七_过足瘾剧场
-http://diyp.top/douyu.php?id=722858
-#EXTINF:-1 group-title="斗鱼电视剧",经典军旅抗战影视剧
-http://tx2play1.douyucdn.cn/live/8174626rfqJSg24I.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典军旅抗战影视剧
-http://diyp.top/douyu.php?id=8174626
-#EXTINF:-1 group-title="斗鱼电视剧",武侠经典历史
-http://tx2play1.douyucdn.cn/live/5875025rBeOelkVr.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",武侠经典历史
-http://diyp.top/douyu.php?id=5875025
-#EXTINF:-1 group-title="斗鱼电视剧",三国争霸弹幕来袭
-http://tx2play1.douyucdn.cn/live/45259rQ2WRAWsUn9.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",三国争霸弹幕来袭
-http://diyp.top/douyu.php?id=45259
-#EXTINF:-1 group-title="斗鱼电视剧",木子陪你看连续剧
-http://tx2play1.douyucdn.cn/live/8116528rnnPDV6nO.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",木子陪你看连续剧
-http://diyp.top/douyu.php?id=8116528
-#EXTINF:-1 group-title="斗鱼电视剧",我欲成仙快乐齐天的直播间
-http://tx2play1.douyucdn.cn/live/4763864rsEdm7xBg.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",我欲成仙快乐齐天的直播间
-http://diyp.top/douyu.php?id=4763864
-#EXTINF:-1 group-title="斗鱼电视剧",顺风为主其他情景剧与集锦为辅
-http://tx2play1.douyucdn.cn/live/6369954rkECnpOQO.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",顺风为主其他情景剧与集锦为辅
-http://diyp.top/douyu.php?id=6369954
-#EXTINF:-1 group-title="斗鱼电视剧",经典影像直播间
-http://tx2play1.douyucdn.cn/live/7582564rRR87y4Va.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典影像直播间
-http://diyp.top/douyu.php?id=7582564
-#EXTINF:-1 group-title="斗鱼电视剧",超清】24小时轮播
-http://tx2play1.douyucdn.cn/live/6119059rv4hDi6pd.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",超清】24小时轮播
-http://diyp.top/douyu.php?id=6119059
-#EXTINF:-1 group-title="斗鱼电视剧",交通站中分男神贾贵
-http://tx2play1.douyucdn.cn/live/726768rZKKCYC5oW.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",交通站中分男神贾贵
-http://diyp.top/douyu.php?id=726768
-#EXTINF:-1 group-title="斗鱼电视剧",砖石豆55
-http://tx2play1.douyucdn.cn/live/7678255rtcXN3TnA.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",砖石豆55
-http://diyp.top/douyu.php?id=7678255
-#EXTINF:-1 group-title="斗鱼电视剧",乞丐的电视剧
-http://tx2play1.douyucdn.cn/live/3202258r4Q0SN0O1.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",乞丐的电视剧
-http://diyp.top/douyu.php?id=3202258
-#EXTINF:-1 group-title="斗鱼电视剧",家片有约唤醒您的记忆
-http://tx2play1.douyucdn.cn/live/601582rYhE8slZno.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",家片有约唤醒您的记忆
-http://diyp.top/douyu.php?id=601582
-#EXTINF:-1 group-title="斗鱼电视剧",电视游戏wiiU
-http://tx2play1.douyucdn.cn/live/1023277rvsOW1K3Y.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",电视游戏wiiU
-http://diyp.top/douyu.php?id=1023277
-#EXTINF:-1 group-title="斗鱼电视剧",来了老弟办卡送房管
-http://tx2play1.douyucdn.cn/live/1535280ryqnuFUNZ.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",来了老弟办卡送房管
-http://diyp.top/douyu.php?id=1535280
-#EXTINF:-1 group-title="斗鱼电视剧",胶卷观新三神剧
-http://tx2play1.douyucdn.cn/live/4729653rTklo6cMQ.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",胶卷观新三神剧
-http://diyp.top/douyu.php?id=4729653
-#EXTINF:-1 group-title="斗鱼电视剧",葛大叔剧场电视剧
-http://tx2play1.douyucdn.cn/live/6691014roxk01RaS.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",葛大叔剧场电视剧
-http://diyp.top/douyu.php?id=6691014
-#EXTINF:-1 group-title="斗鱼电视剧",不收钱Tv
-http://tx2play1.douyucdn.cn/live/7904919r0e4ROWkN.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",不收钱Tv
-http://diyp.top/douyu.php?id=7904919
-#EXTINF:-1 group-title="斗鱼电视剧",叁721经典好剧陪你一起看
-http://tx2play1.douyucdn.cn/live/751614r529y0ZeLC.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",叁721经典好剧陪你一起看
-http://diyp.top/douyu.php?id=751614
-#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧轮播240196
-http://tx2play1.douyucdn.cn/live/240196r5v3qSSpnD.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧轮播240196
-http://diyp.top/douyu.php?id=240196
-#EXTINF:-1 group-title="斗鱼电视剧",怀旧电视剧了解一下
-http://tx2play1.douyucdn.cn/live/7898330rk0ekTW8j.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",怀旧电视剧了解一下
-http://diyp.top/douyu.php?id=7898330
-#EXTINF:-1 group-title="斗鱼电视剧",斗鱼二男神还是渣男你说呢
-http://tx2play1.douyucdn.cn/live/699881rPiZ23kH7e.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",斗鱼二男神还是渣男你说呢
-http://diyp.top/douyu.php?id=699881
-#EXTINF:-1 group-title="斗鱼电视剧",希望你们喜欢喜欢就关注一下
-http://tx2play1.douyucdn.cn/live/7869099rOjcBJ5zN.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",希望你们喜欢喜欢就关注一下
-http://diyp.top/douyu.php?id=7869099
-#EXTINF:-1 group-title="斗鱼电视剧",经典美剧化学家的精美品质
-http://tx2play1.douyucdn.cn/live/1701065r1bFwGtCB.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典美剧化学家的精美品质
-http://diyp.top/douyu.php?id=1701065
-#EXTINF:-1 group-title="斗鱼电视剧",老剧新看24小时直播间
-http://tx2play1.douyucdn.cn/live/8783103rwvhwsfiP.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",老剧新看24小时直播间
-http://diyp.top/douyu.php?id=8783103
-#EXTINF:-1 group-title="斗鱼电视剧",经典热播古天乐
-http://tx2play1.douyucdn.cn/live/8829520rzhb7iNoJ.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典热播古天乐
-http://diyp.top/douyu.php?id=8829520
-#EXTINF:-1 group-title="斗鱼电视剧",旭旭宝宝影院经典科幻动作爱情
-http://tx2play1.douyucdn.cn/live/5655535rFGNhfhQc.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",旭旭宝宝影院经典科幻动作爱情
-http://diyp.top/douyu.php?id=5655535
-#EXTINF:-1 group-title="斗鱼电视剧",高清电视剧国产经典怀旧
-http://tx2play1.douyucdn.cn/live/551906rcbMpXFv7Y.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",高清电视剧国产经典怀旧
-http://diyp.top/douyu.php?id=551906
-#EXTINF:-1 group-title="斗鱼电视剧",鼎香楼的故事
-http://tx2play1.douyucdn.cn/live/299854rohz8c4Ki6.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",鼎香楼的故事
-http://diyp.top/douyu.php?id=299854
-#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧影片组合
-http://tx2play1.douyucdn.cn/live/504314r2E09pTWdw.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧影片组合
-http://diyp.top/douyu.php?id=504314
-#EXTINF:-1 group-title="斗鱼电视剧",最爱贾萌萌
-http://tx2play1.douyucdn.cn/live/7253343rBEd9AxxB.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",最爱贾萌萌
-http://diyp.top/douyu.php?id=7253343
-#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧港剧
-http://tx2play1.douyucdn.cn/live/706982r0DY6tm2oL.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",经典电视剧港剧
-http://diyp.top/douyu.php?id=706982
-#EXTINF:-1 group-title="斗鱼电视剧",怀旧姜子牙孙悟空打妖怪的故事
-http://tx2play1.douyucdn.cn/live/6861249rNa1rEgKt.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",怀旧姜子牙孙悟空打妖怪的故事
-http://diyp.top/douyu.php?id=6861249
-#EXTINF:-1 group-title="斗鱼电视剧",你们的下饭主播回来了
-http://tx2play1.douyucdn.cn/live/5359264r2yoXwzqg.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",你们的下饭主播回来了
-http://diyp.top/douyu.php?id=5359264
-#EXTINF:-1 group-title="斗鱼电视剧",大肚子刷剧经典放映厅
-http://tx2play1.douyucdn.cn/live/8012596rcv12I7WQ.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",大肚子刷剧经典放映厅
-http://diyp.top/douyu.php?id=8012596
-#EXTINF:-1 group-title="斗鱼电视剧",来休息吧闭眼睛听声
-http://tx2play1.douyucdn.cn/live/6697528rHC4okVwN.m3u8
-#EXTINF:-1 group-title="斗鱼电视剧",来休息吧闭眼睛听声
-http://diyp.top/douyu.php?id=6697528
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",邵氏影院
+http://junlovefang.top:80/douyu.php?id=4246519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",厦门最傻der新主播
+http://junlovefang.top:80/douyu.php?id=8313496
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",漫微科幻经典动作
+http://junlovefang.top:80/douyu.php?id=6893131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",林正英僵尸女鬼
+http://junlovefang.top:80/douyu.php?id=218859
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",啥时候我也能有个红牌子
+http://junlovefang.top:80/douyu.php?id=7221304
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",神乐华语经典电影刘德华周星驰
+http://junlovefang.top:80/douyu.php?id=85894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",你的陪看陪聊小姐姐
+http://junlovefang.top:80/douyu.php?id=7712894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",贝爷影厅2号厅欧美日韩国产电影
+http://junlovefang.top:80/douyu.php?id=36337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",贝爷影厅经典科幻动作灾难巨兽
+http://junlovefang.top:80/douyu.php?id=252802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",僵尸鬼片丧尸恐怖灾难
+http://junlovefang.top:80/douyu.php?id=310926
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",香港赌片喜剧黑帮动作武侠经典
+http://junlovefang.top:80/douyu.php?id=315457
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",周星驰星爷华语经典电影神乐
+http://junlovefang.top:80/douyu.php?id=122402
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",译制国语影片荟萃
+http://junlovefang.top:80/douyu.php?id=2436390
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",国外大片动作科幻惊悚
+http://junlovefang.top:80/douyu.php?id=8454337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",贝勒港片恐怖丧尸鬼片喜剧
+http://junlovefang.top:80/douyu.php?id=8734932
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",限时惊喜电影直播火力全开中
+http://junlovefang.top:80/douyu.php?id=8823736
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",喜剧动作探险烧脑电影
+http://junlovefang.top:80/douyu.php?id=8553690
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",谜团科幻动作动画轮播
+http://junlovefang.top:80/douyu.php?id=8609289
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",8090年代电影
+http://junlovefang.top:80/douyu.php?id=8587116
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",看看电影下下军棋
+http://junlovefang.top:80/douyu.php?id=8806969
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",主播距离你
+http://junlovefang.top:80/douyu.php?id=8560417
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",Firend黎伽嘛每日三部
+http://junlovefang.top:80/douyu.php?id=8603174
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",小蟹子的直播间
+http://junlovefang.top:80/douyu.php?id=8662849
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",第五号电影电视剧的直播间
+http://junlovefang.top:80/douyu.php?id=8653554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",4K HDR杜比视界
+http://junlovefang.top:80/douyu.php?id=8663752
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",秋叶圆的直播间
+http://junlovefang.top:80/douyu.php?id=8756805
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",战争科幻动作电影
+http://junlovefang.top:80/douyu.php?id=8390676
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",各类经典高评分
+http://junlovefang.top:80/douyu.php?id=8724685
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",精选科幻电影
+http://junlovefang.top:80/douyu.php?id=2481470
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",漫威连连看狼叔系列高清科幻
+http://junlovefang.top:80/douyu.php?id=8758530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",欢迎光临有史以来最惨直播间
+http://junlovefang.top:80/douyu.php?id=8735523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",周星星李连杰周润发成龙电影轮播
+http://junlovefang.top:80/douyu.php?id=8838034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",满窗星星的直播间
+http://junlovefang.top:80/douyu.php?id=8811066
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",天气好出来摆摊啦史诗科幻
+http://junlovefang.top:80/douyu.php?id=8842171
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",直播全面开启分享直播间有惊喜
+http://junlovefang.top:80/douyu.php?id=8835896
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",群星云集经典永恒
+http://junlovefang.top:80/douyu.php?id=8855677
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",动作片专场
+http://junlovefang.top:80/douyu.php?id=8823129
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",海海陪你看经典
+http://junlovefang.top:80/douyu.php?id=8858619
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",诺云杰每天一个电影系列你想看的这都有
+http://junlovefang.top:80/douyu.php?id=8831004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典高分电影
+http://junlovefang.top:80/douyu.php?id=8784240
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",感悟百味电影
+http://junlovefang.top:80/douyu.php?id=8817345
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",国外科幻冒险
+http://junlovefang.top:80/douyu.php?id=8867147
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",乐乐二的直播间
+http://junlovefang.top:80/douyu.php?id=8875937
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",康80040的直播间
+http://junlovefang.top:80/douyu.php?id=8871662
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",麓山迷踪邪虐异染绝
+http://junlovefang.top:80/douyu.php?id=4505431
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",s1134经典科幻动作灾难
+http://junlovefang.top:80/douyu.php?id=248753
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",粤语电影周星驰林正英喜剧经典
+http://junlovefang.top:80/douyu.php?id=1226741
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",话事人粤语周星驰林正英
+http://junlovefang.top:80/douyu.php?id=5033502
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",贝爷影厅2号厅欧美日韩国产电影
+http://junlovefang.top:80/douyu.php?id=36337
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",高分好电影记得定时续牌子
+http://junlovefang.top:80/douyu.php?id=668785
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",来一起看一起回忆
+http://junlovefang.top:80/douyu.php?id=8092307
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",表妹国产青春动作喜剧轮播
+http://junlovefang.top:80/douyu.php?id=5423
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",托陪你看电影
+http://junlovefang.top:80/douyu.php?id=299110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",粤语频道电影点播
+http://junlovefang.top:80/douyu.php?id=2466104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",李哥科幻影院科幻魔幻动作
+http://junlovefang.top:80/douyu.php?id=6589557
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",搞笑鬼片恐怖灾难
+http://junlovefang.top:80/douyu.php?id=711593
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",新主播求关注可盐可甜小姐姐
+http://junlovefang.top:80/douyu.php?id=7100841
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",周星驰搞笑经典点播
+http://junlovefang.top:80/douyu.php?id=470075
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",无泪华语经典电影
+http://junlovefang.top:80/douyu.php?id=3619464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",小酒国外超高分电影
+http://junlovefang.top:80/douyu.php?id=589018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",周星驰林正英经典电影
+http://junlovefang.top:80/douyu.php?id=7314458
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",粤语电影周星驰林正英经典喜剧动作
+http://junlovefang.top:80/douyu.php?id=6566671
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典大片放送
+http://junlovefang.top:80/douyu.php?id=2793084
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",宇哥总有你没看过的经典
+http://junlovefang.top:80/douyu.php?id=413573
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",奶瓶欧美科幻灾难电影
+http://junlovefang.top:80/douyu.php?id=6655271
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",军事战争枪战火爆大片
+http://junlovefang.top:80/douyu.php?id=4392103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",瑶瑶漫威国外恐怖丧尸
+http://junlovefang.top:80/douyu.php?id=2083382
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",那些年我们一起追的经典电影
+http://junlovefang.top:80/douyu.php?id=6775957
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",大片科幻动作魔幻喜剧
+http://junlovefang.top:80/douyu.php?id=562225
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",MJ永远的迈克
+http://junlovefang.top:80/douyu.php?id=7411331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",看电影
+http://junlovefang.top:80/douyu.php?id=6557037
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",功夫剧场成龙李连杰周星驰
+http://junlovefang.top:80/douyu.php?id=6763930
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",林正英僵尸女鬼绝版降头经典港片
+http://junlovefang.top:80/douyu.php?id=5489341
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典动作科幻
+http://junlovefang.top:80/douyu.php?id=8245314
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",不会没人看吧
+http://junlovefang.top:80/douyu.php?id=5377297
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",奶瓶港片刘德华周润发
+http://junlovefang.top:80/douyu.php?id=6546908
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",小阳聪经典科幻魔幻动作励志
+http://junlovefang.top:80/douyu.php?id=7673566
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",安妮Ami影院道长林正英僵尸
+http://junlovefang.top:80/douyu.php?id=7356023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",小雨点播华语经典
+http://junlovefang.top:80/douyu.php?id=1523780
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",专业烧脑一个安静的直播间
+http://junlovefang.top:80/douyu.php?id=5802446
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",点播宅在家看电影
+http://junlovefang.top:80/douyu.php?id=859364
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",西安热门电影
+http://junlovefang.top:80/douyu.php?id=5804577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",禁忌恐怖丧尸惊悚
+http://junlovefang.top:80/douyu.php?id=5129261
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",4K超清漫改剧场不灭的英雄梦
+http://junlovefang.top:80/douyu.php?id=788127
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",萌刀刀科幻动作喜剧武侠
+http://junlovefang.top:80/douyu.php?id=6732990
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",超清24小时电影直播
+http://junlovefang.top:80/douyu.php?id=317533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",恐怖丧尸鬼片灾难
+http://junlovefang.top:80/douyu.php?id=7153458
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",周星星生化科幻电影
+http://junlovefang.top:80/douyu.php?id=8330518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",灵性正能量的生活
+http://junlovefang.top:80/douyu.php?id=785252
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",试播跑跑卡丁车排行榜
+http://junlovefang.top:80/douyu.php?id=6854590
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",妞仔影片持续更新中
+http://junlovefang.top:80/douyu.php?id=8211997
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",豆瓣IMDB奥斯卡
+http://junlovefang.top:80/douyu.php?id=3811092
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",星星影院漫威科幻动作喜剧灾难
+http://junlovefang.top:80/douyu.php?id=315131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",蜗牛影视娱乐
+http://junlovefang.top:80/douyu.php?id=5867994
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",科幻感动尽在于此
+http://junlovefang.top:80/douyu.php?id=7637667
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典电影祝你没有烦恼
+http://junlovefang.top:80/douyu.php?id=1671061
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",宇宙今天漫威专场
+http://junlovefang.top:80/douyu.php?id=162017
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="斗鱼轮播",第一剧场WJG
+http://junlovefang.top:80/douyu.php?id=8152556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",秋风欧美动作励志
+http://junlovefang.top:80/douyu.php?id=993673
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",24h电影集
+http://junlovefang.top:80/douyu.php?id=1450819
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",我笑了好看吗
+http://junlovefang.top:80/douyu.php?id=1256794
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",枪手爱看看
+http://junlovefang.top:80/douyu.php?id=4691528
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典电影祝你没有烦恼
+http://junlovefang.top:80/douyu.php?id=1671061
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",上分真的好难看会电影
+http://junlovefang.top:80/douyu.php?id=1469253
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",林正英僵尸女鬼致经典
+http://junlovefang.top:80/douyu.php?id=8854554
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",港台电影剧怀旧经典
+http://junlovefang.top:80/douyu.php?id=7641600
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",开心情景剧
+http://junlovefang.top:80/douyu.php?id=6648727
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",妻管严神剧独播24H
+http://junlovefang.top:80/douyu.php?id=7502558
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",全网最清青春偶像剧
+http://junlovefang.top:80/douyu.php?id=498772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典青春TV剧场24H直播
+http://junlovefang.top:80/douyu.php?id=4433816
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",土土土土土豆
+http://junlovefang.top:80/douyu.php?id=2608926
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",下雪下雨下流星
+http://junlovefang.top:80/douyu.php?id=8554379
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",舰长室仙侠情缘
+http://junlovefang.top:80/douyu.php?id=6776615
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",家48021的直播间
+http://junlovefang.top:80/douyu.php?id=7984182
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",90后经典影视
+http://junlovefang.top:80/douyu.php?id=1628118
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",良军影厅经典电影连续剧
+http://junlovefang.top:80/douyu.php?id=8205671
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",三国开启让弹幕飞一会
+http://junlovefang.top:80/douyu.php?id=4523233
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",凌儿一直伴你左右
+http://junlovefang.top:80/douyu.php?id=1377142
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典古装元芳你怎么看
+http://junlovefang.top:80/douyu.php?id=6166636
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",情景喜剧影评专区
+http://junlovefang.top:80/douyu.php?id=3980787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",跨六打团深渊
+http://junlovefang.top:80/douyu.php?id=315236
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",直播间进入倒闭状态
+http://junlovefang.top:80/douyu.php?id=7517784
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",煮酒论英雄
+http://junlovefang.top:80/douyu.php?id=5870134
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",蓝翔三国弹幕天团
+http://junlovefang.top:80/douyu.php?id=276200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",节奏大师港剧直播间
+http://junlovefang.top:80/douyu.php?id=223521
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典电视剧怀旧军事
+http://junlovefang.top:80/douyu.php?id=1370315
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",小七颜王弹幕天团
+http://junlovefang.top:80/douyu.php?id=8432667
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",8090怀旧情景剧
+http://junlovefang.top:80/douyu.php?id=8507162
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",高清二连
+http://junlovefang.top:80/douyu.php?id=8528140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",下饭剧场真香系列
+http://junlovefang.top:80/douyu.php?id=8531333
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",看看电影听听故事
+http://junlovefang.top:80/douyu.php?id=8650807
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",恐怖动作
+http://junlovefang.top:80/douyu.php?id=8558419
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",颜王的人间正道
+http://junlovefang.top:80/douyu.php?id=8633986
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",老李你开炮呀
+http://junlovefang.top:80/douyu.php?id=8508416
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",帅哥美女一起看看
+http://junlovefang.top:80/douyu.php?id=8627265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",成成游戏放映室
+http://junlovefang.top:80/douyu.php?id=2470036
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",星光影视经典剧场
+http://junlovefang.top:80/douyu.php?id=5326177
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典影视直播间3113309
+http://junlovefang.top:80/douyu.php?id=3113309
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",负债〆百万滴崽TEL
+http://junlovefang.top:80/douyu.php?id=4892776
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",仙侠穿越剧专场关注不迷路
+http://junlovefang.top:80/douyu.php?id=5873420
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",落樱经典老剧轮播剧场
+http://junlovefang.top:80/douyu.php?id=8782044
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",24小时帮场子
+http://junlovefang.top:80/douyu.php?id=8607414
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",张卫健电视剧
+http://junlovefang.top:80/douyu.php?id=8786161
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",瞧瞧六哥耍帅
+http://junlovefang.top:80/douyu.php?id=8562339
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",儿时剧场档
+http://junlovefang.top:80/douyu.php?id=8580340
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",来回忆童年的乐趣吧
+http://junlovefang.top:80/douyu.php?id=8423950
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",悟空的快乐时光
+http://junlovefang.top:80/douyu.php?id=8742073
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",馀则成孙红雷
+http://junlovefang.top:80/douyu.php?id=8833496
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",新人直播来的朋友
+http://junlovefang.top:80/douyu.php?id=8479501
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",李云龙你开炮呀
+http://junlovefang.top:80/douyu.php?id=8844552
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",维c晨的直播逗乐铁三角
+http://junlovefang.top:80/douyu.php?id=8832376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",在下郭靖是也
+http://junlovefang.top:80/douyu.php?id=8834820
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",新主播请大家多多关注
+http://junlovefang.top:80/douyu.php?id=8758486
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",陪看经典剧
+http://junlovefang.top:80/douyu.php?id=8729304
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",UU陪你看经典影视剧
+http://junlovefang.top:80/douyu.php?id=8836971
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",一起看8690505
+http://junlovefang.top:80/douyu.php?id=8690505
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",没有弹幕的直播间
+http://junlovefang.top:80/douyu.php?id=8800897
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",骚年白小苏的直播间
+http://junlovefang.top:80/douyu.php?id=8827095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",元芳你怎么看破案剧神剧经典电视
+http://junlovefang.top:80/douyu.php?id=8836930
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",主播在线点播
+http://junlovefang.top:80/douyu.php?id=8510576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",滚滚长江东逝水
+http://junlovefang.top:80/douyu.php?id=8855947
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",听雪战队收人啦
+http://junlovefang.top:80/douyu.php?id=6863367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",搞笑下饭神剧童年回忆
+http://junlovefang.top:80/douyu.php?id=5422706
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",超清1经典港剧天地
+http://junlovefang.top:80/douyu.php?id=4290711
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",许三多来了
+http://junlovefang.top:80/douyu.php?id=7077241
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",杀死狄狄仁杰活捉燕双鹰
+http://junlovefang.top:80/douyu.php?id=3439096
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",浅浅经典国语不打烊
+http://junlovefang.top:80/douyu.php?id=1543154
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",师落蒹葭苍苍白露为霜
+http://junlovefang.top:80/douyu.php?id=6582435
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",狄仁杰想听听我的故事吗
+http://junlovefang.top:80/douyu.php?id=674441
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",果条楚汉三国剧场
+http://junlovefang.top:80/douyu.php?id=6785471
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",原版独播贾贵传
+http://junlovefang.top:80/douyu.php?id=6778282
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",真实案件剧
+http://junlovefang.top:80/douyu.php?id=922564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",元芳 你怎么看
+http://junlovefang.top:80/douyu.php?id=6027991
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",大包回来了
+http://junlovefang.top:80/douyu.php?id=8193487
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",凤凰堂德善你们抢宝拉是我的
+http://junlovefang.top:80/douyu.php?id=7292330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",曲线救国贾贵
+http://junlovefang.top:80/douyu.php?id=8183852
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",团长国难当头岂能坐视
+http://junlovefang.top:80/douyu.php?id=8198649
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",金庸武侠古装神剧
+http://junlovefang.top:80/douyu.php?id=338759
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",最早港剧点播
+http://junlovefang.top:80/douyu.php?id=59612
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",蓝翔经典电视剧
+http://junlovefang.top:80/douyu.php?id=7459925
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",哞哞悬疑剧
+http://junlovefang.top:80/douyu.php?id=5869182
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="斗鱼轮播",贝壳军旅抗战悬疑历史剧专场
+http://junlovefang.top:80/douyu.php?id=329876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",片源齐全
+http://junlovefang.top:80/douyu.php?id=7476264
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",天堂经典影院
+http://junlovefang.top:80/douyu.php?id=7359565
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",胡椒粉的胡歌胡歌主场经典辅场
+http://junlovefang.top:80/douyu.php?id=5448413
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",豆子☆这瓜包熟吗
+http://junlovefang.top:80/douyu.php?id=7226091
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",电影电视剧
+http://junlovefang.top:80/douyu.php?id=7882691
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",跳伦巴的王
+http://junlovefang.top:80/douyu.php?id=6899895
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",天使点播电视剧直播间
+http://junlovefang.top:80/douyu.php?id=7623292
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",老剧专场
+http://junlovefang.top:80/douyu.php?id=5294377
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",超清2热门港剧天地
+http://junlovefang.top:80/douyu.php?id=5522351
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",再见来不及握手
+http://junlovefang.top:80/douyu.php?id=532187
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",国强四阿哥
+http://junlovefang.top:80/douyu.php?id=4944033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",宇哥来了小老弟儿
+http://junlovefang.top:80/douyu.php?id=1171463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",孙红雷成名作❤
+http://junlovefang.top:80/douyu.php?id=4836961
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典台下饭神剧韩剧中韩
+http://junlovefang.top:80/douyu.php?id=252308
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",倚天不出谁与争锋
+http://junlovefang.top:80/douyu.php?id=6720632
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",正常开播欢迎欢迎
+http://junlovefang.top:80/douyu.php?id=319576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",国际剧场从零开始
+http://junlovefang.top:80/douyu.php?id=6896398
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",全民点播山东泉城
+http://junlovefang.top:80/douyu.php?id=6949033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",奶瓶古往今来人文趣事
+http://junlovefang.top:80/douyu.php?id=6241733
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",香港亚视经典剧集怀旧
+http://junlovefang.top:80/douyu.php?id=6786937
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",回忆杀经典怀旧神剧
+http://junlovefang.top:80/douyu.php?id=6632254
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",贾队长来了
+http://junlovefang.top:80/douyu.php?id=2277550
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",港剧天地24小时放
+http://junlovefang.top:80/douyu.php?id=6596220
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",重温经典~
+http://junlovefang.top:80/douyu.php?id=6497464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",奶瓶❤️金庸武侠剧
+http://junlovefang.top:80/douyu.php?id=7644931
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",我有我自由理閪你感受
+http://junlovefang.top:80/douyu.php?id=6379310
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",四大名着(原版)
+http://junlovefang.top:80/douyu.php?id=1046540
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",懒懒壁虎的直播间
+http://junlovefang.top:80/douyu.php?id=5127679
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典搞笑电视剧轮播
+http://junlovefang.top:80/douyu.php?id=5429211
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典 青春 影视剧
+http://junlovefang.top:80/douyu.php?id=7559665
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",皇上 皇上 臣无罪啊
+http://junlovefang.top:80/douyu.php?id=7444169
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",怀旧经典剧克塞
+http://junlovefang.top:80/douyu.php?id=6001806
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="斗鱼轮播",柯南看历史康熙遇上刘罗锅
+http://junlovefang.top:80/douyu.php?id=7784862
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",cgsfml 彪哥这一块
+http://junlovefang.top:80/douyu.php?id=771006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",曹贼
+http://junlovefang.top:80/douyu.php?id=243292
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",全网最佳体验修复画质港剧24H
+http://junlovefang.top:80/douyu.php?id=326852
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典就是百看不厌
+http://junlovefang.top:80/douyu.php?id=480097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",佛系爆笑剧集轮播
+http://junlovefang.top:80/douyu.php?id=5689514
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",时光随便播播
+http://junlovefang.top:80/douyu.php?id=194049
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典港剧.古装剧
+http://junlovefang.top:80/douyu.php?id=4147520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",破案谈情最经典刑侦剧大勇忠义穿越
+http://junlovefang.top:80/douyu.php?id=105265
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",Jc姜小七_过足瘾剧场
+http://junlovefang.top:80/douyu.php?id=722858
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典军旅抗战影视剧
+http://junlovefang.top:80/douyu.php?id=8174626
+#EXTINF:-1 tvg-id="7152" tvg-name="History" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HistoryChannel.png" group-title="斗鱼轮播",武侠经典历史
+http://junlovefang.top:80/douyu.php?id=5875025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",三国争霸弹幕来袭
+http://junlovefang.top:80/douyu.php?id=45259
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",木子陪你看连续剧
+http://junlovefang.top:80/douyu.php?id=8116528
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",我欲成仙快乐齐天的直播间
+http://junlovefang.top:80/douyu.php?id=4763864
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",顺风为主其他情景剧与集锦为辅
+http://junlovefang.top:80/douyu.php?id=6369954
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典影像直播间
+http://junlovefang.top:80/douyu.php?id=7582564
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",超清】24小时轮播
+http://junlovefang.top:80/douyu.php?id=6119059
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",交通站中分男神贾贵
+http://junlovefang.top:80/douyu.php?id=726768
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",砖石豆55
+http://junlovefang.top:80/douyu.php?id=7678255
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",乞丐的电视剧
+http://junlovefang.top:80/douyu.php?id=3202258
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",家片有约唤醒您的记忆
+http://junlovefang.top:80/douyu.php?id=601582
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",电视游戏wiiU
+http://junlovefang.top:80/douyu.php?id=1023277
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",来了老弟办卡送房管
+http://junlovefang.top:80/douyu.php?id=1535280
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",胶卷观新三神剧
+http://junlovefang.top:80/douyu.php?id=4729653
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",葛大叔剧场电视剧
+http://junlovefang.top:80/douyu.php?id=6691014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",不收钱Tv
+http://junlovefang.top:80/douyu.php?id=7904919
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",叁721经典好剧陪你一起看
+http://junlovefang.top:80/douyu.php?id=751614
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典电视剧轮播240196
+http://junlovefang.top:80/douyu.php?id=240196
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",怀旧电视剧了解一下
+http://junlovefang.top:80/douyu.php?id=7898330
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",斗鱼二男神还是渣男你说呢
+http://junlovefang.top:80/douyu.php?id=699881
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",希望你们喜欢喜欢就关注一下
+http://junlovefang.top:80/douyu.php?id=7869099
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典美剧化学家的精美品质
+http://junlovefang.top:80/douyu.php?id=1701065
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",老剧新看24小时直播间
+http://junlovefang.top:80/douyu.php?id=8783103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典热播古天乐
+http://junlovefang.top:80/douyu.php?id=8829520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",旭旭宝宝影院经典科幻动作爱情
+http://junlovefang.top:80/douyu.php?id=5655535
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",高清电视剧国产经典怀旧
+http://junlovefang.top:80/douyu.php?id=551906
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",鼎香楼的故事
+http://junlovefang.top:80/douyu.php?id=299854
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典电视剧影片组合
+http://junlovefang.top:80/douyu.php?id=504314
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",最爱贾萌萌
+http://junlovefang.top:80/douyu.php?id=7253343
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",经典电视剧港剧
+http://junlovefang.top:80/douyu.php?id=706982
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",怀旧姜子牙孙悟空打妖怪的故事
+http://junlovefang.top:80/douyu.php?id=6861249
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",你们的下饭主播回来了
+http://junlovefang.top:80/douyu.php?id=5359264
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",大肚子刷剧经典放映厅
+http://junlovefang.top:80/douyu.php?id=8012596
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="斗鱼轮播",来休息吧闭眼睛听声
+http://junlovefang.top:80/douyu.php?id=6697528
 #EXTINF:-1 group-title="战旗企鹅",懒猫美食★吃 吃 吃 吃 吃 吃 自助点播
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/118948_F0Rim.m3u8
 #EXTINF:-1 group-title="战旗企鹅",小丸子试播
