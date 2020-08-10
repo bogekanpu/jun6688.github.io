@@ -100,7 +100,7 @@ http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51008/2300.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="央视直播",新视觉
 http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51009/2300.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="央视直播",CHC高清电影
-http://c2.cdn.hunancatv.com/live/CHCgqdy.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视直播",CHC家庭影院
 http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51010/2300.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视直播",CHC动作电影
