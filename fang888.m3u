@@ -90,21 +90,21 @@ http://39.135.19.139:18890/PLTV/88888888/224/3221225669/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视直播",CGTN俄语
 http://39.135.19.139:18890/PLTV/88888888/224/3221225667/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视直播",CCTV-4K
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51021/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视直播",4K超高清电影
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51024/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51024
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视直播",中华特产频道
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51025/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51025
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视直播",峨眉电影频道
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51008/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51008
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="央视直播",新视觉
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51009/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51009
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="央视直播",CHC高清电影
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8
+http://junlovefang.top:80/hunanyfy.php?id=43063
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="央视直播",CHC家庭影院
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51010/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51010
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="央视直播",CHC动作电影
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51011/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51011
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视直播",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视直播",湖南卫视
@@ -1208,7 +1208,7 @@ http://junlovefang.top:80/gzyx.php?id=577ebc041cb0ca5c340429ea81391d5e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",都市剧场
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="影视专区",欢笑剧场
-http://112.50.243.8/PLTV/88888888/224/3221226729/1.m3u8
+http://junlovefang.top:80/hunanyfy.php?id=43039
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",CBN每日影院
 http://junlovefang.top:80/gzyx.php?id=ad1795ad29a4b83dffb88a592bd157e2
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",CBN风尚生活
@@ -1220,13 +1220,13 @@ http://junlovefang.top:80/gzyx.php?id=0d07e6691ffa49f2cc46b9c0a6f506f2
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="影视专区",CCTV-6电影
 http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",峨眉电影频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51008/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",峨眉电影
 http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-businessmbble/live/scem/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",湖南电影频道
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43029/2300.m3u8
+http://junlovefang.top:80/hunanyfy.php?id=43029
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",湖南电视剧频道
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43030/2300.m3u8
+http://junlovefang.top:80/hunanyfy.php?id=43030
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",星光影视一台
 https://cn-lnsy-cu-live-02.live-play.acgvideo.com/live-bvc/110319/live_481475093_70209622.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",周口影视
@@ -1269,18 +1269,20 @@ http://39.134.182.236/PLTV/88888888/224/3221226695/index.m3u8
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229734/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",杭州影视频道
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",Y+
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视专区",CHC高清电影
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43063/2300.m3u8
+http://junlovefang.top:80/hunanyfy.php?id=43063
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视专区",CHC家庭影院
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51010/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51010
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视专区",CHC动作电影
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51011/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51011
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",4K超高清电影
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51024/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51024
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",CHC华城影视
 http://live1.nty.tv189.com/tm-cridyty-800k.m3u8?sign=447e08a3c96ee3dc63749e073ac1db18&qualityCode=&qualityid=2048&version=1&guid=5ab91344-691d-398c-f7d4-fa3a2a57ecdc&app=115020310221&cookie=b78f0aedd5c2895b44d5db43b4c8a512&session=b78f0aedd5c2895b44d5db43b4c8a512&uid=104410783305917200221&uname=158839825%40imsi&time=20210221175853&videotype=1&cid=C8000000000000000001515994842250&cname=&cateid=&dev=000001&ep=1&os=30&ps=0099&clienttype=M5+Note&appver=5.5.3.15&res=1080%2A1920&channelid=01181620&pid=1000000432&orderid=&nid=&cp=00000335&sp=00000014&ip=210.0.159.154&ipSign=7311c659a6a5fa0bdae24c7a53
 #EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" group-title="影视专区",DOXTV
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22023/1300.m3u8
+http://junlovefang.top:80/yfy.php?id=22023
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV经典剧场
 http://39.135.19.139:18890/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV谍战剧场
