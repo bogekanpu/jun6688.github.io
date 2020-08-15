@@ -1275,8 +1275,12 @@ http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
 http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视专区",CHC高清电影
 http://junlovefang.top:80/hunanyfy.php?id=43063
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="央视直播",CHC高清电影
+http://junlovefang.top:80/rff520/guizhou/91gz.php?id=chchd
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视专区",CHC家庭影院
 http://junlovefang.top:80/yfy.php?id=51010
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视专区",CHC家庭影院
+http://junlovefang.top:80/rff520/guizhou/91gz.php?id=chcjt
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视专区",CHC动作电影
 http://junlovefang.top:80/yfy.php?id=51011
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",4K超高清电影
