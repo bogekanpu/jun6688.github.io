@@ -187,6 +187,8 @@ http://223.110.247.161:6610/gitv/live1/G_KANGBA/G_KANGBA
 http://223.110.247.161:6610/gitv/live1/G_ANDUO/G_ANDUO
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="地方频道",七彩戏剧
 http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=QCXJ_2000
+#EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="地方频道",七彩戏剧
+http://junlovefang.top:80/yfy.php?id=31001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",浙江钱江都市
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",浙江经视频道
@@ -6456,7 +6458,9 @@ http://junlovefang.top:80/yfy.php?id=51019
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="亦非云代理",浣熊
 http://junlovefang.top:80/yfy.php?id=43114
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="贵州广电代理",CHC高清电影
-http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CHCGQ_8000
+http://junlovefang.top:80/hncatv.php?id=CHCGQ_8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="贵州广电代理",凤凰资讯中文
+http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=FHZX_8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="贵州广电代理",CCTV-综合
 http://junlovefang.top:80/gudou.php?id=CCTV1HD_7000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="贵州广电代理",凤凰电影
