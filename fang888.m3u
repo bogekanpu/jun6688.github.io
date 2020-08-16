@@ -11,7 +11,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
 http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视直播",CCTV-4美洲
 http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视直播",CCTV-5体育
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视直播",CCTV-5体育
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视直播",CCTV-体育赛事
 http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
@@ -56,17 +56,17 @@ http://nas.330421.cn:8000/iptv/cetv/?id=447
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视直播",纯享4K
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="央视直播",兵器科技
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43060/1300.m3u8
+http://39.135.19.166:18890/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="央视直播",第一剧场
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43056/1300.m3u8
+http://39.135.19.166:18890/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="央视直播",世界地理
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43057/1300.m3u8
+http://39.135.19.166:18890/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="央视直播",风云音乐
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51012/2300.m3u8
+http://39.135.19.166:18890/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="央视直播",女性时尚
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51014/2300.m3u8
+http://39.135.19.166:18890/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视直播",风云足球
-http://39.135.19.139:18890/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+http://39.135.19.166:18890/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视直播",CCTV电视指南
 http://39.135.19.139:18890/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视直播",CCTV风云剧场
@@ -138,13 +138,13 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视直播",东南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视直播",贵州卫视
-http://112.50.243.8/PLTV/88888888/224/3221226827/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221226827/1.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视直播",广西卫视
 http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视直播",四川卫视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视直播",河北卫视
-http://39.135.19.139:18890/PLTV/88888888/224/3221226058/1/index.m3u8?fmt=ts2hls
+http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视直播",河南卫视
 http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视直播",海南卫视
@@ -170,23 +170,23 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228345/42330007.smi
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视直播",内蒙古卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229043/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视直播",宁夏卫视
-http://112.50.243.8/PLTV/88888888/224/3221225849/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225849/1.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视直播",兵团卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229046/index.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="卫视直播",延边卫视
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22001/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=22001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视直播",农林卫视
 http://223.110.247.161:6610/gitv/live1/G_NONGLIN/G_NONGLIN
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视直播",海峡卫视
-http://junlovefang.top:80/fjtv.php?id=3
+rtsp://183.252.176.54:554/PLTV/88888888/224/3221226128/10000100000000060000000002434539_0.smil
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png" group-title="卫视直播",三沙卫视
-http://112.50.243.8/PLTV/88888888/224/3221227002/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221227002/1.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视直播",康巴卫视
 http://223.110.247.161:6610/gitv/live1/G_KANGBA/G_KANGBA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视直播",安多卫视
 http://223.110.247.161:6610/gitv/live1/G_ANDUO/G_ANDUO
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="地方频道",七彩戏剧
-http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=QCXJ_2000
+http://183.207.255.190/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",浙江钱江都市
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8?k=ace136d16e3700972b06cca5316b34d8&t=1577153432
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",浙江经视频道
@@ -234,437 +234,437 @@ http://live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijuhd/3000/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="地方频道",上海电视剧
 http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南教育台
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43021/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43021/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南教育台
 http://junlovefang.top:80/hunanyfy.php?id=43021
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方频道",湖南卫视国际频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43022/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43022/1300.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="地方频道",湖南卫视国际频道
 http://junlovefang.top:80/hunanyfy.php?id=43022
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南导视频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43023/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43023/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南导视频道
 http://junlovefang.top:80/hunanyfy.php?id=43023
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南经视
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43024/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43024/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南经视
 http://junlovefang.top:80/hunanyfy.php?id=43024
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方频道",金鹰纪实频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43025/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43025/2300.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方频道",金鹰纪实频道
 http://junlovefang.top:80/hunanyfy.php?id=43025
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方频道",金鹰纪实频道
 http://junlovefang.top:80/123.php?id=43087
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南娱乐频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43027/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43027/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南娱乐频道
 http://junlovefang.top:80/hunanyfy.php?id=43027
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南都市频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43028/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43028/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南都市频道
 http://junlovefang.top:80/hunanyfy.php?id=43028
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南电影频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43029/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43029/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南电影频道
 http://junlovefang.top:80/hunanyfy.php?id=43029
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南电视剧频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43030/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43030/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南电视剧频道
 http://junlovefang.top:80/hunanyfy.php?id=43030
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南公共频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43031/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43031/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湖南公共频道
 http://junlovefang.top:80/hunanyfy.php?id=43031
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",快乐购
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43032/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43032/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",快乐购
 http://junlovefang.top:80/hunanyfy.php?id=43032
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",都市剧场
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43085/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43085/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",都市剧场
 http://junlovefang.top:80/123.php?id=43085
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长沙新闻频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43064/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43064/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长沙新闻频道
 http://junlovefang.top:80/hunanyfy.php?id=43064
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",株洲综合频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43065/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43065/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",株洲综合频道
 http://junlovefang.top:80/hunanyfy.php?id=43065
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",衡阳新闻综合
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43066/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43066/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",衡阳新闻综合
 http://junlovefang.top:80/hunanyfy.php?id=43066
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",郴州新闻综合
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43067/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43067/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",郴州新闻综合
 http://junlovefang.top:80/hunanyfy.php?id=43067
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",永州综合频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43068/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43068/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",永州综合频道
 http://junlovefang.top:80/hunanyfy.php?id=43068
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",娄底综合频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43069/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43069/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",娄底综合频道
 http://junlovefang.top:80/hunanyfy.php?id=43069
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",邵阳新闻综合
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43070/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43070/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",邵阳新闻综合
 http://junlovefang.top:80/hunanyfy.php?id=43070
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",常德新闻综合
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43071/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43071/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",常德新闻综合
 http://junlovefang.top:80/hunanyfy.php?id=43071
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",张家界新闻频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43072/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43072/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",张家界新闻频道
 http://junlovefang.top:80/hunanyfy.php?id=43072
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湘西综合
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43073/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43073/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湘西综合
 http://junlovefang.top:80/hunanyfy.php?id=43073
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",怀化新闻综合
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43074/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43074/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",怀化新闻综合
 http://junlovefang.top:80/hunanyfy.php?id=43074
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",岳阳新闻综合频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43075/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43075/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",岳阳新闻综合频道
 http://junlovefang.top:80/hunanyfy.php?id=43075
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",益阳新闻综合频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43076/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43076/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",益阳新闻综合频道
 http://junlovefang.top:80/hunanyfy.php?id=43076
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湘潭新闻综合
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43077/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43077/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",湘潭新闻综合
 http://junlovefang.top:80/hunanyfy.php?id=43077
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",益阳教育频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43089/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43089/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",益阳教育频道
 http://junlovefang.top:80/123.php?id=43089
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",益阳公共频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43090/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43090/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",益阳公共频道
 http://junlovefang.top:80/123.php?id=43090
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方频道",湖南茶频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43048/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43048/2300.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方频道",湖南茶频道
 http://junlovefang.top:80/hunanyfy.php?id=43048
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方频道",湖南金鹰卡通频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel81/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel81/1300.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方频道",湖南金鹰卡通频道
 http://junlovefang.top:80/hunanyfy.php?id=81
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方频道",欢笑剧场
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43039/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43039/2300.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方频道",欢笑剧场
 http://junlovefang.top:80/hunanyfy.php?id=43039
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="地方频道",全纪实
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43040/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43040/2300.m3u8
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="地方频道",全纪实
 http://junlovefang.top:80/hunanyfy.php?id=43040
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方频道",国学
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43058/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43058/1300.m3u8
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方频道",国学
 http://junlovefang.top:80/hunanyfy.php?id=43058
 #EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方频道",书画频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43059/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43059/1300.m3u8
 #EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="地方频道",书画频道
 http://junlovefang.top:80/hunanyfy.php?id=43059
 #EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="地方频道",中华美食
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43061/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43061/1300.m3u8
 #EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="地方频道",中华美食
 http://junlovefang.top:80/hunanyfy.php?id=43061
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg" group-title="地方频道",先锋乒羽
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43062/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43062/1300.m3u8
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg" group-title="地方频道",先锋乒羽
 http://junlovefang.top:80/hunanyfy.php?id=43062
 #EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="地方频道",天元围棋
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43033/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43033/1300.m3u8
 #EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="地方频道",天元围棋
 http://junlovefang.top:80/hunanyfy.php?id=43033
 #EXTINF:-1 tvg-id="6577" tvg-name="摄影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg" group-title="地方频道",摄影频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43034/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43034/1300.m3u8
 #EXTINF:-1 tvg-id="6577" tvg-name="摄影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg" group-title="地方频道",摄影频道
 http://junlovefang.top:80/hunanyfy.php?id=43034
 #EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方频道",四海钓鱼
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43036/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43036/2300.m3u8
 #EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方频道",四海钓鱼
 http://junlovefang.top:80/hunanyfy.php?id=43036
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方频道",江苏财富天下
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43037/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43037/1300.m3u8
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方频道",江苏财富天下
 http://junlovefang.top:80/hunanyfy.php?id=43037
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="地方频道",劲爆体育
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43038/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43038/1300.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="地方频道",劲爆体育
 http://junlovefang.top:80/hunanyfy.php?id=43038
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方频道",游戏风云
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43041/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43041/2300.m3u8
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="地方频道",游戏风云
 http://junlovefang.top:80/hunanyfy.php?id=43041
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="地方频道",极速汽车
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43042/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43042/1300.m3u8
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="地方频道",极速汽车
 http://junlovefang.top:80/hunanyfy.php?id=43042
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="地方频道",生活时尚
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43043/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43043/2300.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="地方频道",生活时尚
 http://junlovefang.top:80/hunanyfy.php?id=43043
 #EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="地方频道",幸福彩
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43044/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43044/2300.m3u8
 #EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="地方频道",幸福彩
 http://junlovefang.top:80/hunanyfy.php?id=43044
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",动漫秀场
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43045/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43045/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",动漫秀场
 http://junlovefang.top:80/hunanyfy.php?id=43045
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",法治天地
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43046/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43046/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",法治天地
 http://junlovefang.top:80/hunanyfy.php?id=43046
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方频道",快乐垂钓
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43047/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43047/1300.m3u8
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方频道",快乐垂钓
 http://junlovefang.top:80/hunanyfy.php?id=43047
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",东方财经·浦东
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43050/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43050/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",东方财经·浦东
 http://junlovefang.top:80/hunanyfy.php?id=43050
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",广东公共频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel45/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel45/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",广东公共频道
 http://junlovefang.top:80/123.php?id=45
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",广东少儿
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel63/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel63/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",广东少儿
 http://junlovefang.top:80/123.php?id=63
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方频道",珠江频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel65/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel65/1300.m3u8
 #EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方频道",珠江频道
 http://junlovefang.top:80/123.php?id=65
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",广东体育频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",广东体育频道
 http://junlovefang.top:80/123.php?id=34
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",高尔夫频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43035/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43035/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",高尔夫频道
 http://junlovefang.top:80/hunanyfy.php?id=43035
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方频道",南方卫视
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel58/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel58/1300.m3u8
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方频道",南方卫视
 http://junlovefang.top:80/123.php?id=58
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳宜和购物
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel42/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel42/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳宜和购物
 http://junlovefang.top:80/123.php?id=42
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",蛇口综合频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel37/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel37/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",蛇口综合频道
 http://junlovefang.top:80/123.php?id=37
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳都市频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel46/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel46/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳都市频道
 http://junlovefang.top:80/123.php?id=46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳电视剧频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel47/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel47/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳电视剧频道
 http://junlovefang.top:80/123.php?id=47
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深视财经生活
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel48/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel48/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深视财经生活
 http://junlovefang.top:80/123.php?id=48
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳娱乐频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel49/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel49/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳娱乐频道
 http://junlovefang.top:80/123.php?id=49
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳体育健康频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel50/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳体育健康频道
 http://junlovefang.top:80/123.php?id=50
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳少儿频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳少儿频道
 http://junlovefang.top:80/123.php?id=51
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳公共频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel52/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel52/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",深圳公共频道
 http://junlovefang.top:80/123.php?id=52
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山西经济资讯
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel84/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel84/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山西经济资讯
 http://junlovefang.top:80/123.php?id=84
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山西影视频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel85/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel85/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山西影视频道
 http://junlovefang.top:80/123.php?id=85
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山西科教频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel86/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel86/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山西科教频道
 http://junlovefang.top:80/123.php?id=86
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山西公共频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel87/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel87/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山西公共频道
 http://junlovefang.top:80/123.php?id=87
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",阳泉综合频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel71/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel71/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",阳泉综合频道
 http://junlovefang.top:80/123.php?id=71
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",阳泉科教频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel72/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel72/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",阳泉科教频道
 http://junlovefang.top:80/123.php?id=72
 #EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="地方频道",黄河卫视
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel88/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel88/1300.m3u8
 #EXTINF:-1 tvg-id="65" tvg-name="黄河卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/huanghe.png" group-title="地方频道",黄河卫视
 http://junlovefang.top:80/123.php?id=88
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山西少儿频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel89/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel89/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山西少儿频道
 http://junlovefang.top:80/123.php?id=89
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",优购物
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel43/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel43/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",优购物
 http://junlovefang.top:80/123.php?id=43
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北杂技频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13002/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13002/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北杂技频道
 http://junlovefang.top:80/123.php?id=13002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北经济频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13003/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13003/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北经济频道
 http://junlovefang.top:80/123.php?id=13003
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北农民频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13004/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13004/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北农民频道
 http://junlovefang.top:80/123.php?id=13004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北都市频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13005/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13005/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北都市频道
 http://junlovefang.top:80/123.php?id=13005
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北影视频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13006/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13006/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北影视频道
 http://junlovefang.top:80/123.php?id=13006
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北少儿科教
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13007/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13007/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北少儿科教
 http://junlovefang.top:80/123.php?id=13007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北公共频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13008/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13008/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北公共频道
 http://junlovefang.top:80/123.php?id=13008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北交通频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel11002/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel11002/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北交通频道
 http://junlovefang.top:80/123.php?id=11002
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北三佳购物
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel12001/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel12001/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北三佳购物
 http://junlovefang.top:80/123.php?id=12001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北收视指南频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13010/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13010/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",河北收视指南频道
 http://junlovefang.top:80/123.php?id=13010
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",邯郸新闻综合
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13009/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13009/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",邯郸新闻综合
 http://junlovefang.top:80/123.php?id=13009
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",石家庄一套
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13014/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13014/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",石家庄一套
 http://junlovefang.top:80/123.php?id=13014
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",石家庄二套
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13011/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13011/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",石家庄二套
 http://junlovefang.top:80/123.php?id=13011
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",石家庄三套
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13012/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13012/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",石家庄三套
 http://junlovefang.top:80/123.php?id=13012
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",石家庄四套
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel13013/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel13013/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",石家庄四套
 http://junlovefang.top:80/123.php?id=13013
 #EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="地方频道",四川文化旅游频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51001/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51001/2300.m3u8
 #EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="地方频道",四川文化旅游频道
 http://junlovefang.top:80/123.php?id=51001
 #EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="地方频道",四川经济频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51002/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51002/2300.m3u8
 #EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="地方频道",四川经济频道
 http://junlovefang.top:80/123.php?id=51002
 #EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="地方频道",四川新闻频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51003/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51003/2300.m3u8
 #EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="地方频道",四川新闻频道
 http://junlovefang.top:80/123.php?id=51003
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="地方频道",四川影视文艺频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51004/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51004/2300.m3u8
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="地方频道",四川影视文艺频道
 http://junlovefang.top:80/123.php?id=51004
 #EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="地方频道",四川妇女儿童频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51005/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51005/2300.m3u8
 #EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="地方频道",四川妇女儿童频道
 http://junlovefang.top:80/123.php?id=51005
 #EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="地方频道",四川公共·乡村
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51006/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51006/2300.m3u8
 #EXTINF:-1 tvg-id="2061" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="地方频道",四川公共·乡村
 http://junlovefang.top:80/123.php?id=51006
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="地方频道",四川科教频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel51007/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51007/2300.m3u8
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="地方频道",四川科教频道
 http://junlovefang.top:80/123.php?id=51007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉视生活频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22003/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22003/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉视生活频道
 http://junlovefang.top:80/123.php?id=22003
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉视影视频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22004/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22004/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉视影视频道
 http://junlovefang.top:80/123.php?id=22004
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉视公共·新闻
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22005/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22005/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉视公共·新闻
 http://junlovefang.top:80/123.php?id=22005
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉林教育
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22006/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22006/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉林教育
 http://junlovefang.top:80/123.php?id=22006
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长影频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22007/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22007/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长影频道
 http://junlovefang.top:80/123.php?id=22007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长春一套
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22011/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22011/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长春一套
 http://junlovefang.top:80/123.php?id=22011
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长春二套
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22008/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22008/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长春二套
 http://junlovefang.top:80/123.php?id=22008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长春三套
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22009/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22009/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长春三套
 http://junlovefang.top:80/123.php?id=22009
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长春四套
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22010/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22010/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长春四套
 http://junlovefang.top:80/123.php?id=22010
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长春五套
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22012/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22012/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",长春五套
 http://junlovefang.top:80/123.php?id=22012
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉林市电视剧频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22013/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22013/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉林市电视剧频道
 http://junlovefang.top:80/123.php?id=22013
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉视都市频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22017/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22017/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉视都市频道
 http://junlovefang.top:80/123.php?id=22017
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉视乡村频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel22018/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel22018/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",吉视乡村频道
 http://junlovefang.top:80/123.php?id=22018
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="地方频道",CCTV1 1080
@@ -1115,50 +1115,48 @@ http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226635/1.m3u8
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226866/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",9屏电视
 http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226664/1.m3u8
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方频道",北京台冬奥纪实
-http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方频道",纪实人文
-http://112.50.243.8/PLTV/88888888/224/3221225946/1.m3u8
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="地方频道",BTV冬奥纪实
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel11001/1300.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225944/1.m3u8
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="地方频道",纪实人文
+http://39.135.225.5:18890/PLTV/88888888/224/3221225946/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",山东教育卫视
 http://junlovefang.top:80/123.php?id=37001
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",陶瓷频道
 http://junlovefang.top:80/hunanyfy.php?id=43049
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",时尚购物
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel44/1300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel44/1300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",时尚购物
 http://junlovefang.top:80/123.php?id=44
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方频道",BTV卡酷少儿
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel11003/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel11003/2300.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方频道",BTV卡酷少儿
 http://junlovefang.top:80/123.php?id=11003
 #EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="地方频道",车迷频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel11004/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel11004/2300.m3u8
 #EXTINF:-1 tvg-id="6603" tvg-name="车迷频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC1.jpg" group-title="地方频道",车迷频道
 http://junlovefang.top:80/123.php?id=11004
 #EXTINF:-1 tvg-id="6608" tvg-name="环球旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg" group-title="地方频道",环球旅游
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel11005/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel11005/2300.m3u8
 #EXTINF:-1 tvg-id="6608" tvg-name="环球旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC6.jpg" group-title="地方频道",环球旅游
 http://junlovefang.top:80/123.php?id=11005
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",中国天气
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel11006/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel11006/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",中国天气
 http://junlovefang.top:80/123.php?id=11006
 #EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="地方频道",优优宝贝
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel11007/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel11007/2300.m3u8
 #EXTINF:-1 tvg-id="6605" tvg-name="优优宝贝" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC3.jpg" group-title="地方频道",优优宝贝
 http://junlovefang.top:80/123.php?id=11007
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",聚鲨环球精选
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel11008/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel11008/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",聚鲨环球精选
 http://junlovefang.top:80/123.php?id=11008
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",足球频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel15001/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel15001/2300.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",足球频道
 http://junlovefang.top:80/123.php?id=15001
 #EXTINF:-1 tvg-id="6626" tvg-name="家政频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/FAMILY-CHANNEL.jpg" group-title="地方频道",家政频道
-http://122.246.23.90/sk.live.otvcloud.com/otv/skcc/live/channel62001/2300.m3u8
+http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel62001/2300.m3u8
 #EXTINF:-1 tvg-id="6626" tvg-name="家政频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/FAMILY-CHANNEL.jpg" group-title="地方频道",家政频道
 http://junlovefang.top:80/123.php?id=62001
 #EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="地方频道",魅力足球
@@ -1187,18 +1185,152 @@ http://junlovefang.top:80/123.php?id=51018
 http://junlovefang.top:80/123.php?id=51019
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",浣熊
 http://junlovefang.top:80/123.php?id=43114
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="影视专区",CCTV-1综合
-CCTV-1综合,http://junlovefang.top:80/hncatv.php?usr=test&t=25&id=CCTV1_8000
+#EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="影视专区",DOX院线
+http://junlovefang.top:80/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",DOX美剧
+http://junlovefang.top:80/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
+#EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="影视专区",DOX映画
+http://junlovefang.top:80/gzyx.php?id=e16878a022c216b17975299a9ac369dc
+#EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="影视专区",DOX新知
+http://junlovefang.top:80/gzyx.php?id=8df92ef18e714e80bc302723d5e933ee
+#EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="影视专区",DOX新艺
+http://junlovefang.top:80/gzyx.php?id=3fec5428637fe3d00cea8deb981ca71c
+#EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="影视专区",DOX雅趣
+http://junlovefang.top:80/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
+#EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="影视专区",DOX英伦
+http://junlovefang.top:80/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad23
+#EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="影视专区",DOX怡家
+http://junlovefang.top:80/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",精彩影视
+http://junlovefang.top:80/gzyx.php?id=577ebc041cb0ca5c340429ea81391d5e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",都市剧场
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229280/01.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="影视专区",欢笑剧场
+http://junlovefang.top:80/hunanyfy.php?id=43039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",CBN每日影院
+http://junlovefang.top:80/gzyx.php?id=ad1795ad29a4b83dffb88a592bd157e2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",CBN风尚生活
+http://junlovefang.top:80/gzyx.php?id=bd5a65f3eef22bf93ac0169b64ffbd7e
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",CBN幸福剧场
+http://junlovefang.top:80/gzyx.php?id=245ba3ebf5e9e61dc1999ff32a95d349
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",CBN幸福娱乐
+http://junlovefang.top:80/gzyx.php?id=0d07e6691ffa49f2cc46b9c0a6f506f2
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="影视专区",CCTV-6电影
+http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",峨眉电影频道
+http://junlovefang.top:80/yfy.php?id=51008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",峨眉电影
+http://39.134.198.8:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-businessmbble/live/scem/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",湖南电影频道
+http://junlovefang.top:80/hunanyfy.php?id=43029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",湖南电视剧频道
+http://junlovefang.top:80/hunanyfy.php?id=43030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",星光影视一台
+https://cn-lnsy-cu-live-02.live-play.acgvideo.com/live-bvc/110319/live_481475093_70209622.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",周口影视
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/80918_cr4oy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",周口电视剧
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/295803_fLcJv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",功夫台
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",影视剧场
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",影视1
+http://39.134.182.236/PLTV/88888888/224/3221226245/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",影视2
+http://39.134.182.236/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",影视3
+http://39.134.182.236/PLTV/88888888/224/3221226179/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",影视4
+http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",影视5
+http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
+#EXTINF:-1 tvg-id="6650" tvg-name="欧美影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/OMYY.jpg" group-title="影视专区",欧美影院
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228384/42613784.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",亚洲影院
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/42613673.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",探索纪实
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228366/42330389.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6638" tvg-name="精品剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HSJPJC.jpg" group-title="影视专区",精品剧场
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228360/42330404.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",风尚音乐
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228344/42330393.smil/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="影视专区",求索生活
+http://39.134.182.236/PLTV/88888888/224/3221226606/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",求索科技
+http://39.134.182.236/PLTV/88888888/224/3221226608/index.m3u8
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="影视专区",求索纪录
+http://39.134.182.236/PLTV/88888888/224/3221226610/index.m3u8
+#EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="影视专区",求索动物
+http://39.134.182.236/PLTV/88888888/224/3221226695/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",黑莓电影
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229734/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",杭州影视频道
+http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",Y+
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视专区",CHC高清电影
 http://junlovefang.top:80/hunanyfy.php?id=43063
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视专区",CHC高清电影
-http://junlovefang.top:80/rff520/guizhou/91gz.php?id=chchd
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视专区",CHC家庭影院
 http://junlovefang.top:80/yfy.php?id=51010
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视专区",CHC家庭影院
-http://junlovefang.top:80/rff520/guizhou/91gz.php?id=chcjt
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视专区",CHC动作电影
 http://junlovefang.top:80/yfy.php?id=51011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",4K超高清电影
+http://junlovefang.top:80/yfy.php?id=51024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",CHC华城影视
+http://live1.nty.tv189.com/tm-cridyty-800k.m3u8?sign=447e08a3c96ee3dc63749e073ac1db18&qualityCode=&qualityid=2048&version=1&guid=5ab91344-691d-398c-f7d4-fa3a2a57ecdc&app=115020310221&cookie=b78f0aedd5c2895b44d5db43b4c8a512&session=b78f0aedd5c2895b44d5db43b4c8a512&uid=104410783305917200221&uname=158839825%40imsi&time=20210221175853&videotype=1&cid=C8000000000000000001515994842250&cname=&cateid=&dev=000001&ep=1&os=30&ps=0099&clienttype=M5+Note&appver=5.5.3.15&res=1080%2A1920&channelid=01181620&pid=1000000432&orderid=&nid=&cp=00000335&sp=00000014&ip=210.0.159.154&ipSign=7311c659a6a5fa0bdae24c7a53
+#EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" group-title="影视专区",DOXTV
+http://junlovefang.top:80/yfy.php?id=22023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV经典剧场
+http://39.135.19.139:18890/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV谍战剧场
+http://39.135.19.139:18890/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV海外佳片
+http://39.135.19.139:18890/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV华语影院
+http://39.135.19.139:18890/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV都市剧场
+http://39.135.19.139:18890/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV热门综艺
+http://39.135.19.139:18890/PLTV/88888888/224/3221226004/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",无台标电影1
+http://39.135.19.139:18890/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",无台标电影2
+http://39.135.19.139:18890/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",无台标电影3
+http://39.135.19.139:18890/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",无台标电视剧1
+http://39.135.19.139:18890/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",无台标电视剧2
+http://39.135.19.139:18890/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",海看大片蓝光
+http://120.221.5.113:8089/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",海看大片蓝光
+http://120.221.5.165:8089/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",海看剧场蓝光
+http://120.221.5.113:8089/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",海看剧场蓝光
+http://120.221.5.101:8089/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",海看剧场蓝光
+http://120.221.5.108:8089/PLTV/88888888/224/3221226053/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",海看热播蓝光
+http://120.221.5.108:8089/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",海看热播蓝光
+http://120.221.5.101:8089/PLTV/88888888/224/3221225878/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",蓝光影视1
+http://39.135.225.5:18890/PLTV/88888888/224/3221226736/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",蓝光影视2
+http://39.135.225.5:18890/PLTV/88888888/224/3221225881/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",蓝光影视3
+http://39.135.225.5:18890/PLTV/88888888/224/3221226708/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",蓝光影视4
+http://39.135.225.5:18890/PLTV/88888888/224/3221226712/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",蓝光影视5
+http://39.135.225.5:18890/PLTV/88888888/224/3221225893/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",蓝光影视6
+http://39.135.225.5:18890/PLTV/88888888/224/3221226692/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",蓝光影视7
+http://39.135.225.5:18890/PLTV/88888888/224/3221226754/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",乘风破浪的万茜
 http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100170828/150/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",乘风破浪的万茜
@@ -1410,9 +1542,15 @@ http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",金庸频道
 http://junlovefang.top:80/migu.php?id=625774640
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",沈腾贾玲黄渤综艺
+http://bd.hls.huya.com/src/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",沈腾贾玲黄渤综艺
 http://106.13.168.120/huya/11601961
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",奔跑吧兄弟
+https://al.hls.huya.com/src/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",奔跑吧兄弟
 http://106.13.168.120/huya/11601972
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",爱笑会议室
+http://bd.hls.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",爱笑会议室
 http://106.13.168.120/huya/11352945
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",王牌对王牌
@@ -1425,6 +1563,8 @@ http://junlovefang.top:80/egame.php?id=61018759
 https://1f97bd333ceef73bfdbd7e9987650b18.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_69385417.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",聋小喜哥
 http://junlovefang.top:80/egame.php?id=69385417
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",相声小品
+http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2777038134-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",相声小品
 http://106.13.168.120/huya/11336593
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",极限挑战鸡丝唠嗑
@@ -4912,53 +5052,53 @@ http://junlovefang.top:80/cibn.php?id=31
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="CIBN轮播",无台标讲解
 http://junlovefang.top:80/cibn.php?id=23
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV动作电影
-http://112.50.243.8/PLTV/88888888/224/3221225879/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225879/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV超级电视剧
-http://112.50.243.8/PLTV/88888888/224/3221225928/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225928/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV超级电影
-http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225926/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV古装剧场
-http://112.50.243.8/PLTV/88888888/224/3221225880/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225880/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV家庭剧场
-http://112.50.243.8/PLTV/88888888/224/3221225882/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225882/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV军旅剧场
-http://112.50.243.8/PLTV/88888888/224/3221225887/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225887/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV爱情喜剧
-http://112.50.243.8/PLTV/88888888/224/3221225877/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225877/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV惊悚悬疑
-http://112.50.243.8/PLTV/88888888/224/3221225885/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225885/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV精品大剧
-http://112.50.243.8/PLTV/88888888/224/3221225889/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225889/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV怡伴健康
-http://112.50.243.8/PLTV/88888888/224/3221225883/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225883/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV中国功夫
-http://112.50.243.8/PLTV/88888888/224/3221225896/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225896/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV潮妈辣婆
-http://112.50.243.8/PLTV/88888888/224/3221226107/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221226107/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV超级综艺
-http://112.50.243.8/PLTV/88888888/224/3221225801/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225801/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV金牌综艺
-http://112.50.243.8/PLTV/88888888/224/3221225884/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225884/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV炫舞未来
-http://112.50.243.8/PLTV/88888888/224/3221226699/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221226699/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV精品纪录
-http://112.50.243.8/PLTV/88888888/224/3221225888/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225888/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV超级体育
-http://112.50.243.8/PLTV/88888888/224/3221225925/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225925/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV精品体育
-http://112.50.243.8/PLTV/88888888/224/3221225886/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225886/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV武博世界
-http://112.50.243.8/PLTV/88888888/224/3221225895/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225895/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV农业致富
 http://111.13.111.242/ottTV.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",NewTV军事评论
-http://112.50.243.8/PLTV/88888888/224/3221225890/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225890/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",黑霉电影
-http://112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225891/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",黑霉电竞
-http://112.50.243.8/PLTV/88888888/224/3221225894/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225894/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="NewTV系列",黑霉动画
-http://112.50.243.8/PLTV/88888888/224/3221225878/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221225878/1.m3u8
 #EXTINF:-1 group-title="综合频道",【MZ】周星驰喜剧经典
 https://flv-qqplay.inter.71edge.com/liveugc/rqq_3k4etk1n.flv
 #EXTINF:-1 group-title="综合频道",【MZ】林正英鬼片
@@ -5059,52 +5199,90 @@ https://6721.liveplay.now.qq.com/live/6721_87c0dde5f66328a1893b226906960482.m3u8
 https://6721.liveplay.now.qq.com/live/6721_c04dd8034789b72139d9507d485d12e8.m3u8
 #EXTINF:-1 group-title="综合频道",一又二分之一的夏天
 https://6721.liveplay.now.qq.com/live/6721_3206db88566f5a2e1fa19454a9ea99ee.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="湖南蜗牛TV",CCTV-1综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="湖南蜗牛TV",﻿CCTV-1综合
 http://c2.cdn.hunancatv.com/live/CCTV1HD.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="湖南蜗牛TV",CCTV-1综合
+http://junlovefang.top:80/woniu.php?id=10000001
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="湖南蜗牛TV",CCTV-2财经
 http://c2.cdn.hunancatv.com/live/CCTV2HD.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="湖南蜗牛TV",CCTV-2财经
+http://junlovefang.top:80/woniu.php?id=10000002
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="湖南蜗牛TV",CCTV-3综艺
 http://c2.cdn.hunancatv.com/live/CCTV3HD.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="湖南蜗牛TV",CCTV-3综艺
+http://junlovefang.top:80/woniu.php?id=10000003
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="湖南蜗牛TV",CCTV-4中文国际
 http://c2.cdn.hunancatv.com/live/CCTV4HD.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="湖南蜗牛TV",CCTV-4中文国际
+http://junlovefang.top:80/woniu.php?id=10000004
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="湖南蜗牛TV",CCTV-4欧洲
 http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/57/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="湖南蜗牛TV",CCTV-4美洲
 http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/57/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="湖南蜗牛TV",CCTV-5体育
 http://c2.cdn.hunancatv.com/live/CCTV5HD.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="湖南蜗牛TV",CCTV-5体育
+http://junlovefang.top:80/woniu.php?id=10000006
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="湖南蜗牛TV",CCTV-体育赛事
 http://junlovefang.top:80/woniu.php?id=10000005
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="湖南蜗牛TV",CCTV-6电影
 http://c2.cdn.hunancatv.com/live/CCTV6HD.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="湖南蜗牛TV",CCTV-6电影
+http://junlovefang.top:80/woniu.php?id=10000007
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="湖南蜗牛TV",CCTV-7国防军事
 http://c2.cdn.hunancatv.com/live/CCTV7HD.m3u8
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="湖南蜗牛TV",CCTV-7国防军事
+http://junlovefang.top:80/woniu.php?id=10000008
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="湖南蜗牛TV",CCTV-8电视剧
 http://c2.cdn.hunancatv.com/live/CCTV8HD.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="湖南蜗牛TV",CCTV-8电视剧
+http://junlovefang.top:80/woniu.php?id=10000009
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="湖南蜗牛TV",CCTV-9纪录
 http://c2.cdn.hunancatv.com/live/CCTV9HD.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="湖南蜗牛TV",CCTV-9纪录
+http://junlovefang.top:80/woniu.php?id=10000010
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="湖南蜗牛TV",CCTV-10科教
 http://c2.cdn.hunancatv.com/live/CCTV10HD.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="湖南蜗牛TV",CCTV-10科教
+http://junlovefang.top:80/woniu.php?id=10000011
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="湖南蜗牛TV",CCTV-11戏曲
 http://c2.cdn.hunancatv.com/live/CCTV11.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="湖南蜗牛TV",CCTV-11戏曲
+http://junlovefang.top:80/woniu.php?id=10000060
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="湖南蜗牛TV",CCTV-12社会与法
 http://c2.cdn.hunancatv.com/live/CCTV12HD.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="湖南蜗牛TV",CCTV-12社会与法
+http://junlovefang.top:80/woniu.php?id=10000063
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="湖南蜗牛TV",CCTV-13新闻
-http://36.152.7.31/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/ysp/2000204603.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="湖南蜗牛TV",CCTV-13新闻
+http://junlovefang.top:80/woniu.php?id=10000061
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="湖南蜗牛TV",CCTV-13新闻
 http://c2.cdn.hunancatv.com/live/CCTV13.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="湖南蜗牛TV",CCTV-14少儿
 http://c2.cdn.hunancatv.com/live/CCTV14HD.m3u8
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="湖南蜗牛TV",CCTV-14少儿
+http://junlovefang.top:80/woniu.php?id=10000064
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="湖南蜗牛TV",CCTV-15音乐
 http://c2.cdn.hunancatv.com/live/CCTV15.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="湖南蜗牛TV",CCTV-15音乐
+http://junlovefang.top:80/woniu.php?id=10000062
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="湖南蜗牛TV",CCTV-17农业农村
 http://c2.cdn.hunancatv.com/live/CCTV17HD.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="湖南蜗牛TV",CCTV-17农业农村
+http://junlovefang.top:80/woniu.php?id=10000065
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="湖南蜗牛TV",第一剧场
 http://c2.cdn.hunancatv.com/live/dyjc.m3u8
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="湖南蜗牛TV",第一剧场
+http://junlovefang.top:80/woniu.php?id=10000074
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="湖南蜗牛TV",世界地理
 http://c2.cdn.hunancatv.com/live/sjdl.m3u8
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="湖南蜗牛TV",世界地理
+http://junlovefang.top:80/woniu.php?id=10000075
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="湖南蜗牛TV",兵器科技
 http://c2.cdn.hunancatv.com/live/bqkj.m3u8
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="湖南蜗牛TV",兵器科技
+http://junlovefang.top:80/woniu.php?id=10000078
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="湖南蜗牛TV",风云足球
 http://c2.cdn.hunancatv.com/live/fyzq.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="湖南蜗牛TV",教育1台
@@ -5113,182 +5291,340 @@ http://c2.cdn.hunancatv.com/live/CETV1.m3u8
 http://c2.cdn.hunancatv.com/live/qcxj.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="湖南蜗牛TV",北京卫视
 http://c2.cdn.hunancatv.com/live/bjwsHD.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="湖南蜗牛TV",北京卫视
+http://junlovefang.top:80/woniu.php?id=10000018
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南蜗牛TV",湖南卫视
 http://c2.cdn.hunancatv.com/live/hnwsHD.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南蜗牛TV",湖南卫视
+http://junlovefang.top:80/woniu.php?id=10000017
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="湖南蜗牛TV",浙江卫视
 http://c2.cdn.hunancatv.com/live/zjwsHD.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="湖南蜗牛TV",浙江卫视
+http://junlovefang.top:80/woniu.php?id=10000020
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="湖南蜗牛TV",江苏卫视
 http://c2.cdn.hunancatv.com/live/jswsHD.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="湖南蜗牛TV",江苏卫视
+http://junlovefang.top:80/woniu.php?id=10000021
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="湖南蜗牛TV",安徽卫视
 http://c2.cdn.hunancatv.com/live/ahwsHD.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="湖南蜗牛TV",安徽卫视
+http://junlovefang.top:80/woniu.php?id=10000025
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="湖南蜗牛TV",广东卫视
 http://c2.cdn.hunancatv.com/live/gdwsHD.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="湖南蜗牛TV",广东卫视
+http://junlovefang.top:80/woniu.php?id=10000022
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="湖南蜗牛TV",山东卫视
 http://c2.cdn.hunancatv.com/live/sdwsHD.m3u8
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="湖南蜗牛TV",山东卫视
+http://junlovefang.top:80/woniu.php?id=10000027
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="湖南蜗牛TV",东方卫视
 http://c2.cdn.hunancatv.com/live/dfwsHD.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="湖南蜗牛TV",东方卫视
+http://junlovefang.top:80/woniu.php?id=10000023
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="湖南蜗牛TV",深圳卫视
 http://c2.cdn.hunancatv.com/live/szwsHD.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="湖南蜗牛TV",深圳卫视
+http://junlovefang.top:80/woniu.php?id=10000019
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="湖南蜗牛TV",天津卫视
 http://c2.cdn.hunancatv.com/live/tjwsHD.m3u8
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="湖南蜗牛TV",天津卫视
+http://junlovefang.top:80/woniu.php?id=10000029
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="湖南蜗牛TV",辽宁卫视
 http://c2.cdn.hunancatv.com/live/lnwsHD.m3u8
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="湖南蜗牛TV",辽宁卫视
+http://junlovefang.top:80/woniu.php?id=10000026
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="湖南蜗牛TV",湖北卫视
 http://c2.cdn.hunancatv.com/live/hubwsHD.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="湖南蜗牛TV",湖北卫视
+http://junlovefang.top:80/woniu.php?id=10000024
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="湖南蜗牛TV",重庆卫视
 http://c2.cdn.hunancatv.com/live/cqwsHD.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="湖南蜗牛TV",重庆卫视
+http://junlovefang.top:80/woniu.php?id=10000030
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="湖南蜗牛TV",四川卫视
 http://c2.cdn.hunancatv.com/live/scwsHD.m3u8
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="湖南蜗牛TV",四川卫视
+http://junlovefang.top:80/woniu.php?id=10000031
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="湖南蜗牛TV",东南卫视
 http://c2.cdn.hunancatv.com/live/dnwsHD.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="湖南蜗牛TV",东南卫视
+http://junlovefang.top:80/woniu.php?id=10000032
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="湖南蜗牛TV",江西卫视
 http://c2.cdn.hunancatv.com/live/jxwsHD.m3u8
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="湖南蜗牛TV",江西卫视
+http://junlovefang.top:80/woniu.php?id=10000033
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="湖南蜗牛TV",广西卫视
 http://c2.cdn.hunancatv.com/live/gxws.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="湖南蜗牛TV",广西卫视
+http://junlovefang.top:80/woniu.php?id=10000016
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="湖南蜗牛TV",贵州卫视
 http://c2.cdn.hunancatv.com/live/gzws.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="湖南蜗牛TV",贵州卫视
+http://junlovefang.top:80/woniu.php?id=10000071
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="湖南蜗牛TV",河北卫视
 http://c2.cdn.hunancatv.com/live/hebwsHD.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="湖南蜗牛TV",河北卫视
+http://junlovefang.top:80/woniu.php?id=10000034
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="湖南蜗牛TV",黑龙江卫视
 http://c2.cdn.hunancatv.com/live/hljwsHD.m3u8
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="湖南蜗牛TV",黑龙江卫视
+http://junlovefang.top:80/woniu.php?id=10000028
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="湖南蜗牛TV",河南卫视
 http://c2.cdn.hunancatv.com/live/henws.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="湖南蜗牛TV",河南卫视
+http://junlovefang.top:80/woniu.php?id=10000067
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="湖南蜗牛TV",吉林卫视
 http://c2.cdn.hunancatv.com/live/jlwsHD.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="湖南蜗牛TV",吉林卫视
+http://junlovefang.top:80/woniu.php?id=10000035
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="湖南蜗牛TV",云南卫视
 http://c2.cdn.hunancatv.com/live/ynws.m3u8
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="湖南蜗牛TV",云南卫视
+http://junlovefang.top:80/woniu.php?id=10000012
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="湖南蜗牛TV",海南卫视
 http://c2.cdn.hunancatv.com/live/lyws.m3u8
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="湖南蜗牛TV",海南卫视
+http://junlovefang.top:80/woniu.php?id=10000013
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="湖南蜗牛TV",西藏卫视
 http://c2.cdn.hunancatv.com/live/xzws.m3u8
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="湖南蜗牛TV",西藏卫视
+http://junlovefang.top:80/woniu.php?id=10000014
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="湖南蜗牛TV",新疆卫视
 http://c2.cdn.hunancatv.com/live/xjws.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="湖南蜗牛TV",新疆卫视
 http://junlovefang.top:80/xjtv.php?id=1
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="湖南蜗牛TV",新疆卫视
+http://junlovefang.top:80/woniu.php?id=10000015
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="湖南蜗牛TV",山西卫视
 http://c2.cdn.hunancatv.com/live/sxws.m3u8
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="湖南蜗牛TV",山西卫视
+http://junlovefang.top:80/woniu.php?id=10000066
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="湖南蜗牛TV",宁夏卫视
 http://c2.cdn.hunancatv.com/live/nxws.m3u8
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="湖南蜗牛TV",宁夏卫视
+http://junlovefang.top:80/woniu.php?id=10000068
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="湖南蜗牛TV",陕西卫视
 http://c2.cdn.hunancatv.com/live/shxws.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="湖南蜗牛TV",陕西卫视
+http://junlovefang.top:80/woniu.php?id=10000069
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="湖南蜗牛TV",甘肃卫视
 http://c2.cdn.hunancatv.com/live/gsws.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="湖南蜗牛TV",甘肃卫视
+http://junlovefang.top:80/woniu.php?id=10000070
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="湖南蜗牛TV",青海卫视
 http://c2.cdn.hunancatv.com/live/qhws.m3u8
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="湖南蜗牛TV",青海卫视
+http://junlovefang.top:80/woniu.php?id=10000072
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="湖南蜗牛TV",内蒙古卫视
 http://c2.cdn.hunancatv.com/live/nmgws.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="湖南蜗牛TV",内蒙古卫视
+http://junlovefang.top:80/woniu.php?id=10000073
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="湖南蜗牛TV",兵团卫视
 http://c2.cdn.hunancatv.com/live/btws.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",山东教育卫视
 http://c2.cdn.hunancatv.com/live/sdjy.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="湖南蜗牛TV",CHC高清电影
 http://c2.cdn.hunancatv.com/live/CHCgqdy.m3u8
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="湖南蜗牛TV",CHC高清电影
+http://junlovefang.top:80/woniu.php?id=10000081
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",都市剧场
 http://c2.cdn.hunancatv.com/live/dsjc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南电影频道
 http://c2.cdn.hunancatv.com/live/hndyHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南电影频道
+http://junlovefang.top:80/woniu.php?id=10000044
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南电视剧频道
 http://c2.cdn.hunancatv.com/live/hndsjHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南教育电视台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南电视剧频道
+http://junlovefang.top:80/woniu.php?id=10000045
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南教育台
 http://c2.cdn.hunancatv.com/live/hnjy.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南教育台
+http://junlovefang.top:80/woniu.php?id=10000037
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="湖南蜗牛TV",湖南金鹰卡通频道
 http://c2.cdn.hunancatv.com/live/jyktHD.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="湖南蜗牛TV",湖南金鹰卡通频道
+http://junlovefang.top:80/woniu.php?id=10000036
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南蜗牛TV",湖南卫视国际频道
 http://c2.cdn.hunancatv.com/live/hngj.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="湖南蜗牛TV",湖南卫视国际频道
+http://junlovefang.top:80/woniu.php?id=10000038
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南经视
 http://c2.cdn.hunancatv.com/live/hnjsHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南经视
+http://junlovefang.top:80/woniu.php?id=10000040
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="湖南蜗牛TV",金鹰纪实频道
 http://c2.cdn.hunancatv.com/live/jyjsHD.m3u8
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="湖南蜗牛TV",金鹰纪实频道
+http://junlovefang.top:80/woniu.php?id=10000041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南娱乐频道
 http://c2.cdn.hunancatv.com/live/hnylHD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南娱乐频道
+http://junlovefang.top:80/woniu.php?id=10000042
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南都市频道
 http://c2.cdn.hunancatv.com/live/hndsHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南都市频道
+http://junlovefang.top:80/woniu.php?id=10000043
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南公共频道
 http://c2.cdn.hunancatv.com/live/hnggHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南公共频道
+http://junlovefang.top:80/woniu.php?id=10000046
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湖南导视频道
 http://c2.cdn.hunancatv.com/live/dspd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",长沙新闻频道
-http://c2.cdn.hunancatv.com/live/csxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",株洲新闻综合
-http://c2.cdn.hunancatv.com/live/zzxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",衡阳新闻综合
-http://c2.cdn.hunancatv.com/live/hyxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",郴州新闻综合
-http://c2.cdn.hunancatv.com/live/czxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",永州新闻综合
-http://c2.cdn.hunancatv.com/live/yzxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",娄底综合
-http://c2.cdn.hunancatv.com/live/ldxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",邵阳新闻综合
-http://c2.cdn.hunancatv.com/live/syxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",常德新闻综合
-http://c2.cdn.hunancatv.com/live/cdxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",张家界一套新闻综合
-http://c2.cdn.hunancatv.com/live/zjjxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湘西新闻综合
-http://c2.cdn.hunancatv.com/live/xxxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",怀化新闻综合
-http://c2.cdn.hunancatv.com/live/hhxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",岳阳新闻综合
-http://c2.cdn.hunancatv.com/live/yyxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",益阳乡村新闻综合
-http://c2.cdn.hunancatv.com/live/yiyxw.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湘潭新闻综合
-http://c2.cdn.hunancatv.com/live/xtxw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",快乐购
 http://c2.cdn.hunancatv.com/live/klgHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",快乐购
+http://junlovefang.top:80/woniu.php?id=10000047
 #EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="湖南蜗牛TV",天元围棋
 http://c2.cdn.hunancatv.com/live/tywq.m3u8
+#EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="湖南蜗牛TV",天元围棋
+http://junlovefang.top:80/woniu.php?id=10000048
 #EXTINF:-1 tvg-id="6577" tvg-name="摄影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg" group-title="湖南蜗牛TV",摄影频道
 http://c2.cdn.hunancatv.com/live/sypd.m3u8
+#EXTINF:-1 tvg-id="6577" tvg-name="摄影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg" group-title="湖南蜗牛TV",摄影频道
+http://junlovefang.top:80/woniu.php?id=10000049
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",高尔夫频道
 http://c2.cdn.hunancatv.com/live/gefpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",高尔夫频道
+http://junlovefang.top:80/woniu.php?id=10000050
 #EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="湖南蜗牛TV",四海钓鱼
 http://c2.cdn.hunancatv.com/live/shdy.m3u8
+#EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="湖南蜗牛TV",四海钓鱼
+http://junlovefang.top:80/woniu.php?id=10000051
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="湖南蜗牛TV",财富天下
 http://c2.cdn.hunancatv.com/live/cftx.m3u8
+#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="湖南蜗牛TV",财富天下
+http://junlovefang.top:80/woniu.php?id=10000052
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="湖南蜗牛TV",劲爆体育
 http://c2.cdn.hunancatv.com/live/jbty.m3u8
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="湖南蜗牛TV",劲爆体育
+http://junlovefang.top:80/woniu.php?id=10000053
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="湖南蜗牛TV",欢笑剧场
 http://junlovefang.top:80/woniu.php?id=10000054
 #EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="湖南蜗牛TV",全纪实
 http://junlovefang.top:80/woniu.php?id=10000055
+#EXTINF:-1 tvg-id="1976" tvg-name="全纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/quanjishi.png" group-title="湖南蜗牛TV",全纪实
+http://junlovefang.top:80/woniu.php?id=10000055
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",动漫秀场
 http://c2.cdn.hunancatv.com/live/dmxc.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",动漫秀场
+http://junlovefang.top:80/woniu.php?id=10000082
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",法治天地
 http://c2.cdn.hunancatv.com/live/fztx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",法治天地
+http://junlovefang.top:80/woniu.php?id=10000083
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="湖南蜗牛TV",快乐垂钓
 http://c2.cdn.hunancatv.com/live/klcd.m3u8
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="湖南蜗牛TV",快乐垂钓
+http://junlovefang.top:80/woniu.php?id=10000084
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="湖南蜗牛TV",生活时尚
 http://c2.cdn.hunancatv.com/live/shsc.m3u8
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="湖南蜗牛TV",生活时尚
+http://junlovefang.top:80/woniu.php?id=10000058
 #EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="湖南蜗牛TV",幸福彩
 http://c2.cdn.hunancatv.com/live/xfc.m3u8
+#EXTINF:-1 tvg-id="1980" tvg-name="幸福彩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xingfucai.png" group-title="湖南蜗牛TV",幸福彩
+http://junlovefang.top:80/woniu.php?id=10000059
 #EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="湖南蜗牛TV",中华美食
 http://c2.cdn.hunancatv.com/live/zhms.m3u8
+#EXTINF:-1 tvg-id="6597" tvg-name="中华美食" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHINA-FOODTV.jpg" group-title="湖南蜗牛TV",中华美食
+http://junlovefang.top:80/woniu.php?id=10000079
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.jpg" group-title="湖南蜗牛TV",先锋乒羽
 http://junlovefang.top:80/woniu.php?id=10000080
 #EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="湖南蜗牛TV",游戏风云
 http://c2.cdn.hunancatv.com/live/yxfy.m3u8
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="湖南蜗牛TV",游戏风云
+http://junlovefang.top:80/woniu.php?id=10000056
 #EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="湖南蜗牛TV",极速汽车
 http://c2.cdn.hunancatv.com/live/jsqc.m3u8
+#EXTINF:-1 tvg-id="1975" tvg-name="MAX极速汽车" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jisuqiche.png" group-title="湖南蜗牛TV",极速汽车
+http://junlovefang.top:80/woniu.php?id=10000057
 #EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="湖南蜗牛TV",国学频道
 http://junlovefang.top:80/woniu.php?id=10000076
 #EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="湖南蜗牛TV",书画频道
 http://c2.cdn.hunancatv.com/live/shpd.m3u8
+#EXTINF:-1 tvg-id="6596" tvg-name="书画频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE37.jpg" group-title="湖南蜗牛TV",书画频道
+http://junlovefang.top:80/woniu.php?id=10000077
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="湖南蜗牛TV",茶频道
 http://c2.cdn.hunancatv.com/live/cpd.m3u8
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="湖南蜗牛TV",茶频道
+http://junlovefang.top:80/woniu.php?id=10000085
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",陶瓷频道
 http://c2.cdn.hunancatv.com/live/tcpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",陶瓷频道
+http://junlovefang.top:80/woniu.php?id=10000086
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",东方财经
 http://c2.cdn.hunancatv.com/live/dfcj.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",东方财经
+http://junlovefang.top:80/woniu.php?id=10000087
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="湖南蜗牛TV",求索记录
+http://junlovefang.top:80/woniu.php?id=10000088
 #EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.jpg" group-title="湖南蜗牛TV",求索记录
 http://junlovefang.top:80/woniu.php?id=10000088
 #EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="湖南蜗牛TV",求索生活
 http://c2.cdn.hunancatv.com/live/qssh.m3u8
+#EXTINF:-1 tvg-id="6243" tvg-name="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="湖南蜗牛TV",求索生活
+http://junlovefang.top:80/woniu.php?id=10000089
 #EXTINF:-1 tvg-id="6242" tvg-name="求索动物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="湖南蜗牛TV",求索动物
 http://junlovefang.top:80/woniu.php?id=10000090
 #EXTINF:-1 tvg-id="6240" tvg-name="求索科学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSKX.jpg" group-title="湖南蜗牛TV",求索科学
 http://junlovefang.top:80/woniu.php?id=10000091
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",长沙新闻频道
+http://c2.cdn.hunancatv.com/live/csxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",长沙新闻频道
+http://junlovefang.top:80/woniu.php?id=10000093
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",株洲新闻综合
+http://c2.cdn.hunancatv.com/live/zzxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",株洲新闻综合
+http://junlovefang.top:80/woniu.php?id=10000094
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",衡阳新闻综合
+http://c2.cdn.hunancatv.com/live/hyxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",衡阳新闻综合
+http://junlovefang.top:80/woniu.php?id=10000095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",郴州新闻综合
+http://c2.cdn.hunancatv.com/live/czxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",郴州新闻综合
+http://junlovefang.top:80/woniu.php?id=10000096
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",永州新闻综合
+http://c2.cdn.hunancatv.com/live/yzxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",永州新闻综合
+http://junlovefang.top:80/woniu.php?id=10000097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",娄底综合
+http://c2.cdn.hunancatv.com/live/ldxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",娄底综合
+http://junlovefang.top:80/woniu.php?id=10000098
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",邵阳新闻综合
+http://c2.cdn.hunancatv.com/live/syxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",邵阳新闻综合
+http://junlovefang.top:80/woniu.php?id=10000099
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",常德新闻综合
+http://c2.cdn.hunancatv.com/live/cdxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",常德新闻综合
+http://junlovefang.top:80/woniu.php?id=10000100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",张家界一套新闻综合
+http://c2.cdn.hunancatv.com/live/zjjxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",张家界一套新闻综合
+http://junlovefang.top:80/woniu.php?id=10000101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湘西新闻综合
+http://c2.cdn.hunancatv.com/live/xxxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湘西新闻综合
+http://junlovefang.top:80/woniu.php?id=10000102
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",怀化新闻综合
+http://c2.cdn.hunancatv.com/live/hhxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",怀化新闻综合
+http://junlovefang.top:80/woniu.php?id=10000103
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",岳阳新闻综合
+http://c2.cdn.hunancatv.com/live/yyxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",岳阳新闻综合
+http://junlovefang.top:80/woniu.php?id=10000104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",益阳乡村新闻综合
+http://c2.cdn.hunancatv.com/live/yiyxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",益阳新闻综合
+http://junlovefang.top:80/woniu.php?id=10000105
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湘潭新闻综合
+http://c2.cdn.hunancatv.com/live/xtxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",湘潭新闻综合
+http://junlovefang.top:80/woniu.php?id=10000106
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="湖南蜗牛TV",幸福剧场
 http://junlovefang.top:80/woniu.php?id=10000092
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="亦非云代理",CCTV-1综合
