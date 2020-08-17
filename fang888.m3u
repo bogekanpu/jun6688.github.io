@@ -38,13 +38,13 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视直播",CCTV-17农业农村
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视直播",CGTN
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel15/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=15
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视直播",CGTN 纪录
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel14/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=14
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视直播",CGTN 法语
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel68/1300.m3u8
+http://junlovefang.top:80/yfy.php?id=68
 #EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="央视直播",早期教育
-http://122.246.23.34/sk.live.otvcloud.com/otv/skcc/live/channel51017/2300.m3u8
+http://junlovefang.top:80/yfy.php?id=51017
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="央视直播",中国教育1台
 http://nas.330421.cn:8000/iptv/cetv/?id=451
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="央视直播",中国教育2台
@@ -142,9 +142,9 @@ http://39.135.225.5:18890/PLTV/88888888/224/3221226827/1.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视直播",广西卫视
 http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视直播",四川卫视
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221227006/1.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视直播",河北卫视
-http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+http://39.135.19.139:18890/PLTV/88888888/224/3221226058/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视直播",河南卫视
 http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视直播",海南卫视
@@ -154,7 +154,7 @@ http://39.130.215.166:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视直播",甘肃卫视
 http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视直播",陕西卫视
-http://119.167.231.119/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视直播",新疆卫视
 http://junlovefang.top/xjtv.php?id=1
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视直播",吉林卫视
@@ -162,11 +162,11 @@ http://stream4.jlntv.cn/test2/sd/live.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视直播",青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="卫视直播",厦门卫视
-http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/1.m3u8
+http://39.135.225.5:18890/PLTV/88888888/224/3221226781/1.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视直播",山西卫视
 http://124.165.212.56:1024/hls/051/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视直播",西藏卫视
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228345/42330007.smil/index.m3u8?fmt=ts2hls
+http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视直播",内蒙古卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229043/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视直播",宁夏卫视
@@ -1187,22 +1187,24 @@ http://junlovefang.top:80/123.php?id=51018
 http://junlovefang.top:80/123.php?id=51019
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",浣熊
 http://junlovefang.top:80/123.php?id=43114
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",DOX4K
+http://39.135.19.169:18890/PLTV/88888888/224/3221226019//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="影视专区",DOX院线
-http://junlovefang.top:80/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
+http://39.135.19.169:18890/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",DOX美剧
-http://junlovefang.top:80/gzyx.php?id=1c639fe68ed5de6804966813425bdccd
+http://39.135.19.169:18890/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="影视专区",DOX映画
-http://junlovefang.top:80/gzyx.php?id=e16878a022c216b17975299a9ac369dc
+http://39.135.19.169:18890/PLTV/88888888/224/3221226039//index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1969" tvg-name="DOX新知" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_xinzhi.png" group-title="影视专区",DOX新知
-http://junlovefang.top:80/gzyx.php?id=8df92ef18e714e80bc302723d5e933ee
+http://39.135.19.169:18890/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1970" tvg-name="DOX新艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_xinyi.png" group-title="影视专区",DOX新艺
-http://junlovefang.top:80/gzyx.php?id=3fec5428637fe3d00cea8deb981ca71c
+http://39.135.19.169:18890/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="影视专区",DOX雅趣
-http://junlovefang.top:80/gzyx.php?id=98a5538384f14ca487ca96786a441bbe
+http://39.135.19.169:18890/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1966" tvg-name="DOX英伦" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yinglun.png" group-title="影视专区",DOX英伦
-http://junlovefang.top:80/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad23
+http://39.135.19.169:18890/PLTV/88888888/224/3221226045/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="1967" tvg-name="DOX怡家" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dox_yijia.png" group-title="影视专区",DOX怡家
-http://junlovefang.top:80/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6cf
+http://39.135.19.169:18890/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",精彩影视
 http://junlovefang.top:80/gzyx.php?id=577ebc041cb0ca5c340429ea81391d5e
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",都市剧场
@@ -1358,15 +1360,9 @@ http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100144102/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",周星驰影院
 http://junlovefang.top:80/migu.php?id=623338112
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",周星驰
-http://bd.hls.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",周星驰
 http://106.13.168.120/huya/11342412
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",林正英
-http://bd.hls.huya.com/src/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",林正英
 http://106.13.168.120/huya/11342421
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",成龙
-http://bd.hls.huya.com/src/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1-imgplus_2000.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",成龙
 http://106.13.168.120/huya/11342386
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",成龙作品集
@@ -1374,11 +1370,7 @@ http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",成龙作品集
 http://junlovefang.top:80/migu.php?id=639528181
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",李连杰
-http://bd.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",李连杰
 http://106.13.168.120/huya/11342390
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",刘德华
-http://bd.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",刘德华
 http://106.13.168.120/huya/11342424
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",刘德华影院
@@ -1386,39 +1378,23 @@ http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354855/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",刘德华影院
 http://junlovefang.top:80/migu.php?id=659315648
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",吴京
-http://bd.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",吴京
 http://106.13.168.120/huya/11602045
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",吴京作品集
 http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180867/150/index.m3u8?&&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",吴京作品集
 http://junlovefang.top:80/migu.php?id=625681368
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",甄子丹
-http://bd.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",甄子丹
 http://106.13.168.120/huya/11352935
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",任达华
-http://bd.hls.huya.com/src/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",任达华
 http://106.13.168.120/huya/11352883
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",张家辉
-http://bd.hls.huya.com/src/1449698986-1449698986-6226409733914361856-2847687634-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",张家辉
 http://106.13.168.120/huya/11352916
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",周润发
-http://bd.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",周润发
 http://106.13.168.120/huya/11342387
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",沈腾
-http://bd.hls.huya.com/src/29141112-2689675756-11552069408864075776-3048959626-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",沈腾
 http://106.13.168.120/huya/11601968
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",洪金宝
-http://bd.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",洪金宝
 http://106.13.168.120/huya/11342427
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",徐峥
-http://bd.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",徐峥
 http://106.13.168.120/huya/11602043
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",杨幂影院
@@ -1426,13 +1402,9 @@ http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179384/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",杨幂影院
 http://junlovefang.top:80/migu.php?id=625542372
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",杨幂1
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",杨幂1
 http://106.13.168.120/huya/11602085
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",杨幂
 http://junlovefang.top:80/iqiyi.php?id=380717822
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",张学友
-http://bd.hls.huya.com/src/1423782077-1423782077-6115097457345953792-2847687610-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",张学友
 http://106.13.168.120/huya/11352906
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",郭富城影院
@@ -1440,19 +1412,13 @@ http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010220/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",郭富城影院
 http://junlovefang.top:80/migu.php?id=639528330
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",黄渤
-http://bd.hls.huya.com/src/1448737849-1448737849-6222281681932386304-2847687520-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",黄渤
 http://106.13.168.120/huya/11352876
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",古天乐
-http://bd.hls.huya.com/src/1081939992-1081939992-4646896881874501632-2164003440-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",古天乐
 http://106.13.168.120/huya/10871113
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",古天乐影院
 http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/150/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",古天乐影院
 http://junlovefang.top:80/migu.php?id=627198610
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",梁朝伟
-http://bd.hls.huya.com/src/1448686705-1448686705-6222062020124999680-3048991638-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",梁朝伟
 http://106.13.168.120/huya/11602046
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",刘亦菲影视展播
@@ -1468,15 +1434,9 @@ http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100170828/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",古力娜扎影视展播
 http://junlovefang.top:80/migu.php?id=625133682
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",霍建华
-http://bd.hls.huya.com/src/1524434083-1524434083-6547394531392749568-3048991622-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",霍建华
 http://106.13.168.120/huya/11602041
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",朱亚文
-http://183.214.134.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_zhuyawen_1080p_t10/c16_lb_zhuyawen_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",朱亚文
 http://junlovefang.top:80/iqiyi.php?id=380716822
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",唐嫣
-http://36.158.197.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_tangyan_1080p_t10/c16_lb_tangyan_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",唐嫣
 http://junlovefang.top:80/iqiyi.php?id=380718422
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",葛优作品集
@@ -1484,47 +1444,27 @@ http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354660/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",葛优作品集
 http://junlovefang.top:80/migu.php?id=659315456
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",刘涛
-http://bd.hls.huya.com/src/94525224-2579730250-11079857056251904000-3048959666-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",刘涛
 http://106.13.168.120/huya/11601979
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",刘涛作品集
 http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100178547/150/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",刘涛作品集
 http://junlovefang.top:80/migu.php?id=625514969
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",王凯
-http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_wangkai_1080p_t10/c16_lb_wangkai_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",王凯
 http://junlovefang.top:80/iqiyi.php?id=380718022
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",胡歌
-http://baiducdnct.inter.iqiyi.com/tslive/c15_lb_huge_1080p_t10/c15_lb_huge_1080p_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",胡歌
 http://junlovefang.top:80/iqiyi.php?id=380716422
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",靳东
-http://baiducdnct.inter.iqiyi.com/tslive/c16_lb_jindong_1080p_t10/c16_lb_jindong_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",靳东
 http://junlovefang.top:80/iqiyi.php?id=380718222
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",杨紫
-http://183.214.134.41/r/baiducdnct.inter.iqiyi.com/tslive/c18_lb_qinbaoerge_high_t10/c18_lb_qinbaoerge_high_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",杨紫
 http://junlovefang.top:80/iqiyi.php?id=380222522
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",张嘉译
-http://183.214.134.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_zhangjiayi_1080p_t10/c16_lb_zhangjiayi_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",张嘉译
 http://junlovefang.top:80/iqiyi.php?id=380666222
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",倪大红
-http://36.158.197.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_nidahong_high_t10/c20_lb_nidahong_high_t10.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",倪大红
 http://junlovefang.top:80/iqiyi.php?id=380718622
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",聂远
-http://183.214.134.41/r/baiducdnct.inter.iqiyi.com/tslive/c20_lb_nieyuan_high_t10/c20_lb_nieyuan_high_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",聂远
 http://junlovefang.top:80/iqiyi.php?id=401310122
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",赵丽颖
-http://183.214.134.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_zhaoliying_1080p_t10/c15_lb_zhaoliying_1080p_t10.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",赵丽颖
 http://junlovefang.top:80/iqiyi.php?id=380666422
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",张国荣
-http://bd.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",张国荣
 http://106.13.168.120/huya/11602034
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",张国荣影院
@@ -1532,11 +1472,7 @@ http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354727/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",张国荣影院
 http://junlovefang.top:80/migu.php?id=659315266
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",金庸合集
-http://bd.hls.huya.com/src/1423782037-1423782037-6115097285547261952-2847687530-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",金庸合集
 http://106.13.168.120/huya/11352878
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",怀念金庸
-http://bd.hls.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",怀念金庸
 http://106.13.168.120/huya/11352897
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",金庸频道
@@ -1544,15 +1480,9 @@ http://218.98.16.2:8080/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/15
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="明星轮播",金庸频道
 http://junlovefang.top:80/migu.php?id=625774640
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",沈腾贾玲黄渤综艺
-http://bd.hls.huya.com/src/30765679-2475713548-10633108722924126208-3048959604-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",沈腾贾玲黄渤综艺
 http://106.13.168.120/huya/11601961
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",奔跑吧兄弟
-https://al.hls.huya.com/src/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",奔跑吧兄弟
 http://106.13.168.120/huya/11601972
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",爱笑会议室
-http://bd.hls.huya.com/src/1449698763-1449698763-6226408776136654848-2847699120-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",爱笑会议室
 http://106.13.168.120/huya/11352945
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",王牌对王牌
@@ -1565,8 +1495,6 @@ http://junlovefang.top:80/egame.php?id=61018759
 https://1f97bd333ceef73bfdbd7e9987650b18.v.smtcdns.net/txpcdn.liveplay.egame.qq.com/live/3954_69385417.flv
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",聋小喜哥
 http://junlovefang.top:80/egame.php?id=69385417
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",相声小品
-http://bd.hls.huya.com/src/1250011-1250011-5368756364640256-2777038134-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",相声小品
 http://106.13.168.120/huya/11336593
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",极限挑战鸡丝唠嗑
@@ -1604,31 +1532,19 @@ http://tx2play1.douyucdn.cn/live/672240rCWviCVbA1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",无挑fighting
 http://junlovefang.top:80/douyu.php?id=672240
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",笑傲江湖
-http://bd.hls.huya.com/src/29359996-2689475864-11551210879261343744-2847699104-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",笑傲江湖
 http://106.13.168.120/huya/11352937
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",bilibili主播的直播间
 https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/217761/live_21888335_77424526.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",bilibili主播的直播间
 http://junlovefang.top:80/bilibili.php?id=22138153
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",中国达人秀
-http://bd.hls.huya.com/src/1448738198-1448738198-6222283180875972608-3048991640-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",中国达人秀
 http://106.13.168.120/huya/11602047
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",民间舞者跳舞笑喷了
-http://bd.hls.huya.com/src/94525224-2702006072-11605027712833421312-4580673800-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",民间舞者跳舞笑喷了
 http://106.13.168.120/huya/15978172
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",百里挑一
-http://bd.hls.huya.com/src/1449574865-1449574865-6225876638278615040-2847699130-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",百里挑一
 http://106.13.168.120/huya/11352947
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",街访Show
-http://bd.hls.huya.com/src/60637426-60637426-260435761583620096-2125253048-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",街访Show
 http://106.13.168.120/huya/10849208
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",野食小哥
-http://bd.hls.huya.com/src/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",野食小哥
 http://106.13.168.120/huya/yesman
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",每日免费带粉1小时
@@ -1648,15 +1564,9 @@ https://1f97bd333ceef73bfdbd7e9987650b18.v.smtcdns.net/txpcdn.liveplay.egame.qq.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",走进极限挑战的世界
 http://junlovefang.top:80/egame.php?id=73317037
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",今晚80后脱口秀
-http://bd.hls.huya.com/src/1423787862-1423787862-6115122303731761152-2847699180-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",今晚80后脱口秀
 http://106.13.168.120/huya/11352961
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",极限男人帮
-http://bd.hls.huya.com/src/1423782086-1423782086-6115097496000659456-2847687628-10057-A-0-1-imgplus.m3u8?wsTime&www.dszbdq.cn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",极限男人帮
 http://106.13.168.120/huya/11352914
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",笑傲帮笑傲江湖
-http://bd.hls.huya.com/src/1449380946-1449380946-6225043762515542016-2847687614-10057-A-0-1.m3u8?wsTime&www.dszbdq.cn
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",笑傲帮笑傲江湖
 http://106.13.168.120/huya/11352908
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",情感调解
@@ -1872,171 +1782,349 @@ https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/669073/live_39920521
 #EXTINF:-1 group-title="女团专区",前路思艾未来若芸的直播间
 http://diyp.top/bilibili.php?id=1520214
 #EXTINF:-1 group-title="女团专区",四点工会战求保护
-http://aldirect.hls.huya.com/src/2281843688-2281843688-9800444014544027648-4563810832-10057-A-0-1.m3u8?wsTime
-#EXTINF:-1 group-title="女团专区",四点工会战求保护
 http://junlovefang.top:80/huya.php?id=15827517&k=3
 #EXTINF:-1 group-title="女团专区",SNH48剧场公演
 http://junlovefang.top:80/migu.php?id=617432328
-#EXTINF:-1 group-title="优酷轮播",女团们来了 精彩看不停
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",邵氏电影
+http://junlovefang.top:80/youku.php?id=8022364
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",邵氏电影1
+http://junlovefang.top:80/youku.php?id=8031496
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",女团们来了 精彩看不停
 http://junlovefang.top:80/youku.php?id=8019196
-#EXTINF:-1 group-title="优酷轮播",王牌对王牌
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",女团
+http://junlovefang.top:80/youku.php?id=8034763
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",王牌对王牌
 http://junlovefang.top:80/youku.php?id=8079071
-#EXTINF:-1 group-title="优酷轮播",新相亲大会
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",新相亲大会
 http://junlovefang.top:80/youku.php?id=8078864
-#EXTINF:-1 group-title="优酷轮播",非你莫属
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",非你莫属
 http://junlovefang.top:80/youku.php?id=8019584
-#EXTINF:-1 group-title="优酷轮播",中国式相亲
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",中国式相亲
 http://junlovefang.top:80/youku.php?id=8023983
-#EXTINF:-1 group-title="优酷轮播",天生要完美
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",天生要完美
 http://junlovefang.top:80/youku.php?id=8023119
-#EXTINF:-1 group-title="优酷轮播",一站到底
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",一站到底
 http://junlovefang.top:80/youku.php?id=8019585
-#EXTINF:-1 group-title="优酷轮播",新相亲大会
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",新相亲大会
 http://junlovefang.top:80/youku.php?id=8078864
-#EXTINF:-1 group-title="优酷轮播",欢乐集结号
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",欢乐集结号
 http://junlovefang.top:80/youku.php?id=8022309
-#EXTINF:-1 group-title="优酷轮播",沈腾的喜剧人生爆笑来袭
-http://junlovefang.top:80/youku.php?id=8026514
-#EXTINF:-1 group-title="优酷轮播",刘德华靓仔影帝飙戏合集
-http://junlovefang.top:80/youku.php?id=8018618
-#EXTINF:-1 group-title="优酷轮播",郑秀文经典电影
-http://junlovefang.top:80/youku.php?id=8018673
-#EXTINF:-1 group-title="优酷轮播",张家辉烧脑警匪电影
-http://junlovefang.top:80/youku.php?id=8027872
-#EXTINF:-1 group-title="优酷轮播",张国荣超级好看妖精电影
-http://junlovefang.top:80/youku.php?id=8019325
-#EXTINF:-1 group-title="优酷轮播",成龙经典电影高分动作大片
-http://junlovefang.top:80/youku.php?id=8021903
-#EXTINF:-1 group-title="优酷轮播",刘德华劳模天王演技大赏
-http://junlovefang.top:80/youku.php?id=8021902
-#EXTINF:-1 group-title="优酷轮播",任达华演绎经典大片
-http://junlovefang.top:80/youku.php?id=8026523
-#EXTINF:-1 group-title="优酷轮播",郭富城颜值巅峰之作
-http://junlovefang.top:80/youku.php?id=8027876
-#EXTINF:-1 group-title="优酷轮播",梁家辉经典电影大赏
-http://junlovefang.top:80/youku.php?id=8027873
-#EXTINF:-1 group-title="优酷轮播",张学友搞笑电影合集
-http://junlovefang.top:80/youku.php?id=8027929
-#EXTINF:-1 group-title="优酷轮播",黎明演绎甜美爱情电影
-http://junlovefang.top:80/youku.php?id=8028239
-#EXTINF:-1 group-title="优酷轮播",谢霆锋百看不厌的香港阿sir
-http://junlovefang.top:80/youku.php?id=8020518
-#EXTINF:-1 group-title="优酷轮播",黄渤经典电影播不停
-http://junlovefang.top:80/youku.php?id=8021910
-#EXTINF:-1 group-title="优酷轮播",周润发不得不看的硬汉电影
-http://junlovefang.top:80/youku.php?id=8021907
-#EXTINF:-1 group-title="优酷轮播",周星驰喜剧之王爆笑大片
-http://junlovefang.top:80/youku.php?id=8021901
-#EXTINF:-1 group-title="优酷轮播",洪金宝动作大片
-http://junlovefang.top:80/youku.php?id=8021909
-#EXTINF:-1 group-title="优酷轮播",吴彦祖颜值与演技大赏
-http://junlovefang.top:80/youku.php?id=8020520
-#EXTINF:-1 group-title="优酷轮播",金庸武侠电影合集
-http://junlovefang.top:80/youku.php?id=8026519
-#EXTINF:-1 group-title="优酷轮播",古天乐梁朝伟经典港片
-http://junlovefang.top:80/youku.php?id=8019006
-#EXTINF:-1 group-title="优酷轮播",李连杰打过瘾动作猛片大赏
-http://junlovefang.top:80/youku.php?id=8021912
-#EXTINF:-1 group-title="优酷轮播",文章马伊琍实力派演员作品回顾
-http://junlovefang.top:80/youku.php?id=8021367
-#EXTINF:-1 group-title="优酷轮播",周润发缪骞人华丽凄美爱情
-http://junlovefang.top:80/youku.php?id=8019007
-#EXTINF:-1 group-title="优酷轮播",郑中基经典爆笑港片
-http://junlovefang.top:80/youku.php?id=8027935
-#EXTINF:-1 group-title="优酷轮播",宋慧乔宋仲基经典作品回顾
-http://junlovefang.top:80/youku.php?id=8020223
-#EXTINF:-1 group-title="优酷轮播",女神林志玲结婚经典作品回顾
-http://junlovefang.top:80/youku.php?id=8019694
-#EXTINF:-1 group-title="优酷轮播",奥斯卡经典电影轮播不停
-http://junlovefang.top:80/youku.php?id=8018655
-#EXTINF:-1 group-title="优酷轮播",香港经典贺岁喜剧电影
-http://junlovefang.top:80/youku.php?id=8019324
-#EXTINF:-1 group-title="优酷轮播",经典校园青春电影
-http://junlovefang.top:80/youku.php?id=8018659
-#EXTINF:-1 group-title="优酷轮播",小心！盗墓技术哪家强
-http://junlovefang.top:80/youku.php?id=8026522
-#EXTINF:-1 group-title="优酷轮播",超级快递港囧喜剧片爆笑之旅
-http://junlovefang.top:80/youku.php?id=8019678
-#EXTINF:-1 group-title="优酷轮播",末世硬核视觉大片震撼来袭
-http://junlovefang.top:80/youku.php?id=8019690
-#EXTINF:-1 group-title="优酷轮播",电影粤语综艺24小时播不停
-http://junlovefang.top:80/youku.php?id=8019450
-#EXTINF:-1 group-title="优酷轮播",末世硬核视觉大片震撼来袭
-http://junlovefang.top:80/youku.php?id=8019690
-#EXTINF:-1 group-title="优酷轮播",调查惊魂反腐大片
-http://junlovefang.top:80/youku.php?id=8019311
-#EXTINF:-1 group-title="优酷轮播",军迷专属 燃炸荷尔蒙
-http://junlovefang.top:80/youku.php?id=8019515
-#EXTINF:-1 group-title="优酷轮播",影卧虎藏龙武侠片的侠客梦
-http://junlovefang.top:80/youku.php?id=8019692
-#EXTINF:-1 group-title="优酷轮播",影卧虎藏龙武侠片的侠客梦
-http://junlovefang.top:80/youku.php?id=8019692
-#EXTINF:-1 group-title="优酷轮播",酷影厅—少女厅视频
-http://junlovefang.top:80/youku.php?id=8032840
-#EXTINF:-1 group-title="优酷轮播",超硬核！为\"阿中哥哥\"打CALL
-http://junlovefang.top:80/youku.php?id=8022038
-#EXTINF:-1 group-title="优酷轮播",警匪电影谍战风云黑白博弈
-http://junlovefang.top:80/youku.php?id=8019691
-#EXTINF:-1 group-title="优酷轮播",欧美英雄电影惊爆眼球高能不断
-http://junlovefang.top:80/youku.php?id=8026516
-#EXTINF:-1 group-title="优酷轮播",流浪地球星际穿越科幻大片太空探险
-http://junlovefang.top:80/youku.php?id=8019682
-#EXTINF:-1 group-title="优酷轮播",时代理想 热血铸造赤子之心
-http://junlovefang.top:80/youku.php?id=8023134
-#EXTINF:-1 group-title="优酷轮播",酷影厅—硬汉厅视频
-http://junlovefang.top:80/youku.php?id=8032842
-#EXTINF:-1 group-title="优酷轮播",第五人格超强技巧大全
-http://junlovefang.top:80/youku.php?id=8019203
-#EXTINF:-1 group-title="优酷轮播",神探夏洛克悬疑片智商碾压高能反转
-http://junlovefang.top:80/youku.php?id=8019693
-#EXTINF:-1 group-title="优酷轮播",反贪风暴战狼动作片热血巨制
-http://junlovefang.top:80/youku.php?id=8019679
-#EXTINF:-1 group-title="优酷轮播",夏日里罗曼蒂克的时代电影
-http://junlovefang.top:80/youku.php?id=8019680
-#EXTINF:-1 group-title="优酷轮播",共赏爱国影片 讴歌时代英雄
-http://junlovefang.top:80/youku.php?id=8019464
-#EXTINF:-1 group-title="优酷轮播",重温峥嵘岁月 感受爱国情怀
-http://junlovefang.top:80/youku.php?id=8019463
-#EXTINF:-1 group-title="优酷轮播",如果可以这样爱
-http://junlovefang.top:80/youku.php?id=8019192
-#EXTINF:-1 group-title="优酷轮播",谎言的诱惑
-http://junlovefang.top:80/youku.php?id=8034734
-#EXTINF:-1 group-title="优酷轮播",温暖的弦:张翰张钧甯齁甜爱恋
-http://junlovefang.top:80/youku.php?id=8034728
-#EXTINF:-1 group-title="优酷轮播",择天记
-http://junlovefang.top:80/youku.php?id=8019978
-#EXTINF:-1 group-title="优酷轮播",推手
-http://junlovefang.top:80/youku.php?id=8019092
-#EXTINF:-1 group-title="优酷轮播",滚滚红尘
-http://junlovefang.top:80/youku.php?id=8019956
-#EXTINF:-1 group-title="优酷轮播",水浒传
-http://junlovefang.top:80/youku.php?id=8034745
-#EXTINF:-1 group-title="优酷轮播",情满四合院
-http://junlovefang.top:80/youku.php?id=8034725
-#EXTINF:-1 group-title="优酷轮播",欢乐颂
-http://junlovefang.top:80/youku.php?id=8019096
-#EXTINF:-1 group-title="优酷轮播",筑梦情缘
-http://junlovefang.top:80/youku.php?id=8019190
-#EXTINF:-1 group-title="优酷轮播",我们的八十年代
-http://junlovefang.top:80/youku.php?id=8023159
-#EXTINF:-1 group-title="优酷轮播",我的团长我的团
-http://junlovefang.top:80/youku.php?id=8023122
-#EXTINF:-1 group-title="优酷轮播",楚乔传
-http://junlovefang.top:80/youku.php?id=8019958
-#EXTINF:-1 group-title="优酷轮播",风云2
-http://junlovefang.top:80/youku.php?id=8019979
-#EXTINF:-1 group-title="优酷轮播",搞笑一家人
-http://junlovefang.top:80/youku.php?id=8019637
-#EXTINF:-1 group-title="优酷轮播",封神榜
-http://junlovefang.top:80/youku.php?id=8034750
-#EXTINF:-1 group-title="优酷轮播",德云社
-http://junlovefang.top:80/youku.php?id=8045775
-#EXTINF:-1 group-title="优酷轮播",笑喷！搞笑视频大全
-http://junlovefang.top:80/youku.php?id=8019254
-#EXTINF:-1 group-title="优酷轮播",图鉴中国:共话新中国的伟大变迁
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",歌曲
+http://junlovefang.top:80/youku.php?id=8034767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",小品
+http://junlovefang.top:80/youku.php?id=8034798
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",春晚小品
+http://junlovefang.top:80/youku.php?id=8034796
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",娱乐新闻
+http://junlovefang.top:80/youku.php?id=8034887
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",谈心社2020胡一天用T恤追女生
+http://junlovefang.top:80/youku.php?id=8079067
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",春节联欢晚会
+http://junlovefang.top:80/youku.php?id=8029490
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",纪录中国
+http://junlovefang.top:80/youku.php?id=8023123
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",纪录中国1
+http://junlovefang.top:80/youku.php?id=8023164
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",纪录片中国
+http://junlovefang.top:80/youku.php?id=8023165
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",图鉴中国
 http://junlovefang.top:80/youku.php?id=8023158
-#EXTINF:-1 group-title="优酷轮播",最神奇的大自然，看完震撼心灵
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",纪录片
+http://junlovefang.top:80/youku.php?id=8023132
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",纪录片1
+http://junlovefang.top:80/youku.php?id=8023131
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",搞笑段子
+http://junlovefang.top:80/youku.php?id=8019254
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",军武
+http://junlovefang.top:80/youku.php?id=8019515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",致富
 http://junlovefang.top:80/youku.php?id=8019517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",明日之后明星表演赛
+http://junlovefang.top:80/youku.php?id=8082996
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",沈腾的喜剧人生爆笑来袭
+http://junlovefang.top:80/youku.php?id=8026514
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",刘德华靓仔影帝飙戏合集
+http://junlovefang.top:80/youku.php?id=8018618
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",郑秀文经典电影
+http://junlovefang.top:80/youku.php?id=8018673
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",张家辉烧脑警匪电影
+http://junlovefang.top:80/youku.php?id=8027872
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",张国荣超级好看妖精电影
+http://junlovefang.top:80/youku.php?id=8019325
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",成龙经典电影高分动作大片
+http://junlovefang.top:80/youku.php?id=8021903
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",刘德华劳模天王演技大赏
+http://junlovefang.top:80/youku.php?id=8021902
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",任达华演绎经典大片
+http://junlovefang.top:80/youku.php?id=8026523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",郭富城颜值巅峰之作
+http://junlovefang.top:80/youku.php?id=8027876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",梁家辉经典电影大赏
+http://junlovefang.top:80/youku.php?id=8027873
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",张学友搞笑电影合集
+http://junlovefang.top:80/youku.php?id=8027929
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",黎明演绎甜美爱情电影
+http://junlovefang.top:80/youku.php?id=8028239
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",谢霆锋百看不厌的香港阿sir
+http://junlovefang.top:80/youku.php?id=8020518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",黄渤经典电影播不停
+http://junlovefang.top:80/youku.php?id=8021910
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",周润发不得不看的硬汉电影
+http://junlovefang.top:80/youku.php?id=8021907
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",周星驰喜剧之王爆笑大片
+http://junlovefang.top:80/youku.php?id=8021901
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",洪金宝动作大片
+http://junlovefang.top:80/youku.php?id=8021909
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",吴彦祖颜值与演技大赏
+http://junlovefang.top:80/youku.php?id=8020520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",金庸武侠电影合集
+http://junlovefang.top:80/youku.php?id=8026519
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",古天乐梁朝伟经典港片
+http://junlovefang.top:80/youku.php?id=8019006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",李连杰打过瘾动作猛片大赏
+http://junlovefang.top:80/youku.php?id=8021912
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",文章马伊琍实力派演员作品回顾
+http://junlovefang.top:80/youku.php?id=8021367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",周润发缪骞人华丽凄美爱情
+http://junlovefang.top:80/youku.php?id=8019007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",郑中基经典爆笑港片
+http://junlovefang.top:80/youku.php?id=8027935
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",宋慧乔宋仲基经典作品回顾
+http://junlovefang.top:80/youku.php?id=8020223
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",女神林志玲旅途的花样结婚经典作品回顾
+http://junlovefang.top:80/youku.php?id=8019694
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",甄子丹
+http://junlovefang.top:80/youku.php?id=8020382
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",葛优
+http://junlovefang.top:80/youku.php?id=8034804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",徐峥
+http://junlovefang.top:80/youku.php?id=8034807
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影导视
+http://junlovefang.top:80/youku.php?id=8021972
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影1
+http://junlovefang.top:80/youku.php?id=8022366
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影2
+http://junlovefang.top:80/youku.php?id=8022040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影3
+http://junlovefang.top:80/youku.php?id=8022038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影4
+http://junlovefang.top:80/youku.php?id=8020381
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影5
+http://junlovefang.top:80/youku.php?id=8020331
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影6
+http://junlovefang.top:80/youku.php?id=8018618
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影7
+http://junlovefang.top:80/youku.php?id=8031710
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影8
+http://junlovefang.top:80/youku.php?id=8031706
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影9
+http://junlovefang.top:80/youku.php?id=8031704
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影10
+http://junlovefang.top:80/youku.php?id=8031620
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影11
+http://junlovefang.top:80/youku.php?id=8031623
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影12
+http://junlovefang.top:80/youku.php?id=8031622
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影13
+http://junlovefang.top:80/youku.php?id=8031592
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影14
+http://junlovefang.top:80/youku.php?id=8031589
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影15
+http://junlovefang.top:80/youku.php?id=8031587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影16
+http://junlovefang.top:80/youku.php?id=8031580
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影17
+http://junlovefang.top:80/youku.php?id=8031574
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影18
+http://junlovefang.top:80/youku.php?id=8028239
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影19
+http://junlovefang.top:80/youku.php?id=8027873
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影20
+http://junlovefang.top:80/youku.php?id=8026516
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影21
+http://junlovefang.top:80/youku.php?id=8026514
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影22
+http://junlovefang.top:80/youku.php?id=8020409
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影23
+http://junlovefang.top:80/youku.php?id=8020410
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影24
+http://junlovefang.top:80/youku.php?id=8020408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影25
+http://junlovefang.top:80/youku.php?id=8035190
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",奥斯卡经典电影轮播不停
+http://junlovefang.top:80/youku.php?id=8018655
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",香港经典贺岁喜剧电影
+http://junlovefang.top:80/youku.php?id=8019324
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",经典校园青春电影
+http://junlovefang.top:80/youku.php?id=8018659
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",小心!盗墓技术哪家强
+http://junlovefang.top:80/youku.php?id=8026522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",超级快递港囧喜剧片爆笑之旅
+http://junlovefang.top:80/youku.php?id=8019678
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",末世硬核视觉大片震撼来袭
+http://junlovefang.top:80/youku.php?id=8019690
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电影粤语综艺24小时播不停
+http://junlovefang.top:80/youku.php?id=8019450
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",末世硬核视觉大片震撼来袭
+http://junlovefang.top:80/youku.php?id=8019690
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",调查惊魂反腐大片
+http://junlovefang.top:80/youku.php?id=8019311
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",军迷专属 燃炸荷尔蒙
+http://junlovefang.top:80/youku.php?id=8019515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",影卧虎藏龙武侠片的侠客梦
+http://junlovefang.top:80/youku.php?id=8019692
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",影卧虎藏龙武侠片的侠客梦
+http://junlovefang.top:80/youku.php?id=8019692
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",酷影厅—少女厅视频
+http://junlovefang.top:80/youku.php?id=8032840
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",超硬核!为"阿中哥哥"打CALL
+http://junlovefang.top:80/youku.php?id=8022038
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",警匪电影谍战风云黑白博弈
+http://junlovefang.top:80/youku.php?id=8019691
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",欧美英雄电影惊爆眼球高能不断
+http://junlovefang.top:80/youku.php?id=8026516
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",流浪地球星际穿越科幻大片太空探险
+http://junlovefang.top:80/youku.php?id=8019682
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",时代理想 热血铸造赤子之心
+http://junlovefang.top:80/youku.php?id=8023134
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",酷影厅—硬汉厅视频
+http://junlovefang.top:80/youku.php?id=8032842
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",第五人格超强技巧大全
+http://junlovefang.top:80/youku.php?id=8019203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",神探夏洛克悬疑片智商碾压高能反转
+http://junlovefang.top:80/youku.php?id=8019693
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",反贪风暴战狼动作片热血巨制
+http://junlovefang.top:80/youku.php?id=8019679
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",夏日里罗曼蒂克的时代电影
+http://junlovefang.top:80/youku.php?id=8019680
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",共赏爱国影片 讴歌时代英雄
+http://junlovefang.top:80/youku.php?id=8019464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",重温峥嵘岁月 感受爱国情怀
+http://junlovefang.top:80/youku.php?id=8019463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",爱国电影
+http://junlovefang.top:80/youku.php?id=8023167
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",如果可以这样爱
+http://junlovefang.top:80/youku.php?id=8019192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",谎言的诱惑
+http://junlovefang.top:80/youku.php?id=8034734
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",温暖的弦张翰张钧甯齁甜爱恋
+http://junlovefang.top:80/youku.php?id=8034728
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",择天记
+http://junlovefang.top:80/youku.php?id=8019978
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",推手
+http://junlovefang.top:80/youku.php?id=8019092
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",滚滚红尘
+http://junlovefang.top:80/youku.php?id=8019956
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",水浒传
+http://junlovefang.top:80/youku.php?id=8034745
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",情满四合院
+http://junlovefang.top:80/youku.php?id=8034725
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",刘涛王凯职场进阶欢乐颂
+http://junlovefang.top:80/youku.php?id=8019096
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",筑梦情缘
+http://junlovefang.top:80/youku.php?id=8019190
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",我们的八十年代
+http://junlovefang.top:80/youku.php?id=8023159
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",我的团长我的团
+http://junlovefang.top:80/youku.php?id=8023122
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",楚乔传
+http://junlovefang.top:80/youku.php?id=8019958
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",风云2赵文卓何润东演绎侠骨柔情
+http://junlovefang.top:80/youku.php?id=8019979
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",搞笑一家人
+http://junlovefang.top:80/youku.php?id=8019637
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",封神榜
+http://junlovefang.top:80/youku.php?id=8034750
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电视
+http://junlovefang.top:80/youku.php?id=8031576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",电视1
+http://junlovefang.top:80/youku.php?id=8031569
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",德云社
+http://junlovefang.top:80/youku.php?id=8045775
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",酷影厅-亲子厅视频
+http://junlovefang.top:80/youku.php?id=8032841
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",笑喷!搞笑视频大全
+http://junlovefang.top:80/youku.php?id=8019254
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",图鉴中国共话新中国的伟大变迁
+http://junlovefang.top:80/youku.php?id=8023158
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",最神奇的大自然看完震撼心灵
+http://junlovefang.top:80/youku.php?id=8019517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",篮球比赛
+http://junlovefang.top:80/youku.php?id=8034552
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",篮球比赛1
+http://junlovefang.top:80/youku.php?id=8034555
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",篮球比赛2
+http://junlovefang.top:80/youku.php?id=8034557
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",篮球比赛3
+http://junlovefang.top:80/youku.php?id=8034556
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",宝宝巴士启蒙音乐剧
+http://junlovefang.top:80/youku.php?id=8035320
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",宝宝巴士美食制作宝典
+http://junlovefang.top:80/youku.php?id=8019315
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",汪汪队立大功 和救援狗狗一起行动
+http://junlovefang.top:80/youku.php?id=8022353
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",超级宝贝JOJO
+http://junlovefang.top:80/youku.php?id=8035321
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",小猪佩奇
+http://junlovefang.top:80/youku.php?id=8019235
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",火影忍者
+http://junlovefang.top:80/youku.php?id=8022356
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",杰力豆
+http://junlovefang.top:80/youku.php?id=8022357
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",海底小纵队
+http://junlovefang.top:80/youku.php?id=8019248
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",螺丝钉
+http://junlovefang.top:80/youku.php?id=8035322
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",螺丝钉1
+http://junlovefang.top:80/youku.php?id=8035318
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",小伶玩具
+http://junlovefang.top:80/youku.php?id=8022358
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",平博士密码
+http://junlovefang.top:80/youku.php?id=8035323
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",平博士密码1
+http://junlovefang.top:80/youku.php?id=8035319
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",动画1
+http://junlovefang.top:80/youku.php?id=8021649
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",动画2
+http://junlovefang.top:80/youku.php?id=8031577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",动画3
+http://junlovefang.top:80/youku.php?id=8019685
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",大吉大利今晚吃鸡
+http://junlovefang.top:80/youku.php?id=8019195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",王者荣耀全英雄攻略教学
+http://junlovefang.top:80/youku.php?id=8019886
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",游戏绝地求生
+http://junlovefang.top:80/youku.php?id=8019881
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",和平精英
+http://junlovefang.top:80/youku.php?id=8039997
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",老徐的吃鸡秘籍
+http://junlovefang.top:80/youku.php?id=8019195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",绝地求生好汉杯
+http://junlovefang.top:80/youku.php?id=8082994
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",魔兽争霸3大师邀请赛
+http://junlovefang.top:80/youku.php?id=8081118
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",第五人格超强技巧大全
+http://junlovefang.top:80/youku.php?id=8019203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",阴阳师春和演武大会
+http://junlovefang.top:80/youku.php?id=8081116
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",猫和老鼠精英邀请赛
+http://junlovefang.top:80/youku.php?id=8082995
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",第五人格赏金大师赛
+http://junlovefang.top:80/youku.php?id=8082992
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",非人学园QwQ杯赛S5
+http://junlovefang.top:80/youku.php?id=8081115
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",荒野行动巅峰战队赛
+http://junlovefang.top:80/youku.php?id=8082993
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",游戏直播
+http://junlovefang.top:80/youku.php?id=8019203
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",健康中国
+http://junlovefang.top:80/youku.php?id=8035189
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",健康中国1
+http://junlovefang.top:80/youku.php?id=8035188
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",健康中国2
+http://junlovefang.top:80/youku.php?id=8035192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="优酷轮播",健康中国3
+http://junlovefang.top:80/youku.php?id=8035193
 #EXTINF:-1 group-title="爱奇艺轮播",杨幂
 http://junlovefang.top:80/iqiyi.php?id=380717822
 #EXTINF:-1 group-title="爱奇艺轮播",聂远
