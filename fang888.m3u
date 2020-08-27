@@ -68,27 +68,27 @@ http://39.135.19.166:18890/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="央视直播",风云足球
 http://39.135.19.166:18890/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视直播",CCTV电视指南
-http://39.135.19.139:18890/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="央视直播",CCTV风云剧场
-http://39.135.19.139:18890/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="央视直播",CCTV高尔夫网球
-http://39.135.19.139:18890/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="央视直播",CCTV怀旧剧场
-http://39.135.19.139:18890/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="央视直播",CCTV老故事
-http://39.135.19.139:18890/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6583" tvg-name="中学生" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVzhongxuesheng.png" group-title="央视直播",CCTV中学生
-http://39.135.19.139:18890/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="6592" tvg-name="新科动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVxinke.png" group-title="央视直播",CCTV新科动漫
-http://39.135.19.139:18890/PLTV/88888888/224/3221225678/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225678/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视直播",CCTV央视文化精品
-http://39.135.19.139:18890/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视直播",CGTN西语
-http://39.135.19.139:18890/PLTV/88888888/224/3221225666/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225666/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视直播",CGTN阿语
-http://39.135.19.139:18890/PLTV/88888888/224/3221225669/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225669/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视直播",CGTN俄语
-http://39.135.19.139:18890/PLTV/88888888/224/3221225667/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225667/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视直播",CCTV-4K
 http://junlovefang.top:80/yfy.php?id=51021
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="央视直播",4K超高清电影
@@ -144,7 +144,7 @@ http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/ysp/2000294203.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视直播",四川卫视
 http://39.135.225.5:18890/PLTV/88888888/224/3221227006/1.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视直播",河北卫视
-http://39.135.19.139:18890/PLTV/88888888/224/3221226058/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221226058/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视直播",河南卫视
 http://58.251.112.67/tlivecloud-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视直播",海南卫视
@@ -1286,27 +1286,27 @@ http://live1.nty.tv189.com/tm-cridyty-800k.m3u8?sign=447e08a3c96ee3dc63749e073ac
 #EXTINF:-1 tvg-id="6601" tvg-name="DOXTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOXTV.jpg" group-title="影视专区",DOXTV
 http://junlovefang.top:80/yfy.php?id=22023
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV经典剧场
-http://39.135.19.139:18890/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225782/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV谍战剧场
-http://39.135.19.139:18890/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225784/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV海外佳片
-http://39.135.19.139:18890/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225786/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV华语影院
-http://39.135.19.139:18890/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225787/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV都市剧场
-http://39.135.19.139:18890/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221225783/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",G-TV热门综艺
-http://39.135.19.139:18890/PLTV/88888888/224/3221226004/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221226004/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",无台标电影1
-http://39.135.19.139:18890/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221226013/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",无台标电影2
-http://39.135.19.139:18890/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221226020/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",无台标电影3
-http://39.135.19.139:18890/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221226039/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",无台标电视剧1
-http://39.135.19.139:18890/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",无台标电视剧2
-http://39.135.19.139:18890/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",海看大片蓝光
 http://120.221.5.113:8089/PLTV/88888888/224/3221225632/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="影视专区",海看大片蓝光
@@ -1506,7 +1506,7 @@ https://cn-hbyc2-dx-live-05.live-play.acgvideo.com/live-bvc/327835/live_45235255
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",极限男人帮1
 http://junlovefang.top:80/bilibili.php?id=2493911
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",湖南综艺
-http://39.135.19.139:18890/PLTV/88888888/224/3221226004/1/index.m3u8?fmt=ts2hls
+http://39.135.19.165:18890/PLTV/88888888/224/3221226004/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",R点播模式24H
 http://tx2play1.douyucdn.cn/live/131977rAoHdf1WeG.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="综艺频道",R点播模式24H
