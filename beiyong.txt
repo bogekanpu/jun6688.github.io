@@ -556,6 +556,564 @@ DOX4K,http://junlovefang.top:80/gudou.php?id=dox4k_16000
 卡酷动画,http://junlovefang.top:80/gudou.php?id=kakushaoer_1500
 
 
+北京移动,#genre#
+
+CCTV-1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226346/1.m3u8
+CCTV-1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8
+CCTV-1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226431/1.m3u8
+CCTV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226432/1.m3u8
+CCTV-17,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8
+CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226443/1.m3u8
+CCTV-15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226444/1.m3u8
+CCTV-14,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226445/1.m3u8
+CCTV-13,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226446/1.m3u8
+CCTV-12,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226447/1.m3u8
+CCTV-11,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8
+CCTV-10,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226449/1.m3u8
+CCTV-9,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226450/1.m3u8
+CCTV-8,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8
+CCTV-7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226452/1.m3u8
+CCTV-6,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8
+CCTV-5,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8
+CCTV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226455/1.m3u8
+CCTV-3,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8
+CCTV-2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8
+CCTV-5+ HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8
+CCTV-17 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226459/1.m3u8
+CCTV-15 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226460/1.m3u8
+CCTV-14 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226461/1.m3u8
+CCTV-12 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
+CCTV-11 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
+CCTV-10 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226464/1.m3u8
+CCTV-9 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
+CCTV-7 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226467/1.m3u8
+CCTV-6 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8
+CCTV-5 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8
+CCTV-4 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8
+CCTV-3 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8
+CCTV-2 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226472/1.m3u8
+CCTV-8 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8
+CCTV-2 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226371/1.m3u8
+CCTV-13 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/1.m3u8
+CCTV-5 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226340/1.m3u8
+CCTV-5+ HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226349/1.m3u8
+CETV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
+CCTV-5+ HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226225/1.m3u8
+CCTV-1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8
+CCTV-10 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226227/1.m3u8
+CCTV-12 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8
+CCTV-14 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8
+CCTV-2 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
+CCTV-5 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226256/1.m3u8
+CCTV-15 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8
+CCTV-11 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8
+CCTV-4 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8
+CCTV-5 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226257/1.m3u8
+CCTV-5 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226258/1.m3u8
+CCTV-5 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226259/1.m3u8
+CCTV-5 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226260/1.m3u8
+CCTV-5 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226261/1.m3u8
+CCTV-1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226154/1.m3u8
+CCTV-1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226155/1.m3u8
+CCTV-4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226156/1.m3u8
+CCTV-2,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225934/1.m3u8
+CCTV-5+ HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225938/1.m3u8
+CCTV-15,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225940/1.m3u8
+CCTV-7 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
+CCTV-9 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/1.m3u8
+CCTV-7,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225863/1.m3u8
+CCTV-9 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225865/1.m3u8
+CGTN DOCUMENTRAY,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225866/1.m3u8
+CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225867/1.m3u8
+CCTV-10,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225868/1.m3u8
+CCTV-11,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225869/1.m3u8
+CCTV-4 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226314/1.m3u8
+CCTV-11 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226315/1.m3u8
+CCTV-13 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8
+CCTV-15 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226317/1.m3u8
+CCTV-17 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8
+CCTV-12,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225870/1.m3u8
+CCTV-13 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226159/1.m3u8
+CCTV-14 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225928/1.m3u8
+CCTV-14,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225872/1.m3u8
+安徽卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225873/1.m3u8
+东南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225876/1.m3u8
+甘肃卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/1.m3u8
+广东卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225878/1.m3u8
+广西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225879/1.m3u8
+贵州卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225880/1.m3u8
+河北卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225881/1.m3u8
+河南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225882/1.m3u8
+黑龙江卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225883/1.m3u8
+湖北卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225884/1.m3u8
+吉林卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225886/1.m3u8
+江苏卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225887/1.m3u8
+江西卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225888/1.m3u8
+辽宁卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225889/1.m3u8
+海南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225890/1.m3u8
+内蒙古卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
+宁夏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/1.m3u8
+青海卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/1.m3u8
+山东卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225894/1.m3u8
+山西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/1.m3u8
+陕西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+深圳卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225897/1.m3u8
+四川卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225898/1.m3u8
+天津卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225899/1.m3u8
+西藏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+新疆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
+云南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/1.m3u8
+浙江卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225903/1.m3u8
+重庆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225904/1.m3u8
+CETV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225905/1.m3u8
+金鹰卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225906/1.m3u8
+卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225907/1.m3u8
+山东教育卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225908/1.m3u8
+哈哈炫动,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225909/1.m3u8
+优漫卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225910/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225912/1.m3u8
+NEWTV-爱情喜剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225913/1.m3u8
+黑莓动画 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225914/1.m3u8
+NEWTV-动作电影 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225915/1.m3u8
+NEWTV-古装剧场 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225916/1.m3u8
+影剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225917/1.m3u8
+NEWTV-家庭剧场 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225918/1.m3u8
+NEWTV-超级电视剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225864/1.m3u8
+NEWTV-怡伴健康 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225919/1.m3u8
+NEWTV-金牌综艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225920/1.m3u8
+NEWTV-惊悚悬疑 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225921/1.m3u8
+NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225922/1.m3u8
+NEWTV-军旅剧场 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225923/1.m3u8
+NEWTV-精品纪录 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225924/1.m3u8
+NEWTV-精品大剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225925/1.m3u8
+NEWTV-军事评论 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225926/1.m3u8
+黑莓电影 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
+影剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225929/1.m3u8
+NEWTV-农业致富 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225930/1.m3u8
+黑莓电竞 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225931/1.m3u8
+凤凰中文 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
+凤凰中文 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
+凤凰资讯 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
+影剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225951/1.m3u8
+NEWTV-潮妈辣婆 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225957/1.m3u8
+NEWTV-超级综艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226127/1.m3u8
+NEWTV-超级电影 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226133/1.m3u8
+NEWTV-超级体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226157/1.m3u8
+NEWTV-超级体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226158/1.m3u8
+北京卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226160/1.m3u8
+东方卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226161/1.m3u8
+湖南卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226162/1.m3u8
+NEWTV-武博世界 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226171/1.m3u8
+安徽卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/1.m3u8
+北京卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
+NEWTV-超级综艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
+NEWTV-超级体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+NEWTV-超级电影 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+东方卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8
+广东卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/1.m3u8
+黑龙江卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
+湖北卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
+湖南卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8
+江苏卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8
+江西卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8
+山东卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8
+深圳卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/1.m3u8
+天津卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/1.m3u8
+浙江卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/1.m3u8
+NEWTV-炫舞未来 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226248/1.m3u8
+黑莓电竞 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226250/1.m3u8
+NEWTV-超级电视剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226253/1.m3u8
+黑莓电竞 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
+NEWTV-潮妈辣婆 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226286/1.m3u8
+NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226287/1.m3u8
+NEWTV-动作电影 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226288/1.m3u8
+黑莓动画 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226289/1.m3u8
+NEWTV-家庭剧场 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226290/1.m3u8
+NEWTV-精品大剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226291/1.m3u8
+黑莓电影 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226292/1.m3u8
+NEWTV-精品纪录 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226293/1.m3u8
+NEWTV-惊悚悬疑 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226294/1.m3u8
+影剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226295/1.m3u8
+NEWTV-金牌综艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226296/1.m3u8
+NEWTV-武博世界 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226297/1.m3u8
+影剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226298/1.m3u8
+NEWTV-爱情喜剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226299/1.m3u8
+NEWTV-古装剧场 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226300/1.m3u8
+NEWTV-军旅剧场 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226301/1.m3u8
+影剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226302/1.m3u8
+NEWTV-军事评论 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226303/1.m3u8
+NEWTV-农业致富 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226304/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226305/1.m3u8
+NEWTV-怡伴健康 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226306/1.m3u8
+黑莓电竞 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226307/1.m3u8
+山东卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226308/1.m3u8
+湖北卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226310/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226311/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226312/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226313/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226319/1.m3u8
+NEWTV-武博世界 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226320/1.m3u8
+影剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226321/1.m3u8
+NEWTV-爱情喜剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+NEWTV-古装剧场 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226323/1.m3u8
+NEWTV-军旅剧场 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226324/1.m3u8
+影剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226325/1.m3u8
+NEWTV-军事评论 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226326/1.m3u8
+NEWTV-怡伴健康 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226327/1.m3u8
+NEWTV-精品体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8
+NEWTV-动作电影 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8
+NEWTV-家庭剧场 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226330/1.m3u8
+NEWTV-精品大剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+NEWTV-精品纪录 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226332/1.m3u8
+辽宁卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226336/1.m3u8
+重庆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226341/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226342/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226343/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226344/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226345/1.m3u8
+NEWTV-金牌综艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226347/1.m3u8
+NEWTV-超级体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
+东方卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
+浙江卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226365/1.m3u8
+江苏卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
+北京卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
+NEWTV-超级电视剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
+NEWTV-超级电影 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
+NEWTV-超级综艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226372/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226373/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
+体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226381/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226382/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226386/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226387/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226388/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226392/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226394/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226396/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226398/1.m3u8
+咪咕 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
+体育 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226400/1.m3u8
+CGTN DOCUMENTRAY,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226403/1.m3u8
+CGTN,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226404/1.m3u8
+贵州卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226405/1.m3u8
+东南卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226406/1.m3u8
+四川卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226407/1.m3u8
+广西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226408/1.m3u8
+河北卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226409/1.m3u8
+山西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226410/1.m3u8
+陕西卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226411/1.m3u8
+青海卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226412/1.m3u8
+宁夏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226413/1.m3u8
+甘肃卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226414/1.m3u8
+内蒙古卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226415/1.m3u8
+CETV-1,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226417/1.m3u8
+卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226418/1.m3u8
+山东教育卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226419/1.m3u8
+优漫卡通,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226420/1.m3u8
+哈哈炫动,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226421/1.m3u8
+新疆卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226422/1.m3u8
+NEWTV-惊悚悬疑 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226423/1.m3u8
+云南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226424/1.m3u8
+影剧 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226425/1.m3u8
+吉林卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226426/1.m3u8
+海南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226427/1.m3u8
+西藏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226428/1.m3u8
+购物,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226429/1.m3u8
+北京影视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226433/1.m3u8
+北京科教,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8
+北京文艺,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226435/1.m3u8
+北京卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226436/1.m3u8
+北京新闻 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8
+冬奥纪实 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8
+北京文艺 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226440/1.m3u8
+北京卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/1.m3u8
+北京影视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226486/1.m3u8
+山东卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226487/1.m3u8
+辽宁卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226488/1.m3u8
+天津卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226489/1.m3u8
+安徽卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226490/1.m3u8
+江苏卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226491/1.m3u8
+浙江卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226492/1.m3u8
+湖南卫视,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226493/1.m3u8
+CETV-1 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8
+深圳卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226495/1.m3u8
+东南卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8
+贵州卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/1.m3u8
+黑龙江卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226498/1.m3u8
+安徽卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226499/1.m3u8
+辽宁卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226500/1.m3u8
+山东卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226501/1.m3u8
+天津卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226502/1.m3u8
+湖北卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226503/1.m3u8
+浙江卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226504/1.m3u8
+东方卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226505/1.m3u8
+江苏卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226506/1.m3u8
+河北卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226507/1.m3u8
+广东卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226508/1.m3u8
+湖南卫视 HD,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8
+北京国际,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226510/1.m3u8
+卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226511/1.m3u8
+北京新闻,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226512/1.m3u8
+北京青年,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226513/1.m3u8
+北京生活,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226514/1.m3u8
+冬奥纪实,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226515/1.m3u8
+北京财经,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226516/1.m3u8
+
+
+
+
+陕西延安移动,#genre#
+浙江卫视,http://39.134.19.57/PLTV/88888888/224/3221225588/index.m3u8 
+深圳卫视,http://39.134.19.57/PLTV/88888888/224/3221225590/index.m3u8 
+重庆卫视,http://39.134.19.57/PLTV/88888888/224/3221225592/index.m3u8 
+广西卫视,http://39.134.19.57/PLTV/88888888/224/3221225594/index.m3u8 
+卡酷少儿,http://39.134.19.57/PLTV/88888888/224/3221225598/index.m3u8 
+江苏卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225602/index.m3u8 
+青海卫视,http://39.134.19.57/PLTV/88888888/224/3221225606/index.m3u8
+贵州卫视,http://39.134.19.57/PLTV/88888888/224/3221225610/index.m3u8 
+CCTV13,http://39.134.19.57/PLTV/88888888/224/3221225612/index.m3u8 
+海南卫视,http://39.134.19.57/PLTV/88888888/224/3221225614/index.m3u8 
+湖南卫视,http://39.134.19.57/PLTV/88888888/224/3221225616/index.m3u8 
+东方卫视,http://39.134.19.57/PLTV/88888888/224/3221225622/index.m3u8 
+内蒙古卫视,http://39.134.19.57/PLTV/88888888/224/3221225626/index.m3u8 
+CCTV3,http://39.134.19.57/PLTV/88888888/224/3221225630/index.m3u8 
+CCTV15,http://39.134.19.57/PLTV/88888888/224/3221225636/index.m3u8 
+安徽卫视,http://39.134.19.57/PLTV/88888888/224/3221225638/index.m3u8 
+CCTV5+HD,http://39.134.19.57/PLTV/88888888/224/3221225641/index.m3u8 
+浙江卫视,http://39.134.19.57/PLTV/88888888/224/3221225642/index.m3u8 
+北京卫视,http://39.134.19.57/PLTV/88888888/224/3221225646/index.m3u8 
+CCTV13,http://39.134.19.57/PLTV/88888888/224/3221225650/index.m3u8 
+CCTV1,http://39.134.19.57/PLTV/88888888/224/3221225652/index.m3u8
+CCTV14,http://39.134.19.57/PLTV/88888888/224/3221225658/index.m3u8 
+CCTV4,http://39.134.19.57/PLTV/88888888/224/3221225662/index.m3u8 
+浙江卫视,http://39.134.19.57/PLTV/88888888/224/3221225664/index.m3u8 
+CCTV8,http://39.134.19.57/PLTV/88888888/224/3221225666/index.m3u8 
+天津卫视,http://39.134.19.57/PLTV/88888888/224/3221225670/index.m3u8 
+CCTV9,http://39.134.19.57/PLTV/88888888/224/3221225672/index.m3u8 
+湖北卫视,http://39.134.19.57/PLTV/88888888/224/3221225674/index.m3u8 
+东方卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225676/index.m3u8 
+广东卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225680/index.m3u8 
+江西卫视,http://39.134.19.57/PLTV/88888888/224/3221225682/index.m3u8 
+CCTV1HD,http://39.134.19.57/PLTV/88888888/224/3221225684/index.m3u8 
+CCTV2,http://39.134.19.57/PLTV/88888888/224/3221225686/index.m3u8 
+黑龙江卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225690/index.m3u8 
+广东卫视,http://39.134.19.57/PLTV/88888888/224/3221225692/index.m3u8 
+湖南卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225694/index.m3u8 
+云南卫视,http://39.134.19.57/PLTV/88888888/224/3221225696/index.m3u8 
+优漫卡通,http://39.134.19.57/PLTV/88888888/224/3221225698/index.m3u8 
+CCTV12,http://39.134.19.57/PLTV/88888888/224/3221225702/index.m3u8 
+四川卫视,http://39.134.19.57/PLTV/88888888/224/3221225704/index.m3u8 
+CETV1,http://39.134.19.57/PLTV/88888888/224/3221225706/index.m3u8 
+CCTV6,http://39.134.19.57/PLTV/88888888/224/3221225708/index.m3u8 
+CETV2,http://39.134.19.57/PLTV/88888888/224/3221225710/index.m3u8 
+湖北卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225712/index.m3u8 
+甘肃卫视,http://39.134.19.57/PLTV/88888888/224/3221225714/index.m3u8 
+河南卫视,http://39.134.19.57/PLTV/88888888/224/3221225716/index.m3u8
+CCTV5+HD,http://39.134.19.57/PLTV/88888888/224/3221225718/index.m3u8 
+东南卫视,http://39.134.19.57/PLTV/88888888/224/3221225722/index.m3u8 
+北京卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225724/index.m3u8 
+辽宁卫视,http://39.134.19.57/PLTV/88888888/224/3221225726/index.m3u8 
+宁夏卫视,http://39.134.19.57/PLTV/88888888/224/3221225730/index.m3u8 
+江苏卫视,http://39.134.19.57/PLTV/88888888/224/3221225734/index.m3u8 
+北京卫视,http://39.134.19.57/PLTV/88888888/224/3221225735/index.m3u8 
+CGTN,http://39.134.19.57/PLTV/88888888/224/3221225736/index.m3u8 
+山西卫视,http://39.134.19.57/PLTV/88888888/224/3221225738/index.m3u8 
+内蒙古卫视,http://39.134.19.57/PLTV/88888888/224/3221225742/index.m3u8 
+甘肃卫视,http://39.134.19.57/PLTV/88888888/224/3221225748/index.m3u8 
+NewTV农业致富,http://39.134.19.57/PLTV/88888888/224/3221225752/index.m3u8 
+CCTV5,http://39.134.19.57/PLTV/88888888/224/3221225758/index.m3u8 
+卡酷少儿,http://39.134.19.57/PLTV/88888888/224/3221225760/index.m3u8 
+汉中2公共,http://39.134.19.57/PLTV/88888888/224/3221225763/index.m3u8 
+汉中3教育,http://39.134.19.57/PLTV/88888888/224/3221225765/index.m3u8 
+NewTV军事评论,http://39.134.19.57/PLTV/88888888/224/3221225766/index.m3u8 
+CCTV7,http://39.134.19.57/PLTV/88888888/224/3221225768/index.m3u8
+广西卫视,http://39.134.19.57/PLTV/88888888/224/3221225772/index.m3u8 
+CCTV11,http://39.134.19.57/PLTV/88888888/224/3221225774/index.m3u8 
+CCTV2HD,http://39.134.19.57/PLTV/88888888/224/3221225776/index.m3u8 
+广东卫视,http://39.134.19.57/PLTV/88888888/224/3221225778/index.m3u8 
+CCTV13HD,http://39.134.19.57/PLTV/88888888/224/3221225780/index.m3u8 
+CCTV10,http://39.134.19.57/PLTV/88888888/224/3221225782/index.m3u8 
+山东卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225788/index.m3u8 
+新疆卫视,http://39.134.19.57/PLTV/88888888/224/3221225790/index.m3u8 
+CCTV1HD,http://39.134.19.57/PLTV/88888888/224/3221225792/index.m3u8 
+CCTV14HD,http://39.134.19.57/PLTV/88888888/224/3221225794/index.m3u8
+山东卫视,http://39.134.19.57/PLTV/88888888/224/3221225796/index.m3u8 
+宁夏卫视,http://39.134.19.57/PLTV/88888888/224/3221225802/index.m3u8 
+吉林卫视,http://39.134.19.57/PLTV/88888888/224/3221225804/index.m3u8 
+黑莓电影,http://39.134.19.57/PLTV/88888888/224/3221225805/index.m3u8 
+精彩综艺,http://39.134.19.57/PLTV/88888888/224/3221225807/index.m3u8
+安徽卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225808/index.m3u8 
+精彩体育,http://39.134.19.57/PLTV/88888888/224/3221225809/index.m3u8 
+CCTV15HD,http://39.134.19.57/PLTV/88888888/224/3221225810/index.m3u8 
+精彩电影,http://39.134.19.57/PLTV/88888888/224/3221225811/index.m3u8 
+海南卫视,http://39.134.19.57/PLTV/88888888/224/3221225812/index.m3u8 
+精彩电视剧,http://39.134.19.57/PLTV/88888888/224/3221225813/index.m3u8 
+CCTV4HD,http://39.134.19.57/PLTV/88888888/224/3221225814/index.m3u8 
+好享购物,http://39.134.19.57/PLTV/88888888/224/3221225815/index.m3u8 
+CCTV9HD,http://39.134.19.57/PLTV/88888888/224/3221225816/index.m3u8 
+CCTV14HD,http://39.134.19.57/PLTV/88888888/224/3221225820/index.m3u8 
+CCTV10HD,http://39.134.19.57/PLTV/88888888/224/3221225823/index.m3u8 
+河南卫视,http://39.134.19.57/PLTV/88888888/224/3221225824/index.m3u8 
+CCTV11,http://39.134.19.57/PLTV/88888888/224/3221225825/index.m3u8 
+CCTV13,http://39.134.19.57/PLTV/88888888/224/3221225827/index.m3u8 
+黑莓电影,http://39.134.19.57/PLTV/88888888/224/3221225828/index.m3u8 
+CCTV1HD,http://39.134.19.57/PLTV/88888888/224/3221225829/index.m3u8 
+CCTV2HD,http://39.134.19.57/PLTV/88888888/224/3221225831/index.m3u8 
+风尚购物,http://39.134.19.57/PLTV/88888888/224/3221225832/index.m3u8 
+北京卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225833/index.m3u8 
+河北卫视,http://39.134.19.57/PLTV/88888888/224/3221225834/index.m3u8 
+东方卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225835/index.m3u8 
+CGTN纪录,http://39.134.19.57/PLTV/88888888/224/3221225836/index.m3u8 
+湖南卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225837/index.m3u8 
+青海卫视,http://39.134.19.57/PLTV/88888888/224/3221225838/index.m3u8 
+山东卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225841/index.m3u8 
+辽宁卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225842/index.m3u8 
+深圳卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225843/index.m3u8 
+天津卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225844/index.m3u8
+浙江卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225845/index.m3u8 
+安徽卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225847/index.m3u8 
+NewTV超级体育HD,http://39.134.19.57/PLTV/88888888/224/3221225848/index.m3u8 
+体育休闲,http://39.134.19.57/PLTV/88888888/224/3221225849/index.m3u8 
+高尔夫,http://39.134.19.57/PLTV/88888888/224/3221225851/index.m3u8 
+湖南卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225852/index.m3u8
+NewTV超级综艺HD,http://39.134.19.57/PLTV/88888888/224/3221225854/index.m3u8 
+CCTV7HD,http://39.134.19.57/PLTV/88888888/224/3221225855/index.m3u8 
+山东教育卫视,http://39.134.19.57/PLTV/88888888/224/3221225856/index.m3u8 
+CCTV14HD,http://39.134.19.57/PLTV/88888888/224/3221225857/index.m3u8 
+西藏卫视,http://39.134.19.57/PLTV/88888888/224/3221225858/index.m3u8 
+CCTV17HD,http://39.134.19.57/PLTV/88888888/224/3221225859/index.m3u8 
+NewTV超级体育,http://39.134.19.57/PLTV/88888888/224/3221225860/index.m3u8 
+辽宁卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225861/index.m3u8 
+湖北卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225863/index.m3u8 
+吉林卫视,http://39.134.19.57/PLTV/88888888/224/3221225864/index.m3u8 
+聚鲨环球精选,http://39.134.19.57/PLTV/88888888/224/3221225865/index.m3u8 
+CETV1HD,http://39.134.19.57/PLTV/88888888/224/3221225866/index.m3u8 
+哈哈炫动,http://39.134.19.57/PLTV/88888888/224/3221225867/index.m3u8 
+山西卫视,http://39.134.19.57/PLTV/88888888/224/3221225868/index.m3u8 
+兵团卫视,http://39.134.19.57/PLTV/88888888/224/3221225869/index.m3u8 
+四川卫视,http://39.134.19.57/PLTV/88888888/224/3221225870/index.m3u8 
+南方卫视,http://39.134.19.57/PLTV/88888888/224/3221225871/index.m3u8 
+CETV4,http://39.134.19.57/PLTV/88888888/224/3221225873/index.m3u8 
+江西卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225874/index.m3u8 
+安多卫视,http://39.134.19.57/PLTV/88888888/224/3221225875/index.m3u8 
+陕西卫视,http://39.134.19.57/PLTV/88888888/224/3221225876/index.m3u8 
+农林卫视,http://39.134.19.57/PLTV/88888888/224/3221225877/index.m3u8 
+中央新影-发现之旅,http://39.134.19.57/PLTV/88888888/224/3221225879/index.m3u8 
+深圳卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225880/index.m3u8 
+中央新影-老故事,http://39.134.19.57/PLTV/88888888/224/3221225881/index.m3u8 
+置业频道,http://39.134.19.57/PLTV/88888888/224/3221225883/index.m3u8 
+黑莓动画,http://39.134.19.57/PLTV/88888888/224/3221225884/index.m3u8 
+京视剧场,http://39.134.19.57/PLTV/88888888/224/3221225885/index.m3u8 
+金鹰卡通,http://39.134.19.57/PLTV/88888888/224/3221225886/index.m3u8 
+生态环境,http://39.134.19.57/PLTV/88888888/224/3221225887/index.m3u8 
+NewTV潮妈辣婆,http://39.134.19.57/PLTV/88888888/224/3221225892/index.m3u8 
+无台标1,http://39.134.19.57/PLTV/88888888/224/3221225894/index.m3u8
+NewTV精品纪录HD,http://39.134.19.57/PLTV/88888888/224/3221225900/index.m3u8 
+NewTV家庭剧场,http://39.134.19.57/PLTV/88888888/224/3221225902/index.m3u8 
+贵州卫视,http://39.134.19.57/PLTV/88888888/224/3221225906/index.m3u8 
+CCTV14HD,http://39.134.19.57/PLTV/88888888/224/3221225917/index.m3u8 
+CCTV10HD,http://39.134.19.57/PLTV/88888888/224/3221225919/index.m3u8 
+CCTV9HD,http://39.134.19.57/PLTV/88888888/224/3221225921/index.m3u8 
+NewTV超级电视剧,http://39.134.19.57/PLTV/88888888/224/3221225923/index.m3u8
+NewTV超级体育,http://39.134.19.57/PLTV/88888888/224/3221225925/index.m3u8 
+江西卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225927/index.m3u8 
+深圳卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225929/index.m3u8 
+江苏卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225931/index.m3u8 
+天津卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225933/index.m3u8 
+东方卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225935/index.m3u8 
+北京卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225937/index.m3u8 
+CCTV17HD,http://39.134.19.57/PLTV/88888888/224/3221225939/index.m3u8 
+东南卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225941/index.m3u8 
+重庆卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225943/index.m3u8 
+西藏藏语卫视,http://39.134.19.57/PLTV/88888888/224/3221225945/index.m3u8 
+北京冬奥纪实HD,http://39.134.19.57/PLTV/88888888/224/3221225947/index.m3u8 
+康巴卫视,http://39.134.19.57/PLTV/88888888/224/3221225949/index.m3u8 
+河南卫视,http://39.134.19.57/PLTV/88888888/224/3221225951/index.m3u8 
+略阳1套,http://39.134.19.57/PLTV/88888888/224/3221225957/index.m3u8 
+汉中1套,http://39.134.19.57/PLTV/88888888/224/3221225961/index.m3u8 
+延安1套,http://39.134.19.57/PLTV/88888888/224/3221225969/index.m3u8 
+延安2套,http://39.134.19.57/PLTV/88888888/224/3221225971/index.m3u8 
+宝鸡2套,http://39.134.19.57/PLTV/88888888/224/3221225973/index.m3u8 
+宝鸡2套,http://39.134.19.57/PLTV/88888888/224/3221225975/index.m3u8 
+东方卫视HD,http://39.134.19.57/PLTV/88888888/224/3221225976/index.m3u8 
+铜川2套,http://39.134.19.57/PLTV/88888888/224/3221225977/index.m3u8 
+商洛1套,http://39.134.19.57/PLTV/88888888/224/3221225979/index.m3u8 
+渭南新闻综合,http://39.134.19.57/PLTV/88888888/224/3221225981/index.m3u8 
+延安1套,http://39.134.19.57/PLTV/88888888/224/3221225983/index.m3u8 
+西安丝路,http://39.134.19.57/PLTV/88888888/224/3221225987/index.m3u8 
+西安3套,http://39.134.19.57/PLTV/88888888/224/3221225989/index.m3u8 
+西安1套,http://39.134.19.57/PLTV/88888888/224/3221225991/index.m3u8 
+陕西西部电影,http://39.134.19.57/PLTV/88888888/224/3221225993/index.m3u8 
+陕西乐家购物,http://39.134.19.57/PLTV/88888888/224/3221225995/index.m3u8 
+陕西都市青春,http://39.134.19.57/PLTV/88888888/224/3221225999/index.m3u8
+优购物,http://39.134.19.57/PLTV/88888888/224/3221226001/index.m3u8 
+家家购物,http://39.134.19.57/PLTV/88888888/224/3221226003/index.m3u8 
+财富天下,http://39.134.19.57/PLTV/88888888/224/3221226007/index.m3u8 
+台球,http://39.134.19.57/PLTV/88888888/224/3221226009/index.m3u8 
+IPTV相声小品,http://39.134.19.57/PLTV/88888888/224/3221226011/index.m3u8 
+IPTV8+,http://39.134.19.57/PLTV/88888888/224/3221226013/index.m3u8
+IPTV5+,http://39.134.19.57/PLTV/88888888/224/3221226015/index.m3u8 
+安塞电视台,http://39.134.19.57/PLTV/88888888/224/3221226017/index.m3u8 
+杨凌综合,http://39.134.19.57/PLTV/88888888/224/3221226021/index.m3u8 
+CCTV3HD,http://39.134.19.57/PLTV/88888888/224/3221226023/index.m3u8 
+CCTV1HD,http://39.134.19.57/PLTV/88888888/224/3221226024/index.m3u8 
+CCTV5HD,http://39.134.19.57/PLTV/88888888/224/3221226025/index.m3u8 
+CCTV6HD,http://39.134.19.57/PLTV/88888888/224/3221226027/index.m3u8 
+CCTV8HD,http://39.134.19.57/PLTV/88888888/224/3221226029/index.m3u8 
+宁强2套,http://39.134.19.57/PLTV/88888888/224/3221226031/index.m3u8 
+优漫卡通,http://39.134.19.57/PLTV/88888888/224/3221226034/index.m3u8 
+CCTV7HD,http://39.134.19.57/PLTV/88888888/224/3221226036/index.m3u8 
+NewTV金牌综艺,http://39.134.19.57/PLTV/88888888/224/3221226038/index.m3u8
+家有购物,http://39.134.19.57/PLTV/88888888/224/3221226040/index.m3u8 
+CCTV10HD,http://39.134.19.57/PLTV/88888888/224/3221226042/index.m3u8 
+重庆卫视HD,http://39.134.19.57/PLTV/88888888/224/3221226046/index.m3u8 
+NewTV惊悚悬疑,http://39.134.19.57/PLTV/88888888/224/3221226050/index.m3u8 
+黑龙江卫视HD,http://39.134.19.57/PLTV/88888888/224/3221226052/index.m3u8 
+NewTV超级电视剧,http://39.134.19.57/PLTV/88888888/224/3221226054/index.m3u8 
+江苏卫视HD,http://39.134.19.57/PLTV/88888888/224/3221226056/index.m3u8 
+北京卫视HD,http://39.134.19.57/PLTV/88888888/224/3221226060/index.m3u8 
+CCTV5+HD,http://39.134.19.57/PLTV/88888888/224/3221226066/index.m3u8 
+NewTV精品大剧,http://39.134.19.57/PLTV/88888888/224/3221226068/index.m3u8 
+NewTV超级电影,http://39.134.19.57/PLTV/88888888/224/3221226070/index.m3u8 
+CCTV12HD,http://39.134.19.57/PLTV/88888888/224/3221226072/index.m3u8 
+CCTV11HD,http://39.134.19.57/PLTV/88888888/224/3221226074/index.m3u8 
+NewTV怡伴健康,http://39.134.19.57/PLTV/88888888/224/3221226076/index.m3u8 
+东方卫视HD,http://39.134.19.57/PLTV/88888888/224/3221226078/index.m3u8 
+黑莓电竞,http://39.134.19.57/PLTV/88888888/224/3221226080/index.m3u8 
+NewTV爱情喜剧,http://39.134.19.57/PLTV/88888888/224/3221226082/index.m3u8 
+NewTV军旅剧场,http://39.134.19.57/PLTV/88888888/224/3221226084/index.m3u8 
+NewTV武博世界,http://39.134.19.57/PLTV/88888888/224/3221226086/index.m3u8 
+哈哈炫动,http://39.134.19.57/PLTV/88888888/224/3221226088/index.m3u8
+云南卫视,http://39.134.19.57/PLTV/88888888/224/3221226090/index.m3u8 
+NewTV古装剧场,http://39.134.19.57/PLTV/88888888/224/3221226092/index.m3u8 
+无台标2,http://39.134.19.57/PLTV/88888888/224/3221226094/index.m3u8
+东南卫视HD,http://39.134.19.57/PLTV/88888888/224/3221226096/index.m3u8 
+NewTV动作电影,http://39.134.19.57/PLTV/88888888/224/3221226100/index.m3u8 
+
+
+
+
+
+
 
 四川易视腾,#genre#
 峨眉电影,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/scem/1.m3u8
@@ -572,9 +1130,15 @@ CCTV9,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/
 CCTV10,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-10/index.m3u8
 CCTV11,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-11/index.m3u8
 CCTV12,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-12/index.m3u8
+CCTV13,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-13/index.m3u8
 CCTV14,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-14/index.m3u8
 CCTV15,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-15/index.m3u8
 CCTV17,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-17/index.m3u8
+CETV-1,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jiaoyutv/index.m3u8
+CETV-2,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-2500k-576P-jiaoyutv2/index.m3u8
+CETV-3,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-2500k-576P-jiaoyutv3/index.m3u8
+CETV-4,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/SD-2500k-576P-jiaoyutv4/index.m3u8
+CGTN纪录,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-9/1.m3u8
 中国教育,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/jiaoyutv/1.m3u8
 东南卫视,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/dongnanstv/index.m3u8
 东方卫视,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/dongfangstv/index.m3u8
@@ -595,8 +1159,6 @@ CCTV17,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080
 辽宁卫视,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/liaoningstv/index.m3u8
 重庆卫视,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/chongqingstv/index.m3u8
 黑龙江卫视,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/hljtv1/index.m3u8
-CCTV13,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-13/index.m3u8
-CGTN纪录,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/cctv-9/1.m3u8
 云南卫视,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/yunnanstv/index.m3u8
 宁夏卫视,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/ningxiastv/index.m3u8
 山西卫视,http://39.134.198.40:6610/yst.live.scmobile.com/otvzte.scmcc.com.cNF:8080/ysten-business/live/shanxistv/index.m3u8
@@ -886,6 +1448,7 @@ G-TV热门综艺[1920*1080],http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888
 不知道啥台4[1920*1080],http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221226085/1/index.m3u8?fmt=ts2hls
 不知道啥台5[1920*1080],http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221226096/1/index.m3u8?fmt=ts2hls
 不知道啥台6[1920*1080],http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221226099/1/index.m3u8?fmt=ts2hls
+
 
 
 
@@ -3928,4 +4491,742 @@ LaVieenRose,http://220.194.238.104/14/d/q/l/j/dqljhajwvvnenqkzlgatbhyruaxzck/hd.
 伤心的人唱着寂寞的歌,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-07%2F2018-07-05%2F%E4%BC%A4%E5%BF%83%E7%9A%84%E4%BA%BA%E5%94%B1%E7%9D%80%E5%AF%82%E5%AF%9E%E7%9A%84%E6%AD%8C-%E9%A9%AC%E5%BB%BA%E5%86%9B-%E8%BD%A6%E8%BD%BD%E7%B2%BE%E5%93%81DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
 分手不会哭,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-08%2F%5BAvi%5D%E8%AF%B4%E5%A5%BD%E5%88%86%E6%89%8B%E4%B8%8D%E4%BC%9A%E5%93%AD_%E7%8E%8B%E6%98%93%E9%98%B3%5BDJ%E4%BD%95%E9%B9%8F_Mix%5D_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
 没钱的男人没人爱,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E6%B2%A1%E9%92%B1%E7%9A%84%E7%94%B7%E4%BA%BA%E6%B2%A1%E4%BA%BA%E7%88%B1_%E9%AB%98%E5%B0%91%E5%8D%8E_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
-你十分泪七分,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-01%2F%5BAvi%5D%E7%88%B1%E4%BD%A0%E5%8D%81%E5%88%86%E6%
+你十分泪七分,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-01%2F%5BAvi%5D%E7%88%B1%E4%BD%A0%E5%8D%81%E5%88%86%E6%B3%AA%E4%B8%83%E5%88%86_%E9%9B%B7%E5%A9%B7_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+我的唇吻不到我爱的人,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E6%88%91%E7%9A%84%E5%94%87%E5%90%BB%E4%B8%8D%E5%88%B0%E6%88%91%E7%88%B1%E7%9A%84%E4%BA%BA_%E7%8E%8B%E5%A5%95%E5%BF%83_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+一见钟情,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-11%2F2018-11-20%2F%5BAvi%5D%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85_%E7%BA%A2%E7%A6%B9_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+西海情歌,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-11%2F2018-11-20%2F%5BAvi%5D%E8%A5%BF%E6%B5%B7%E6%83%85%E6%AD%8C_%E9%99%88%E6%B6%93_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+流着泪说分手,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-10%2F2018-10-29%2F%5BAvi%5D%E6%B5%81%E7%9D%80%E6%B3%AA%E8%AF%B4%E5%88%86%E6%89%8B_%E5%BC%A0%E7%91%B6_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+听着情歌流泪,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-09%2F2018-09-30%2F%5BAvi%5D%E5%90%AC%E7%9D%80%E6%83%85%E6%AD%8C%E6%B5%81%E7%9C%BC%E6%B3%AA-%E9%AB%98%E8%BF%9B-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+分手后我该怎么过,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%88%86%E6%89%8B%E5%90%8E%E6%88%91%E8%AF%A5%E6%80%8E%E4%B9%88%E8%BF%87_%E5%94%90%E5%8F%A4_DJ%E8%BE%B0%E5%AE%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+如果爱人受了伤,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%A6%82%E6%9E%9C%E7%88%B1%E4%BA%BA%E5%8F%97%E4%BA%86%E4%BC%A4dj_%E8%B5%B5%E7%9C%9F_%E5%BF%83%E6%98%8E_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+死心塌地去爱,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%AD%BB%E5%BF%83%E5%A1%8C%E5%9C%B0%E5%8E%BB%E7%88%B1%E4%BD%A0_%E9%97%A8%E4%B8%BD_%E8%BE%B0%E5%AE%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+会哭的人不一定流泪,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-09%2F2018-09-19%2F%E4%BC%9A%E5%93%AD%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%B5%81%E6%B3%AA-%E9%9B%A8%E5%A4%A9-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+今天你要嫁给我,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-09%2F2018-09-19%2F%E4%BB%8A%E5%A4%A9%E4%BD%A0%E8%A6%81%E5%AB%81%E7%BB%99%E6%88%91-%E8%94%A1%E4%BE%9D%E6%9E%97VS%E9%99%B6%E5%96%86-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+九百九十朵玫瑰,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-09%2F2018-09-08%2F%E4%B9%9D%E7%99%BE%E4%B9%9D%E5%8D%81%E4%B9%9D%E6%9C%B5%E7%8E%AB%E7%91%B0-%E9%82%B0%E6%AD%A3%E5%AE%B5-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+上辈子你也是我的新娘,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E4%B8%8A%E8%BE%88%E5%AD%90%E4%BD%A0%E4%B9%9F%E6%98%AF%E6%88%91%E7%9A%84%E6%96%B0%E5%A8%98_%E6%9B%B9%E9%BE%99_DJ%E8%BE%B0%E5%AE%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+哥哥今年三十多,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-08%2F2018-08-22%2F%E5%93%A5%E5%93%A5%E4%BB%8A%E5%B9%B4%E4%B8%89%E5%8D%81%E5%A4%9A-%E9%9D%96%E5%93%A5%E5%93%A5-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+只想让你知道,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-09%2F2018-09-08%2F%E5%8F%AA%E6%83%B3%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93-%E9%99%88%E7%91%9E-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+贝加尔湖畔,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%9D%8E%E5%BB%BA_%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E7%95%94_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+新郎不是我新娘我爱过,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%96%B0%E9%83%8E%E4%B8%8D%E6%98%AF%E6%88%91_%E6%96%B0%E5%A8%98%E6%88%91%E7%88%B1%E8%BF%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+情歌如何唱,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%83%85%E6%AD%8C%E5%A6%82%E4%BD%95%E5%94%B1_%E5%94%90%E5%8F%A4_%E8%BE%B0%E5%AE%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+挥马鞭,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%8C%A5%E9%A9%AC%E9%9E%AD_%E8%93%9D%E7%90%AA%E5%84%BF_DJ%E8%BE%B0%E5%AE%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+两个人回忆一个人过,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-08%2F2018-08-19%2F%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%9B%9E%E5%BF%86%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%BF%87-%E5%BA%84%E5%BF%83%E5%A6%8D-%E6%B1%BD%E8%BD%A6%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+相思桃花雨,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-08%2F2018-08-22%2F%E7%9B%B8%E6%80%9D%E6%A1%83%E8%8A%B1%E9%9B%A8-%E5%BC%A0%E5%AE%B6%E6%88%90-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E4%B8%9D%E8%A2%9C%E5%86%99%E7%9C%9F%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+哥哥你别忘了我,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%93%A5%E5%93%A5%E4%BD%A0%E5%88%AB%E5%BF%98%E4%BA%86%E6%88%91_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+爱如星火,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-08%2F%5BAvi%5D%E7%88%B1%E5%A6%82%E6%98%9F%E7%81%AB_%E5%86%B7%E6%BC%A0vs%E6%9D%A8%E5%B0%8F%E6%9B%BC_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E8%BD%A6%E6%A8%A1%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+叫一声二奶奶,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-24%2F%5BAvi%5D%E5%8F%AB%E4%B8%80%E5%A3%B0%E4%BA%8C%E5%A5%B6%E5%A5%B6_%E8%B5%B5%E5%B0%8F%E5%85%B5Vs%E5%8F%B8%E5%BE%92%E5%85%B0%E8%8A%B3%28Dj%E4%BD%95%E9%B9%8F%29_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+有点甜,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E6%9C%89%E7%82%B9%E7%94%9C_By2_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+带你去旅行,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-08%2F2018-08-03%2F%E5%B8%A6%E4%BD%A0%E5%8E%BB%E6%97%85%E8%A1%8C-%E5%86%AF%E6%8F%90%E8%8E%AB-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+别再用眼泪欺负我,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%88%AB%E5%86%8D%E7%94%A8%E7%9C%BC%E6%B3%AA%E6%AC%BA%E9%AA%97%E6%88%91_%E5%BF%83%E6%98%8E_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+流着眼泪再见,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-12%2F%E6%B5%81%E7%9D%80%E6%B3%AA%E8%AF%B4%E5%86%8D%E8%A7%81-%E5%BA%84%E5%BF%83%E5%A6%8D-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+我在想你你在哪里,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-14%2F%E6%88%91%E5%9C%A8%E6%83%B3%E4%BD%A0-%E4%BD%A0%E5%9C%A8%E5%93%AA%E9%87%8C%E2%80%94%E4%BB%BB%E5%A6%99%E9%9F%B3-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+是我真的错了吗,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-21%2F%E6%98%AF%E6%88%91%E7%9C%9F%E7%9A%84%E9%94%99%E4%BA%86%E5%90%97-%E5%88%98%E8%AF%91%E9%98%B3-%E6%B1%BD%E8%BD%A6%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+花一样的姑凉,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-07%2F2018-07-05%2F%E8%8A%B1%E4%B8%80%E6%A0%B7%E7%9A%84%E5%A7%91%E5%A8%98%28Dj%E4%BD%95%E9%B9%8F%29-%E7%AB%A5%E6%B3%A2-%E8%BD%A6%E8%BD%BD%E7%B2%BE%E5%93%81DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+我终于失去了你,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-07%2F2018-07-18%2F%E6%88%91%E7%BB%88%E4%BA%8E%E5%A4%B1%E5%8E%BB%E4%BA%86%E4%BD%A0-%E5%AD%99%E9%9C%B2-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+错的你伤的我,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-08%2F2018-08-07%2F%E9%83%AD%E4%B8%80%E6%A9%99-%E9%94%99%E7%9A%84%E6%98%AF%E4%BD%A0%E4%BC%A4%E7%9A%84%E6%98%AF%E6%88%91-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+好兄弟一辈子,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-24%2F%5BAvi%5D%E5%A5%BD%E5%85%84%E5%BC%9F%E4%B8%80%E8%BE%88%E5%AD%90_%E8%90%A7%E7%A3%8AVs%E6%A8%8A%E5%B0%91%E5%8D%8E%28Dj%E4%BD%95%E9%B9%8F%29_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+多想留在你身边,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-24%2F%5BAvi%5D%E5%A4%9A%E6%83%B3%E7%95%99%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9_%E5%88%98%E5%A2%9E%E7%9E%B3_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+亲爱的女人不要流泪,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E4%BA%B2%E7%88%B1%E7%9A%84%E5%A5%B3%E4%BA%BA%E4%B8%8D%E8%A6%81%E6%B5%81%E6%B3%AA_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+一起舞动,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E4%B8%80%E8%B5%B7%E8%88%9E%E5%8A%A8%E2%80%94%E8%AF%B1%E6%83%91DJ%E8%88%9E%E6%9B%B2%E8%A7%86%E9%A2%91_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+兄弟女人,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%93%A5%E5%93%A5%E7%9A%84%E5%A5%B3%E4%BA%BA%28%E5%85%84%E5%BC%9F%E5%A5%B3%E4%BA%BA%29_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+半打玫瑰,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%8D%8A%E6%89%93%E7%8E%AB%E7%91%B0_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+火了草原火了爱,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E7%81%AB%E4%BA%86%E8%8D%89%E5%8E%9F%E7%81%AB%E4%BA%86%E7%88%B1dj_%E4%B9%8C%E5%85%B0%E6%89%98%E5%A8%85_%E5%BF%83%E6%98%8E_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+嫁给我吧姑娘,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-28%2F%5BAvi%5D%E5%AB%81%E7%BB%99%E6%88%91%E5%90%A7%E5%A7%91%E5%A8%98_%E5%AE%AB%E9%95%BF%E5%9D%A4_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+猴年马月,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E7%8C%B4%E5%B9%B4%E9%A9%AC%E6%9C%88_%E8%90%A7%E7%A3%8A_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+诀别酒,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-25%2F%5BAvi%5D%E8%AF%80%E5%88%AB%E9%85%92dj_%E9%92%B1%E5%AD%90%E6%9E%AB_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+青春定放,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%99%BD%E8%A1%A3%E6%88%98%E5%A3%AB_%E9%9D%92%E6%98%A5%E7%BB%BD%E6%94%BE_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+坐着高铁回家,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E5%9D%90%E7%9D%80%E9%AB%98%E9%93%81%E5%9B%9E%E5%AE%B6%E4%B9%A1_%E5%86%B7%E6%BC%A0vs%E8%B5%B5%E5%B0%8F%E5%85%B5_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+好兄弟我敬你,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E5%A5%BD%E5%85%84%E5%BC%9F%E6%88%91%E6%95%AC%E4%BD%A0_%E5%94%90%E5%BF%97%E6%98%9F_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+今夜我要喝酒,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E4%BB%8A%E5%A4%9C%E6%88%91%E8%A6%81%E5%96%9D%E9%86%89_DJ%E5%BC%A0%E5%86%AC%E7%8E%B2_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+好朋友好兄弟,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E5%A5%BD%E6%9C%8B%E5%8F%8B%E5%A5%BD%E5%85%84%E5%BC%9F_DJ%E5%B0%A4%E6%BA%AA_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+深圳恋歌,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E6%B7%B1%E5%9C%B3%E6%81%8B%E6%AD%8C_Dj%E4%BD%95%E9%B9%8F_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+爱不能说,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E7%88%B1%E4%BD%A0%E4%B8%8D%E8%83%BD%E8%AF%B4_Dj%E4%BD%95%E9%B9%8F_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+心在烈火中燃烧,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-28%2F%5BAvi%5D%E5%BF%83%E5%9C%A8%E7%83%88%E7%81%AB%E4%B8%AD%E7%87%83%E7%83%A7_%E9%99%88%E6%9B%A6_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+ 照顾好自己,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E7%85%A7%E9%A1%BE%E5%A5%BD%E8%87%AA%E5%B7%B1_%E9%BD%90%E6%99%A8_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+心跳的感觉,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E5%BF%83%E8%B7%B3%E7%9A%84%E6%84%9F%E8%A7%89_%E5%B3%BB%E5%B3%BB_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+分手以后更想你,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E5%88%86%E6%89%8B%E4%BB%A5%E5%90%8E%E6%9B%B4%E6%83%B3%E4%BD%A0_%E9%A3%9E%E7%BF%94_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+不让你孤单,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E4%B8%8D%E8%AE%A9%E4%BD%A0%E5%AD%A4%E5%8D%95_%E5%8D%93%E8%88%92%E6%99%A8_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+小鲜肉,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E5%B0%8F%E9%B2%9C%E8%82%89dj_%E5%B8%B8%E5%81%A5%E9%B8%BF_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+再见亦回不去,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E5%86%8D%E8%A7%81%E4%BA%A6%E6%98%AF%E5%9B%9E%E4%B8%8D%E5%8E%BB_%E5%A4%A9%E8%9D%8E%E4%B8%B9_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+这不对那不对,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-25%2F%5BAvi%5D%E8%BF%99%E4%B9%9F%E4%B8%8D%E5%AF%B9%E9%82%A3%E4%B9%9F%E4%B8%8D%E5%AF%B9_%E5%94%AF%E8%8E%8E_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+爱请问怎么走,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E7%88%B1%E8%AF%B7%E9%97%AE%E6%80%8E%E4%B9%88%E8%B5%B0_A_Lin_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+心痛,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E5%BF%83%E7%97%9B_%E6%9D%8E%E5%B9%B8%E5%80%AA_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+天山姑娘,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E5%A4%A9%E5%B1%B1%E5%A7%91%E5%A8%98_%E6%8B%96%E6%8B%89%E5%8F%B8%E6%9C%BA_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+在我流浪他乡的这些年,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E5%9C%A8%E6%88%91%E6%B5%81%E6%B5%AA%E4%BB%96%E4%B9%A1%E7%9A%84%E8%BF%99%E4%BA%9B%E5%B9%B4_%E8%89%BA%E6%B6%9B_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+后悔没有原谅你,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E5%90%8E%E6%82%94%E6%B2%A1%E6%9C%89%E5%8E%9F%E8%B0%85%E4%BD%A0_%E7%8E%8B%E9%94%AE_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+
+欧美动感DJ节奏舞曲-DontStopTheParty,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
+HELLOVENUS - WiggleWiggle,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+T-ara - 成员 朴孝敏 – SKETCH,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
+小风波收集 【以防盗码】,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
+小风波收集【以防盗码】,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
+Madonna - Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+欧美群星-天下一家-We Are The World,http://sofa.resource.shida.sogoucdn.com/6abaf62b-c77e-4642-999b-9301c1826f6e1_0_0.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpt6a4gUo1aeryAQ.mp4
+迈克尔杰克逊30周年演唱会片段-比利·金-BILLIE.JEAN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
+泫雅-CHANGE-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
+EXID - Every Night,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+僵尸跳舞David Jones - Rhythm Alive,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
+T-ARA_Lovey Dovey_MTV僵尸舞完整版,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
+Alan Walker feat. Iselin Solheim - Faded,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
+Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
+Trouble Maker- Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgism34gUo0rqhhAE.mp4
+Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
+After-School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
+AOA Mini skart-短裙,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi5Ke4wUoy6vqTg.mp4
+Sistar - Give It To Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
+After School - 初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
+Dal Shabet - Joker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
+Rainbow Blaxx -Cha Cha,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-IS24gUovcix_AI.mp4
+Marionette Areia K-pop Remix,http://video.yidianzixun.com/video/get-url?key=video/701b87f7467c0bc1dad16a60a1848446.mp4
+Dalshabet - Joker(Areia Kpop Remix),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
+佳仁 - Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
+HELLOVENUS - StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
+24小时都不够,http://hc.yinyuetai.com/uploads/videos/common/640501409AB668DA936AED6FC6EB2945.flv
+Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4#http://resource.yaokan.sogoucdn.com/videodown/4/229/d2be298a756c966f81134a671d6dd41f.mp4
+AOA - Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
+AOA - 动摇,http://k.syasn.com/k/k79?k1=149.28.90.29&k2=csf2avzddt&k3=7c335067da4565ab53151bfb7235182f&k4=f2320831c274e32733e06f22c834e43d&k5=k79&k6=2836aea356186a4288fb5d043467ab9b_371747a8025945d9164b717a217fd90e&k7=123&g=0#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
+AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
+金泫雅-鸟叔客串-HyunA-Ice Cream,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
+蔡依林 - Beast,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
+郑意文、郭健荣-123 我爱你,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4sGv5wUo5bvaxwM.mp4
+Foreign Figures - Fire,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2h7QUohIem5AQ.mp4
+Stereoact&Jaques Raupé feat. Peter Schilling - Ter,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyL-s7QUoo_-L5AE.mp4
+Kronic & Krunk - Hey Ho!,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNTV4gUo9PrW7wM.mp4
+Clara Mae ft. Jake Miller - Better Me Better You,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl8-77QUo2KnZ-AU.mp4
+韩国女团MV合集,http://223.82.247.122/sh.yinyuetai.com/uploads/videos/common/58A1015A5FE54518FCC9C9F09130D912.mp4
+9MUSES(나인뮤지스) - Wild(와일드),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_K204wUogPqGqQY.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9__d4wUotJXpmgI.mp4#http://feed.resrc.svideo.sogoucdn.com/videodown/110002/540/e5a4011e3fe607ec3d39b9ba59f9a9fd.mp4
+Girls Generation - Mr.Mr,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgorq64gUozOXcXA.mp4
+Girls Generation - DIVINE,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgho7o5QUoyr2cggE.mp4
+PVRIS - Death of Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqfmh7QUoqNfLigE.mp4
+孝敏 HyoMin - U Um U Um,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fO98AUo7-WMigc.mp4
+A Pink - Hush,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsfK24gUozL7XrAE.mp4
+Nightwish - Élan,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6Nf77QUo0Kngqgc.mp4
+JinSoul- Singing in the Rain,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6vC98AUooILmZw.mp4
+My Heart Will Go On (泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
+Geo Da Silva、DJ Gabro、Mr. Sax、Alexandra Mitroi - K,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5avW4gUo47zhvwU.mp4
+FIESTAR - Mirror(Areia Kpop Remix),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4K_04wUo5-iTyAU.mp4
+王杰  冷冷的街,https://f0.mc.0sm.com/node0/2019/11/85DDEAA04975B75D-916cc10ba79c4a54.mp4?dsjtv.m3u8
+Ara - Wish,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--_h7QUojLvmogU.mp4
+Arash feat. Helena - One Night In Dubai,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-_h7QUo0LvLxwE.mp4
+Russ - Civil War,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_fih7QUovpfokgI.mp4
+Татяна - Да сме квит(Tatyana - Da Sme Kvit),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7si84gUo8fehkQc.mp4
+Stellar - Study,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggMa84gUowOHVxgE.mp4
+RAINBOW - Black Swan,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj8m_4gUooMrSsQY.mp4
+Andrea feat. Fiki - Sex Za Den,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmcW84gUoqJz6vQc.mp4
+Hyuna (현아) - Lip & Hip   Areia Kpop Remix,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtLrW4gUosLGs2gU.mp4
+Jason Derulo - The Other Side,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6qM5gUo8JmR4gQ.mp4
+MAMAMOO - Décalcomanie,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxOrV4gUo8Oytsgc.mp4
+T-ara - What Should I Do,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyPKv4gUonPnYtwE.mp4
+BP POP-Today,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpeab4gUo3P3GsQY.mp4
+T-ARA - First Love,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3Lqw4gUoo6LL7QU.mp4
+9MUSES - Remember,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgh_y98AUo5K_x8QU.mp4
+9MUSES(나인뮤지스) - 건(GUN),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6604wUowITHOg.mp4
+4minute_Volume Up,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_5Oy4gUolMCzFw.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgksWc4gUo9IjHPA.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgx6if4gUozoWktgU.mp4
+电音舞曲- (Rap Feat.  Of 4Minute),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwNWb4gUolJ62iwQ.mp4
+4MINUTE(포미닛) - WHY,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo7v64wUovvXL6QQ.mp4
+4MINUTE - Whatcha Doin  Today,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7_uv4gUozsnyoQc.mp4
+LUNA - Even So,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxfG98AUogN6hqgU.mp4
+OH MY GIRL - BUNGEE (Fall in Love),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnfmh7QUokqegngQ.mp4
+少女时代-Mr Taxi,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghd_x4gUouPyVbw.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgme2u4gUo_NKz8AM.mp4
+少女时代-All My Love Is For You,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9ueb4gUolq2JyQY.mp4
+Bob Girls - No way,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqe298AUo9JPpiwE.mp4
+Ava Max - So Am I,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwv_h7QUolM7fswM.mp4
+2NE1(투애니원) - 그리워해요 (MISSING YOU),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyee74wUowp6c1gU.mp4
+Gavy-20NJ-Dont-Call(feat-LE-of-EXID),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsu_c4gUohrr0igU.mp4
+EXID - L.I.E,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
+EXID - Ah Yeah,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1J_-4gUouJjNQw.mp4
+Kantik - Orfelogy,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggq-W4gUouLym-QQ.mp4
+Celine Dion - My Heart Will Go On,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6_Ka4gUo3_-YYA.mp4
+周杰伦/蔡依林-能不能给我一首歌的时间,https://link.hhtjim.com/qq/012rJrGd4cGDA9.mp4
+蔡依林-怪美的,https://link.hhtjim.com/qq/m0029a5yjtb.mp4
+
+Alan Walker Faded,http://video.kekedj.com/2020888/20200115/%E9%9F%A9%E5%9B%BD%E6%9C%80%E7%BE%8EDJ%20Soda-Alan%20Walker%20Faded%20(Remix%20)%202020%20-%20EDM%20Electro%20House%20Music%20Video%202020.mp4
+BoA X TAPAHA The DANCE Space Black Performance,http://video.kekedj.com/2020888/20200116/%E9%9F%A9%E5%9B%BD%E6%B5%81%E8%A1%8C%E6%AD%8C%E6%9B%B2BoA%20X%20TAPAHA%20The%20DANCE%20Space%20Black%20Performance.mp4
+Chu Hieu Chu Tinh,http://video.kekedj.com/2020888/20200118/%E8%B6%8A%E5%8D%97%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C%E6%9B%B2-%E5%AD%B0%E5%AD%9D%E5%AD%B0%E6%83%85Chu%20Hieu%20Chu%20Tinh(Remix)%20%20%E8%8F%B2%E7%BB%92%E3%80%81%E5%AD%9F%E7%90%BC-%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+Coco Jambo,http://video.kekedj.com/2020888/20200110/%E7%BE%8E%E5%A5%B3%E7%9F%AD%E8%A3%99%E7%83%AD%E8%88%9ECoco%20Jambo%20-%20Dance%20Remix%20%20Gioma%20%20Records.mp4
+Com Ao Gao Tien,http://video.kekedj.com/2020888/20200119/%E8%B6%8A%E5%8D%97%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2(Com%20Ao%20Gao%20Tien%20Remix-Kim%20Ny%20Ngoc-%E7%BE%8E%E5%A5%B3%E7%9F%AD%E8%A3%99%E7%83%AD%E8%88%9EMV.mp4
+Dan Ong Chang Yeu Ai That Long,http://video.kekedj.com/2020888/20200118/%E8%B6%8A%E5%8D%97%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2-dj%E5%A5%BD%E5%90%AC%E7%9A%84%E7%94%B5%E9%9F%B3%E8%88%9E%E6%9B%B2-%E7%BE%8E%E5%A5%B3%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91Dan%20Ong%20Chang%20Yeu%20Ai%20That%20Long%20(Remix).mp4
+Destiny太阳之花,http://video.kekedj.com/2020888/20200110/%E7%BB%8F%E5%85%B8%E6%97%A5%E8%AF%AD%E6%AD%8C%E6%9B%B2%EF%BC%88%E5%B2%9B%E8%B0%B7%E7%9E%B3%EF%BC%89-Destiny%20-%E5%A4%AA%E9%98%B3%E4%B9%8B%E8%8A%B1-%E9%9D%9E%E4%B8%BB%E6%B5%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E.mp4
+Do You Like Bass,http://video.kekedj.com/2020888/20200116/%E5%A4%9C%E5%BA%97%E5%97%A8DJ%E6%9B%B2%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91Nonstop%20Vol%2013%20-%20Do%20You%20Like%20Bass.mp4
+Happy New Year,http://video.kekedj.com/2020888/20200120/dj%E5%A5%BD%E5%90%AC%E7%9A%84%E7%94%B5%E9%9F%B3%E8%88%9E%E6%9B%B2-%E7%94%B5%E9%9F%B3%E8%8A%82%E7%8E%B0%E5%9C%BAHappy%20New%20Year-Air%20Remixer.mp4
+NONSTOP DJ,http://video.kekedj.com/2020888/20200121/NONSTOP%20DJ%202020-%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BA-%E5%BC%B9%E6%80%A7%E8%B6%8A%E5%8D%97%E9%BC%93-2020%E5%8A%B2%E7%88%86%E7%94%B5%E9%9F%B3%E8%88%9E%E6%9B%B2-%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8Cdj%E8%A7%86%E9%A2%91.mp4
+Nhac Hai Ngoai Soi Dong,http://video.kekedj.com/2020888/20200118/%E8%B6%8A%E5%8D%97%E6%96%87%E6%AD%8C%E6%9B%B2Nhac%20Hai%20Ngoai%20Soi%20Dong%202019%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E8%A7%86%E9%A2%91.mp4
+OK CHIA TAY,http://video.kekedj.com/2020888/20200117/%E8%B6%8A%E5%8D%97%E5%A5%BD%E6%AD%8C%E6%9B%B2%EF%BC%88OK%20CHIA%20TAY%20-%20Vinh%20Thuyen%20Kim%E9%87%91%E8%8D%A3%E5%B8%86%EF%BC%89%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94MV.mp4
+ONE SHOT TWO SHOT,http://video.kekedj.com/2020888/20200116/%E9%9F%A9%E5%9B%BD%E6%B5%81%E8%A1%8C%E6%AD%8C%E6%9B%B2ONE%20SHOT%20TWO%20SHOTMV.mp4
+Only One MV,http://video.kekedj.com/2020888/20200117/%E9%9F%A9%E5%9B%BD%E8%88%9E%E6%9B%B2%20%E6%9C%80%E6%96%B0%E5%8A%B2%E7%88%86dj%E8%88%9E%E6%9B%B2-%E5%A5%BD%E5%90%AC%E7%9A%84%E6%8A%92%E6%83%85%E6%AD%8C%20Only%20One%20%20MV%20(Dance%20ver).mp4
+Vi Ngot Doi Moi,http://video.kekedj.com/2020888/20200118/%E8%B6%8A%E5%8D%97%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C%E6%9B%B2-(%E7%94%9C%E7%BE%8E%E7%9A%84%E5%98%B4%E5%94%87Vi%20Ngot%20Doi%20Moi%20(Remix)%E5%8A%A8%E6%84%9Fdj%E8%88%9E%E6%9B%B2%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94MV.mp4
+Vinh Thuyen Kim,http://video.kekedj.com/2020888/20200121/%E8%B6%8A%E5%8D%97%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C%E6%9B%B2(Vinh%20Thuyen%20Kim)dj%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9F-%E7%BE%8E%E5%A5%B3%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+Vinh Thuyen Kim千金,http://video.kekedj.com/2020888/20200119/%E9%95%BF%E8%85%BF%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E-(Vinh%20Thuyen%20Kim%E5%8D%83%E9%87%91)-%E8%B6%85%E5%A5%BD%E5%90%AC%E8%B6%8A%E5%8D%97%E8%AF%AD%E6%AD%8C%E6%9B%B2.mp4
+gnitionDj VAL Gioma,http://video.kekedj.com/2020888/20200107/%E9%9F%A9%E5%9B%BD%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E-ignitionDj%20VAL%20Gioma-Remix-%E9%9F%B3%E4%B9%90%E7%9F%AD%E7%89%87%E8%88%9E%E8%B9%88%E8%A7%86%E9%A2%91.mp4
+一瞬间,http://video.kekedj.com/2020888/20200117/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E4%B8%BD%E6%B1%9F%E5%B0%8F%E5%80%A9%20-%20%E4%B8%80%E7%9E%AC%E9%97%B41080P%E5%B0%8F%E6%84%8F%E5%88%B6%E4%BD%9C-%E7%B2%BE%E8%87%B4%E7%AF%87HDMV.mp4
+不变的情缘Dang Em,http://video.kekedj.com/2020888/20200121/%E8%B6%8A%E5%8D%97%E7%BF%BB%E5%94%B1%E4%B8%AD%E5%9B%BD%E6%AD%8C%E6%9B%B2-(%E4%B8%8D%E5%8F%98%E7%9A%84%E6%83%85%E7%BC%98Dang%20Em%20(%E6%9E%97%E6%98%AD-Remix)%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%8E%A5%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+但愿你明白HDMV,http://video.kekedj.com/2020888/20200121/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%9D%A8%E9%87%87%E5%A6%AE(%E7%B2%A4%E8%AF%AD)%20-%20%E4%BD%86%E6%84%BF%E4%BD%A0%E6%98%8E%E7%99%BDHDMV-1080P%E5%A4%B1%E8%90%BD%E8%88%9E%E5%A8%98%E5%B0%8F%E6%84%8F%E5%88%B6%E4%BD%9C%E7%B2%BE%E7%BE%8E%E7%AF%87.mp4
+千年等一回,http://video.kekedj.com/2020888/20200110/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%96%B0%E7%99%BD%E5%A8%98%E5%AD%90%E4%BC%A0%E5%A5%87%E4%B8%BB%E9%A2%98%E6%9B%B2-%E9%AB%98%E8%83%9C%E7%BE%8E-%E5%8D%83%E5%B9%B4%E7%AD%89%E4%B8%80%E5%9B%9E-%E7%AB%B9%E5%AD%90%E9%BC%93%E8%93%9D%E5%85%891080P%E5%B0%8F%E6%84%8F%E5%90%88%E6%88%90%E7%89%88.mp4
+回到他们身边,http://video.kekedj.com/2020888/20200117/%E5%BC%B9%E6%80%A7%E8%B6%8A%E5%8D%97%E9%BC%93-%E8%BE%A3%E5%A6%B9%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%EF%BC%88%E5%9B%9E%E5%88%B0%E4%BB%96%E4%BB%AC%E8%BA%AB%E8%BE%B9-Hay%20Ve%20Vai%20Em%20(REMIX)%E5%8A%A8%E6%84%9Fdj%E8%88%9E%E6%9B%B2.mp4
+天涯共此时,http://video.kekedj.com/2020888/20200120/%E5%A5%BD%E5%90%AC%E7%9A%84%E7%A3%81%E6%80%A7%E5%A5%B3%E5%A3%B0-%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E6%97%B6-%E5%B7%B4%E5%9F%9F%E6%9C%A8%E7%89%88%E5%9B%BD%E9%99%85%E5%A8%B1%E4%B9%902019%E4%B8%AD%E7%A7%8B%E8%81%94%E6%AC%A2%E6%99%9A%E4%BC%9A.mp4
+往前走,http://video.kekedj.com/2020888/20200121/%E4%B8%80%E9%A6%96%E5%BE%88%E7%81%AB%E7%9A%84%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2-LIVE](%E5%BE%80%E5%89%8D%E8%B5%B0)-%E7%89%9B%E4%BB%94%E8%A3%A4%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E7%8E%B0%E5%9C%BA%E7%89%88.mp4
+曾经心痛,http://video.kekedj.com/2020888/20200117/%E8%B6%8A%E5%8D%97%E7%BF%BB%E5%94%B1%E4%B8%AD%E5%9B%BD%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2-%EF%BC%88%E6%9B%BE%E7%BB%8F%E5%BF%83%E7%97%9BNu%20Hong%20Mong%20Manh%20(Remix)%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E8%A7%86%E9%A2%91.mp4
+最后的温柔,http://video.kekedj.com/2020888/20200111/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E9%98%BF%E6%AD%A3%20-%20%E6%9C%80%E5%90%8E%E7%9A%84%E6%B8%A9%E6%9F%94HDMV%E8%93%9D%E5%85%891080P%E5%B0%8F%E6%84%8F%E5%90%88%E6%88%90%E7%89%88.mp4
+火红的萨日朗,http://video.kekedj.com/2020888/20200113/%E4%B8%AD%E5%9B%BD%E7%94%B5%E9%9F%B3%E8%8A%82-%E7%81%AB%E7%BA%A2%E7%9A%84%E8%90%A8%E6%97%A5%E6%9C%97-%E5%A4%9C%E5%BA%97%E5%A5%BD%E5%90%AC%E7%9A%84%E7%94%B5%E9%9F%B3Remix.mp4
+爱 Luy Tinh,http://video.kekedj.com/2020888/20200118/%E8%B6%8A%E5%8D%97%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C%E6%9B%B2-%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%EF%BC%88%E7%88%B1%20Luy%20Tinh%20(Remix)%20-%20%E6%9E%97%E6%98%ADLam%20Trieu%20Minh).mp4
+爱你今生到永远,http://video.kekedj.com/2020888/20200110/%E6%9C%80%E6%96%B0%E6%85%A2%E6%91%87DJ%E8%88%9E%E6%9B%B2-%E5%85%A8%E5%A5%B3%E5%A3%B0%E8%B6%85%E5%A5%BD%E5%90%AC(%E6%84%9F%E8%A7%89%E4%B8%8D%E4%BC%9A%E5%86%8D%E7%88%B1%E4%BA%86-%E7%88%B1%E4%BD%A0%E4%BB%8A%E7%94%9F%E5%88%B0%E6%B0%B8%E8%BF%9C-%E5%88%9A%E5%A5%BD%E9%81%87%E8%A7%81%E4%BD%A0%E6%85%A2%E6%91%87%E4%B8%B2%E7%83%A7.mp4
+爱情36度8,http://video.kekedj.com/2020888/20200109/DJ%E4%BD%95%E9%B9%8F&%E7%8E%8B%E9%A6%A8-%E7%88%B1%E6%83%8536%E5%BA%A68-HDMV%E7%BE%8E%E5%A5%B3%E6%80%A7%E6%84%9F%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+爱过的每一天,http://video.kekedj.com/2020888/20200116/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E5%85%AD%E5%93%B2-%E7%88%B1%E8%BF%87%E7%9A%84%E6%AF%8F%E4%B8%80%E5%A4%A91080P%E8%93%9D%E5%85%89HDMV%E6%B2%99%E6%BB%A9%E8%88%9E%E8%B9%88.mp4
+甜蜜的爱情,http://video.kekedj.com/2020888/20200109/%E9%9D%9E%E4%B8%BB%E6%B5%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E-Sweet%20La%20La%20Love%20Eurodance%EF%BC%88%E7%94%9C%E8%9C%9C%E7%9A%84%E7%88%B1%E6%83%85).mp4
+电音edm舞曲酒吧,http://video.kekedj.com/2020888/20200120/%E7%94%B5%E9%9F%B3edm%E8%88%9E%E6%9B%B2%E9%85%92%E5%90%A7-%E5%A4%9C%E5%BA%97%E7%BE%8E%E5%A5%B3%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91-DjArmReMix.mp4
+祈祷,http://video.kekedj.com/2020888/20200117/%E5%BC%B9%E6%80%A7%E8%B6%8A%E5%8D%97%E9%BC%93-%E8%BE%A3%E5%A6%B9%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%EF%BC%88%E7%A5%88%E7%A5%B7Loi%20Nguyen%20Cau%20(Remix)%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E8%A7%86%E9%A2%91.mp4
+花一样的姑娘,http://video.kekedj.com/2020888/20200113/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E7%AB%A5%E6%B3%A2-%E8%8A%B1%E4%B8%80%E6%A0%B7%E7%9A%84%E5%A7%91%E5%A8%98HDMV-1080P%E5%B0%8F%E6%84%8F%E5%88%B6%E4%BD%9C%E8%93%9D%E5%85%89%E7%89%88%E9%9F%A9%E5%9B%BD%E5%A5%B3%E7%89%B9%E5%B7%A5%E5%85%A5%E4%BE%B5%E8%88%9E%E8%B9%88%E7%AF%87.mp4
+迷路,http://video.kekedj.com/2020888/20200110/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91DJ%E4%BD%95%E9%B9%8F&%E8%8A%B3%E5%AD%90-%E8%BF%B7%E8%B7%AFHDMV%E8%93%9D%E5%85%891080P%E7%94%BB%E8%B4%A8%E9%AB%98%E7%A0%81%E7%89%88.mp4
+酒醉的蝴蝶,http://video.kekedj.com/2020888/20200108/%E6%8A%96%E9%9F%B3%E6%AD%8C%E6%9B%B2-%E5%AD%99%E8%89%BA%E7%90%AA-%E9%85%92%E9%86%89%E7%9A%84%E8%9D%B4%E8%9D%B6-%E5%A5%B3%E5%A3%B0%E7%89%88DJ%E7%89%88HDMV-%E5%B0%8F%E6%84%8F%E7%B2%BE%E5%8D%8E%E7%AF%87.mp4
+龙梅子情歌继续唱,http://video.kekedj.com/2020888/20200119/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E9%BE%99%E6%A2%85%E5%AD%90&%E5%86%B7%E6%BC%A0-%E6%83%85%E6%AD%8C%E7%BB%A7%E7%BB%AD%E5%94%B1HDMV-1080P%E8%93%9D%E5%85%89%E5%B0%8F%E6%84%8F%E5%88%B6%E4%BD%9C%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%9B%A2%E8%AF%95%E8%A1%A3%E5%8A%A8%E6%84%9F%E8%88%9E%E8%B9%88%E7%89%88.mp4
+爱情幻想,http://video.kekedj.com/2020888/20200101/%E8%BD%A6%E5%B1%95%E6%A8%A1%E7%89%B9DJ%E6%85%A2%E6%91%87%E8%A7%86%E9%A2%91-Fantasia%20De%20Amor%EF%BC%88%E7%88%B1%E6%83%85%E5%B9%BB%E6%83%B3%EF%BC%89-Dj-Min%20Remix.mp4
+NHAC DJ NONSTOP,http://video.kekedj.com/2020888/20200102/%E9%85%92%E5%90%A7%E5%97%A8%E6%9B%B2%E5%92%9A%E9%BC%93Vs%E8%B6%8A%E5%8D%97%E9%BC%93-%E6%80%A7%E6%84%9Fdj%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BANHAC%20DJ%20NONSTOP%202020.mp4#http://video.kekedj.com/20190215/mp4/20191211/%E8%B6%8A%E5%8D%97%E9%BC%93-%20NHAC%20DJ%20NONSTOP%202020%20-%20%E8%B6%85%E5%A5%BD%E5%90%AC2013dj%20%E5%8A%B2%E7%88%86%E8%B6%85%E5%97%A8%20%E5%A4%9C%E5%BA%97%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+CHAW REMIX,http://video.kekedj.com/2020888/20200103/DJ%20Katoy%20%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8CDJ%E8%88%9E%E8%B9%88%E9%9F%B3%E4%B9%90Party%202018%20-%20DJ%20CHAW%20REMIX%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+Katoy Party,http://video.kekedj.com/2020888/20200103/DJ%20Katoy%20Party%E7%BE%8E%E4%B8%BD%E7%9A%84DJ%E8%88%9E%E4%BC%9A-2018%20-%20DJ%20CHAW%20REMIX.mp4
+艾伦沃克,http://video.kekedj.com/2020888/20200102/%E5%A5%BD%E5%90%AC%E7%9A%84%E8%8B%B1%E6%96%87dj%E8%89%BE%E4%BC%A6%E6%B2%83%E5%85%8B%E8%88%9E%E6%9B%B2-%E9%85%92%E5%90%A7%E5%A4%9C%E5%BA%97%E8%BE%A3%E5%A6%B9%E6%80%A7%E6%84%9F%E8%AF%B1%E6%83%91%E7%83%AD%E8%88%9E%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91.mp4#http://video.kekedj.com/2020888/20200101/%E6%9C%80%E5%A5%BD%E5%90%AC%E7%9A%84%E7%94%B5%E9%9F%B3dj%E8%8B%B1%E6%96%87%E8%88%9E%E6%9B%B2-Alan%20Walker%20Mix%EF%BC%88%E8%89%BE%E4%BC%A6%E6%B2%83%E5%85%8B%EF%BC%892020-BASS%20Boosted%20%20EDM%20Melbourne%20Bounce%20%20Video%20Choreography%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EMV%20.mp4
+溢歌节,http://video.kekedj.com/2020888/20200102/%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8C%E8%8A%82%E5%A5%8F%E6%84%9F%E5%BC%BA%E7%9A%84%E8%88%9E%E6%9B%B2-%E6%BA%A2%E6%AD%8C%E8%8A%82%EF%BC%88%20Overflow%20Songkran%20Festival%EF%BC%89%E7%94%B5%E5%AD%90%E9%9F%B3%E4%B9%90%E8%8A%82-%E9%85%92%E5%90%A7dj%E6%89%93%E7%A2%9F%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91.mp4
+Vocal Deep,http://video.kekedj.com/2020888/20200101/%E7%99%BE%E5%A4%A7DJ%E7%B2%BE%E9%80%89%E8%88%9E%E6%9B%B2-%E6%B5%B7%E6%BB%A9%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E5%86%99%E7%9C%9F%E8%A7%86%E9%A2%91House%20Music%202019%20The%20Best%20Of%20Vocal%20Deep%20House%20Music%20Mix.mp4
+林中鸟,http://video.kekedj.com/2020888/20200101/%E5%8A%A8%E6%84%9F%E5%97%A8%E6%9B%B2%E3%80%8A%E6%9E%97%E4%B8%AD%E9%B8%9F%E3%80%8BDJ%E7%89%88%20%E5%B9%B4%E5%BA%A610%E5%A4%A7%E9%87%91%E6%9B%B2%20%E5%A4%9F%E5%97%A8%E5%B0%B1%E5%8D%95%E6%9B%B2%E5%BE%AA%E7%8E%AF%E5%90%A7.mp4
+Charlotte de Witte,http://video.kekedj.com/2020888/20200101/Charlotte%20de%20Witte%20%EF%BC%88%E5%A4%8F%E6%B4%9B%E7%89%B9%C2%B7%E5%BE%B7%E7%BB%B4%E7%89%B9%20%EF%BC%89-%E6%AF%94%E5%88%A9%E6%97%B6Tomorrowland%E7%94%B5%E5%AD%90%E9%9F%B3%E4%B9%90%E8%8A%82%E7%8B%82%E6%AC%A2%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E9%AB%98%E6%B8%85MV.mp4
+兄弟想你了,http://video.kekedj.com/20190215/mp4/20191231/%E8%BD%A6%E8%BD%BD%E5%97%A8%E6%9B%B2%E3%80%8A%E5%85%84%E5%BC%9F%E6%83%B3%E4%BD%A0%E4%BA%86%E3%80%8BDJ%E7%89%88%20%E6%9C%89%E5%85%84%E5%BC%9F%E7%9A%84%E9%83%BD%E8%AF%A5%E5%90%AC%E5%90%AC%20%E6%9E%9C%E6%96%AD%E6%94%B6%E8%97%8F.mp4
+Nonstop Vinahouse,http://video.kekedj.com/20190215/mp4/20191231/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2%20%E9%85%92%E5%90%A7%E8%A7%86%E9%A2%91%20%E5%A4%9C%E5%BA%97%E5%97%A8DJ%E6%9B%B2%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91%20-%20Nonstop%20Vinahouse%202020.mp4
+juicy M mashuping,http://video.kekedj.com/20190215/mp4/20191231/dj%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BA-Juicy%20M%20mashuping%20on%204%20CDJs.mp4
+失去才懂,http://video.kekedj.com/20190215/mp4/20191221/%E6%B5%8E%E9%98%B3DJ%E5%BF%83%E6%98%8E-%E6%AC%A7%E9%98%B3%E6%9C%B5%20-%20%E5%A4%B1%E5%8E%BB%E6%89%8D%E6%87%82.mp4
+少女时代,http://video.kekedj.com/20190215/mp4/20191220/Girls%20Generation%EF%BC%88%E5%B0%91%E5%A5%B3%E6%97%B6%E4%BB%A3%EF%BC%89%E9%9F%A9%E5%9B%BD%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%EF%BC%88PAPARAZZI%EF%BC%89%E9%9F%A9%E8%AF%AD%E6%AD%8C%E6%9B%B2%E7%BB%8F%E5%85%B8%20%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91.mp4
+G-DRAGON,http://video.kekedj.com/20190215/mp4/20191220/G-DRAGON%20-%20%E9%9F%A9%E5%9B%BDdj%E8%88%9E%E6%9B%B2%20%E8%B6%85%E5%8A%B2%E7%88%86(CROOKED)%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91.mp4
+可能否,http://video.kekedj.com/20190215/mp4/20191219/%E4%BA%94%E6%98%9F%E7%B2%BE%E5%93%81%E6%AD%8C%E6%9B%B2%E6%8E%A8%E8%8D%90%E3%80%8A%E5%8F%AF%E8%83%BD%E5%90%A6%E3%80%8BDJ%E7%89%88%20%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%9B%B2%20%E5%90%AC%E5%88%B0%E4%BA%BA%E9%86%89%E5%BF%83%E9%86%89%EF%BC%81.mp4
+Alan Walker EDM,http://video.kekedj.com/20190215/mp4/20191216/%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91Alan%20Walker%20EDM%20(Remix)%20BASS%20%20Shuffle%20Dance%20Music%20Video%20(Electro%20House).mp4
+Best Hits Of Arabic House Music By DJ Elon Matana,http://video.kekedj.com/20190215/mp4/20191216/%E7%99%BE%E5%A4%A7DJ%E7%B2%BE%E9%80%89%E8%88%9E%E6%9B%B2-%E5%A5%BD%E7%9A%84%E7%9A%84%E8%8B%B1%E6%96%87%E6%AD%8C%20%E5%92%8F%E8%A3%85%E6%B4%BE%E5%AF%B9%E7%8E%B0%E5%9C%BABest%20Hits%20Of%20Arabic%20House%20Music%20By%20DJ%20Elon%20Matana.mp4
+Best New Year Mix,http://video.kekedj.com/20190215/mp4/20191216/Best%20New%20Year%20Mix%202020%20-%E5%A5%BD%E5%90%AC%E7%9A%84%E8%8B%B1%E6%96%87djBest%20Remixes%20Of%20Popular%20Songs,%20EDM%20Drops.mp4
+Air Remixer,http://video.kekedj.com/20190215/mp4/20191214/%E9%85%92%E5%90%A7%E8%A7%86%E9%A2%91%20%E5%9C%A3%E8%AF%9E%E5%85%83%E6%97%A6%E6%AC%A2%E5%BF%AB%E6%B4%BE%E5%AF%B9%E4%B8%93%E5%9C%BA%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%20%E5%85%A8%E5%9C%BA%E8%B7%B3%E8%88%9E%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91Air%20Remixer.mp4
+越南夜店嗨DJ曲,http://video.kekedj.com/20190215/mp4/20191214/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2%20%E9%85%92%E5%90%A7%E8%A7%86%E9%A2%91%20%20%E5%A4%9C%E5%BA%97%E5%97%A8DJ%E6%9B%B2%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91.mp4
+Ciray Remix,http://video.kekedj.com/20190215/mp4/20191212/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E7%8E%B0%E5%9C%BA%E6%89%93%E7%A2%9F-%E9%9D%9E%E4%B8%BB%E6%B5%81dj%E8%88%9E%E6%9B%B2%E5%A4%9C%E5%BA%97%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91%20Ciray%20Remix.mp4
+DJ Best Club Party Dance Music Remixes,http://video.kekedj.com/20190215/mp4/20191212/%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BA%20%E5%A4%9C%E5%BA%97%E5%97%A8%E6%9B%B2DJ%20Best%20Club%20Party%20Dance%20Music%20Remixes%202019.mp4
+高级夜店现场,http://video.kekedj.com/20190215/mp4/20191211/%E9%AB%98%E7%BA%A7%E5%A4%9C%E5%BA%97%E7%8E%B0%E5%9C%BA%E7%83%AD%E8%88%9E%20%E6%B4%BE%E5%AF%B9%E7%8E%B0%E5%9C%BA%20%E9%AB%98%E6%B8%85%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91.mp4
+OA SNSD EXID,http://video.kekedj.com/20190215/mp4/20191211/%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%9B%A2%E5%8A%A8%E6%84%9F%E8%88%9E%E6%9B%B2AOA%20SNSD%20EXID%209MUSES%20Trance%20Electro%20House%20Trap%20Korea.mp4
+Party All Night Best Club Party Dance Music Remixe,http://video.kekedj.com/20190215/mp4/20191210/%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8Cdj%E6%8E%92%E8%A1%8C%E6%A6%9C%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BAParty%20All%20Night%20%20Best%20Club%20Party%20Dance%20Music%20Remixes.mp4
+百大dj音乐节,http://video.kekedj.com/20190215/mp4/20191206/%E7%99%BE%E5%A4%A7dj%E9%9F%B3%E4%B9%90%E8%8A%82Best%20Dirty%20Electro%20Bass%20Music%20biza%20Beach%20Party%20Megamix%20%20New%20Bounce%20&%20Bass%20Music%202018.mp4
+NST Vinamix Vol,http://video.kekedj.com/20190215/mp4/20191206/NST%20Vinamix%20Vol%E5%BC%B9%E6%80%A7%E8%B6%8A%E5%8D%97%E9%BC%93%20%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8Cdj%E7%89%88%20%E6%80%A7%E6%84%9Fdj%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9F%E5%85%A8%E5%9C%BA%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+DJ Thao Bebe,http://video.kekedj.com/20190215/mp4/20191206/DJ%20Thao%20Bebe-%E8%B6%8A%E5%8D%97%E9%BC%93dj%E7%B2%BE%E9%80%89%E7%94%B5%E9%9F%B3%20%E5%A4%A7%E8%83%B8%E7%BE%8E%E5%A5%B3DJ%E7%8E%B0%E5%9C%BA%E6%89%93%E7%A2%9F%E8%89%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+NONSTOP DJ1,http://video.kekedj.com/20190215/mp4/20191203/NONSTOP%20DJ%202019%20-%20%E8%B6%8A%E5%8D%97%E9%BC%93%E5%A4%9C%E5%BA%97%E9%85%92%E5%90%A7DJ%E8%A7%86%E9%A2%91-%E5%A4%A7%E8%83%B8%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BA%E8%AE%A9%E4%BD%A0%E5%97%A8%E7%BF%BB%E5%A4%A9%E6%9E%81%E5%93%81%E9%AB%98%E6%B8%85%E8%BD%A6%E8%BD%BD.mp4
+NONSTOP DJ2,http://video.kekedj.com/20190215/mp4/20191205/NONSTOP%20DJ%202020%20-%20%E7%94%B5%E9%9F%B3%E8%B6%8A%E5%8D%97%E9%BC%93%20%E9%85%92%E5%90%A7dj%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9F%20%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8Cdj%E8%A7%86%E9%A2%91.mp4
+情花朵朵开HDMV,http://video.kekedj.com/2020888/20200128/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E8%93%9D%E7%90%AA%E5%84%BF&%E5%A7%9A%E5%A4%A7-%E6%83%85%E8%8A%B1%E6%9C%B5%E6%9C%B5%E5%BC%80HDMV-%E5%B0%8F%E6%84%8F%E5%88%B6%E4%BD%9C1080P%E7%BA%A2%E7%B2%89%E5%A5%B3%E9%83%8E%E8%88%9E%E8%B9%88%E5%94%AF%E7%BE%8E%E7%AF%87.mp4
+心动女生APink,http://video.kekedj.com/2020888/20200128/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%9D%A8%E7%BD%A1%20-%20%E5%BF%83%E5%8A%A8%E5%A5%B3%E7%94%9FAPink%E5%B0%8F%E6%84%8F%E7%B2%BE%E4%BF%AEHDMV-1080P%E8%88%9E%E8%B9%88%E7%AF%87.mp4
+逝去的岁月HDMV,http://video.kekedj.com/2020888/20200201/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%B8%A9%E5%B7%9EDj%E5%B0%8F%E6%84%8F-%E9%80%9D%E5%8E%BB%E7%9A%84%E5%B2%81%E6%9C%88HDMV-1080P%E9%9B%86%E7%BB%93%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%9B%A2%E5%94%AF%E7%BE%8E%E7%AF%87.mp4
+Good Boy舞蹈模仿,http://video.kekedj.com/2020888/20200203/Good%20Boy%E8%88%9E%E8%B9%88%E6%A8%A1%E4%BB%BF-%E7%BB%8F%E5%85%B8%E8%8B%B1%E6%96%87%E6%AD%8C%E6%9B%B2-%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+Münchner Symphoniker,http://video.kekedj.com/2020888/20200203/Milk%20&%20Sugar-%E5%BE%B7%E5%9B%BD%E6%B5%A9%E5%AE%A4%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9C%E7%BB%84%E5%90%88-M%C3%BCnchner%20Symphoniker-Euphonica-%20One%20More%20Time.mp4
+The Paradise意大利,http://video.kekedj.com/2020888/20200203/Pop%E5%A5%B3%E5%AD%A9%E4%B9%90%E9%98%9F-Dj%20Kramnik-K-Pop%20Girl%20Bands-The%20Paradise%20%E6%84%8F%E5%A4%A7%E5%88%A9%E8%BF%AA%E6%96%AF%E7%A7%91]%E7%BE%8E%E5%A5%B3%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+红昭愿HDMV,http://video.kekedj.com/2020888/20200203/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%B8%A9%E5%B7%9EDj%E5%B0%8F%E6%84%8F--%E9%9F%B3%E9%98%99%E8%AF%97%E5%90%AC&%E7%8E%8B%E6%A2%93%E9%92%B0-%E7%BA%A2%E6%98%AD%E6%84%BFHDMV-1080P%E7%BE%A4%E4%BC%97%E5%9B%B4%E8%A7%82%E8%88%9E%E8%B9%88%E7%AF%87.mp4
+Nac Ke Tiktok Remix,http://video.kekedj.com/2020888/20200203/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2-%E5%BC%B9%E6%80%A7%E8%B6%8A%E5%8D%97%E9%BC%93-%E6%B7%B7%E9%9F%B3%E6%AD%8C%E6%9B%B2-%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8C%E8%8A%82%E5%A5%8F%E6%84%9F%E5%BC%BA%E7%9A%84%E8%88%9E%E6%9B%B2-Nac%20Ke%20Tiktok%20Remix.mp4
+处处吻1080P,http://video.kekedj.com/2020888/20200204/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%B8%A9%E5%B7%9EDj%E5%B0%8F%E6%84%8F--%E6%9D%A8%E5%8D%83%E6%A1%A6(%E7%B2%A4%E8%AF%AD)%20-%20%E5%A4%84%E5%A4%84%E5%90%BB1080P-%E9%9F%A9%E7%89%88%E8%88%9E%E8%B9%88HDMV.mp4
+越南胸美女,http://video.kekedj.com/2020888/20200204/%E8%B6%8A%E5%8D%97%E9%9F%B3%E4%B9%90-%E5%A4%A7%E8%83%B8%E7%BE%8E%E5%A5%B3DJ%E7%8E%B0%E5%9C%BA%E6%89%93%E7%A2%9F%20%E9%85%92%E5%90%A7%E5%96%8A%E9%BA%A6%20%E5%A4%9C%E5%BA%97%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+低清摇Steady Bom,http://video.kekedj.com/2020888/20200205/%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8Cdj-K%E4%BD%AC-%E4%BD%8E%E6%B8%85%E6%91%87%20V3%20Steady%20Bom%20%E5%93%94%E5%93%94-%E5%A4%A7%E8%83%B8%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BA%E8%AE%A9%E4%BD%A0%E5%97%A8%E7%BF%BB%E5%A4%A9%E6%9E%81%E5%93%81%E9%AB%98%E6%B8%85%E8%BD%A6%E8%BD%BD%E6%91%87%E5%A4%B4%E4%B8%B2%E7%83%A7by%20DJMelbourne.mp4
+泰语电音EDM,http://video.kekedj.com/2020888/20200205/%E5%A5%BD%E5%90%AC%E7%9A%84%E6%B3%B0%E8%AF%AD%E6%AD%8C%E6%9B%B2-%E5%8A%B2%E7%88%86%E7%94%B5%E9%9F%B3dj%E8%88%9E%E6%9B%B2EDM%202020-%E7%BE%8E%E5%A5%B3DJ%E7%8E%B0%E5%9C%BA%E6%89%93%E7%A2%9F%E8%A7%86%E9%A2%91.mp4
+泰国乐队现场,http://video.kekedj.com/2020888/20200205/%E8%B6%85%E7%BA%A7%E5%A5%BD%E5%90%AC%E7%9A%84%E6%B3%B0%E5%9B%BD%E6%AD%8C%E6%9B%B2-%E4%B9%90%E9%98%9F%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94.mp4
+妮玉 Kim Ny Ngoc - 好听的越南民族歌曲,http://video.kekedj.com/2020888/20200207/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2-%E9%87%91%E5%A6%AE%E7%8E%89%20Kim%20Ny%20Ngoc%20-%20%E5%A5%BD%E5%90%AC%E7%9A%84%E8%B6%8A%E5%8D%97%E6%B0%91%E6%97%8F%E6%AD%8C%E6%9B%B2-%E8%B6%85%E7%9F%AD%E8%A3%99%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+互相问候Hoi Tham Nhau（黎宝平）,http://video.kekedj.com/2020888/20200207/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2-%E8%B6%8A%E5%8D%97%E9%BC%93-%E4%BA%92%E7%9B%B8%E9%97%AE%E5%80%99Hoi%20Tham%20Nhau%EF%BC%88%E9%BB%8E%E5%AE%9D%E5%B9%B3%EF%BC%89%E7%8E%B0%E5%9C%BA%E7%BE%8E%E5%A5%B3%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+3号,http://em.21dtv.com/songs/60110002.mkv
+2号,http://em.21dtv.com/songs/60110001.mkv
+1号,http://em.21dtv.com/songs/60110000.mkv
+4号,http://em.21dtv.com/songs/60110003.mkv
+7号,http://em.21dtv.com/songs/60110006.mkv
+5号,http://em.21dtv.com/songs/60110004.mkv
+8号,http://em.21dtv.com/songs/60110007.mkv
+6号,http://em.21dtv.com/songs/60110005.mkv
+9号,http://em.21dtv.com/songs/60110008.mkv
+10号,http://em.21dtv.com/songs/60110009.mkv
+12号,http://em.21dtv.com/songs/60110011.mkv
+13号,http://em.21dtv.com/songs/60110012.mkv
+11号,http://em.21dtv.com/songs/60110010.mkv
+14号,http://em.21dtv.com/songs/60110013.mkv
+16号,http://em.21dtv.com/songs/60110015.mkv
+17号,http://em.21dtv.com/songs/60110016.mkv
+15号,http://em.21dtv.com/songs/60110014.mkv
+18号,http://em.21dtv.com/songs/60110017.mkv
+21号,http://em.21dtv.com/songs/60110020.mkv
+19号,http://em.21dtv.com/songs/60110018.mkv
+20号,http://em.21dtv.com/songs/60110019.mkv
+22号,http://em.21dtv.com/songs/60110021.mkv
+23号,http://em.21dtv.com/songs/60110022.mkv
+24号,http://em.21dtv.com/songs/60110023.mkv
+25号,http://em.21dtv.com/songs/60110024.mkv
+26号,http://em.21dtv.com/songs/60110025.mkv
+27号,http://em.21dtv.com/songs/60110026.mkv
+28号,http://em.21dtv.com/songs/60110027.mkv
+29号,http://em.21dtv.com/songs/60110028.mkv
+31号,http://em.21dtv.com/songs/60110030.mkv
+32号,http://em.21dtv.com/songs/60110031.mkv
+34号,http://em.21dtv.com/songs/60110033.mkv
+33号,http://em.21dtv.com/songs/60110032.mkv
+36号,http://em.21dtv.com/songs/60110035.mkv
+35号,http://em.21dtv.com/songs/60110034.mkv
+30号,http://em.21dtv.com/songs/60110029.mkv
+37号,http://em.21dtv.com/songs/60110036.mkv
+38号,http://em.21dtv.com/songs/60110037.mkv
+39号,http://em.21dtv.com/songs/60110038.mkv
+41号,http://em.21dtv.com/songs/60110040.mkv
+40号,http://em.21dtv.com/songs/60110039.mkv
+42号,http://em.21dtv.com/songs/60110041.mkv
+43号,http://em.21dtv.com/songs/60110042.mkv
+44号,http://em.21dtv.com/songs/60110043.mkv
+46号,http://em.21dtv.com/songs/60110045.mkv
+45号,http://em.21dtv.com/songs/60110044.mkv
+47号,http://em.21dtv.com/songs/60110046.mkv
+48号,http://em.21dtv.com/songs/60110047.mkv
+49号,http://em.21dtv.com/songs/60110048.mkv
+50号,http://em.21dtv.com/songs/60110049.mkv
+52号,http://em.21dtv.com/songs/60110051.mkv
+51号,http://em.21dtv.com/songs/60110050.mkv
+53号,http://em.21dtv.com/songs/60110052.mkv
+54号,http://em.21dtv.com/songs/60110053.mkv
+56号,http://em.21dtv.com/songs/60110055.mkv
+57号,http://em.21dtv.com/songs/60110056.mkv
+55号,http://em.21dtv.com/songs/60110054.mkv
+59号,http://em.21dtv.com/songs/60110058.mkv
+58号,http://em.21dtv.com/songs/60110057.mkv
+60号,http://em.21dtv.com/songs/60110059.mkv
+62号,http://em.21dtv.com/songs/60110061.mkv
+61号,http://em.21dtv.com/songs/60110060.mkv
+63号,http://em.21dtv.com/songs/60110062.mkv
+67号,http://em.21dtv.com/songs/60110066.mkv
+66号,http://em.21dtv.com/songs/60110065.mkv
+64号,http://em.21dtv.com/songs/60110063.mkv
+65号,http://em.21dtv.com/songs/60110064.mkv
+68号,http://em.21dtv.com/songs/60110067.mkv
+71号,http://em.21dtv.com/songs/60110070.mkv
+70号,http://em.21dtv.com/songs/60110069.mkv
+72号,http://em.21dtv.com/songs/60110071.mkv
+73号,http://em.21dtv.com/songs/60110072.mkv
+69号,http://em.21dtv.com/songs/60110068.mkv
+74号,http://em.21dtv.com/songs/60110073.mkv
+76号,http://em.21dtv.com/songs/60110075.mkv
+75号,http://em.21dtv.com/songs/60110074.mkv
+77号,http://em.21dtv.com/songs/60110076.mkv
+78号,http://em.21dtv.com/songs/60110077.mkv
+79号,http://em.21dtv.com/songs/60110078.mkv
+81号,http://em.21dtv.com/songs/60110080.mkv
+80号,http://em.21dtv.com/songs/60110079.mkv
+82号,http://em.21dtv.com/songs/60110081.mkv
+83号,http://em.21dtv.com/songs/60110082.mkv
+84号,http://em.21dtv.com/songs/60110083.mkv
+85号,http://em.21dtv.com/songs/60110084.mkv
+86号,http://em.21dtv.com/songs/60110085.mkv
+87号,http://em.21dtv.com/songs/60110086.mkv
+88号,http://em.21dtv.com/songs/60110087.mkv
+89号,http://em.21dtv.com/songs/60110088.mkv
+90号,http://em.21dtv.com/songs/60110089.mkv
+91号,http://em.21dtv.com/songs/60110090.mkv
+92号,http://em.21dtv.com/songs/60110091.mkv
+93号,http://em.21dtv.com/songs/60110092.mkv
+95号,http://em.21dtv.com/songs/60110094.mkv
+94号,http://em.21dtv.com/songs/60110093.mkv
+96号,http://em.21dtv.com/songs/60110095.mkv
+97号,http://em.21dtv.com/songs/60110096.mkv
+98号,http://em.21dtv.com/songs/60110097.mkv
+99号,http://em.21dtv.com/songs/60110098.mkv
+100号,http://em.21dtv.com/songs/60110099.mkv
+101号,http://em.21dtv.com/songs/60110100.mkv
+102号,http://em.21dtv.com/songs/60110101.mkv
+103号,http://em.21dtv.com/songs/60110102.mkv
+104号,http://em.21dtv.com/songs/60110103.mkv
+105号,http://em.21dtv.com/songs/60110104.mkv
+106号,http://em.21dtv.com/songs/60110105.mkv
+107号,http://em.21dtv.com/songs/60110106.mkv
+108号,http://em.21dtv.com/songs/60110107.mkv
+109号,http://em.21dtv.com/songs/60110108.mkv
+110号,http://em.21dtv.com/songs/60110109.mkv
+113号,http://em.21dtv.com/songs/60110112.mkv
+111号,http://em.21dtv.com/songs/60110110.mkv
+112号,http://em.21dtv.com/songs/60110111.mkv
+114号,http://em.21dtv.com/songs/60110113.mkv
+117号,http://em.21dtv.com/songs/60110116.mkv
+115号,http://em.21dtv.com/songs/60110114.mkv
+118号,http://em.21dtv.com/songs/60110117.mkv
+120号,http://em.21dtv.com/songs/60110119.mkv
+116号,http://em.21dtv.com/songs/60110115.mkv
+119号,http://em.21dtv.com/songs/60110118.mkv
+122号,http://em.21dtv.com/songs/60110121.mkv
+121号,http://em.21dtv.com/songs/60110120.mkv
+123号,http://em.21dtv.com/songs/60110122.mkv
+125号,http://em.21dtv.com/songs/60110124.mkv
+124号,http://em.21dtv.com/songs/60110123.mkv
+126号,http://em.21dtv.com/songs/60110125.mkv
+127号,http://em.21dtv.com/songs/60110126.mkv
+129号,http://em.21dtv.com/songs/60110128.mkv
+128号,http://em.21dtv.com/songs/60110127.mkv
+131号,http://em.21dtv.com/songs/60110130.mkv
+130号,http://em.21dtv.com/songs/60110129.mkv
+133号,http://em.21dtv.com/songs/60110132.mkv
+132号,http://em.21dtv.com/songs/60110131.mkv
+134号,http://em.21dtv.com/songs/60110133.mkv
+135号,http://em.21dtv.com/songs/60110134.mkv
+136号,http://em.21dtv.com/songs/60110135.mkv
+137号,http://em.21dtv.com/songs/60110136.mkv
+138号,http://em.21dtv.com/songs/60110137.mkv
+139号,http://em.21dtv.com/songs/60110138.mkv
+141号,http://em.21dtv.com/songs/60110140.mkv
+140号,http://em.21dtv.com/songs/60110139.mkv
+143号,http://em.21dtv.com/songs/60110142.mkv
+142号,http://em.21dtv.com/songs/60110141.mkv
+144号,http://em.21dtv.com/songs/60110143.mkv
+147号,http://em.21dtv.com/songs/60110146.mkv
+145号,http://em.21dtv.com/songs/60110144.mkv
+146号,http://em.21dtv.com/songs/60110145.mkv
+151号,http://em.21dtv.com/songs/60110150.mkv
+149号,http://em.21dtv.com/songs/60110148.mkv
+148号,http://em.21dtv.com/songs/60110147.mkv
+150号,http://em.21dtv.com/songs/60110149.mkv
+155号,http://em.21dtv.com/songs/60110154.mkv
+152号,http://em.21dtv.com/songs/60110151.mkv
+154号,http://em.21dtv.com/songs/60110153.mkv
+153号,http://em.21dtv.com/songs/60110152.mkv
+157号,http://em.21dtv.com/songs/60110156.mkv
+156号,http://em.21dtv.com/songs/60110155.mkv
+159号,http://em.21dtv.com/songs/60110158.mkv
+158号,http://em.21dtv.com/songs/60110157.mkv
+162号,http://em.21dtv.com/songs/60110161.mkv
+160号,http://em.21dtv.com/songs/60110159.mkv
+161号,http://em.21dtv.com/songs/60110160.mkv
+163号,http://em.21dtv.com/songs/60110162.mkv
+164号,http://em.21dtv.com/songs/60110163.mkv
+165号,http://em.21dtv.com/songs/60110164.mkv
+166号,http://em.21dtv.com/songs/60110165.mkv
+167号,http://em.21dtv.com/songs/60110166.mkv
+169号,http://em.21dtv.com/songs/60110168.mkv
+168号,http://em.21dtv.com/songs/60110167.mkv
+172号,http://em.21dtv.com/songs/60110171.mkv
+173号,http://em.21dtv.com/songs/60110172.mkv
+170号,http://em.21dtv.com/songs/60110169.mkv
+174号,http://em.21dtv.com/songs/60110173.mkv
+171号,http://em.21dtv.com/songs/60110170.mkv
+175号,http://em.21dtv.com/songs/60110174.mkv
+176号,http://em.21dtv.com/songs/60110175.mkv
+177号,http://em.21dtv.com/songs/60110176.mkv
+179号,http://em.21dtv.com/songs/60110178.mkv
+180号,http://em.21dtv.com/songs/60110179.mkv
+178号,http://em.21dtv.com/songs/60110177.mkv
+181号,http://em.21dtv.com/songs/60110180.mkv
+182号,http://em.21dtv.com/songs/60110181.mkv
+184号,http://em.21dtv.com/songs/60110183.mkv
+186号,http://em.21dtv.com/songs/60110185.mkv
+183号,http://em.21dtv.com/songs/60110182.mkv
+185号,http://em.21dtv.com/songs/60110184.mkv
+187号,http://em.21dtv.com/songs/60110186.mkv
+190号,http://em.21dtv.com/songs/60110189.mkv
+188号,http://em.21dtv.com/songs/60110187.mkv
+191号,http://em.21dtv.com/songs/60110190.mkv
+189号,http://em.21dtv.com/songs/60110188.mkv
+192号,http://em.21dtv.com/songs/60110191.mkv
+193号,http://em.21dtv.com/songs/60110192.mkv
+194号,http://em.21dtv.com/songs/60110193.mkv
+195号,http://em.21dtv.com/songs/60110194.mkv
+196号,http://em.21dtv.com/songs/60110195.mkv
+199号,http://em.21dtv.com/songs/60110198.mkv
+197号,http://em.21dtv.com/songs/60110196.mkv
+198号,http://em.21dtv.com/songs/60110197.mkv
+200号,http://em.21dtv.com/songs/60110199.mkv
+
+
+
+舞曲泳装,#genre#
+听不完的情歌流不完的泪,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-01%2F%5BAvi%5D%E5%90%AC%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%83%85%E6%AD%8C%E6%B5%81%E4%B8%8D%E5%AE%8C%E7%9A%84%E6%B3%AA_%E9%AB%98%E8%BF%9B_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+拥抱你离去,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-01%2F%5BAvi%5D%E6%8B%A5%E6%8A%B1%E4%BD%A0%E7%A6%BB%E5%8E%BB_%E5%BC%A0%E5%8C%97%E5%8C%97_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+擦肩而过,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%AE%81%E6%A1%90%E9%9D%9E_%E6%93%A6%E8%82%A9%E8%80%8C%E8%BF%87_%E5%BF%83%E6%98%8E_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+多年以后,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-06%2F2019-06-24%2F%5BMp4%5D%E5%A4%9A%E5%B9%B4%E4%BB%A5%E5%90%8E_%E5%A4%A7%E6%AC%A2_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E6%B4%BE%E5%AF%B9DJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+别说我的眼泪无所谓,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E9%9B%B7%E5%A9%B7_%E5%88%AB%E8%AF%B4%E6%88%91%E7%9A%84%E7%9C%BC%E6%B3%AA%E6%97%A0%E6%89%80%E8%B0%93_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+落泪成河,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E8%90%BD%E6%B3%AA%E6%88%90%E6%B2%B3_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+你知道我在等你吗,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E7%9F%A5%E9%81%93%E6%88%91%E5%9C%A8%E7%AD%89%E4%BD%A0%E5%90%97_%E7%99%BD%E7%99%BE%E4%BD%95_%E8%BE%B0%E5%AE%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+谁会记得,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-17%2F%5BAvi%5D%E8%B0%81%E4%BC%9A%E8%AE%B0%E5%BE%97_%E5%85%AD%E5%93%B2_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+相信我没错,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E8%89%B3%E8%88%9E_%E7%9B%B8%E4%BF%A1%E6%88%91%E6%B2%A1%E6%9C%89%E9%94%99_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+好兄弟今生一起走,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-17%2F%5BAvi%5D%E5%A5%BD%E5%85%84%E5%BC%9F%E4%BB%8A%E7%94%9F%E4%B8%80%E8%B5%B7%E8%B5%B0_%E8%92%8B%E4%B8%80%E8%B1%AA_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+我就是我,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-20%2F%5BAvi%5D%E6%88%91%E5%B0%B1%E6%98%AF%E6%88%91dj_%E7%A7%8B%E8%A3%A4%E5%A4%A7%E5%8F%94_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+完美人生,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-20%2F%5BAvi%5D%E5%AE%8C%E7%BE%8E%E4%BA%BA%E7%94%9F_%E9%99%88%E7%8E%89%E5%BB%BA_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+一万次悲伤,http://listen.9sing.cn/%2F2020%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2F2020-03%2F2020-03-11%2F%5BMp4%5D%E5%BE%90%E6%AD%8C%E9%98%B3-%E4%B8%80%E4%B8%87%E6%AC%A1%E6%82%B2%E4%BC%A4%E8%BD%A6%E8%BD%BDDJ%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+如何掉眼泪,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-04%2F%E5%A6%82%E4%BD%95%E6%8E%89%E7%9C%BC%E6%B3%AA-%E9%83%91%E7%A7%80%E6%96%87-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E8%BD%A6%E5%B1%95%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+解药,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-04%2F%E8%A7%A3%E8%8D%AF-%E5%AD%99%E7%B4%AB%E6%99%B4-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E8%BD%A6%E5%B1%95%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+纸短情长,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-04%2F2018-04-28%2F%E7%BA%B8%E7%9F%AD%E6%83%85%E9%95%BF-%E7%83%9F%E6%8A%8A%E5%84%BF%E4%B9%90%E9%98%9F-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E8%BD%A6%E6%A8%A1%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+寂寞在唱歌,http://listen.9sing.cn/%2F2020%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2F2020-03%2F2020-03-11%2F%5BMp4%5D%E9%98%BF%E6%A1%91-%E5%AF%82%E5%AF%9E%E5%9C%A8%E5%94%B1%E6%AD%8C%E8%BD%A6%E8%BD%BDDJ%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E8%BD%A6%E5%B1%95DJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+我的滑扳鞋,http://listen.9sing.cn/%2F2020%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2F2020-03%2F2020-03-11%2F%5BMp4%5D%E6%88%91%E7%9A%84%E6%BB%91%E6%9D%BF%E9%9E%8B-%E5%8D%8E%E6%99%A8%E5%AE%87-%E8%BD%A6%E8%BD%BDDJ%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9FDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+让我留在你身边,http://listen.9sing.cn/%2F2020%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2F2020-03%2F2020-03-11%2F%5BMp4%5D%E8%AE%A9%E6%88%91%E7%95%99%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9-%E9%99%88%E5%A5%95%E8%BF%85-%E8%BD%A6%E8%BD%BDDJ%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9FDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4#http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-05%2F2018-05-28%2F%E8%AE%A9%E6%88%91%E7%95%99%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9-%E8%94%A1%E4%BD%A9%E8%BB%92-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+断桥残雪,http://listen.9sing.cn/%2F2020%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2F2020-03%2F2020-03-11%2F%5BMp4%5D%E8%AE%B8%E5%B5%A9%E2%80%94%E6%96%AD%E6%A1%A5%E6%AE%8B%E9%9B%AA-%E8%BD%A6%E8%BD%BDDJ%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+最伤心的人,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-05%2F2018-05-28%2F%E6%9C%80%E4%BC%A4%E5%BF%83%E7%9A%84%E4%BA%BA%28Dj%E4%BD%95%E9%B9%8F%29-%E5%A4%A7%E5%93%B2-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+下辈子我要找到你,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-11%2F2018-11-20%2F%5BAvi%5D%E4%B8%8B%E8%BE%88%E5%AD%90%E4%B9%9F%E8%A6%81%E6%89%BE%E5%88%B0%E4%BD%A0_%E5%AD%99%E9%9C%B2_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+秀场姑娘,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-25%2F%5BAvi%5D%E7%A7%80%E5%9C%BA%E5%A7%91%E5%A8%98_%E9%82%B5%E6%B4%AA_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+爱她不能伤害你,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-25%2F%5BAvi%5D%E7%88%B1%E7%9D%80%E5%A5%B9%E5%8F%88%E4%B8%8D%E8%83%BD%E4%BC%A4%E5%AE%B3%E4%BD%A0_%E7%8E%8B%E5%B3%B0_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+流连似水,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-25%2F%5BAvi%5D%E6%B5%81%E5%B9%B4%E4%BC%BC%E6%B0%B4_%E8%AE%B8%E5%85%88_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+柔柔的眼柔柔的你,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-25%2F%5BAvi%5D%E6%9F%94%E6%9F%94%E7%9A%84%E7%9C%BC%E6%B3%A2%E6%9F%94%E6%9F%94%E7%9A%84%E4%BD%A0_%E6%98%9F%E6%9C%88%E7%BB%84%E5%90%88_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+戒烟,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-25%2F%5BAvi%5D%E6%88%92%E7%83%9F_%E7%BA%AA%E6%99%93%E5%B2%9Avs%E9%98%BF%E6%9D%83_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+傻女人,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-25%2F%5BAvi%5D%E5%82%BB%E5%A5%B3%E4%BA%BA_%E5%88%98%E8%8E%89_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+分手就分手,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-01%2F%5BAvi%5D%E5%88%86%E6%89%8B%E5%B0%B1%E5%88%86%E6%89%8B_%E4%B8%9C%E6%9D%A5%E4%B8%9C%E5%BE%80vs%E5%B0%8F%E5%B1%B1_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+当你老了,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-05%2F2018-05-30%2F%E5%BD%93%E4%BD%A0%E8%80%81%E4%BA%86-%E9%AB%98%E5%A4%AB-%E6%B1%BD%E8%BD%A6%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+胜过你爱我,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-07%2F2018-07-03%2F%E6%88%91%E7%88%B1%E4%BD%A0%E8%83%9C%E8%BF%87%E4%BD%A0%E7%88%B1%E6%88%91-%E5%86%B7%E6%BC%A0Vs%E6%9D%A8%E5%B0%8F%E6%9B%BC-%E8%BD%A6%E8%BD%BD%E7%B2%BE%E5%93%81DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+小三遇到小四,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-07%2F2018-07-03%2F%E5%BD%93%E5%B0%8F%E4%B8%89%E9%81%87%E4%B8%8A%E5%B0%8F%E5%9B%9B-%E5%B8%B8%E7%AC%91-%E8%BD%A6%E8%BD%BD%E7%B2%BE%E5%93%81DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+伤心的人唱着寂寞的歌,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-07%2F2018-07-05%2F%E4%BC%A4%E5%BF%83%E7%9A%84%E4%BA%BA%E5%94%B1%E7%9D%80%E5%AF%82%E5%AF%9E%E7%9A%84%E6%AD%8C-%E9%A9%AC%E5%BB%BA%E5%86%9B-%E8%BD%A6%E8%BD%BD%E7%B2%BE%E5%93%81DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+分手不会哭,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-08%2F%5BAvi%5D%E8%AF%B4%E5%A5%BD%E5%88%86%E6%89%8B%E4%B8%8D%E4%BC%9A%E5%93%AD_%E7%8E%8B%E6%98%93%E9%98%B3%5BDJ%E4%BD%95%E9%B9%8F_Mix%5D_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+没钱的男人没人爱,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E6%B2%A1%E9%92%B1%E7%9A%84%E7%94%B7%E4%BA%BA%E6%B2%A1%E4%BA%BA%E7%88%B1_%E9%AB%98%E5%B0%91%E5%8D%8E_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+你十分泪七分,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-01%2F%5BAvi%5D%E7%88%B1%E4%BD%A0%E5%8D%81%E5%88%86%E6%B3%AA%E4%B8%83%E5%88%86_%E9%9B%B7%E5%A9%B7_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+我的唇吻不到我爱的人,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E6%88%91%E7%9A%84%E5%94%87%E5%90%BB%E4%B8%8D%E5%88%B0%E6%88%91%E7%88%B1%E7%9A%84%E4%BA%BA_%E7%8E%8B%E5%A5%95%E5%BF%83_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+一见钟情,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-11%2F2018-11-20%2F%5BAvi%5D%E4%B8%80%E8%A7%81%E9%92%9F%E6%83%85_%E7%BA%A2%E7%A6%B9_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+西海情歌,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-11%2F2018-11-20%2F%5BAvi%5D%E8%A5%BF%E6%B5%B7%E6%83%85%E6%AD%8C_%E9%99%88%E6%B6%93_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+流着泪说分手,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-10%2F2018-10-29%2F%5BAvi%5D%E6%B5%81%E7%9D%80%E6%B3%AA%E8%AF%B4%E5%88%86%E6%89%8B_%E5%BC%A0%E7%91%B6_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+听着情歌流泪,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-09%2F2018-09-30%2F%5BAvi%5D%E5%90%AC%E7%9D%80%E6%83%85%E6%AD%8C%E6%B5%81%E7%9C%BC%E6%B3%AA-%E9%AB%98%E8%BF%9B-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+分手后我该怎么过,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%88%86%E6%89%8B%E5%90%8E%E6%88%91%E8%AF%A5%E6%80%8E%E4%B9%88%E8%BF%87_%E5%94%90%E5%8F%A4_DJ%E8%BE%B0%E5%AE%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+如果爱人受了伤,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%A6%82%E6%9E%9C%E7%88%B1%E4%BA%BA%E5%8F%97%E4%BA%86%E4%BC%A4dj_%E8%B5%B5%E7%9C%9F_%E5%BF%83%E6%98%8E_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+死心塌地去爱,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%AD%BB%E5%BF%83%E5%A1%8C%E5%9C%B0%E5%8E%BB%E7%88%B1%E4%BD%A0_%E9%97%A8%E4%B8%BD_%E8%BE%B0%E5%AE%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+会哭的人不一定流泪,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-09%2F2018-09-19%2F%E4%BC%9A%E5%93%AD%E7%9A%84%E4%BA%BA%E4%B8%8D%E4%B8%80%E5%AE%9A%E6%B5%81%E6%B3%AA-%E9%9B%A8%E5%A4%A9-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+今天你要嫁给我,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-09%2F2018-09-19%2F%E4%BB%8A%E5%A4%A9%E4%BD%A0%E8%A6%81%E5%AB%81%E7%BB%99%E6%88%91-%E8%94%A1%E4%BE%9D%E6%9E%97VS%E9%99%B6%E5%96%86-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+九百九十朵玫瑰,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-09%2F2018-09-08%2F%E4%B9%9D%E7%99%BE%E4%B9%9D%E5%8D%81%E4%B9%9D%E6%9C%B5%E7%8E%AB%E7%91%B0-%E9%82%B0%E6%AD%A3%E5%AE%B5-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+上辈子你也是我的新娘,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E4%B8%8A%E8%BE%88%E5%AD%90%E4%BD%A0%E4%B9%9F%E6%98%AF%E6%88%91%E7%9A%84%E6%96%B0%E5%A8%98_%E6%9B%B9%E9%BE%99_DJ%E8%BE%B0%E5%AE%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+哥哥今年三十多,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-08%2F2018-08-22%2F%E5%93%A5%E5%93%A5%E4%BB%8A%E5%B9%B4%E4%B8%89%E5%8D%81%E5%A4%9A-%E9%9D%96%E5%93%A5%E5%93%A5-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+只想让你知道,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-09%2F2018-09-08%2F%E5%8F%AA%E6%83%B3%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93-%E9%99%88%E7%91%9E-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+贝加尔湖畔,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%9D%8E%E5%BB%BA_%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96%E7%95%94_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+新郎不是我新娘我爱过,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%96%B0%E9%83%8E%E4%B8%8D%E6%98%AF%E6%88%91_%E6%96%B0%E5%A8%98%E6%88%91%E7%88%B1%E8%BF%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+情歌如何唱,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%83%85%E6%AD%8C%E5%A6%82%E4%BD%95%E5%94%B1_%E5%94%90%E5%8F%A4_%E8%BE%B0%E5%AE%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+挥马鞭,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%8C%A5%E9%A9%AC%E9%9E%AD_%E8%93%9D%E7%90%AA%E5%84%BF_DJ%E8%BE%B0%E5%AE%87_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+两个人回忆一个人过,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-08%2F2018-08-19%2F%E4%B8%A4%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%9B%9E%E5%BF%86%E4%B8%80%E4%B8%AA%E4%BA%BA%E8%BF%87-%E5%BA%84%E5%BF%83%E5%A6%8D-%E6%B1%BD%E8%BD%A6%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+相思桃花雨,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-08%2F2018-08-22%2F%E7%9B%B8%E6%80%9D%E6%A1%83%E8%8A%B1%E9%9B%A8-%E5%BC%A0%E5%AE%B6%E6%88%90-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E4%B8%9D%E8%A2%9C%E5%86%99%E7%9C%9F%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+哥哥你别忘了我,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%93%A5%E5%93%A5%E4%BD%A0%E5%88%AB%E5%BF%98%E4%BA%86%E6%88%91_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+爱如星火,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-08%2F%5BAvi%5D%E7%88%B1%E5%A6%82%E6%98%9F%E7%81%AB_%E5%86%B7%E6%BC%A0vs%E6%9D%A8%E5%B0%8F%E6%9B%BC_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E8%BD%A6%E6%A8%A1%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+叫一声二奶奶,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-24%2F%5BAvi%5D%E5%8F%AB%E4%B8%80%E5%A3%B0%E4%BA%8C%E5%A5%B6%E5%A5%B6_%E8%B5%B5%E5%B0%8F%E5%85%B5Vs%E5%8F%B8%E5%BE%92%E5%85%B0%E8%8A%B3%28Dj%E4%BD%95%E9%B9%8F%29_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+有点甜,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E6%9C%89%E7%82%B9%E7%94%9C_By2_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+带你去旅行,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-08%2F2018-08-03%2F%E5%B8%A6%E4%BD%A0%E5%8E%BB%E6%97%85%E8%A1%8C-%E5%86%AF%E6%8F%90%E8%8E%AB-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+别再用眼泪欺负我,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%88%AB%E5%86%8D%E7%94%A8%E7%9C%BC%E6%B3%AA%E6%AC%BA%E9%AA%97%E6%88%91_%E5%BF%83%E6%98%8E_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+流着眼泪再见,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-12%2F%E6%B5%81%E7%9D%80%E6%B3%AA%E8%AF%B4%E5%86%8D%E8%A7%81-%E5%BA%84%E5%BF%83%E5%A6%8D-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+我在想你你在哪里,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-14%2F%E6%88%91%E5%9C%A8%E6%83%B3%E4%BD%A0-%E4%BD%A0%E5%9C%A8%E5%93%AA%E9%87%8C%E2%80%94%E4%BB%BB%E5%A6%99%E9%9F%B3-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+是我真的错了吗,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-06%2F2018-06-21%2F%E6%98%AF%E6%88%91%E7%9C%9F%E7%9A%84%E9%94%99%E4%BA%86%E5%90%97-%E5%88%98%E8%AF%91%E9%98%B3-%E6%B1%BD%E8%BD%A6%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+花一样的姑凉,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-07%2F2018-07-05%2F%E8%8A%B1%E4%B8%80%E6%A0%B7%E7%9A%84%E5%A7%91%E5%A8%98%28Dj%E4%BD%95%E9%B9%8F%29-%E7%AB%A5%E6%B3%A2-%E8%BD%A6%E8%BD%BD%E7%B2%BE%E5%93%81DJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+我终于失去了你,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-07%2F2018-07-18%2F%E6%88%91%E7%BB%88%E4%BA%8E%E5%A4%B1%E5%8E%BB%E4%BA%86%E4%BD%A0-%E5%AD%99%E9%9C%B2-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+错的你伤的我,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-08%2F2018-08-07%2F%E9%83%AD%E4%B8%80%E6%A9%99-%E9%94%99%E7%9A%84%E6%98%AF%E4%BD%A0%E4%BC%A4%E7%9A%84%E6%98%AF%E6%88%91-%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81DJ%E7%BE%8E%E5%A5%B3%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91%5B%E7%8B%AC%E5%AE%B6%5D.mp4
+好兄弟一辈子,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-24%2F%5BAvi%5D%E5%A5%BD%E5%85%84%E5%BC%9F%E4%B8%80%E8%BE%88%E5%AD%90_%E8%90%A7%E7%A3%8AVs%E6%A8%8A%E5%B0%91%E5%8D%8E%28Dj%E4%BD%95%E9%B9%8F%29_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+多想留在你身边,http://listen.9sing.cn/%2F2017%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2018%2F2018-12%2F2018-12-24%2F%5BAvi%5D%E5%A4%9A%E6%83%B3%E7%95%99%E5%9C%A8%E4%BD%A0%E8%BA%AB%E8%BE%B9_%E5%88%98%E5%A2%9E%E7%9E%B3_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+亲爱的女人不要流泪,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E4%BA%B2%E7%88%B1%E7%9A%84%E5%A5%B3%E4%BA%BA%E4%B8%8D%E8%A6%81%E6%B5%81%E6%B3%AA_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+一起舞动,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E4%B8%80%E8%B5%B7%E8%88%9E%E5%8A%A8%E2%80%94%E8%AF%B1%E6%83%91DJ%E8%88%9E%E6%9B%B2%E8%A7%86%E9%A2%91_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+兄弟女人,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%93%A5%E5%93%A5%E7%9A%84%E5%A5%B3%E4%BA%BA%28%E5%85%84%E5%BC%9F%E5%A5%B3%E4%BA%BA%29_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+半打玫瑰,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E5%8D%8A%E6%89%93%E7%8E%AB%E7%91%B0_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+火了草原火了爱,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E7%81%AB%E4%BA%86%E8%8D%89%E5%8E%9F%E7%81%AB%E4%BA%86%E7%88%B1dj_%E4%B9%8C%E5%85%B0%E6%89%98%E5%A8%85_%E5%BF%83%E6%98%8E_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+嫁给我吧姑娘,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-28%2F%5BAvi%5D%E5%AB%81%E7%BB%99%E6%88%91%E5%90%A7%E5%A7%91%E5%A8%98_%E5%AE%AB%E9%95%BF%E5%9D%A4_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+猴年马月,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E7%8C%B4%E5%B9%B4%E9%A9%AC%E6%9C%88_%E8%90%A7%E7%A3%8A_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+诀别酒,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-25%2F%5BAvi%5D%E8%AF%80%E5%88%AB%E9%85%92dj_%E9%92%B1%E5%AD%90%E6%9E%AB_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+青春定放,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-01%2F2019-01-20%2F%5BMp4%5D%E6%B0%B8%E8%BF%9C%E7%9A%84%E7%99%BD%E8%A1%A3%E6%88%98%E5%A3%AB_%E9%9D%92%E6%98%A5%E7%BB%BD%E6%94%BE_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91.mp4
+坐着高铁回家,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E5%9D%90%E7%9D%80%E9%AB%98%E9%93%81%E5%9B%9E%E5%AE%B6%E4%B9%A1_%E5%86%B7%E6%BC%A0vs%E8%B5%B5%E5%B0%8F%E5%85%B5_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+好兄弟我敬你,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E5%A5%BD%E5%85%84%E5%BC%9F%E6%88%91%E6%95%AC%E4%BD%A0_%E5%94%90%E5%BF%97%E6%98%9F_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+今夜我要喝酒,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E4%BB%8A%E5%A4%9C%E6%88%91%E8%A6%81%E5%96%9D%E9%86%89_DJ%E5%BC%A0%E5%86%AC%E7%8E%B2_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+好朋友好兄弟,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E5%A5%BD%E6%9C%8B%E5%8F%8B%E5%A5%BD%E5%85%84%E5%BC%9F_DJ%E5%B0%A4%E6%BA%AA_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+深圳恋歌,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E6%B7%B1%E5%9C%B3%E6%81%8B%E6%AD%8C_Dj%E4%BD%95%E9%B9%8F_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+爱不能说,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-26%2F%5BAvi%5D%E7%88%B1%E4%BD%A0%E4%B8%8D%E8%83%BD%E8%AF%B4_Dj%E4%BD%95%E9%B9%8F_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+心在烈火中燃烧,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-02%2F2019-02-28%2F%5BAvi%5D%E5%BF%83%E5%9C%A8%E7%83%88%E7%81%AB%E4%B8%AD%E7%87%83%E7%83%A7_%E9%99%88%E6%9B%A6_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90DJ%E7%83%AD%E8%88%9E%E7%B2%BE%E9%80%89%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+ 照顾好自己,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E7%85%A7%E9%A1%BE%E5%A5%BD%E8%87%AA%E5%B7%B1_%E9%BD%90%E6%99%A8_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+心跳的感觉,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E5%BF%83%E8%B7%B3%E7%9A%84%E6%84%9F%E8%A7%89_%E5%B3%BB%E5%B3%BB_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+分手以后更想你,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E5%88%86%E6%89%8B%E4%BB%A5%E5%90%8E%E6%9B%B4%E6%83%B3%E4%BD%A0_%E9%A3%9E%E7%BF%94_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+不让你孤单,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E4%B8%8D%E8%AE%A9%E4%BD%A0%E5%AD%A4%E5%8D%95_%E5%8D%93%E8%88%92%E6%99%A8_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+小鲜肉,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E5%B0%8F%E9%B2%9C%E8%82%89dj_%E5%B8%B8%E5%81%A5%E9%B8%BF_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+再见亦回不去,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-11%2F%5BAvi%5D%E5%86%8D%E8%A7%81%E4%BA%A6%E6%98%AF%E5%9B%9E%E4%B8%8D%E5%8E%BB_%E5%A4%A9%E8%9D%8E%E4%B8%B9_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+这不对那不对,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-03%2F2019-03-25%2F%5BAvi%5D%E8%BF%99%E4%B9%9F%E4%B8%8D%E5%AF%B9%E9%82%A3%E4%B9%9F%E4%B8%8D%E5%AF%B9_%E5%94%AF%E8%8E%8E_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+爱请问怎么走,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E7%88%B1%E8%AF%B7%E9%97%AE%E6%80%8E%E4%B9%88%E8%B5%B0_A_Lin_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+心痛,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E5%BF%83%E7%97%9B_%E6%9D%8E%E5%B9%B8%E5%80%AA_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+天山姑娘,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E5%A4%A9%E5%B1%B1%E5%A7%91%E5%A8%98_%E6%8B%96%E6%8B%89%E5%8F%B8%E6%9C%BA_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+在我流浪他乡的这些年,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E5%9C%A8%E6%88%91%E6%B5%81%E6%B5%AA%E4%BB%96%E4%B9%A1%E7%9A%84%E8%BF%99%E4%BA%9B%E5%B9%B4_%E8%89%BA%E6%B6%9B_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+后悔没有原谅你,http://listen.9sing.cn/%2F2019%2F%E8%BD%A6%E8%BD%BD%E8%A7%86%E9%A2%91%2FDJ%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%2F2019-04%2F2019-04-05%2F%5BAvi%5D%E5%90%8E%E6%82%94%E6%B2%A1%E6%9C%89%E5%8E%9F%E8%B0%85%E4%BD%A0_%E7%8E%8B%E9%94%AE_%E8%BD%A6%E8%BD%BD%E9%9F%B3%E4%B9%90%E7%B2%BE%E5%93%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EDJ%E8%A7%86%E9%A2%91%5B%E7%8B%AC%5D.mp4
+
+
+
+MKV珍藏,#genre#
+欧美动感DJ节奏舞曲-DontStopTheParty,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyMqg4gUo-uSR5AU.mp4
+HELLOVENUS - WiggleWiggle,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr-2n9AUoqsakNg.mp4
+T-ara - 成员 朴孝敏 – SKETCH,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAguq6r7gUouOyF4gE.mp4
+小风波收集 【以防盗码】,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgianW4gUoj9-Aaw.mp4
+小风波收集【以防盗码】,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpdia4gUo7oWfiAE.mp4
+Madonna - Girls Gone Wild,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjd2w4gUou--ljQE.mp4
+EXID - 上下(中文版),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtd6M9QUokpHf7AY.mp4
+欧美群星-天下一家-We Are The World,http://sofa.resource.shida.sogoucdn.com/6abaf62b-c77e-4642-999b-9301c1826f6e1_0_0.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpt6a4gUo1aeryAQ.mp4
+迈克尔杰克逊30周年演唱会片段-比利·金-BILLIE.JEAN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw9ma4gUo3YLDvgU.mp4
+泫雅-CHANGE-甩Nai舞,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp92c4gUovM-V_QU.mp4
+EXID - Every Night,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgz-qc4gUo4vj-tQY.mp4
+僵尸跳舞David Jones - Rhythm Alive,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-vqa4gUotM7X6wc.mp4
+T-ARA_Lovey Dovey_MTV僵尸舞完整版,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw5Cv4gUoiZqZ4wE.mp4
+Alan Walker feat. Iselin Solheim - Faded,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9qiM5gUo-tns8Qc.mp4
+Trouble Maker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fWv4gUo9JT7DQ.mp4
+Trouble Maker- Now,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvue_4gUomZa1kQU.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgism34gUo0rqhhAE.mp4
+Stellar-Vibrato,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_O_-4gUo257EIg.mp4
+After-School-Flashback,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_PSc4gUoxOLZ3AM.mp4
+AOA Mini skart-短裙,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggoG24gUouOfNkAM.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgi5Ke4wUoy6vqTg.mp4
+Sistar - Give It To Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgkoe24gUo-OW_mwQ.mp4
+After School - 初恋,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgn-a24gUouMCswQY.mp4
+Dal Shabet - Joker,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3fq95QUoisPxpAM.mp4
+Rainbow Blaxx -Cha Cha,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-IS24gUovcix_AI.mp4
+Marionette Areia K-pop Remix,http://video.yidianzixun.com/video/get-url?key=video/701b87f7467c0bc1dad16a60a1848446.mp4
+Dalshabet - Joker(Areia Kpop Remix),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg____4gUopsLtrQQ.mp4
+佳仁 - Paradise Lost,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy9j64wUogPOGEQ.mp4
+HELLOVENUS - StickySticky,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnIS24gUoptqYDQ.mp4
+EXID - UP&DOWN,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzMnG4gUoroOQgQU.mp4
+24小时都不够,http://hc.yinyuetai.com/uploads/videos/common/640501409AB668DA936AED6FC6EB2945.flv
+Four Ladies-Move,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg85Do5QUow-P-wwI.mp4#http://resource.yaokan.sogoucdn.com/videodown/4/229/d2be298a756c966f81134a671d6dd41f.mp4
+AOA - Excuse Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmozg7AUolaeS8gU.mp4
+AOA - 动摇,http://k.syasn.com/k/k79?k1=149.28.90.29&k2=csf2avzddt&k3=7c335067da4565ab53151bfb7235182f&k4=f2320831c274e32733e06f22c834e43d&k5=k79&k6=2836aea356186a4288fb5d043467ab9b_371747a8025945d9164b717a217fd90e&k7=123&g=0#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4vi24gUo-NvqkgI.mp4
+AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ.mp4
+金泫雅-鸟叔客串-HyunA-Ice Cream,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyt_s4gUolOCslAQ.mp4
+蔡依林 - Beast,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1veR5wUosO_wxAM.mp4
+郑意文、郭健荣-123 我爱你,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4sGv5wUo5bvaxwM.mp4
+Foreign Figures - Fire,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzf2h7QUohIem5AQ.mp4
+Stereoact&Jaques Raupé feat. Peter Schilling - Ter,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyL-s7QUoo_-L5AE.mp4
+Kronic & Krunk - Hey Ho!,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNTV4gUo9PrW7wM.mp4
+Clara Mae ft. Jake Miller - Better Me Better You,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgl8-77QUo2KnZ-AU.mp4
+韩国女团MV合集,http://223.82.247.122/sh.yinyuetai.com/uploads/videos/common/58A1015A5FE54518FCC9C9F09130D912.mp4
+9MUSES(나인뮤지스) - Wild(와일드),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_K204wUogPqGqQY.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9__d4wUotJXpmgI.mp4#http://feed.resrc.svideo.sogoucdn.com/videodown/110002/540/e5a4011e3fe607ec3d39b9ba59f9a9fd.mp4
+Girls Generation - Mr.Mr,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgorq64gUozOXcXA.mp4
+Girls Generation - DIVINE,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgho7o5QUoyr2cggE.mp4
+PVRIS - Death of Me,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqfmh7QUoqNfLigE.mp4
+孝敏 HyoMin - U Um U Um,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2fO98AUo7-WMigc.mp4
+A Pink - Hush,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsfK24gUozL7XrAE.mp4
+Nightwish - Élan,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6Nf77QUo0Kngqgc.mp4
+JinSoul- Singing in the Rain,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6vC98AUooILmZw.mp4
+My Heart Will Go On (泰坦尼克号主题曲),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_uCa4gUo7Irtnwc.mp4
+Geo Da Silva、DJ Gabro、Mr. Sax、Alexandra Mitroi - K,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg5avW4gUo47zhvwU.mp4
+FIESTAR - Mirror(Areia Kpop Remix),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg4K_04wUo5-iTyAU.mp4
+王杰  冷冷的街,https://f0.mc.0sm.com/node0/2019/11/85DDEAA04975B75D-916cc10ba79c4a54.mp4?dsjtv.m3u8
+Ara - Wish,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--_h7QUojLvmogU.mp4
+Arash feat. Helena - One Night In Dubai,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-_h7QUo0LvLxwE.mp4
+Russ - Civil War,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_fih7QUovpfokgI.mp4
+Татяна - Да сме квит(Tatyana - Da Sme Kvit),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7si84gUo8fehkQc.mp4
+Stellar - Study,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggMa84gUowOHVxgE.mp4
+RAINBOW - Black Swan,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgj8m_4gUooMrSsQY.mp4
+Andrea feat. Fiki - Sex Za Den,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmcW84gUoqJz6vQc.mp4
+Hyuna (현아) - Lip & Hip   Areia Kpop Remix,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtLrW4gUosLGs2gU.mp4
+Jason Derulo - The Other Side,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6qM5gUo8JmR4gQ.mp4
+MAMAMOO - Décalcomanie,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxOrV4gUo8Oytsgc.mp4
+T-ara - What Should I Do,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyPKv4gUonPnYtwE.mp4
+BP POP-Today,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpeab4gUo3P3GsQY.mp4
+T-ARA - First Love,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3Lqw4gUoo6LL7QU.mp4
+9MUSES - Remember,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgh_y98AUo5K_x8QU.mp4
+9MUSES(나인뮤지스) - 건(GUN),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgt6604wUowITHOg.mp4
+4minute_Volume Up,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg_5Oy4gUolMCzFw.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgksWc4gUo9IjHPA.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgx6if4gUozoWktgU.mp4
+电音舞曲- (Rap Feat.  Of 4Minute),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwNWb4gUolJ62iwQ.mp4
+4MINUTE(포미닛) - WHY,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgo7v64wUovvXL6QQ.mp4
+4MINUTE - Whatcha Doin  Today,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg7_uv4gUozsnyoQc.mp4
+LUNA - Even So,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxfG98AUogN6hqgU.mp4
+OH MY GIRL - BUNGEE (Fall in Love),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnfmh7QUokqegngQ.mp4
+少女时代-Mr Taxi,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAghd_x4gUouPyVbw.mp4#https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgme2u4gUo_NKz8AM.mp4
+少女时代-All My Love Is For You,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg9ueb4gUolq2JyQY.mp4
+Bob Girls - No way,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqe298AUo9JPpiwE.mp4
+Ava Max - So Am I,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwv_h7QUolM7fswM.mp4
+2NE1(투애니원) - 그리워해요 (MISSING YOU),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyee74wUowp6c1gU.mp4
+Gavy-20NJ-Dont-Call(feat-LE-of-EXID),https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsu_c4gUohrr0igU.mp4
+EXID - L.I.E,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2abB4gUohpLdxAQ.mp4
+EXID - Ah Yeah,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg1J_-4gUouJjNQw.mp4
+Kantik - Orfelogy,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggq-W4gUouLym-QQ.mp4
+Celine Dion - My Heart Will Go On,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg6_Ka4gUo3_-YYA.mp4
+周杰伦/蔡依林-能不能给我一首歌的时间,https://link.hhtjim.com/qq/012rJrGd4cGDA9.mp4
+蔡依林-怪美的,https://link.hhtjim.com/qq/m0029a5yjtb.mp4
+Alan Walker Faded,http://video.kekedj.com/2020888/20200115/%E9%9F%A9%E5%9B%BD%E6%9C%80%E7%BE%8EDJ%20Soda-Alan%20Walker%20Faded%20(Remix%20)%202020%20-%20EDM%20Electro%20House%20Music%20Video%202020.mp4
+BoA X TAPAHA The DANCE Space Black Performance,http://video.kekedj.com/2020888/20200116/%E9%9F%A9%E5%9B%BD%E6%B5%81%E8%A1%8C%E6%AD%8C%E6%9B%B2BoA%20X%20TAPAHA%20The%20DANCE%20Space%20Black%20Performance.mp4
+Chu Hieu Chu Tinh,http://video.kekedj.com/2020888/20200118/%E8%B6%8A%E5%8D%97%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C%E6%9B%B2-%E5%AD%B0%E5%AD%9D%E5%AD%B0%E6%83%85Chu%20Hieu%20Chu%20Tinh(Remix)%20%20%E8%8F%B2%E7%BB%92%E3%80%81%E5%AD%9F%E7%90%BC-%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+Coco Jambo,http://video.kekedj.com/2020888/20200110/%E7%BE%8E%E5%A5%B3%E7%9F%AD%E8%A3%99%E7%83%AD%E8%88%9ECoco%20Jambo%20-%20Dance%20Remix%20%20Gioma%20%20Records.mp4
+Com Ao Gao Tien,http://video.kekedj.com/2020888/20200119/%E8%B6%8A%E5%8D%97%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2(Com%20Ao%20Gao%20Tien%20Remix-Kim%20Ny%20Ngoc-%E7%BE%8E%E5%A5%B3%E7%9F%AD%E8%A3%99%E7%83%AD%E8%88%9EMV.mp4
+Dan Ong Chang Yeu Ai That Long,http://video.kekedj.com/2020888/20200118/%E8%B6%8A%E5%8D%97%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2-dj%E5%A5%BD%E5%90%AC%E7%9A%84%E7%94%B5%E9%9F%B3%E8%88%9E%E6%9B%B2-%E7%BE%8E%E5%A5%B3%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91Dan%20Ong%20Chang%20Yeu%20Ai%20That%20Long%20(Remix).mp4
+Destiny太阳之花,http://video.kekedj.com/2020888/20200110/%E7%BB%8F%E5%85%B8%E6%97%A5%E8%AF%AD%E6%AD%8C%E6%9B%B2%EF%BC%88%E5%B2%9B%E8%B0%B7%E7%9E%B3%EF%BC%89-Destiny%20-%E5%A4%AA%E9%98%B3%E4%B9%8B%E8%8A%B1-%E9%9D%9E%E4%B8%BB%E6%B5%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E.mp4
+Do You Like Bass,http://video.kekedj.com/2020888/20200116/%E5%A4%9C%E5%BA%97%E5%97%A8DJ%E6%9B%B2%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91Nonstop%20Vol%2013%20-%20Do%20You%20Like%20Bass.mp4
+Happy New Year,http://video.kekedj.com/2020888/20200120/dj%E5%A5%BD%E5%90%AC%E7%9A%84%E7%94%B5%E9%9F%B3%E8%88%9E%E6%9B%B2-%E7%94%B5%E9%9F%B3%E8%8A%82%E7%8E%B0%E5%9C%BAHappy%20New%20Year-Air%20Remixer.mp4
+NONSTOP DJ,http://video.kekedj.com/2020888/20200121/NONSTOP%20DJ%202020-%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BA-%E5%BC%B9%E6%80%A7%E8%B6%8A%E5%8D%97%E9%BC%93-2020%E5%8A%B2%E7%88%86%E7%94%B5%E9%9F%B3%E8%88%9E%E6%9B%B2-%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8Cdj%E8%A7%86%E9%A2%91.mp4
+Nhac Hai Ngoai Soi Dong,http://video.kekedj.com/2020888/20200118/%E8%B6%8A%E5%8D%97%E6%96%87%E6%AD%8C%E6%9B%B2Nhac%20Hai%20Ngoai%20Soi%20Dong%202019%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E8%A7%86%E9%A2%91.mp4
+OK CHIA TAY,http://video.kekedj.com/2020888/20200117/%E8%B6%8A%E5%8D%97%E5%A5%BD%E6%AD%8C%E6%9B%B2%EF%BC%88OK%20CHIA%20TAY%20-%20Vinh%20Thuyen%20Kim%E9%87%91%E8%8D%A3%E5%B8%86%EF%BC%89%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94MV.mp4
+ONE SHOT TWO SHOT,http://video.kekedj.com/2020888/20200116/%E9%9F%A9%E5%9B%BD%E6%B5%81%E8%A1%8C%E6%AD%8C%E6%9B%B2ONE%20SHOT%20TWO%20SHOTMV.mp4
+Only One MV,http://video.kekedj.com/2020888/20200117/%E9%9F%A9%E5%9B%BD%E8%88%9E%E6%9B%B2%20%E6%9C%80%E6%96%B0%E5%8A%B2%E7%88%86dj%E8%88%9E%E6%9B%B2-%E5%A5%BD%E5%90%AC%E7%9A%84%E6%8A%92%E6%83%85%E6%AD%8C%20Only%20One%20%20MV%20(Dance%20ver).mp4
+Vi Ngot Doi Moi,http://video.kekedj.com/2020888/20200118/%E8%B6%8A%E5%8D%97%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C%E6%9B%B2-(%E7%94%9C%E7%BE%8E%E7%9A%84%E5%98%B4%E5%94%87Vi%20Ngot%20Doi%20Moi%20(Remix)%E5%8A%A8%E6%84%9Fdj%E8%88%9E%E6%9B%B2%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94MV.mp4
+Vinh Thuyen Kim,http://video.kekedj.com/2020888/20200121/%E8%B6%8A%E5%8D%97%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C%E6%9B%B2(Vinh%20Thuyen%20Kim)dj%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9F-%E7%BE%8E%E5%A5%B3%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+Vinh Thuyen Kim千金,http://video.kekedj.com/2020888/20200119/%E9%95%BF%E8%85%BF%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E-(Vinh%20Thuyen%20Kim%E5%8D%83%E9%87%91)-%E8%B6%85%E5%A5%BD%E5%90%AC%E8%B6%8A%E5%8D%97%E8%AF%AD%E6%AD%8C%E6%9B%B2.mp4
+gnitionDj VAL Gioma,http://video.kekedj.com/2020888/20200107/%E9%9F%A9%E5%9B%BD%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E-ignitionDj%20VAL%20Gioma-Remix-%E9%9F%B3%E4%B9%90%E7%9F%AD%E7%89%87%E8%88%9E%E8%B9%88%E8%A7%86%E9%A2%91.mp4
+一瞬间,http://video.kekedj.com/2020888/20200117/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E4%B8%BD%E6%B1%9F%E5%B0%8F%E5%80%A9%20-%20%E4%B8%80%E7%9E%AC%E9%97%B41080P%E5%B0%8F%E6%84%8F%E5%88%B6%E4%BD%9C-%E7%B2%BE%E8%87%B4%E7%AF%87HDMV.mp4
+不变的情缘Dang Em,http://video.kekedj.com/2020888/20200121/%E8%B6%8A%E5%8D%97%E7%BF%BB%E5%94%B1%E4%B8%AD%E5%9B%BD%E6%AD%8C%E6%9B%B2-(%E4%B8%8D%E5%8F%98%E7%9A%84%E6%83%85%E7%BC%98Dang%20Em%20(%E6%9E%97%E6%98%AD-Remix)%E7%8E%B0%E5%9C%BA%E7%9B%B4%E6%8E%A5%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+但愿你明白HDMV,http://video.kekedj.com/2020888/20200121/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%9D%A8%E9%87%87%E5%A6%AE(%E7%B2%A4%E8%AF%AD)%20-%20%E4%BD%86%E6%84%BF%E4%BD%A0%E6%98%8E%E7%99%BDHDMV-1080P%E5%A4%B1%E8%90%BD%E8%88%9E%E5%A8%98%E5%B0%8F%E6%84%8F%E5%88%B6%E4%BD%9C%E7%B2%BE%E7%BE%8E%E7%AF%87.mp4
+千年等一回,http://video.kekedj.com/2020888/20200110/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%96%B0%E7%99%BD%E5%A8%98%E5%AD%90%E4%BC%A0%E5%A5%87%E4%B8%BB%E9%A2%98%E6%9B%B2-%E9%AB%98%E8%83%9C%E7%BE%8E-%E5%8D%83%E5%B9%B4%E7%AD%89%E4%B8%80%E5%9B%9E-%E7%AB%B9%E5%AD%90%E9%BC%93%E8%93%9D%E5%85%891080P%E5%B0%8F%E6%84%8F%E5%90%88%E6%88%90%E7%89%88.mp4
+回到他们身边,http://video.kekedj.com/2020888/20200117/%E5%BC%B9%E6%80%A7%E8%B6%8A%E5%8D%97%E9%BC%93-%E8%BE%A3%E5%A6%B9%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%EF%BC%88%E5%9B%9E%E5%88%B0%E4%BB%96%E4%BB%AC%E8%BA%AB%E8%BE%B9-Hay%20Ve%20Vai%20Em%20(REMIX)%E5%8A%A8%E6%84%9Fdj%E8%88%9E%E6%9B%B2.mp4
+天涯共此时,http://video.kekedj.com/2020888/20200120/%E5%A5%BD%E5%90%AC%E7%9A%84%E7%A3%81%E6%80%A7%E5%A5%B3%E5%A3%B0-%E5%A4%A9%E6%B6%AF%E5%85%B1%E6%AD%A4%E6%97%B6-%E5%B7%B4%E5%9F%9F%E6%9C%A8%E7%89%88%E5%9B%BD%E9%99%85%E5%A8%B1%E4%B9%902019%E4%B8%AD%E7%A7%8B%E8%81%94%E6%AC%A2%E6%99%9A%E4%BC%9A.mp4
+往前走,http://video.kekedj.com/2020888/20200121/%E4%B8%80%E9%A6%96%E5%BE%88%E7%81%AB%E7%9A%84%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2-LIVE](%E5%BE%80%E5%89%8D%E8%B5%B0)-%E7%89%9B%E4%BB%94%E8%A3%A4%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E7%8E%B0%E5%9C%BA%E7%89%88.mp4
+曾经心痛,http://video.kekedj.com/2020888/20200117/%E8%B6%8A%E5%8D%97%E7%BF%BB%E5%94%B1%E4%B8%AD%E5%9B%BD%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2-%EF%BC%88%E6%9B%BE%E7%BB%8F%E5%BF%83%E7%97%9BNu%20Hong%20Mong%20Manh%20(Remix)%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E8%A7%86%E9%A2%91.mp4
+最后的温柔,http://video.kekedj.com/2020888/20200111/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E9%98%BF%E6%AD%A3%20-%20%E6%9C%80%E5%90%8E%E7%9A%84%E6%B8%A9%E6%9F%94HDMV%E8%93%9D%E5%85%891080P%E5%B0%8F%E6%84%8F%E5%90%88%E6%88%90%E7%89%88.mp4
+火红的萨日朗,http://video.kekedj.com/2020888/20200113/%E4%B8%AD%E5%9B%BD%E7%94%B5%E9%9F%B3%E8%8A%82-%E7%81%AB%E7%BA%A2%E7%9A%84%E8%90%A8%E6%97%A5%E6%9C%97-%E5%A4%9C%E5%BA%97%E5%A5%BD%E5%90%AC%E7%9A%84%E7%94%B5%E9%9F%B3Remix.mp4
+爱 Luy Tinh,http://video.kekedj.com/2020888/20200118/%E8%B6%8A%E5%8D%97%E5%A5%BD%E5%90%AC%E7%9A%84%E6%AD%8C%E6%9B%B2-%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%EF%BC%88%E7%88%B1%20Luy%20Tinh%20(Remix)%20-%20%E6%9E%97%E6%98%ADLam%20Trieu%20Minh).mp4
+爱你今生到永远,http://video.kekedj.com/2020888/20200110/%E6%9C%80%E6%96%B0%E6%85%A2%E6%91%87DJ%E8%88%9E%E6%9B%B2-%E5%85%A8%E5%A5%B3%E5%A3%B0%E8%B6%85%E5%A5%BD%E5%90%AC(%E6%84%9F%E8%A7%89%E4%B8%8D%E4%BC%9A%E5%86%8D%E7%88%B1%E4%BA%86-%E7%88%B1%E4%BD%A0%E4%BB%8A%E7%94%9F%E5%88%B0%E6%B0%B8%E8%BF%9C-%E5%88%9A%E5%A5%BD%E9%81%87%E8%A7%81%E4%BD%A0%E6%85%A2%E6%91%87%E4%B8%B2%E7%83%A7.mp4
+爱情36度8,http://video.kekedj.com/2020888/20200109/DJ%E4%BD%95%E9%B9%8F&%E7%8E%8B%E9%A6%A8-%E7%88%B1%E6%83%8536%E5%BA%A68-HDMV%E7%BE%8E%E5%A5%B3%E6%80%A7%E6%84%9F%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+爱过的每一天,http://video.kekedj.com/2020888/20200116/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E5%85%AD%E5%93%B2-%E7%88%B1%E8%BF%87%E7%9A%84%E6%AF%8F%E4%B8%80%E5%A4%A91080P%E8%93%9D%E5%85%89HDMV%E6%B2%99%E6%BB%A9%E8%88%9E%E8%B9%88.mp4
+甜蜜的爱情,http://video.kekedj.com/2020888/20200109/%E9%9D%9E%E4%B8%BB%E6%B5%81%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E-Sweet%20La%20La%20Love%20Eurodance%EF%BC%88%E7%94%9C%E8%9C%9C%E7%9A%84%E7%88%B1%E6%83%85).mp4
+电音edm舞曲酒吧,http://video.kekedj.com/2020888/20200120/%E7%94%B5%E9%9F%B3edm%E8%88%9E%E6%9B%B2%E9%85%92%E5%90%A7-%E5%A4%9C%E5%BA%97%E7%BE%8E%E5%A5%B3%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91-DjArmReMix.mp4
+祈祷,http://video.kekedj.com/2020888/20200117/%E5%BC%B9%E6%80%A7%E8%B6%8A%E5%8D%97%E9%BC%93-%E8%BE%A3%E5%A6%B9%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91%EF%BC%88%E7%A5%88%E7%A5%B7Loi%20Nguyen%20Cau%20(Remix)%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E8%A7%86%E9%A2%91.mp4
+花一样的姑娘,http://video.kekedj.com/2020888/20200113/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E7%AB%A5%E6%B3%A2-%E8%8A%B1%E4%B8%80%E6%A0%B7%E7%9A%84%E5%A7%91%E5%A8%98HDMV-1080P%E5%B0%8F%E6%84%8F%E5%88%B6%E4%BD%9C%E8%93%9D%E5%85%89%E7%89%88%E9%9F%A9%E5%9B%BD%E5%A5%B3%E7%89%B9%E5%B7%A5%E5%85%A5%E4%BE%B5%E8%88%9E%E8%B9%88%E7%AF%87.mp4
+迷路,http://video.kekedj.com/2020888/20200110/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91DJ%E4%BD%95%E9%B9%8F&%E8%8A%B3%E5%AD%90-%E8%BF%B7%E8%B7%AFHDMV%E8%93%9D%E5%85%891080P%E7%94%BB%E8%B4%A8%E9%AB%98%E7%A0%81%E7%89%88.mp4
+酒醉的蝴蝶,http://video.kekedj.com/2020888/20200108/%E6%8A%96%E9%9F%B3%E6%AD%8C%E6%9B%B2-%E5%AD%99%E8%89%BA%E7%90%AA-%E9%85%92%E9%86%89%E7%9A%84%E8%9D%B4%E8%9D%B6-%E5%A5%B3%E5%A3%B0%E7%89%88DJ%E7%89%88HDMV-%E5%B0%8F%E6%84%8F%E7%B2%BE%E5%8D%8E%E7%AF%87.mp4
+龙梅子情歌继续唱,http://video.kekedj.com/2020888/20200119/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E9%BE%99%E6%A2%85%E5%AD%90&%E5%86%B7%E6%BC%A0-%E6%83%85%E6%AD%8C%E7%BB%A7%E7%BB%AD%E5%94%B1HDMV-1080P%E8%93%9D%E5%85%89%E5%B0%8F%E6%84%8F%E5%88%B6%E4%BD%9C%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%9B%A2%E8%AF%95%E8%A1%A3%E5%8A%A8%E6%84%9F%E8%88%9E%E8%B9%88%E7%89%88.mp4
+爱情幻想,http://video.kekedj.com/2020888/20200101/%E8%BD%A6%E5%B1%95%E6%A8%A1%E7%89%B9DJ%E6%85%A2%E6%91%87%E8%A7%86%E9%A2%91-Fantasia%20De%20Amor%EF%BC%88%E7%88%B1%E6%83%85%E5%B9%BB%E6%83%B3%EF%BC%89-Dj-Min%20Remix.mp4
+NHAC DJ NONSTOP,http://video.kekedj.com/2020888/20200102/%E9%85%92%E5%90%A7%E5%97%A8%E6%9B%B2%E5%92%9A%E9%BC%93Vs%E8%B6%8A%E5%8D%97%E9%BC%93-%E6%80%A7%E6%84%9Fdj%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BANHAC%20DJ%20NONSTOP%202020.mp4#http://video.kekedj.com/20190215/mp4/20191211/%E8%B6%8A%E5%8D%97%E9%BC%93-%20NHAC%20DJ%20NONSTOP%202020%20-%20%E8%B6%85%E5%A5%BD%E5%90%AC2013dj%20%E5%8A%B2%E7%88%86%E8%B6%85%E5%97%A8%20%E5%A4%9C%E5%BA%97%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+CHAW REMIX,http://video.kekedj.com/2020888/20200103/DJ%20Katoy%20%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8CDJ%E8%88%9E%E8%B9%88%E9%9F%B3%E4%B9%90Party%202018%20-%20DJ%20CHAW%20REMIX%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+Katoy Party,http://video.kekedj.com/2020888/20200103/DJ%20Katoy%20Party%E7%BE%8E%E4%B8%BD%E7%9A%84DJ%E8%88%9E%E4%BC%9A-2018%20-%20DJ%20CHAW%20REMIX.mp4
+艾伦沃克,http://video.kekedj.com/2020888/20200102/%E5%A5%BD%E5%90%AC%E7%9A%84%E8%8B%B1%E6%96%87dj%E8%89%BE%E4%BC%A6%E6%B2%83%E5%85%8B%E8%88%9E%E6%9B%B2-%E9%85%92%E5%90%A7%E5%A4%9C%E5%BA%97%E8%BE%A3%E5%A6%B9%E6%80%A7%E6%84%9F%E8%AF%B1%E6%83%91%E7%83%AD%E8%88%9E%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91.mp4#http://video.kekedj.com/2020888/20200101/%E6%9C%80%E5%A5%BD%E5%90%AC%E7%9A%84%E7%94%B5%E9%9F%B3dj%E8%8B%B1%E6%96%87%E8%88%9E%E6%9B%B2-Alan%20Walker%20Mix%EF%BC%88%E8%89%BE%E4%BC%A6%E6%B2%83%E5%85%8B%EF%BC%892020-BASS%20Boosted%20%20EDM%20Melbourne%20Bounce%20%20Video%20Choreography%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9EMV%20.mp4
+溢歌节,http://video.kekedj.com/2020888/20200102/%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8C%E8%8A%82%E5%A5%8F%E6%84%9F%E5%BC%BA%E7%9A%84%E8%88%9E%E6%9B%B2-%E6%BA%A2%E6%AD%8C%E8%8A%82%EF%BC%88%20Overflow%20Songkran%20Festival%EF%BC%89%E7%94%B5%E5%AD%90%E9%9F%B3%E4%B9%90%E8%8A%82-%E9%85%92%E5%90%A7dj%E6%89%93%E7%A2%9F%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91.mp4
+Vocal Deep,http://video.kekedj.com/2020888/20200101/%E7%99%BE%E5%A4%A7DJ%E7%B2%BE%E9%80%89%E8%88%9E%E6%9B%B2-%E6%B5%B7%E6%BB%A9%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E5%86%99%E7%9C%9F%E8%A7%86%E9%A2%91House%20Music%202019%20The%20Best%20Of%20Vocal%20Deep%20House%20Music%20Mix.mp4
+林中鸟,http://video.kekedj.com/2020888/20200101/%E5%8A%A8%E6%84%9F%E5%97%A8%E6%9B%B2%E3%80%8A%E6%9E%97%E4%B8%AD%E9%B8%9F%E3%80%8BDJ%E7%89%88%20%E5%B9%B4%E5%BA%A610%E5%A4%A7%E9%87%91%E6%9B%B2%20%E5%A4%9F%E5%97%A8%E5%B0%B1%E5%8D%95%E6%9B%B2%E5%BE%AA%E7%8E%AF%E5%90%A7.mp4
+Charlotte de Witte,http://video.kekedj.com/2020888/20200101/Charlotte%20de%20Witte%20%EF%BC%88%E5%A4%8F%E6%B4%9B%E7%89%B9%C2%B7%E5%BE%B7%E7%BB%B4%E7%89%B9%20%EF%BC%89-%E6%AF%94%E5%88%A9%E6%97%B6Tomorrowland%E7%94%B5%E5%AD%90%E9%9F%B3%E4%B9%90%E8%8A%82%E7%8B%82%E6%AC%A2%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94%E9%AB%98%E6%B8%85MV.mp4
+兄弟想你了,http://video.kekedj.com/20190215/mp4/20191231/%E8%BD%A6%E8%BD%BD%E5%97%A8%E6%9B%B2%E3%80%8A%E5%85%84%E5%BC%9F%E6%83%B3%E4%BD%A0%E4%BA%86%E3%80%8BDJ%E7%89%88%20%E6%9C%89%E5%85%84%E5%BC%9F%E7%9A%84%E9%83%BD%E8%AF%A5%E5%90%AC%E5%90%AC%20%E6%9E%9C%E6%96%AD%E6%94%B6%E8%97%8F.mp4
+Nonstop Vinahouse,http://video.kekedj.com/20190215/mp4/20191231/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2%20%E9%85%92%E5%90%A7%E8%A7%86%E9%A2%91%20%E5%A4%9C%E5%BA%97%E5%97%A8DJ%E6%9B%B2%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91%20-%20Nonstop%20Vinahouse%202020.mp4
+juicy M mashuping,http://video.kekedj.com/20190215/mp4/20191231/dj%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BA-Juicy%20M%20mashuping%20on%204%20CDJs.mp4
+失去才懂,http://video.kekedj.com/20190215/mp4/20191221/%E6%B5%8E%E9%98%B3DJ%E5%BF%83%E6%98%8E-%E6%AC%A7%E9%98%B3%E6%9C%B5%20-%20%E5%A4%B1%E5%8E%BB%E6%89%8D%E6%87%82.mp4
+少女时代,http://video.kekedj.com/20190215/mp4/20191220/Girls%20Generation%EF%BC%88%E5%B0%91%E5%A5%B3%E6%97%B6%E4%BB%A3%EF%BC%89%E9%9F%A9%E5%9B%BD%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%EF%BC%88PAPARAZZI%EF%BC%89%E9%9F%A9%E8%AF%AD%E6%AD%8C%E6%9B%B2%E7%BB%8F%E5%85%B8%20%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91.mp4
+G-DRAGON,http://video.kekedj.com/20190215/mp4/20191220/G-DRAGON%20-%20%E9%9F%A9%E5%9B%BDdj%E8%88%9E%E6%9B%B2%20%E8%B6%85%E5%8A%B2%E7%88%86(CROOKED)%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91.mp4
+可能否,http://video.kekedj.com/20190215/mp4/20191219/%E4%BA%94%E6%98%9F%E7%B2%BE%E5%93%81%E6%AD%8C%E6%9B%B2%E6%8E%A8%E8%8D%90%E3%80%8A%E5%8F%AF%E8%83%BD%E5%90%A6%E3%80%8BDJ%E7%89%88%20%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E6%AD%8C%E6%9B%B2%20%E5%90%AC%E5%88%B0%E4%BA%BA%E9%86%89%E5%BF%83%E9%86%89%EF%BC%81.mp4
+Alan Walker EDM,http://video.kekedj.com/20190215/mp4/20191216/%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91Alan%20Walker%20EDM%20(Remix)%20BASS%20%20Shuffle%20Dance%20Music%20Video%20(Electro%20House).mp4
+Best Hits Of Arabic House Music By DJ Elon Matana,http://video.kekedj.com/20190215/mp4/20191216/%E7%99%BE%E5%A4%A7DJ%E7%B2%BE%E9%80%89%E8%88%9E%E6%9B%B2-%E5%A5%BD%E7%9A%84%E7%9A%84%E8%8B%B1%E6%96%87%E6%AD%8C%20%E5%92%8F%E8%A3%85%E6%B4%BE%E5%AF%B9%E7%8E%B0%E5%9C%BABest%20Hits%20Of%20Arabic%20House%20Music%20By%20DJ%20Elon%20Matana.mp4
+Best New Year Mix,http://video.kekedj.com/20190215/mp4/20191216/Best%20New%20Year%20Mix%202020%20-%E5%A5%BD%E5%90%AC%E7%9A%84%E8%8B%B1%E6%96%87djBest%20Remixes%20Of%20Popular%20Songs,%20EDM%20Drops.mp4
+Air Remixer,http://video.kekedj.com/20190215/mp4/20191214/%E9%85%92%E5%90%A7%E8%A7%86%E9%A2%91%20%E5%9C%A3%E8%AF%9E%E5%85%83%E6%97%A6%E6%AC%A2%E5%BF%AB%E6%B4%BE%E5%AF%B9%E4%B8%93%E5%9C%BA%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%20%E5%85%A8%E5%9C%BA%E8%B7%B3%E8%88%9E%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91Air%20Remixer.mp4
+越南夜店嗨DJ曲,http://video.kekedj.com/20190215/mp4/20191214/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2%20%E9%85%92%E5%90%A7%E8%A7%86%E9%A2%91%20%20%E5%A4%9C%E5%BA%97%E5%97%A8DJ%E6%9B%B2%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91.mp4
+Ciray Remix,http://video.kekedj.com/20190215/mp4/20191212/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E7%8E%B0%E5%9C%BA%E6%89%93%E7%A2%9F-%E9%9D%9E%E4%B8%BB%E6%B5%81dj%E8%88%9E%E6%9B%B2%E5%A4%9C%E5%BA%97%E9%AB%98%E6%B8%85%E8%A7%86%E9%A2%91%20Ciray%20Remix.mp4
+DJ Best Club Party Dance Music Remixes,http://video.kekedj.com/20190215/mp4/20191212/%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BA%20%E5%A4%9C%E5%BA%97%E5%97%A8%E6%9B%B2DJ%20Best%20Club%20Party%20Dance%20Music%20Remixes%202019.mp4
+高级夜店现场,http://video.kekedj.com/20190215/mp4/20191211/%E9%AB%98%E7%BA%A7%E5%A4%9C%E5%BA%97%E7%8E%B0%E5%9C%BA%E7%83%AD%E8%88%9E%20%E6%B4%BE%E5%AF%B9%E7%8E%B0%E5%9C%BA%20%E9%AB%98%E6%B8%85%E7%8E%B0%E5%9C%BA%E8%A7%86%E9%A2%91.mp4
+OA SNSD EXID,http://video.kekedj.com/20190215/mp4/20191211/%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%9B%A2%E5%8A%A8%E6%84%9F%E8%88%9E%E6%9B%B2AOA%20SNSD%20EXID%209MUSES%20Trance%20Electro%20House%20Trap%20Korea.mp4
+Party All Night Best Club Party Dance Music Remixe,http://video.kekedj.com/20190215/mp4/20191210/%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8Cdj%E6%8E%92%E8%A1%8C%E6%A6%9C%20%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BAParty%20All%20Night%20%20Best%20Club%20Party%20Dance%20Music%20Remixes.mp4
+百大dj音乐节,http://video.kekedj.com/20190215/mp4/20191206/%E7%99%BE%E5%A4%A7dj%E9%9F%B3%E4%B9%90%E8%8A%82Best%20Dirty%20Electro%20Bass%20Music%20biza%20Beach%20Party%20Megamix%20%20New%20Bounce%20&%20Bass%20Music%202018.mp4
+NST Vinamix Vol,http://video.kekedj.com/20190215/mp4/20191206/NST%20Vinamix%20Vol%E5%BC%B9%E6%80%A7%E8%B6%8A%E5%8D%97%E9%BC%93%20%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8Cdj%E7%89%88%20%E6%80%A7%E6%84%9Fdj%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9F%E5%85%A8%E5%9C%BA%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+DJ Thao Bebe,http://video.kekedj.com/20190215/mp4/20191206/DJ%20Thao%20Bebe-%E8%B6%8A%E5%8D%97%E9%BC%93dj%E7%B2%BE%E9%80%89%E7%94%B5%E9%9F%B3%20%E5%A4%A7%E8%83%B8%E7%BE%8E%E5%A5%B3DJ%E7%8E%B0%E5%9C%BA%E6%89%93%E7%A2%9F%E8%89%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+NONSTOP DJ1,http://video.kekedj.com/20190215/mp4/20191203/NONSTOP%20DJ%202019%20-%20%E8%B6%8A%E5%8D%97%E9%BC%93%E5%A4%9C%E5%BA%97%E9%85%92%E5%90%A7DJ%E8%A7%86%E9%A2%91-%E5%A4%A7%E8%83%B8%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BA%E8%AE%A9%E4%BD%A0%E5%97%A8%E7%BF%BB%E5%A4%A9%E6%9E%81%E5%93%81%E9%AB%98%E6%B8%85%E8%BD%A6%E8%BD%BD.mp4
+NONSTOP DJ2,http://video.kekedj.com/20190215/mp4/20191205/NONSTOP%20DJ%202020%20-%20%E7%94%B5%E9%9F%B3%E8%B6%8A%E5%8D%97%E9%BC%93%20%E9%85%92%E5%90%A7dj%E6%80%A7%E6%84%9F%E7%BE%8E%E5%A5%B3%E6%89%93%E7%A2%9F%20%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8Cdj%E8%A7%86%E9%A2%91.mp4
+情花朵朵开HDMV,http://video.kekedj.com/2020888/20200128/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E8%93%9D%E7%90%AA%E5%84%BF&%E5%A7%9A%E5%A4%A7-%E6%83%85%E8%8A%B1%E6%9C%B5%E6%9C%B5%E5%BC%80HDMV-%E5%B0%8F%E6%84%8F%E5%88%B6%E4%BD%9C1080P%E7%BA%A2%E7%B2%89%E5%A5%B3%E9%83%8E%E8%88%9E%E8%B9%88%E5%94%AF%E7%BE%8E%E7%AF%87.mp4
+心动女生APink,http://video.kekedj.com/2020888/20200128/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%9D%A8%E7%BD%A1%20-%20%E5%BF%83%E5%8A%A8%E5%A5%B3%E7%94%9FAPink%E5%B0%8F%E6%84%8F%E7%B2%BE%E4%BF%AEHDMV-1080P%E8%88%9E%E8%B9%88%E7%AF%87.mp4
+逝去的岁月HDMV,http://video.kekedj.com/2020888/20200201/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%B8%A9%E5%B7%9EDj%E5%B0%8F%E6%84%8F-%E9%80%9D%E5%8E%BB%E7%9A%84%E5%B2%81%E6%9C%88HDMV-1080P%E9%9B%86%E7%BB%93%E9%9F%A9%E5%9B%BD%E5%A5%B3%E5%9B%A2%E5%94%AF%E7%BE%8E%E7%AF%87.mp4
+Good Boy舞蹈模仿,http://video.kekedj.com/2020888/20200203/Good%20Boy%E8%88%9E%E8%B9%88%E6%A8%A1%E4%BB%BF-%E7%BB%8F%E5%85%B8%E8%8B%B1%E6%96%87%E6%AD%8C%E6%9B%B2-%E8%B7%B3%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+Münchner Symphoniker,http://video.kekedj.com/2020888/20200203/Milk%20&%20Sugar-%E5%BE%B7%E5%9B%BD%E6%B5%A9%E5%AE%A4%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9C%E7%BB%84%E5%90%88-M%C3%BCnchner%20Symphoniker-Euphonica-%20One%20More%20Time.mp4
+The Paradise意大利,http://video.kekedj.com/2020888/20200203/Pop%E5%A5%B3%E5%AD%A9%E4%B9%90%E9%98%9F-Dj%20Kramnik-K-Pop%20Girl%20Bands-The%20Paradise%20%E6%84%8F%E5%A4%A7%E5%88%A9%E8%BF%AA%E6%96%AF%E7%A7%91]%E7%BE%8E%E5%A5%B3%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+红昭愿HDMV,http://video.kekedj.com/2020888/20200203/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%B8%A9%E5%B7%9EDj%E5%B0%8F%E6%84%8F--%E9%9F%B3%E9%98%99%E8%AF%97%E5%90%AC&%E7%8E%8B%E6%A2%93%E9%92%B0-%E7%BA%A2%E6%98%AD%E6%84%BFHDMV-1080P%E7%BE%A4%E4%BC%97%E5%9B%B4%E8%A7%82%E8%88%9E%E8%B9%88%E7%AF%87.mp4
+Nac Ke Tiktok Remix,http://video.kekedj.com/2020888/20200203/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2-%E5%BC%B9%E6%80%A7%E8%B6%8A%E5%8D%97%E9%BC%93-%E6%B7%B7%E9%9F%B3%E6%AD%8C%E6%9B%B2-%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8C%E8%8A%82%E5%A5%8F%E6%84%9F%E5%BC%BA%E7%9A%84%E8%88%9E%E6%9B%B2-Nac%20Ke%20Tiktok%20Remix.mp4
+处处吻1080P,http://video.kekedj.com/2020888/20200204/%E3%80%90%E7%8B%AC%E5%AE%B6%E3%80%91%E6%B8%A9%E5%B7%9EDj%E5%B0%8F%E6%84%8F--%E6%9D%A8%E5%8D%83%E6%A1%A6(%E7%B2%A4%E8%AF%AD)%20-%20%E5%A4%84%E5%A4%84%E5%90%BB1080P-%E9%9F%A9%E7%89%88%E8%88%9E%E8%B9%88HDMV.mp4
+越南胸美女,http://video.kekedj.com/2020888/20200204/%E8%B6%8A%E5%8D%97%E9%9F%B3%E4%B9%90-%E5%A4%A7%E8%83%B8%E7%BE%8E%E5%A5%B3DJ%E7%8E%B0%E5%9C%BA%E6%89%93%E7%A2%9F%20%E9%85%92%E5%90%A7%E5%96%8A%E9%BA%A6%20%E5%A4%9C%E5%BA%97%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+低清摇Steady Bom,http://video.kekedj.com/2020888/20200205/%E5%A4%9C%E5%BA%97%E5%97%A8%E6%AD%8Cdj-K%E4%BD%AC-%E4%BD%8E%E6%B8%85%E6%91%87%20V3%20Steady%20Bom%20%E5%93%94%E5%93%94-%E5%A4%A7%E8%83%B8%E7%BE%8E%E5%A5%B3DJ%E6%89%93%E7%A2%9F%E7%8E%B0%E5%9C%BA%E8%AE%A9%E4%BD%A0%E5%97%A8%E7%BF%BB%E5%A4%A9%E6%9E%81%E5%93%81%E9%AB%98%E6%B8%85%E8%BD%A6%E8%BD%BD%E6%91%87%E5%A4%B4%E4%B8%B2%E7%83%A7by%20DJMelbourne.mp4
+泰语电音EDM,http://video.kekedj.com/2020888/20200205/%E5%A5%BD%E5%90%AC%E7%9A%84%E6%B3%B0%E8%AF%AD%E6%AD%8C%E6%9B%B2-%E5%8A%B2%E7%88%86%E7%94%B5%E9%9F%B3dj%E8%88%9E%E6%9B%B2EDM%202020-%E7%BE%8E%E5%A5%B3DJ%E7%8E%B0%E5%9C%BA%E6%89%93%E7%A2%9F%E8%A7%86%E9%A2%91.mp4
+泰国乐队现场,http://video.kekedj.com/2020888/20200205/%E8%B6%85%E7%BA%A7%E5%A5%BD%E5%90%AC%E7%9A%84%E6%B3%B0%E5%9B%BD%E6%AD%8C%E6%9B%B2-%E4%B9%90%E9%98%9F%E7%8E%B0%E5%9C%BA%E8%A1%A8%E6%BC%94.mp4
+妮玉 Kim Ny Ngoc - 好听的越南民族歌曲,http://video.kekedj.com/2020888/20200207/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2-%E9%87%91%E5%A6%AE%E7%8E%89%20Kim%20Ny%20Ngoc%20-%20%E5%A5%BD%E5%90%AC%E7%9A%84%E8%B6%8A%E5%8D%97%E6%B0%91%E6%97%8F%E6%AD%8C%E6%9B%B2-%E8%B6%85%E7%9F%AD%E8%A3%99%E7%BE%8E%E5%A5%B3%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+互相问候Hoi Tham Nhau（黎宝平）,http://video.kekedj.com/2020888/20200207/%E8%B6%8A%E5%8D%97%E6%AD%8C%E6%9B%B2-%E8%B6%8A%E5%8D%97%E9%BC%93-%E4%BA%92%E7%9B%B8%E9%97%AE%E5%80%99Hoi%20Tham%20Nhau%EF%BC%88%E9%BB%8E%E5%AE%9D%E5%B9%B3%EF%BC%89%E7%8E%B0%E5%9C%BA%E7%BE%8E%E5%A5%B3%E6%80%A7%E6%84%9F%E7%83%AD%E8%88%9E%E8%A7%86%E9%A2%91.mp4
+泳池美女-DJ何鹏-蓝琪儿VS姚大-情花朵朵开,http://111.73.46.108/video/m3u8/2020/01/18/0f3cebd3/playlist.m3u8
+泳池派对-DJ何鹏-张怡诺-老公你辛苦啦,http://111.73.46.108/video/m3u8/2020/01/20/cb10f923/playlist.m3u8
+派对-DJ笙-程响 - 不该相遇在秋天,http://111.73.46.108/video/m3u8/2020/01/20/ee5a57b8/playlist.m3u8
+比基尼美女写真 - 白头偕老 - 陈玉建&王诗,http://111.73.46.108/video/m3u8/2019/12/09/f05ec51f/playlist.m3u8
+谁的新欢不是别人的旧爱,http://111.73.46.108/video/m3u8/2020/02/02/4175896d/playlist.m3u8
+Timbaland - Carry Out,http://111.73.46.108/video/m3u8/2020/02/02/210d8c9c/playlist.m3u8
+Tiesto ft Bright Sparks -,http://111.73.46.108/video/m3u8/2020/02/02/b0bf2be1/playlist.m3u8
+Avi_DJ舞曲DVD视频 - 车展,http://111.73.46.108/video/m3u8/2020/02/02/3218a966/playlist.m3u8
+Avi_DJ舞曲DVD视频 - 车展 - 如果寂寞,http://111.73.46.108/video/m3u8/2020/02/02/83753965/playlist.m3u8
+车载欧美视频_Wale f,http://111.73.46.108/video/m3u8/2020/02/01/8bf04f6a/playlist.m3u8
+车载欧美视频_Troy Ave -,http://111.73.46.108/video/m3u8/2020/02/01/2e69d6ff/playlist.m3u8
+车载热舞湿身DJ视,http://111.73.46.108/video/m3u8/2020/02/01/47edd27f/playlist.m3u8
+Sean Paul feat. Dua Lipa,http://111.73.46.108/video/m3u8/2020/02/01/9ab390cc/playlist.m3u8
+混音版 DJ舞曲超劲爆视频,http://111.73.46.108/video/m3u8/2020/02/01/47bdc4df/playlist.m3u8
+车载欧美视频_Zara Larsso,http://111.73.46.108/video/m3u8/2020/01/31/46cabb6c/playlist.m3u8
+Yo Gotti and Mike Will M,http://111.73.46.108/video/m3u8/2020/01/31/913a9d07/playlist.m3u8
+WHYLO ft Swedish Re,http://111.73.46.108/video/m3u8/2020/01/31/9631dcf7/playlist.m3u8
+你做小三还好吗,http://111.73.46.108/video/m3u8/2020/01/31/84d670a4/playlist.m3u8
+湿身热舞DJ视频-外文慢嗨经典电音,http://111.73.46.108/video/m3u8/2020/01/30/655c119c/playlist.m3u8
+湿身DJ视频-重低音电音节奏,http://111.73.46.108/video/m3u8/2020/01/30/45a9a470/playlist.m3u8
+迷幻热舞湿身秀-湿身热舞视频小串烧DJ舞,http://111.73.46.108/video/m3u8/2020/01/30/81ff5f32/playlist.m3u8
+车载欧美视频_Yall - Together Ex,http://111.73.46.108/video/m3u8/2020/01/30/40bd0fad/playlist.m3u8
+车载欧美视频_Will Sparks ft Glo,http://111.73.46.108/video/m3u8/2020/01/30/5f3a17fa/playlist.m3u8
+车载欧美视频_Trobi ft Junglebae,http://111.73.46.108/video/m3u8/2020/01/29/1e5bc487/playlist.m3u8
+车载欧美视频_Sigala and Ella Ey,http://111.73.46.108/video/m3u8/2020/01/29/83e7659c/playlist.m3u8
+
